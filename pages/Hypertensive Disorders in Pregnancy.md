@@ -1,0 +1,3 @@
+- .> 140 mm/Hg for 2 occasions at least 2 hours
+- [[Pre-Eclampsia]]
+- [[Eclampsia]]

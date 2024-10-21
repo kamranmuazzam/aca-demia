@@ -7,7 +7,8 @@
 		- [[Differential Diagnosis of Common Complaints]]
 	- [[Surgery]]
 		- [[General Surgery]]
-			-
+	- [[Obstetrics]]
+		- [[Dutta Obs]]
 - Pre-Clinical
 	- [[Embryology]]
 		- [[The Developing Human Clinically Oriented Embryology]]

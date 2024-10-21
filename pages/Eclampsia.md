@@ -1,0 +1,34 @@
+definition:: [[Pre-Eclampsia]] when complicated with grand mal seizures (generalized tonic-clonic convulsions) and/or coma is called eclampsia
+
+- # Management
+	- Prediction and Preventions
+		- generally, it's preventable in pre-eclampsia but some cases(20-40%) occur without pre-eclamptic state
+	- Call for extra help, multiple personel are required to simultaneously manage different aspects
+	- Put the patient in bed and prevent falling to prevent injury
+	- Put the patient in left lateral recumbent position
+	- Tongue blade/mouth gag is placed between the teeth
+		- prevent aspiration
+		- vomitus and oral secretions removed by frequent suctioning
+	- Oxygenation is maintained through a face mask(8-10 L/minute) , Intubate if required
+	- Monitor Saturation with Pulse Oximetry : Arterial Blood Gas analysis is needed when $\ce{O2}$ saturation falls below 92%
+	- Fluid correction if required, $\ce{NaHCO3}$  if pH<7.1
+	- Perform cannulation at both hands to maintain two channels
+		- $\ce{MgSO4}$ in one channel
+			- Loading Dose : 4-6 g IV slow over 15-20 minute
+			- Maintenance Dose : 1-2 g/h IV infusion
+		- [[Labetalol]] in another channel
+	- Urinary Catheterization
+	- Diuretics if pulmonary edema
+	- Fluid Balance, if urine output <30 ml/hour
+	- Antibiotics to prevent secondary infection
+	- Monitor
+		- Fetal Status : Heart Rate
+		- Magnesium Toxicity
+			- Respiratory Rate : >12 breath/min
+			- Knee Jerk (Deep Tendon Reflex)
+			- Oligouria (normal : >30 ml/hour)
+	- Delivery (Obstetric Management of Eclampsia)
+		- ((671634c1-4afb-4d67-b1d2-e6166497fa8d))
+	- Follow-up and Prognosis
+		- follow up for hypertension & proteinuria by 6 weeks time in postnatal clinic
+		- if continued then further investiagation and consulation with a physician
