@@ -1,0 +1,39 @@
+definition:: Obstructed Labor is one where in spite of good uterine contractions, the progressive descent of the presenting part is arrested due to mechanical obstruction #obs-prof-card
+
+- # Causes #obs-prof-card
+	- Fault in the passage
+		- Bony : Cephalopelvic disproportion
+		- Soft tissue obstructions
+			- Cervical Dystocia due to prolapse or previous operative scarring
+			- Certical or broad ligament fibroid
+			- Impacted ovarian tumor or the nongravid horn of bicornuate uterus below the presenting part
+	- Fault in the passanger
+		- Transverse lie
+		- Brow presentation
+		- Congenital malformations of hte fetus-hydrocephalus(commonest), fetal ascites, double monsters
+		- Big baby, occipitoposterior position
+		- Compound presentation
+		- Locked twins
+- # Complications #obs-prof-card
+	- Maternal
+		- Immediate
+			- Exhaustion
+			- Dehydration
+			- Metabolic acidosis
+			- Genital sepsis
+			- Injury to the genital tract includes rupture of the uterus
+			- Postpartum hemorrhage and shock
+		- Death
+			- Rupture of Uterus
+			- Shock
+			- Sepsis with metabolic change
+		- Remote
+			- [[Genitourinary Fistula]] or [[Rectovaginal Fistula]]
+			- Variable degree of vaginal atresia
+			- Secondary amenorrhea following hysterectomy due to rupture or due to Sheehan's syndrome
+	- Fetal
+		- Asphyxia
+		- Acidosis
+		- Intracranial hemorrhage
+		- Infection
+-

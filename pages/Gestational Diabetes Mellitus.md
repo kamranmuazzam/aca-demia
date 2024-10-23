@@ -1,0 +1,36 @@
+alias:: GDM
+definition:: GDM is defined as carbohydrate intolerance of variable severity with onset or first recognition during the present pregnancy
+
+- # Complications in pregnancy #obs-prof-card
+	- Maternal
+		- During Pregnancy
+			- Abortion
+			- Preterm labor (26%)
+			- Urinary Tract Infection and vulvovaginitis
+			- Increased incidence of preeclampsia (25%)
+			- Polyhydramnios(25-50%)
+			- Maternal Distress
+			- Diabetic Retinopathy
+			- Diabetic Nephropathy
+			- Coronary Artery Disease
+			- Ketoacidosis
+		- During Labor
+			- Prolongation of labor due to big baby
+			- [[Shoulder Dystocia]]
+			- Perineal injuries
+			- Postpartum hemorrhage
+			- Operative interference
+		- Peurperium
+			- Puerperal sepsis
+			- Lactation failure
+	- Fetal
+		- Fetal macrosomia (40-50%)
+		- Congenital malformation (6-10%)
+- # Obstetric Management
+	- Time of Termination of Pregnancy #obs-prof-card
+		- Women with good glycemic control and who do not require insulin may wait for spontaneous onset of labor. However, elective delivery (induction or cesarean section) is considered in patients requiring insulin or with complications (macrosomia) at around 38 weeks
+- # Diagnosis
+	- ## Screening #obs-prof-card
+		- WHO screening method
+			- Random blood sugar, Urine for sugar, $\ce{HbA1C}$
+		- We follow [[OGTT]]

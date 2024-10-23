@@ -1,4 +1,5 @@
-- ((662a9a02-d32c-45da-a7a3-075328492a17))
+definition::
+
 - ## Presents with
 	- Slight PV bleeding browning/red usually painless (there may be mild back pain following hemorrhage)
 - ## O/E
@@ -11,7 +12,7 @@
 	- Routine (Haemogram, urine routine)
 	- Ultrasound
 - ## Treatment
-	- Rest
+	- Rest for 48 hours
 	- Analgesics
 	- Avoid strenuous activities, sexual intercourse
 	- Clinically : natural progesterone (still debatable)

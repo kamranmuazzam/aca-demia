@@ -1,9 +1,9 @@
-definition:: ((6713bc8d-10b6-4544-9313-75cc8efac4ea)) #written 
+definition:: ((6713bc8d-10b6-4544-9313-75cc8efac4ea)) #obs-prof-written 
 contrast:: [[Braxton Hicks contraction]] , not regular and without cervical change
 
 - # Normal Labor
   alias:: Eutocia
-  definition:: ((6713bd0b-6baa-41d3-a76f-a563fdc218bb)) #written
+  definition:: ((6713bd0b-6baa-41d3-a76f-a563fdc218bb)) #obs-prof-written
 - # Abnormal Labor
   alias:: Dystocia
   definition:: ((6713bd44-9e20-4f51-9adc-09a6b0baaf79))
@@ -81,11 +81,11 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 	- ## Labor Pain
 		- ### True Labor Pain
 		  id:: 67134327-4e96-4637-a126-a918578bba77
-			- ((6713bf44-e7b6-4b14-90d2-83b3d81ee3d0)) #written
+			- ((6713bf44-e7b6-4b14-90d2-83b3d81ee3d0)) #obs-prof-written
 		- ### False Labor Pain
 		  id:: 6713433b-2673-45bb-bb8f-3b5b868e6757
 			- ((6713bf5b-4eb1-4a17-8e45-033848ac8fde))
-		- ### Difference between ((67134327-4e96-4637-a126-a918578bba77)) and ((6713433b-2673-45bb-bb8f-3b5b868e6757)) #written
+		- ### Difference between ((67134327-4e96-4637-a126-a918578bba77)) and ((6713433b-2673-45bb-bb8f-3b5b868e6757)) #obs-prof-written
 			- |Traits|True Labor Pain|False Labor Pain|
 			  |--|--|--|
 			  |Site|Back & Front of the abdomen|Lower abdomen & groin|
@@ -116,10 +116,10 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 			- Cervical ripening agents
 				- [[Misoprostol]]
 				- [[Laminaria]]
-- # Lower Segement of Uterus #written 
+- # Lower Segement of Uterus #obs-prof-written 
   alias:: LS
 	- ((6713c79b-ba93-455e-af98-77ccb7eb6139))
-- # Stages of Labor #written
+- # Stages of Labor #obs-prof-written
 	- ## Stage One of Labor
 	  definition:: Closed to ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
 	  duration-Primigarvida:: 12 hours
@@ -171,11 +171,11 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 			- Per-vaginal Examination
 				- Check for per-vaginal bleeding
 - # Engagement
-  definition:: #written
-	- ## Causes of non-engaged head in a primae #written
-	- Complications if labor occurs in primae #written
+  definition:: #obs-prof-written
+	- ## Causes of non-engaged head in a primae #obs-prof-written
+	- Complications if labor occurs in primae #obs-prof-written
 - # Management
-	- ## Management of First Stage of Labor #written
+	- ## Management of First Stage of Labor #obs-prof-written
 	  collapsed:: true
 		- ### Principles
 		  collapsed:: true
@@ -256,7 +256,7 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 				- Color of the liquor
 				- Degree of molding of the head
 				- Caput formation
-	- ## Management of Second Stage of Labor #written
+	- ## Management of Second Stage of Labor #obs-prof-written
 		- ### Principle
 			- ((671499fd-6751-4332-9b99-3ef50bc95c2b))
 			  logseq.order-list-type:: number

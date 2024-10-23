@@ -424,4 +424,7 @@
  :publishing/all-pages-public? true
  :graph/settings {:builtin-pages? false
  :excluded-pages? false
- :orphan-pages? false}}
+ :orphan-pages? false}
+ :graph/forcesettings {:link-dist 130
+ :charge-strength 100
+ :charge-range 2300}}

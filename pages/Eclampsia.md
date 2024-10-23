@@ -1,6 +1,39 @@
-definition:: [[Pre-Eclampsia]] when complicated with grand mal seizures (generalized tonic-clonic convulsions) and/or coma is called eclampsia
+definition:: [[Pre-Eclampsia]] when complicated with grand mal seizures (generalized tonic-clonic convulsions) and/or coma is called eclampsia #obs-prof-card
 
+- # Stages of Ecamptic Fit
+	- # Premonitory Stage
+	  duration:: 30 seconds
+		- The patient becomes unconscious.
+		- There is twitching of the muscles of the face, tongue and limbs
+		- Eyeballs roll or are turned to one side become fixed.
+	- # Tonic Stage
+	  duration:: 30 seconds
+		- The whole body goes into a tonic spasm the trunk-opisthotonus, limbs and hands clenched.
+		- Respiration ceases and the tongue protrudes between the teetch
+		- Cyanosis appears
+		- Eyeballs become fixed
+	- # Clonic Stage
+	  duration:: 1-4 minutes
+		- All the voluntary muscles undergo alterate contraction and relaxation.
+		- The twitchings start in the face then involve one side of the extremities and ultimately the whole body is involved in the convulsion.
+		- Biting of the tongue occurs.
+		- Breathing is stertorous and blood stained frothy secretions fill the mouth; cyanosis gradually disappears.
+	- # Stage of Coma
+		- Following the fit, the patient passes on to the stage of coma.
+		- It may last for a brief period or in others deep coma persists till another convulsion.
+		- On occasion, the patient appears to be in a confused state following the fit and fails to remember the heppenings.
+		- Rarely, the coma occurs without prior convulsion
+- # Differential Diagnosis
+	- Epilepsy
+	- Encephalitis
+	- Meningitis
+	- Puerperal cerebral thrombosis
+	- Hypertensive encephalopathy
+	- Cerebral malaria in topics
+	- PRES
+	- Intracranial tumors
 - # Management
+  collapsed:: true
 	- Prediction and Preventions
 		- generally, it's preventable in pre-eclampsia but some cases(20-40%) occur without pre-eclamptic state
 	- Call for extra help, multiple personel are required to simultaneously manage different aspects

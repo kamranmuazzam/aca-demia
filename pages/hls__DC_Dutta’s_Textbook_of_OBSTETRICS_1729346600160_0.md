@@ -170,3 +170,44 @@ file-path:: ../assets/DC_Dutta’s_Textbook_of_OBSTETRICS_1729346600160_0.pdf
   id:: 671634c1-4afb-4d67-b1d2-e6166497fa8d
   hl-type:: area
   hl-stamp:: 1729508541957
+- Systematic supervision (examination and advice) of a woman during pregnancy is called antenatal (pren atal) care.
+  ls-type:: annotation
+  hl-page:: 109
+  hl-color:: yellow
+  id:: 6718c32e-2f09-4a4c-b3cc-e230529f73d7
+- [:span]
+  ls-type:: annotation
+  hl-page:: 109
+  hl-color:: yellow
+  id:: 6718c381-a0b8-42a3-9a16-2264370f77ba
+  hl-type:: area
+  hl-stamp:: 1729676160007
+- The objective is to ensure a normal pregnancy with delivery of a healthy baby from a healthy mother.
+  ls-type:: annotation
+  hl-page:: 109
+  hl-color:: yellow
+  id:: 6718c3a9-9064-49a4-828b-1f9d44e0a619
+- [:span]
+  ls-type:: annotation
+  hl-page:: 116
+  hl-color:: yellow
+  id:: 6718c46e-c6e0-47e2-a895-75bf57c0f610
+  hl-type:: area
+  hl-stamp:: 1729676397185
+- High risk pregnancy is defined as the one where pregnancy is complicated by a factor or factors that adversely affect the outcome—maternal or perinatal or both
+  ls-type:: annotation
+  hl-page:: 610
+  hl-color:: yellow
+  id:: 6718c95f-0b6b-4f7f-914f-1ed96c4f6459
+- [:span]
+  ls-type:: annotation
+  hl-page:: 611
+  hl-color:: yellow
+  id:: 6718c9cf-b713-4414-9a0f-8758a665108d
+  hl-type:: area
+  hl-stamp:: 1729677774335
+- A grand multipara relates to a pregnant mother who has got previous four or more viable births
+  ls-type:: annotation
+  hl-page:: 344
+  hl-color:: yellow
+  id:: 6718cab3-f79c-4b0c-8a70-8ab207166200
