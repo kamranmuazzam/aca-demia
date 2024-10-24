@@ -1,6 +1,6 @@
-definition:: A rise of temperature reaching 100.4 ºF (38 ºC) #pyrexia or more (measured orally) on two separate occasions at 24 hours apart (excluding first 24 hours) within first 10 days following delivery is called puerperal pyrexia. #obs-prof-card
+definition:: A rise of temperature reaching 100.4 ºF (38 ºC) #pyrexia or more (measured orally) on two separate occasions at 24 hours apart (excluding first 24 hours) within first 10 days following delivery is called puerperal pyrexia. #obspc
 
-- # Causes #obs-prof-card #reminder (might have to classify on days basis)
+- # Causes #obspc #reminder (might have to classify on days basis)
 	- Puerperal sepsis
 	- Urinary tract infections: Cystitis, Pyelonephritis
 	- Mastitis, Breast abscess
@@ -9,7 +9,7 @@ definition:: A rise of temperature reaching 100.4 ºF (38 ºC) #pyrexia or more 
 	- Septic pelvic thrombophlebitis
 	- A recrudescence of malaria or pulmonary tuberculosis
 	- Others: Pharyngitis, Gastroenteritis
-- # Complications #obs-prof-card
+- # Complications #obspc
 	- Breast engorgement
 	  logseq.order-list-type:: number
 	- Cracked and retracted nipple leading to difficulty in breastfeeding

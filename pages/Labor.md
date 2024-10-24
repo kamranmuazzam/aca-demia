@@ -1,9 +1,9 @@
-definition:: ((6713bc8d-10b6-4544-9313-75cc8efac4ea)) #obs-prof-written 
+definition:: ((6713bc8d-10b6-4544-9313-75cc8efac4ea)) #obspw 
 contrast:: [[Braxton Hicks contraction]] , not regular and without cervical change
 
-- # Normal Labor
+- # Normal Labor #card 
   alias:: Eutocia
-  definition:: ((6713bd0b-6baa-41d3-a76f-a563fdc218bb)) #obs-prof-written
+  definition:: ((6713bd0b-6baa-41d3-a76f-a563fdc218bb))  #obspw
 - # Abnormal Labor
   alias:: Dystocia
   definition:: ((6713bd44-9e20-4f51-9adc-09a6b0baaf79))
@@ -15,7 +15,7 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 		  definition:: Fetal and maternal vertical axis are perpendicular
 		- ### Oblique lie
 		  definition:: Between longitudinal and transverse
-		  ### Unstable lie
+		- ### Unstable lie
 	- ## Presentation
 		- ### Cephalic Presentation
 		  definition:: Head Presents first
@@ -81,11 +81,20 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 	- ## Labor Pain
 		- ### True Labor Pain
 		  id:: 67134327-4e96-4637-a126-a918578bba77
-			- ((6713bf44-e7b6-4b14-90d2-83b3d81ee3d0)) #obs-prof-written
+			- ((6713bf44-e7b6-4b14-90d2-83b3d81ee3d0)) #obspw
 		- ### False Labor Pain
 		  id:: 6713433b-2673-45bb-bb8f-3b5b868e6757
 			- ((6713bf5b-4eb1-4a17-8e45-033848ac8fde))
-		- ### Difference between ((67134327-4e96-4637-a126-a918578bba77)) and ((6713433b-2673-45bb-bb8f-3b5b868e6757)) #obs-prof-written
+			- # Classical Presentation #classical-presentation #obspc
+				- Near Term/Term lower abdominal Pain without show, Uterine contraction absent & os closed
+			- # Management #obspc
+				- Reassurance & mental support
+				  logseq.order-list-type:: number
+				- Clarify the nature & characteristics of actual labour pain
+				  logseq.order-list-type:: number
+				- If the patient is near term & if possible, patient should be hospitalized till term & delivery
+				  logseq.order-list-type:: number
+		- ### Difference between ((67134327-4e96-4637-a126-a918578bba77)) and ((6713433b-2673-45bb-bb8f-3b5b868e6757)) #obspw
 			- |Traits|True Labor Pain|False Labor Pain|
 			  |--|--|--|
 			  |Site|Back & Front of the abdomen|Lower abdomen & groin|
@@ -116,66 +125,15 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 			- Cervical ripening agents
 				- [[Misoprostol]]
 				- [[Laminaria]]
-- # Lower Segement of Uterus #obs-prof-written 
+- # Lower Segement of Uterus #obspw 
   alias:: LS
 	- ((6713c79b-ba93-455e-af98-77ccb7eb6139))
-- # Stages of Labor #obs-prof-written
-	- ## Stage One of Labor
-	  definition:: Closed to ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
-	  duration-Primigarvida:: 12 hours
-	  duration-Multigravida:: 6 hours
-	  start-event:: onset of true labor pain
-	  end-event:: ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
-		- ((6711eafd-a950-4149-8d0b-d4c8828ef836)) and ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
-		- ### Latent Stage One of Labor
-		  definition:: Closed to 3-4 cm dilated
-		- ### Active Stage One of Labor
-		  definition:: 3-4 cm to full dilation (dilation accelerates)
-			- Cardinal movements begin to occur
-	- ## Stage Two of Labor
-	  definition:: Full dilation to delivery of fetus
-	  duration-primigravida:: 2 hours
-	  duration-multiparae:: 30 minutes
-	  start-event:: ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
-	  end-event:: expulsion of the fetus from the birth canal
-	- ## Stage Three of Labor
-	  definition:: Delivery of fetus to delivery of placenta
-	  duration:: 15 minutes
-	  start-event:: expulsion of the fetus from the birth canal
-	  end-event:: expulsion of the placenta and membranes (afterbirths)
-		- ### Complications
-			- Postpartum hemorrhage
-			  logseq.order-list-type:: number
-			- Retention of placenta
-			  logseq.order-list-type:: number
-			- Shock - hemorrhagic or nonhemorrhagic
-			  logseq.order-list-type:: number
-			- Pulmonary embolism either by amniotic fluid or by air
-			  logseq.order-list-type:: number
-			- Uterine inversion
-			  logseq.order-list-type:: number
-			  rare:: true
-	- ## Stage Four of Labor
-	  id:: 67120339-884f-4956-b117-a92e2dcdbc38
-	  definition:: The hour following delivery
-	  duration:: 1 hour
-		- Things to Observe
-			- Vitals
-				- Pulse
-				- BP
-			- Anemia
-			- Abdominal Examination
-				- Height of Uterus
-				- Uterine Contraction
-				- Bladder Examination
-			- Per-vaginal Examination
-				- Check for per-vaginal bleeding
 - # Engagement
-  definition:: #obs-prof-written
-	- ## Causes of non-engaged head in a primae #obs-prof-written
-	- Complications if labor occurs in primae #obs-prof-written
+  definition:: #obspw
+	- ## Causes of non-engaged head in a primae #obspw
+	- Complications if labor occurs in primae #obspw
 - # Management
-	- ## Management of First Stage of Labor #obs-prof-written
+	- ## Management of First Stage of Labor #obspw
 	  collapsed:: true
 		- ### Principles
 		  collapsed:: true
@@ -256,7 +214,7 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 				- Color of the liquor
 				- Degree of molding of the head
 				- Caput formation
-	- ## Management of Second Stage of Labor #obs-prof-written
+	- ## Management of Second Stage of Labor #obspw
 		- ### Principle
 			- ((671499fd-6751-4332-9b99-3ef50bc95c2b))
 			  logseq.order-list-type:: number

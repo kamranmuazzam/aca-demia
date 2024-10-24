@@ -1,8 +1,8 @@
 alias:: CS
 
-- ## Absoulute Indication #obs-prof-card
+- ## Absoulute Indication #obspc
 	- Absolutely Contracted Uterus
-	- Central Placental Previa
+	- [[Central Placenta Praevia]]
 	- Absolute Cephalopelvic Disproportion
 	- Obstructed Labor
 	- Transverse Lie[]()

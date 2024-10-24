@@ -6,7 +6,7 @@
 	- maximum breadth at fundus : 5 cm
 	- thickness : 2.5 cm
 	- weight  : 30-40 gm
-- # Parts #obs-prof-written
+- # Parts #obspw
 	- Fundus of the uterus
 		- Isthmus of the uterus
 		- Cornu of uterus
@@ -25,7 +25,7 @@
 		- Endometrium
 		- Myometrium
 		- Perimetrius
-- # Support #obs-prof-written
+- # Support #obspw
 	- |Primary|Secondary|
 	  |--|--|
 	  |Ligaments[:br]- transverse cervical ligaments[:br]- Round ligaments of uterus[:br]- Uterosacral ligaments[:br]- Pubocervical ligamentts[:br]Muscular[:br]- Pelvic diaphragm[:br]- Perineal Body[:br]- Urogenital Diaphragm[:br]Visceral[:br]- Urinary Bladder[:br]- Rectum|Broad Ligaments[:br]Uterocesical fold of peritoneum[:br]Rectovaginal folds of peritoneum|

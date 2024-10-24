@@ -211,3 +211,49 @@ file-path:: ../assets/DC_Dutta’s_Textbook_of_OBSTETRICS_1729346600160_0.pdf
   hl-page:: 344
   hl-color:: yellow
   id:: 6718cab3-f79c-4b0c-8a70-8ab207166200
+- It is defined as bleeding from or into the genital tract after the 28th week of pregnancy but before the birth of the baby (the first and second stage of labor are thus included). 
+  ls-type:: annotation
+  hl-page:: 251
+  hl-color:: yellow
+  id:: 6719b1c0-b5eb-4f5e-b70e-13bc5a2d9efc
+- [:span]
+  ls-type:: annotation
+  hl-page:: 251
+  hl-color:: yellow
+  id:: 6719b208-4fdb-4f2d-8820-cc6beb8e32ed
+  hl-type:: area
+  hl-stamp:: 1729737223016
+- Painless and recurrent vaginal bleeding in the second half of pregnancy should be taken as placenta previa unless proved otherwise
+  ls-type:: annotation
+  hl-page:: 254
+  hl-color:: yellow
+  id:: 671a158b-14d5-41ea-bc14-924f7589074d
+- 18
+  ls-type:: annotation
+  hl-page:: 230
+  hl-color:: purple
+  id:: 671a2ef4-a4f2-4ab1-9429-6f6962be203a
+  hl-stamp:: 1729769208348
+- 19
+  ls-type:: annotation
+  hl-page:: 251
+  hl-color:: purple
+  id:: 671a2f62-866e-4f30-a251-05c2686ade76
+- PRE-ECLAMPSIA (PE)
+  ls-type:: annotation
+  hl-page:: 230
+  hl-color:: purple
+  id:: 671a2f95-31d1-4ec3-8576-8f636115a1a5
+  hl-stamp:: 1729769367914
+- ECLAMPSIA
+  ls-type:: annotation
+  hl-page:: 240
+  hl-color:: purple
+  id:: 671a2fe1-638a-434d-895f-ddf00e3932c9
+- [:span]
+  ls-type:: annotation
+  hl-page:: 611
+  hl-color:: yellow
+  id:: 671a3612-cba8-48dd-84ee-005be6ca7df2
+  hl-type:: area
+  hl-stamp:: 1729771025734

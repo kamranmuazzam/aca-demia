@@ -1,7 +1,7 @@
 alias:: Intra-Uterine Fetal Growth Retardation
-definition:: IUFGR is said to be present in those babies whose birth wegiht is below the 10th percentile of the average for the gestational age #obs-prof-card
+definition:: IUFGR is said to be present in those babies whose birth wegiht is below the 10th percentile of the average for the gestational age #obspc
 
-- # Difference between symmetrical & asymmetrical IUFGR #obs-prof-card
+- # Difference between symmetrical & asymmetrical IUFGR #obspc
 	- |Symmetric IUFGR|Asymmetrical IUFGR|
 	  |--|--|
 	  |Uniformly small|Head larger than abdomen|
@@ -10,7 +10,7 @@ definition:: IUFGR is said to be present in those babies whose birth wegiht is b
 	  |Etiology : Genetic disease or infection - (Intrinsic to fetus)|Chronic placental insufficiency - (Extrinsic to fetus)|
 	  |Total cell number - less[:br]Cell size - normal|Normal[:br]Smaller|
 	  |Neonatal course - complicated with poor prognosis|Usually uncomplicated having good prognosis|
-- # Complications #obs-prof-card
+- # Complications #obspc
 	- Fetal
 		- Antenatal
 			- Chronic fetal distress, fetal death

@@ -1,4 +1,4 @@
-- Antenatal Complications of Twin Pregnancy #obs-prof-card
+- Antenatal Complications of Twin Pregnancy #obspc
 	- ## Maternal
 		- During Pregnancy
 			- Nausea and vomiting
@@ -31,3 +31,5 @@
 		- Appearing twin
 		- Fetal anomalies are increased by 2-4%
 		- Asphyxia and childbirth are more common
+- Delivery of Second baby of twin pregnancy
+	-

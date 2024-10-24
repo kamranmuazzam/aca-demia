@@ -1,5 +1,5 @@
 alias:: Uterine Tube, Oviduct
-tags:: #obs-prof-written
+tags:: #obspw
 length:: 10 cm long
 
 - Type of Organ : muscular tubular organ
