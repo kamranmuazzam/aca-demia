@@ -5,6 +5,6 @@ alias:: CS
 	- [[Central Placenta Praevia]]
 	- Absolute Cephalopelvic Disproportion
 	- Obstructed Labor
-	- Transverse Lie[]()
+	- Transverse Lie
 	- Advanced carcinoma cervix
 	- [[Vesicovaginal Fistula Repair]]

@@ -2,3 +2,5 @@
 	- Pathological Conditions of the [[Fallopian Tube]] #obspw
 		- [[Salphingitis]]
 		- [[Ectopic Pregnancy]]
+- [[Neoplasm]]
+-

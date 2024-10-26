@@ -10,6 +10,7 @@
 	- [[Obstetrics]]
 		- [[Dutta Obs]]
 	- [[Gynaecology]]
+		- [[Dutta Gynae]]
 		-
 - Pre-Clinical
 	- [[Embryology]]
