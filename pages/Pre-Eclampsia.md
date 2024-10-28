@@ -47,6 +47,25 @@ ICD-11_Code::
 	- ### Stages or Classification
 		- Acute Fulminant Pre-Eclampsia
 		  alias:: Acute Fulminant Pre-Eclampsia, Impending Eclampsia
+			- Features #gynobs-prof-ospe
+				- Severe headache
+				- blurring of vision
+				- vomiting
+				- epigastric pain
+				- oligourea
+			- Management
+				- Principles of General Management #gynobs-prof-ospe
+					- Immediate hospitalization
+					- Prevention of convulsion/ prophylactic anticonvulsant
+					- Control of hypertension
+					- Delivery of baby
+			- Complication
+				- Maternal Complication #gynobs-prof-ospe
+					- Eclampsia
+					- Pulmonary edema
+					- Renal Failure
+					- Heart Failure
+					- DIC
 		- based-on:: gestational age
 			- Early Pre-Eclampsia
 			  time:: <34 weeks
@@ -60,20 +79,12 @@ ICD-11_Code::
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
-	- ### Laboratory Tests
-		- 24 hour Urine Protein
-		- Opthalmoscopic (in severe cases)
-			- Retinal edema
-			- Constriction of the arterioles
-			- Alteration of normal ratio of veins
-			- Hemorrhage
-		- Blood values
-			- Hematocrit
-			- Platelet Count
-			- Hepatic Enzymes
-			- Serum uric Acid
-			- Serum Creatinine
-			- Coagulation Profile
+	- ### Laboratory Tests #gynobs-prof-ospe
+		- CBC
+		- Renal Function Test/ Serum Creatinine Level
+		- Liver Function Test
+		- Platelet count/ Coagulation Profile
+		- USG
 	- ### Imaging Studies
 	- ### Differential Diagnosis
 - ## Antenatal Fetal monitoring
@@ -104,11 +115,11 @@ ICD-11_Code::
 			- [[Hydralazine]]
 		- If Systolic Blood Pressure > 150 mm Hg
 			- Diazepam & phenobarbitone prophylaxis
-	- ### Obstetric Management
+	- ### Obstetric Management #gynobs-prof-ospe
 		- BP is controlled, wait and continue until term
 		- If BP not controlled terminate pregnancy at 37 weeks
 			- if, <34 weeks : steroid
-		- If chance of delivery within 2 hours, then allow vaginal delivery otherwise [[Cesarean Section]]
+		- If chance of delivery within 2 hours, then allow vaginal delivery otherwise [[Caesarean Section]]
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course

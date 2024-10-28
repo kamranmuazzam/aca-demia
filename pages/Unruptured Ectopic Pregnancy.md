@@ -1,0 +1,21 @@
+# Diagnosis #gynobs-prof-ospe
+	- Amenorrhea
+	- Sudden lower abdominal pain
+	- Haemo dynamically stable
+	- USG reveal uterine cavity empty and an adnexal mass
+- # Investigation #gynobs-prof-ospe
+	- Serum ß-HCG
+	- Urinary Pregnancy Test
+- # Treatment
+	- ## Treatment options #gynobs-prof-ospe
+		- Expectant treatment with regular follow up
+		- Medical treatment
+		- Surgical treatment
+	- ## Medical Treatment
+		- ### Indication #gynobs-prof-ospe
+			- Patient haemodynamically stable
+			- Gestational sac size less than 3.5 cm
+			- No free fluid in pouch of Douglas
+			- No fetal cardiac activity on USG
+			- Serum ß-HCG level < 5000 mu/ml
+			- No concomitant Intrauterine Pregnancy

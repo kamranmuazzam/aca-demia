@@ -32,8 +32,11 @@
 	- ### Diagnostic Criteria
 - ## Diagnosis #obspw #unanswered
   background-color:: blue
-	- ### Clinical Diagnosis
-		- {{embed ((6a809090-cfec-499d-8a53-72733578865f))}}
+	- ### Clinical Diagnosis #gynobs-prof-ospe
+		- Lower abdominal pain
+		- Per vaginal bleeding
+		- Uterus is hard and contracted
+		- FHS is absent
 	- ### Per Vaginal Examination
 		- Placenta is not felt on lower segment
 		- Blood clots are felt
@@ -41,10 +44,15 @@
 	- ### Imaging Studies
 		- [[Abdominal Ultrasonography]] : Placenta in upper segment
 	- ### Differential Diagnosis
-- ## Management and Treatment #obspw #unanswered
+- ## Management and Treatment #obspw #unanswered #gynobs-prof-ospe
   background-color:: blue
-	- ### Medical Treatment
-	- ### Surgical Options
+	- Bishop's scoring
+		- If cervix favourable
+			- ### Medical Treatment
+				- Induction of labor by ARM and oxytocin
+		- if cervix is unfavourable
+			- ### Surgical Options
+				- [[Caesarean Section]]
 	- ### Lifestyle and Dietary Recommendations
 - ## Prognosis
   background-color:: blue
@@ -57,7 +65,9 @@
 	- ### Quality of Life Considerations
 - ## Complications #obspw #unanswered
   background-color:: blue
-	- ### Possible Complications
+	- ### Possible Complications #gynobs-prof-ospe
+		- Acute Renal Failure
+		- DIC
 	- ### Long-term Effects
 - ## Prevention
   background-color:: blue

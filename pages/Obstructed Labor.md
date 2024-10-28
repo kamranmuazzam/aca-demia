@@ -56,7 +56,7 @@ definition:: Obstructed Labor is one where in spite of good uterine contractions
 			- The baby is invariably dead in most of the neglected cases and destructive operative operation is the best choice to relieve the obstruction
 			- If the head is low down and vaginal delivery is not risky, forceps extraction may be done in a living baby
 		- Cesarean Section
-			- If the case is detected early with good fetal condition, [[Cesarean Section]] gives the best result
+			- If the case is detected early with good fetal condition, [[Caesarean Section]] gives the best result
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
@@ -109,3 +109,4 @@ definition:: Obstructed Labor is one where in spite of good uterine contractions
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
+- [[Obstructed Labor with Ruptured Uterus]]

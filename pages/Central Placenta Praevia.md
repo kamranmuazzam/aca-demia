@@ -7,4 +7,4 @@ id:: 671a12f1-f1de-46e7-9a10-3d678a1544fe
 - Management #obspw #unanswered
 	- Obstetric Management #obspw
 	  question:: important steps to be taken at the time of delivery
-		- Mode of Delivery is [[Cesarean Section]] #obspw
+		- Mode of Delivery is [[Caesarean Section]] #obspw

@@ -1,0 +1,34 @@
+# Diagnosis #gynobs-prof-ospe
+	- Short Period of amenorrhoea
+	- Lower Abdominal pain
+	- Slight Per vaginal Bleeding
+	- Fainting Attack
+	- Pulse 100 bom
+	- BP 80/60 mm Hg
+	- Anaemia ++
+	- Abdomen tense, tender distended, muscle guard
+- # Differential Diagnosis #gynobs-prof-ospe
+	- Abortion
+	- Molar Pregnancy
+	- Rupture corpus luteum cyst
+- # Investigation #gynobs-prof-ospe
+	- USG of lower abdomen
+	- Urine for Pregnancy Test
+	- Serum ß-HCG
+- # Management
+	- ## Principle #gynobs-prof-ospe
+		- Resuscitation and arrangement for laparotomy should be done simultaneously
+	- ## Actual Management #gynobs-prof-ospe
+		- Hospitalization
+		- Resuscitation & Preparation of laporatomy
+		- IV infusion & Blood transfusion
+		- NPO
+		- Injectable antibiotic
+		- Catheteerization
+- # Treatment
+	- # DefinitiveTreatment #gynobs-prof-ospe
+		- Laparotomy followed by unilateral Salpingectomy/Salphingostomy of the ruptured tube
+		- Laporatomy/Laparoscopy followed by
+			- salpingectomy
+			- salpingotomy
+			- salingostomy

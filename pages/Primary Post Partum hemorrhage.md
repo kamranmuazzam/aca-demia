@@ -1,0 +1,18 @@
+- Six vital signs to check #gynobs-prof-ospe
+	- Level of consciousness
+	- Airway/Breathing/ Respiratory Rate
+	- Pulse
+	- Blood Pressure
+	- Anaemia/Pallor
+	- Urine Output
+- Steps of 1st Line Management #gynobs-prof-ospe
+	- Call for help
+	- Palpate the uterus & Provide uterine massage
+	- Open I/V channel with 2 wide bore cannula
+	- Collect blood for Blood grouping & Rh typing & cross matching
+	- Start rapid I/V infusion with normal saline/ Hartman saline
+	- Do urinary catheterization
+	- Use uterotonic drugs
+	- Perform bed side coagulation tests
+	- Proceed to definitive management
+-

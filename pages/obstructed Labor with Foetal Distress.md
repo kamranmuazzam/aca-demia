@@ -1,0 +1,17 @@
+# Cause #gynobs-prof-ospe
+	- Problem in the passage
+		- contracted pelvis
+		- CPD
+	- Problem in the passenger
+		- Big baby (macrosomia)
+- # Treatment #gynobs-prof-ospe
+	- Immedaite resuscitation
+		- NPO
+		- IV fluid, correction of dehydration
+		- IV nutrition therapy (IVNT)
+	- Emergency caesarean section
+- # Untreated Complications #gynobs-prof-ospe
+	- Ruptured Uterus
+	- PPH
+	- Puerperal sepsis
+	- VVF

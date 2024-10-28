@@ -1,0 +1,15 @@
+- Reason for the condition : Due to failure of fusion of Müllerian ducts #gynobs-prof-ospe
+- # Diagnosis #gynobs-prof-ospe
+	- USG
+	- Hysterosalpingography
+	- MRI
+	- Hysteroscopy
+	- Laparoscopy
+- # Complications #gynobs-prof-ospe
+	- Midtrimester abortion which may be recurrent
+	- Rudimentary horn pregnancy or Cornual pregnancy
+	- Cervical incompetence
+	- Malpresentation
+	- Preterm labor
+	- [[IUFGR]]
+	- [[IUD]]

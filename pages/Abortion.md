@@ -41,7 +41,8 @@
 	- ### Anatomical Abnormalities
 		- [[Cervical Incompitance]]
 		- Miillarian fusion defect
-			- Bicornuate uterus
+			- [[Bicornuate uterus]]
+				-
 			- Septate Uterus
 		- Uterine syncae
 		- Uterine Fibroid
