@@ -1,0 +1,5 @@
+- 2 keypad : 660
+- ESP 32 : 1000
+- 2 Buzzer : 50
+- Servo Motor : 300
+- Locking Apparatus : 100

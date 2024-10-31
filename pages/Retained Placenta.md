@@ -1,0 +1,14 @@
+definition:: #obs-prof-written
+
+- Causes #obs-prof-written
+- Diagnosis #obs-prof-written
+- Treatment #obs-prof-written
+- Management #obs-prof-written
+- Presentation #obs-prof-written
+	- recent delivery
+	- placenta not delivered
+	- pulse raised
+	- BP low
+	- PV bleeding more than average
+- Evaluation #obs-prof-written #unanswered
+-

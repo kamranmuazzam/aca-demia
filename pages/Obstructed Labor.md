@@ -52,7 +52,7 @@ definition:: Obstructed Labor is one where in spite of good uterine contractions
 		- Antibiotic: [[ceftriaxone]] 1 g IV is administered
 		- IV infusion, [[metronidazole]] is given for anaerobic infection
 	- ### Obstetric management
-		- Vaginal Delivery
+		- [[Vaginal Delivery]]
 			- The baby is invariably dead in most of the neglected cases and destructive operative operation is the best choice to relieve the obstruction
 			- If the head is low down and vaginal delivery is not risky, forceps extraction may be done in a living baby
 		- Cesarean Section

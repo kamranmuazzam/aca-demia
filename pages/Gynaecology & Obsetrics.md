@@ -1,10 +1,19 @@
 - [[Gynaecology]]
 - [[Obstetrics]]
--
-- Resources
-	- {{video https://www.youtube.com/playlist?list=PL8JA5L0bjx5P9nWtTpHiZxy1hLK3hZg4Q}}
-	- {{video https://www.youtube.com/playlist?list=PL8JA5L0bjx5PYYMMEQMWO6bdYnclP6GJT}}
-	- {{video https://www.youtube.com/playlist?list=PL8JA5L0bjx5MQv0RP06GYnstdn9d7WWxi}}
-	- {{video https://www.youtube.com/playlist?list=PL8JA5L0bjx5M8qawVHWDcm9Iyje85ze_4}}
-	-
+- classes
+	- [[Normal Labor]]
+	- [[Post Menopausal Bleeding]]
+	- [[Hypertensive Disorders in Pregnancy]]
+	- [[Cervical Carcinoma]] & [[CIN]]
+	- [[APH]]
+	- [[AUB]]
+	- [[Puerperium]]
+	- [[Diabetes in Pregnancy]]
+	- [[Abortion]], [[Ectopic Pregnancy]], [[Molar Pregnancy]]
+	- [[Antenatal Care]]
+	- [[Genital Prolapse]]
+	- [[Preterm Labor]]
+	- [[PROM]]
+- Councelling
+	- [[Counseling for Tubal Ligation]]
 	-

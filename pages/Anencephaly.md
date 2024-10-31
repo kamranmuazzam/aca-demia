@@ -6,7 +6,7 @@ tags:: #prof-ospe-specimen
 	- Elevated Maternal Serum AFP
 	- USG
 - # Complications #gynobs-prof-ospe
-	- [[polyhydramnios]]
+	- [[Polyhydramnios]]
 	- Malpresentation
 	- Tendency of postmaturity
 	- Shoulder dystocia
