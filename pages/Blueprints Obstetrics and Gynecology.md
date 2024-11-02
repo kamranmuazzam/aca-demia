@@ -1,0 +1,1 @@
+- ![Blueprints Obstetrics and Gynecology.pdf](../assets/Blueprints_Obstetrics_and_Gynecology_1730589274618_0.pdf)
