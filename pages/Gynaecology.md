@@ -1,4 +1,15 @@
 - [[Mentruation]]
 - [[Fibroid Uterus]]
 - [[Abnormal Uterine Bleeding]]
--
+- [[Cancers in Gynaecology]]
+- [[Vaccinations in Gyanaecology]]
+- SOE
+	- LATER 1
+	- LATER 2
+	- LATER 3
+	- LATER 4
+	- LATER 6
+	- LATER 7
+	- LATER 8
+	- LATER 9
+	- LATER 10

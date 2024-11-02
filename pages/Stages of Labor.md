@@ -2,10 +2,11 @@ tags:: #obspw #obspc
 
 - # Stage One of Labor
   definition:: Closed to ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
-  duration-Primigarvida:: 12 hours
-  duration-Multigravida:: 6 hours
+  duration-primigarvida:: 12 hours
+  duration-multigravida:: 6 hours
   start-event:: onset of true labor pain
   end-event:: ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
+  id:: 6711ec95-ab78-44a9-97ff-cb303010369c
 	- ((6711eafd-a950-4149-8d0b-d4c8828ef836)) and ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
 	- ### Latent Stage One of Labor
 	  definition:: Closed to 3-4 cm dilated

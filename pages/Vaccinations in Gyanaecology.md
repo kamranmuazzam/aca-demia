@@ -1,0 +1,8 @@
+- HPV: 3 dose series age 12-26
+- Influenza: annual
+- Pneumovax: 1 dose and 1 booster any age if risk factors. After age 65 if no risk factors
+- Shingles: 2 dose age 50+
+- Hep B: initial vaccination in youth, vaccination for anyone non-immune
+- MMR: if not immune
+- Varicella: if not immune
+- Tdap: Booster at 10yrs, new parents

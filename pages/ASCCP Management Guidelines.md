@@ -1,0 +1,1 @@
+- ![ASCCP Management Guidelines_August 2014.pdf](../assets/ASCCP_Management_Guidelines_August_2014_1730369900999_0.pdf)

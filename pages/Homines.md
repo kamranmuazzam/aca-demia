@@ -62,6 +62,8 @@
 		- The alteration of motion is ever proportional to the unbalanced force impressed; and is made in the direction of the right line in which that force is impressed.
 	- `Actioni contrariam semper et æqualem esse reactionem: sive corporum duorum actiones in se mutuo semper esse æquales et in partes contrarias dirigi.`
 		- To every action there is always opposed an equal reaction; or the mutual actions of two bodies upon each other are always equal, and directed to contrary parts.
+- Sir William Osler
+	- `Ask not what disease the person has, but rather what person the disease has.`
 - Thomas Sowell
 	- American Economist
 	- `There are no solutions; there are only trade-offs`

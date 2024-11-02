@@ -49,6 +49,7 @@ tags:: #prof-ospe-specimen
 		- Uraemia
 		- Hydronephrosis due to ureteric obstruction
 - # Preventive Measures  #gynobs-prof-ospe
-	- Screening
+	- ## Screening
+		- refer to [[ASCCP Management Guidelines]]
 	- HPV vaccination
 	- Avoidance of risk factors
