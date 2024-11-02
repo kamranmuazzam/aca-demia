@@ -1,0 +1,11 @@
+# Classical Presenation #gyn-prof-card
+	- Post pubescent
+	- Primary Amenorrhea
+	- Cyclic Lower Abdominal Pain
+- Diagnosis : Cryptomenorrhoea due to imperforate hymen #gyn-prof-card
+- # Confirmation of Diagnosis #gyn-prof-card
+	- Ultrasonography
+- # Management #gyn-prof-card
+	- Cruciate incision is made in the hymen. The quadrants of the hymen are partially excised not too close to the vaginal mucous.
+	- Bed Rest with Head raised
+	- Antibiotics

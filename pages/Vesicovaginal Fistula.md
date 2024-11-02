@@ -1,1 +1,28 @@
-- [[Vesicovaginal Fistula Repair]]
+alias:: VVF
+
+- # Classical Presentation #gyn-prof-card
+	- Continuous Leakage of Urine
+	- Previous Difficult Vaginal Delivery
+	- ## Diagnosis
+		- Urogenital Fistula Probably due to Vesicovaginal Fistual
+- # Confirmation #gyn-prof-card
+	- Examination Under Anesthesia
+	- Dye Test
+	- Metal catheter enters the vagina
+	- [[Three-swab test]]
+- # Treatment #gyn-prof-card
+	- ## Surgery / [[Vesicovaginal Fistula Repair]]
+		- Vaginal route
+			- Flap splitting method (local repair)
+			- Saucerization
+			- Colpclesis
+				- Partial
+				- Total
+		- Repair by graft
+			- Vulval fat pad graft
+			- Gracilis muscle graft
+			- Omentum graft
+		- Abdominal route
+			- Transvesical
+			- Transperitoneal
+			- Combined

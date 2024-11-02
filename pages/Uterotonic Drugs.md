@@ -1,4 +1,4 @@
-- Names #gynobs-prof-ospe
+- Names #obGyn-prof-OSPE
 	- Inj. [[Oxytocin]]
 	  logseq.order-list-type:: number
 	- Tab. [[Misoprostol]]

@@ -1,4 +1,4 @@
-- [[Gynaecology]]
+- [[Gynecology]]
 - [[Obstetrics]]
 - classes
 	- [[Normal Labor]]

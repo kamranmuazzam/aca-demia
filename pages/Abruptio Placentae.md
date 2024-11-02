@@ -32,7 +32,7 @@
 	- ### Diagnostic Criteria
 - ## Diagnosis #obspw #unanswered
   background-color:: blue
-	- ### Clinical Diagnosis #gynobs-prof-ospe
+	- ### Clinical Diagnosis #obGyn-prof-OSPE
 		- Lower abdominal pain
 		- Per vaginal bleeding
 		- Uterus is hard and contracted
@@ -44,7 +44,7 @@
 	- ### Imaging Studies
 		- [[Abdominal Ultrasonography]] : Placenta in upper segment
 	- ### Differential Diagnosis
-- ## Management and Treatment #obspw #unanswered #gynobs-prof-ospe
+- ## Management and Treatment #obspw #unanswered #obGyn-prof-OSPE
   background-color:: blue
 	- Bishop's scoring
 		- If cervix favourable
@@ -65,7 +65,7 @@
 	- ### Quality of Life Considerations
 - ## Complications #obspw #unanswered
   background-color:: blue
-	- ### Possible Complications #gynobs-prof-ospe
+	- ### Possible Complications #obGyn-prof-OSPE
 		- Acute Renal Failure
 		- DIC
 	- ### Long-term Effects

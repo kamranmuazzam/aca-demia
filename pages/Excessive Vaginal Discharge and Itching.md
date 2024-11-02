@@ -1,18 +1,18 @@
-# Diagnosis #gynobs-prof-ospe
+# Diagnosis #obGyn-prof-OSPE
 	- [[Cadidiasis]]
 	- [[Trichomoniasis]]
 - Types of Vaginal Discharge
 	- Curdy white discharge : [[Cadidiasis]]
 	- Frothy mucoid discharge : [[Trichomoniasis]]
-- # Risk Factors #gynobs-prof-ospe
+- # Risk Factors #obGyn-prof-OSPE
 	- Diabetes
 	- Pregnancy
 	- Intake of OCP
 	- Immunocompromised patient
-- # Medical Treatment #gynobs-prof-ospe
+- # Medical Treatment #obGyn-prof-OSPE
 	- [[Candidiasis]] : [[Fluconazole]] , [[Ketoconazole]]
 	- [[Trichomoniasis]] : [[Metronidazole]] along with partner
-- # Advice #gynobs-prof-ospe
+- # Advice #obGyn-prof-OSPE
 	- To maintain personal hygine
 	- To control Diabetes, if present
 	- To change the contraceptive if she is on OCP

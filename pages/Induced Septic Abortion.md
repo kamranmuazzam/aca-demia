@@ -1,11 +1,11 @@
-# Investigation #gynobs-prof-ospe
+# Investigation #obGyn-prof-OSPE
 	- CMC, blood grouping and cross matching
 		- S. creatinine
 		- S. Electrolyte
 	- HVS for A/C
 	- Urine R/M/E & C/S
 	- USG of lower abdomen
-- # Complications #gynobs-prof-ospe
+- # Complications #obGyn-prof-OSPE
 	- Haemorrhage
 	- Peritonitis of uterus
 	- Perforation of uterus/gut

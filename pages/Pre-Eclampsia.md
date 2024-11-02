@@ -47,20 +47,20 @@ ICD-11_Code::
 	- ### Stages or Classification
 		- Acute Fulminant Pre-Eclampsia
 		  alias:: Acute Fulminant Pre-Eclampsia, Impending Eclampsia
-			- Features #gynobs-prof-ospe
+			- Features #obGyn-prof-OSPE
 				- Severe headache
 				- blurring of vision
 				- vomiting
 				- epigastric pain
 				- oligourea
 			- Management
-				- Principles of General Management #gynobs-prof-ospe
+				- Principles of General Management #obGyn-prof-OSPE
 					- Immediate hospitalization
 					- Prevention of convulsion/ prophylactic anticonvulsant
 					- Control of hypertension
 					- Delivery of baby
 			- Complication
-				- Maternal Complication #gynobs-prof-ospe
+				- Maternal Complication #obGyn-prof-OSPE
 					- Eclampsia
 					- Pulmonary edema
 					- Renal Failure
@@ -79,7 +79,7 @@ ICD-11_Code::
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
-	- ### Laboratory Tests #gynobs-prof-ospe
+	- ### Laboratory Tests #obGyn-prof-OSPE
 		- CBC
 		- Renal Function Test/ Serum Creatinine Level
 		- Liver Function Test
@@ -115,7 +115,7 @@ ICD-11_Code::
 			- [[Hydralazine]]
 		- If Systolic Blood Pressure > 150 mm Hg
 			- Diazepam & phenobarbitone prophylaxis
-	- ### Obstetric Management #gynobs-prof-ospe
+	- ### Obstetric Management #obGyn-prof-OSPE
 		- BP is controlled, wait and continue until term
 		- If BP not controlled terminate pregnancy at 37 weeks
 			- if, <34 weeks : steroid

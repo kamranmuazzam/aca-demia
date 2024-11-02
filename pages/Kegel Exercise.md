@@ -1,0 +1,3 @@
+- Pelvic floor exercises in an attempt to strengthen the muscles
+- Kegel Exercises consist of lifting and holding and then relaxing the pelvic floor muscles
+- Start by doing a small number of exercise (lifts/squeezes, holds, and relaxes) over a short period of time, then gradually increase both the length of time and the number of exercises you are doing in each 'session' (which is called a set). You should perform at least two sets of the exercises a day.

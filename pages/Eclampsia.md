@@ -50,10 +50,16 @@ ICD-11_Code::
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
+		- #### Classical Presentation
+			- Near Term, Term
+			- Repeated Convulsions
+			- BP raised significantly
+			- Urine albumin +++
+		- #### Probable Diagnosis
+			- nth Gravid at 36 weeks of pregnancy with Eclampsia
 	- ### Laboratory Tests
 	- ### Imaging Studies
-	- ### Differential Diagnosis
-	  collapsed:: true
+	- ### Differential Diagnosis #18obGyn
 		- Epilepsy
 		- Encephalitis
 		- Meningitis
@@ -62,14 +68,16 @@ ICD-11_Code::
 		- Cerebral malaria in topics
 		- PRES
 		- Intracranial tumors
+	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
-	- ### Principle of Management #gynobs-prof-ospe
+	- ### Principle of Management #obGyn-prof-OSPE #18obGyn
 		- General nursing Care
-		- Control of convuslion : Injection Magnesium Sulphate #gynobs-prof-ospe
+		- Control of convuslion : Injection Magnesium Sulphate #obGyn-prof-OSPE
 		- Obstetric management
 		- Management of complications
 	- ### Emergency Management
+	  collapsed:: true
 		- Call for extra help, multiple personel are required to simultaneously manage different aspects
 		- Put the patient in bed and prevent falling to prevent injury
 		- Put the patient in left lateral recumbent position
@@ -94,26 +102,27 @@ ICD-11_Code::
 		- Delivery (Obstetric Management of Eclampsia)
 			- ((671634c1-4afb-4d67-b1d2-e6166497fa8d))
 	- ### Drugs
+	  collapsed:: true
 		- Magnesium Sulphate
-			- Dosage #gynobs-prof-ospe
+			- Dosage #obGyn-prof-OSPE
 				- Loading Dose : 10 gm
 					- 4 gm (8 ml) diluted with 12 ml distilled water slow I/V
 					- 3 gm I/M in each buttock (total 6 gm)
 				- Maintainance Dose
 					- 2.5 gm I/M 4 hourly in alternate buttock for 24 hours from the delivery or last convulsion which ever is last
-			- Magnesium Toxicity #gynobs-prof-ospe
+			- Magnesium Toxicity #obGyn-prof-OSPE
 			  id:: 671631f9-3f4a-4e5a-9a64-5af96c5b26d0
 				- Respiratory Rate : >12 breath/min
 				- Knee Jerk (Deep Tendon Reflex)
 				- Oligouria (normal : >30 ml/hour)
-	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
+	- ### Follow-up
+		- check hypertension & proteinuria by 6 weeks time in postnatal clinic
+		- if continued then further investigation and consultation with a [[Primary Care Physician]]
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
 		- #### With Treatment
-			- follow up for hypertension & proteinuria by 6 weeks time in postnatal clinic
-			- if continued then further investiagation and consulation with a physician
 		- #### Without Treatment
 	- ### Survival Rates
 		- #### With Treatment

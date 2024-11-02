@@ -269,3 +269,10 @@ file-path:: ../assets/DC_Dutta’s_Textbook_of_OBSTETRICS_1729346600160_0.pdf
   id:: 6720c328-91c5-4081-97ca-65e646bd2f9a
   hl-type:: area
   hl-stamp:: 1730200359478
+- [:span]
+  ls-type:: annotation
+  hl-page:: 71
+  hl-color:: yellow
+  id:: 6726a533-7512-4239-adde-5c15456a70a0
+  hl-type:: area
+  hl-stamp:: 1730585905735

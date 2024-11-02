@@ -1,25 +1,25 @@
 tags:: #prof-ospe-specimen
 
-- # Presenting Complaints  #gynobs-prof-ospe
+- # Presenting Complaints  #obGyn-prof-OSPE
 	- Menorrhagia
-	  commonest symptom:: #gynobs-prof-ospe
+	  commonest symptom:: #obGyn-prof-OSPE
 	- Dysmenorrhea
 	- Lump in the lower abdomen
 - # Management
-	- If no prolongation of family -> Total abdominal hysterectomy with bilateral salphigo-oophorectomy #gynobs-prof-ospe
-		- Indication #gynobs-prof-ospe
+	- If no prolongation of family -> Total abdominal hysterectomy with bilateral salphigo-oophorectomy #obGyn-prof-OSPE
+		- Indication #obGyn-prof-OSPE
 			- Age ≥ 45 years
 			- Family completed
 			- Multiple fibroid with increased size of uterus
 - # Complications
-	- ## Untreated #gynobs-prof-ospe
+	- ## Untreated #obGyn-prof-OSPE
 		- Degeneration
 		- Anaemia
 		- Complications of pregnancy
 		- Necrosis
 		- Infection
 		- Sarcomatous change
-	- ## Effects of this condition on pregnancy #gynobs-prof-ospe
+	- ## Effects of this condition on pregnancy #obGyn-prof-OSPE
 		- Infertility
 		- Abortion
 		- Malresentation

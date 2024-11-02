@@ -1,9 +1,8 @@
 tags:: #prof-ospe-specimen
 source:: Chapter ((6720959b-f113-421a-ad2f-53a16ee2ada1)) [[Dutta Obs]]
 
-- normal location : Usually attached to the upper part of the body of the uterus #gynobs-prof-ospe
-- # Components #obs-prof-written
-  collapsed:: true
+- normal location : Usually attached to the upper part of the body of the uterus #obGyn-prof-OSPE
+- # Components #obs-prof-written #18obGyn
 	- Fetal Surface of Placenta
 	  alias:: Chorionic Plate
 	  id:: 6720956a-88ee-4065-9540-d90dd70e07bb
@@ -49,7 +48,7 @@ source:: Chapter ((6720959b-f113-421a-ad2f-53a16ee2ada1)) [[Dutta Obs]]
 		- Peripherally, the ((6720956a-88ee-4065-9540-d90dd70e07bb)) and ((67209f3f-5fdf-4fa5-ae57-3d0ad54b82f9)) fuse together
 	- Attachment
 		- attached to the upper part of the body of the uterus
-- # Functions #obs-prof-written #unanswered
+- # Functions #obs-prof-written #18obGyn #unanswered
 	- Respiratory Function
 	- Excretory Function
 	- Nutritive Function
@@ -64,16 +63,16 @@ source:: Chapter ((6720959b-f113-421a-ad2f-53a16ee2ada1)) [[Dutta Obs]]
 - # Placental Circulation #obs-prof-written #unanswered
 	-
 - [[Placental barrier]]
-- Importance of examination of it after delivery #gynobs-prof-ospe
+- Importance of examination of it after delivery #obGyn-prof-OSPE
 	- fragments left in the uterus can cause hemorrhage or infection later
 	- to exclude missing cotyledons
 	  logseq.order-list-type:: number
 	- To exclude exclude accessory lobes
 	  logseq.order-list-type:: number
-- Causes of bleeding related to placenta during pregnancy #gynobs-prof-ospe
+- Causes of bleeding related to placenta during pregnancy #obGyn-prof-OSPE
 	- [[APH]] due to [[Placenta Praevia]]
 	- [[Abruptio Placentae]]
-- # Complications #gynobs-prof-ospe
+- # Complications #obGyn-prof-OSPE
 	- [[Post Partum Hemorrhage]] due to retained placenta
 - [[Retained Placenta]]
 - # Clinical Importance of Placenta in relation to APH and PPH #obs-prof-written #unanswered

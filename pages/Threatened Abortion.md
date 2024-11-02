@@ -1,18 +1,24 @@
-definition::
+definition:: It is a clinical entity where the process of miscarriage has started but has not progressed to a state fro which recovery is impossible. #gyn-prof-card
 
-- ## Presents with
+- ## Presents with #gyn-prof-card
 	- Slight PV bleeding browning/red usually painless (there may be mild back pain following hemorrhage)
-- ## O/E
+- ## O/E #gyn-prof-card
 	- Soft uterus that corresponds to the gestational age
 	- bleeding from external os
 	- Closed cervix
-- ## Differential Diagnosis
+- # Differential Diagnosis
 	- Cervical Polyp
-- ## Investigations
-	- Routine (Haemogram, urine routine)
-	- Ultrasound
-- ## Treatment
+- # Investigations #gyn-prof-card
+	- Routine
+		- Blood for hemoglobin, hematocrit, Blood grouping and Rh typing
+	- Ultrasonography TVS
+	- Serum progesterone ≥ 25 ng/ml
+	- Serial serum hCG level is helful to assess the fetal well-being
+- # Treatment #gyn-prof-card
 	- Rest for 48 hours
 	- Analgesics
-	- Avoid strenuous activities, sexual intercourse
+		- Diazepam 5 mg tablet twice daily to relief pain
+	- Avoid strenuous activities, sexual intercourse for 2 weeks
 	- Clinically : natural progesterone (still debatable)
+- # Prognosis #gyn-prof-card
+	- Sonography at 3-4 weeks time

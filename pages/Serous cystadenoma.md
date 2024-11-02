@@ -1,6 +1,6 @@
 tags:: #prof-ospe-specimen
 
-- Characteristic Features #gynobs-prof-ospe
+- Characteristic Features #obGyn-prof-OSPE
 	- Smooth shiny surface
 	- Thin walled/transparent
 	- Contains clear fluid

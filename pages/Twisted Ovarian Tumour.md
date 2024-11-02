@@ -1,15 +1,15 @@
-# Presentation #gynobs-prof-ospe
+# Presentation #obGyn-prof-OSPE
 	- lower abdominal pain
 	- vomiting
 	- tended cystic lump in lower abdomen
-- # Differential Diagnosis #gynobs-prof-ospe
+- # Differential Diagnosis #obGyn-prof-OSPE
 	- Torsion of subserous fibroid
 	- Degeneration of fibroid
 	- Cryptomenorrhoea
 	- Acute retention of urine
-- # Investigation #gynobs-prof-ospe
+- # Investigation #obGyn-prof-OSPE
 	- USG of ower abdomen / uterus and adnexae
-- # Steps of initial management #gynobs-prof-ospe
+- # Steps of initial management #obGyn-prof-OSPE
 	- Immedaite hospitalization
 	- Counselling
 	- NPO
@@ -17,6 +17,6 @@
 	- Analgesic
 	- Blood for grouping and cross matching
 	- Preparation for lapaotomy
-- # Definitive Management #gynobs-prof-ospe
+- # Definitive Management #obGyn-prof-OSPE
 	- Ovarian cystectomy
 	- Unilateral salpingo-oophorectomy

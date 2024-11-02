@@ -1,3 +1,6 @@
+alias:: Cerclage Operation
+tags:: #gyn-prof-card
+
 - Two types of cerclage operation
 	- Shirodkar (1955) and
 	  logseq.order-list-type:: number

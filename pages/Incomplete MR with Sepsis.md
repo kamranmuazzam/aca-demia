@@ -1,0 +1,15 @@
+# Classical Presentation #gyn-prof-card
+	- Recent [[MR]]
+	- Lower abdominal pain
+	- irregular pervaginal bleeding
+	- Foul smelling vaginal discharge
+- # Investigation #gyn-prof-card
+	- Blood : Hemoglobin Percentage, Blood Grouping & Rh typing
+	- Urine RME
+	- High Vaginal Swab for C/S
+	- USG of abdomen & pelvis
+- # Management #gyn-prof-card
+	- Re-evacuating the uterus with vaccum aspiration
+	- Appropriate antibiotic to prevent infection
+	- Analgesics
+	- Advice on discharge

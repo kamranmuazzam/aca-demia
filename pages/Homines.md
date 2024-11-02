@@ -38,6 +38,7 @@
 - Namira Yamin Ylma
 	- `Manush bodlayena`
 	- `Dudh vaat kahini`
+	- `Jeita bhabhbo ashbena, oitai ashbe`
 - Paul Elrich
 	- invented salvarsan
 		- against syphilis

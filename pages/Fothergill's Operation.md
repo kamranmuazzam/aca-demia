@@ -1,0 +1,6 @@
+- Composite Steps
+	- Preliminary [[D & C]]
+	- Amputation of cervix
+	- Plication of Mackenrodt's ligaments in front of cervix
+	- Anteior colporrhaphy
+	- Colpoperineorrhaphy

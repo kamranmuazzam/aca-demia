@@ -27,14 +27,18 @@
 	- ## Diagnosis
 	  background-color:: blue
 		- ### Clinical Diagnosis
+			- #### Classical Presentation
+			- #### Probable Diagnosis
 		- ### Laboratory Tests
 		- ### Imaging Studies
 		- ### Differential Diagnosis
+		- ### Confirmation of Diagnosis
 	- ## Management and Treatment
 	  background-color:: blue
 		- ### Medical Treatment
 		- ### Surgical Options
 		- ### Lifestyle and Dietary Recommendations
+		- ### Follow-up
 	- ## Prognosis
 	  background-color:: blue
 		- ### Expected Course

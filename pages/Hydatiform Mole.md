@@ -10,19 +10,19 @@ tags:: #prof-ospe-specimen
 	- ((662bfc0b-a232-4317-846b-a2a04da8cad6))
 - Clinical Features
 	- ((662bfd70-b086-4c33-9cb7-e9de7af01e16))
-- # Clinical Presentation #gynobs-prof-ospe
+- # Clinical Presentation #obGyn-prof-OSPE
 	- Short history of amenorrhoea
 	- Exacerbated Signs & Symptoms of Pregnancy
 	- P/V bleeding
 	- Passage of vesicle like structure P/V
-- # Investigations #gynobs-prof-ospe
+- # Investigations #obGyn-prof-OSPE
 	- USG of lower abdomen
 	- Serum ß-HCG
 - Differential Diagnosis
 	- Threatened abortion
 	- Fibroid or ovarian tumor with pregnancy
 	- Multiple pregnancy
-- # Complication #gynobs-prof-ospe
+- # Complication #obGyn-prof-OSPE
 	- Immedaite
 		- Hemorrhage and shock
 		  background-color:: yellow
@@ -42,17 +42,18 @@ tags:: #prof-ospe-specimen
 	- Evaculation & Curettage
 		- Disadvantage : If there is solid, there is risk of perforation
 - Principles in the management
-	- Definitive Treatment #gynobs-prof-ospe
+	- Definitive Treatment #obGyn-prof-OSPE
 		- Suction Evacuation
 	- Supportive Therapy
-	- Counseling for regular follow up
+	- Follow-up Regime #gyn-prof-card
 		- Advice
-			- avoid pregnancy / barrier method or OCP
-				- Reason : BHCG cannot be differentiated from remnant of molar pregnancy or due to new pregnancy
+			- avoid pregnancy / barrier method or OCP in the period of follow-up
+			  reason:: BHCG cannot be differentiated from remnant of molar pregnancy or due to new pregnancy
 		- Follow up
-			- duration : 1 year #gynobs-prof-ospe
+			- duration : 1 year #obGyn-prof-OSPE
+				- additional : 1 year, after treatment of choriocarcinoma
 			- Choriocarcinoma progression
-				- beta HCG  #gynobs-prof-ospe
+				- Serum ß-HCG (also urine ß-HCG)  #obGyn-prof-OSPE
 					- Every week until 3 consecutive negative BHCG (within 6-8 weeks)
 					- Monthly, for next 6 months (1 year)
 					- 3 Monthly, for next 6 months

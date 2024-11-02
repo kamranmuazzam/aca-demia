@@ -73,13 +73,34 @@ ICD-11_Code::
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
+		- #### Classical Presentation #classical-presentation #gyn-prof-card
+			- Progressive menorrhagia
+			- lump in lower abdomen
+	- ### Confirmation of Diagnosis #gyn-prof-card
+		- Biopsy and Histopathology
 	- ### Laboratory Tests
 	- ### Imaging Studies
 	- ### Differential Diagnosis
-- ## Management and Treatment
+- ## Management and Treatment #gyn-prof-card
   background-color:: blue
 	- ### Medical Treatment
+	  goal:: minimize blood loss
+		- Antiprogesterones (Mifepristone)
+		- Antigoandotropins : Danazol, gestrinone
+		- GnRH analogs
+			- Agonists
+			- Antagonists
+		- LNG-IUS
+		- Combined oral contraceptives
+		- Prostaglandin synthetase inhibitors
+		- Selective progesterone receptor modulators
 	- ### Surgical Options
+		- Family complete : Hysterectomy
+		- Family incomplete : Myomectomy open, Laparoscopy or Hysteroscopy
+		- Embolotherapy
+		- Laparoscopic uterine artery ligation
+		- Myolysis
+		- Endometrial ablation
 	- ### Lifestyle and Dietary Recommendations
 - ## Prognosis
   background-color:: blue

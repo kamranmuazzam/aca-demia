@@ -1,4 +1,20 @@
-- ((662c041d-dbbd-4118-a60c-f3fbd1ad7e37))
+definition:: An ectopic pregnancy is one in which the fertilized ovum is implanted and develops outside the normal endometrial cavity #gyn-prof-card
+
+- # Etiology
+	-
+	- ## Risk Factors #gyn-prof-card
+		- History of pelvic inflammatory disease (PID)
+		- History of tubal ligation
+		- Contraception failure
+		- Previous ectopic pregnancy
+		- Tubal reconstructive surgery
+		- History of infertility
+		- ART particularly if the tubes are patent but damaged
+		- [[IUCD]] use
+		- Previous induced abortion
+		- Tubal endometriosis
+- # Common Sites of Ectopic Pregnancy #gyn-prof-card
+	- ![image.png](../assets/image_1730544738233_0.png)
 - Types according to site
 	- ((662c04f4-8caa-40af-b8ab-ab0c59ad776d))
 - Risk Factors

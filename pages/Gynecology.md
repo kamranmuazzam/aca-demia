@@ -4,9 +4,9 @@
 - [[Cancers in Gynaecology]]
 - [[Vaccinations in Gyanaecology]]
 - SOE
-	- LATER 1
-	- LATER 2
-	- LATER 3
+	- DONE 1
+	- DONE 2
+	- DONE 3
 	- LATER 4
 	- LATER 6
 	- LATER 7

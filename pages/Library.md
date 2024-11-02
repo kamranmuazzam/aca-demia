@@ -9,7 +9,7 @@
 		- [[General Surgery]]
 	- [[Obstetrics]]
 		- [[Dutta Obs]]
-	- [[Gynaecology]]
+	- [[Gynecology]]
 		- [[Dutta Gynae]]
 		-
 - Pre-Clinical

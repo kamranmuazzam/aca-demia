@@ -1,2 +1,4 @@
-- ((662c24d9-88d6-42fc-8c17-bbb44a2e0ec1))
+alias:: Habitual Abortion
+definition:: Recurrent Miscarriage is defined as a sequence of three or more consecutive spontaneous abortion before 20 weeks. #gyn-prof-card
+
 -

@@ -1,11 +1,11 @@
-- Six vital signs to check #gynobs-prof-ospe
+- Six vital signs to check #obGyn-prof-OSPE
 	- Level of consciousness
 	- Airway/Breathing/ Respiratory Rate
 	- Pulse
 	- Blood Pressure
 	- Anaemia/Pallor
 	- Urine Output
-- Steps of 1st Line Management #gynobs-prof-ospe
+- Steps of 1st Line Management #obGyn-prof-OSPE
 	- Call for help
 	- Palpate the uterus & Provide uterine massage
 	- Open I/V channel with 2 wide bore cannula

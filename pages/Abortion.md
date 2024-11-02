@@ -17,7 +17,6 @@
 	- Most Common cause of 1st Trimester Abortion is chromosomal abnormalities (defect in embryo)
 	-
 - ## Etiology
-  collapsed:: true
 	- ((662a83f6-74f2-4375-9fc1-0f74339490fc))
 	- ### 50% Genetic
 		- 50% of such genetic abnormalities are trisomy
@@ -39,7 +38,7 @@
 		- Cyanotic heart disease
 		- haemoglobinopathies
 	- ### Anatomical Abnormalities
-		- [[Cervical Incompitance]]
+		- [[Cervical Incompetence]]
 		- Miillarian fusion defect
 			- [[Bicornuate uterus]]
 				-
@@ -53,9 +52,28 @@
 			- Immunological
 			- Infection
 			- Unexplained
-		- 2nd Trimester
+		- 2nd Trimester #gyn-prof-card
 			- Anatomical Abnormalities
+				- Congenital Defects in the Müllerian duct fusion or resorption
+					- Unicornuate Uterus
+					- Bicornuate Uterus
+					- Septate or Double Uterus
+				- Acquired
+					- [[Cervical Incompetence]]
+					- Intrauterine adhesions
+					- Uterine fibroids
+					- Endometriosis
 			- Maternal medical illness
+				- Chronic
+					- Uncontrolled diabetes with arteriosclerotic changes
+					- Hemoglobinopathies
+					- Chronic renal disease
+					- Inflammatory bowel disease
+					- Systemic lupus erythematosus
+				- Infection
+					- Syphilis
+					- Toxoplasmosis
+					- Listeriosis
 			- Unexplained
 - ## Management
   collapsed:: true

@@ -1,0 +1,31 @@
+definition:: Pelvic organ prolapse refers to protrusions of the pelvic organs into or out of the vaginal canal
+
+- # Etiology
+	- ## Predisposing Factors #gyn-prof-card
+		- ### Acquired
+			- Ligaments
+			- Endopelvic fascia
+			- Levator muscle (myopathy)
+			- Perineal body
+			- Pudendal nerve and muscle damage due to repeated child birth
+		- ### Congenital
+			- Genetic (connective tissue disorder)
+			- Spina Bifida
+- # Types #gyn-prof-card
+	- ((6725f97a-f3a5-43ac-8a08-471319cd14c4))
+- # Treatment #gyn-prof-card
+	- ## Conservative Treatment
+		- ### Indication
+			- Asymptomatic women
+			- Mild degree prolapses
+			- POP in early pregnancy
+			- Old woman not willing for surgery
+		- Improvement of general measures
+		- Estrogen replacement therapy may improve minor degree prolapse in postmenopausal women
+		- [[Kegel Exercise]]
+		- [[Pessary]] Treatment
+	- ## Surgical Treatment
+		- Age > 60 years : [[Vaginal Hysterectomy]] with anterior colporrhaphy and posterior colpoperineorrhaphy
+		- Age <40 years
+			- Family complete : [[Fothergill's Operation]] with [[Tubectomy]]
+			- Family incomplete : [[Fothergill's Operation]]

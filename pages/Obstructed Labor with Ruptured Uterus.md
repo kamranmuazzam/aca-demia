@@ -1,23 +1,23 @@
-# General Examination #gynobs-prof-ospe
+# General Examination #obGyn-prof-OSPE
 	- Patient is in shock
 	- appearance anxious
 	- cold, clammy skin
 	- anaemia-moderate to severe
 	- blood pressure - low
 	- Respiratory rate - high
-- # Abdominal Examination #gynobs-prof-ospe
+- # Abdominal Examination #obGyn-prof-OSPE
 	- Abdomen distended
 	- Tenderness present
 	- Loss of uterine contour
 	- Foetal parts palpable superficially
 	- Foetal heart sound-absent
-- # General Management #gynobs-prof-ospe
+- # General Management #obGyn-prof-OSPE
 	- Nothing per oral
 	- IV fluid
 	- Blood Transfusion
 	- Continuous catheterization
 	- IV Antibiotics
-- # Definitive Treatment #gynobs-prof-ospe
+- # Definitive Treatment #obGyn-prof-OSPE
 	- Laparotomy
 	- Repair of uterus with [[BLTL]]
 	- Subtotal Hysterectomy

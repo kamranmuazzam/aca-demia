@@ -1,12 +1,12 @@
 tags:: #prof-ospe-specimen
 
-- Type of tumor : Germ cell tumour of the ovary #gynobs-prof-ospe
-- Characteristic features #gynobs-prof-ospe
+- Type of tumor : Germ cell tumour of the ovary #obGyn-prof-OSPE
+- Characteristic features #obGyn-prof-OSPE
 	- Tennis ball size
 	- Contains elements of three germ cell layers
 	- Torsion is common
 	- Risk of malignancy is low
-- # Complications #gynobs-prof-ospe
+- # Complications #obGyn-prof-OSPE
 	- Torsion
 	- Intracystic Haemorrhage
 	- infection

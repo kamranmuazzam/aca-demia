@@ -7,12 +7,12 @@
 	- Dilated cervix
 	- Partial expulsion of POC
 	- USG : echogenic material within cavity
-- confirmation : USG of pelvic organs/ uterus #gynobs-prof-ospe
+- confirmation : USG of pelvic organs/ uterus #obGyn-prof-OSPE
 - ## Complication
 	- Profuse bleeding
 	- Sepsis
 	- Placental polyp
-- ## General Treatment #gynobs-prof-ospe
+- ## General Treatment #obGyn-prof-OSPE
 	- IV infusion
 	- Uterotonic drugs
 	- Antibiotic
@@ -21,7 +21,7 @@
 	- Act fast
 	- Put IV line & IV fluids
 	- Take blood for grouping and cross-matching
-- Specific Treatment #gynobs-prof-ospe
+- Specific Treatment #obGyn-prof-OSPE
 	- ### Surgical
 		- Do MVA if Gestational Age is <12 weeks, curettage if Gestational Age is >12
 - ### Medical
