@@ -1,46 +1,135 @@
-- Long Cases
-	- Respiratory System
-		- [[Asthma]]
-		- COPD
-		- Pneumonia
-		- Pulmonary TB
-		- [[Pleural Effusion]]
-		- Bronchiectasis
-		- Bronchiogenic Carcinoma
-		- Fibrosis
-	- Cardiovascular System
-		- Heart Failure
-		- Ischemic Heart Disease
-		- Constructive Pericarditis
-	- Renal System
-		- AKI
-		- CKD
-		- AKI on CKD
-	- Alimentary System
-		- Chronic Pancreatitis
-		- PUD
-		- Malabsorption Sydrome
-		- Intestinal TB
-		- IBD
-	- Hepatobilliary System
-		- CLD
-		- Acute Viral Hepatitis
-		- Liver abcess
-	- Hematology
-		- Approach to a patient with anemia
-		- Approach to a patient with lymphadenopahty
-	- Rheumatology
-		- Rheumatoid arthritis
-		- SLE
-	- Neurology
-		- Stroke
-	- Endocrine System
-		- DM
-		- Cushing Syndrome
+- Cardiovascular System
+	- [[Hypertension]] #fahim
+	- [[Heart Failure]]  #fahim
+	- [[Ischemic Heart Disease]] #fahim
+	- [[Rheumatic Fever]] #fahim
+	- [[Arrhythmia]]
+	- [[Disease of the Heart Valves]]
+	- [[Infective endocarditis]]
+	- Constructive Pericarditis
+- Alimentary System
+	- [[Diarrhoea]] #fahim
+	- [[Pancreatitis]] #fahim
+	- [[Peptic Ulcer Disease]] #fahim
+	- [[Malabsorption Syndrome]] #fahim
+	- [[Gastrointestinal Bleeding]] #fahim
+	- [[Gastro-esophageal reflux disease]]
+	- [[Achalasia of the esophagus]]
+	- [[Gastritis]]
+	- [[Non-ulcer dyspepsis]]
+	- [[Gastric Carcinoma]]
+	- [[Irritable Bowel Disease]]
+	- Intestinal TB
+	- [[Inflammatory Bowel Disease]]
+- Rheumatology
+	- [[Monoarthritis]]
+	- [[Septic Arthritis]]
+	- [[Oligoarthritis]]
+	- [[Polyarthritis]]
+	- [[Low back pain]]
+	- [[Osteoarthritis]]
+	- [[Osteoporosis]]
+	- [[Rheumatoid arthritis]] #fahim
+	- [[SLE]] #fahim
+	- [[Gout]] #fahim
+	- [[Seronegative Spondarthritis]] #fahim
+- Neurology
+	- [[Disorders of Movement]]
+	- [[Acute Transverse myelitis]]
+	- [[Viral encephalitis]]
+	- [[Compression of the spinal cord]]
+	- [[Acute Stroke]] #fahim
+	- [[Epilepsy]] #fahim
+	- [[Meningitis]] #fahim
+	- [[Disease of the Peripheral Nervous System]] #fahim
+	- [[Cranial Neuropathies]] (2,3,4,5,6,7) #fahim
+- Nutrition, Climate & Environment
+	- [[Obesity]] #fahim
+	- [[Vitamins]] #fahim
+	- [[Starvation]]
+	- [[Smoking]] #fahim
+	- [[Drowning]] #fahim
+	- [[Near Drowning]] #fahim
+	- [[Illness in the Heat and Cold exposure]]
+	- [[High Altitude]]
+- Dermatology & Veneral Disease
+	- [[Pruritis]]
+	- [[Urticaria]]
+	- [[Pigmentation]]
+	- [[Abnormal Nails]]
+	- [[Genital Ulcer]]
+	- [[AIDS]]
+	- [[Acne]]
+	- [[Chronic Arsenicosis]]
+	- [[Eczema]] #fahim
+	- [[Psoriasis]] #fahim
+	- [[Scabies]] #fahim
+	- [[Fungal Infections]] (Tinea, Candidiasis) #fahim
+	- [[Leprosy]] #fahim
+	- [[Herpes]] #fahim
+	- [[Syphilis]] #fahim
+	- [[Gonorrhoea]] #fahim
+- Respiratory System
+	- [[Asthma]] #fahim
+	- [[COPD]] #fahim
+	- [[Pneumonia]] #fahim
+	- [[Pulmonary Tuberculosis]] #fahim
+	- [[Pleural Effusion]] #fahim
+	- [[Bronchiectasis]]
+	- [[Lung Abscess]]
+	- [[Bronchogenic Carcinoma]]
+	- [[Pneumothorax]]
+	- [[Interstitial Lung Disease]]
+	- Fibrosis
+- Hepatobilliary System
+	- CLD
+	- [[Acute Viral Hepatitis]] #fahim
+	- [[Liver abcess]] #fahim
+	- [[Cirrhosis of Liver]] #fahim
+	- [[Hepatic Encephalopathy]]
+	- [[Hepatocellular Carcinoma]]
+- Hematology
+	- Approach to a patient with anemia
+	- Approach to a patient with lymphadenopahty
+	- [[Leukaemia]] #fahim
+	- [[Lymphoma]] #fahim
+	- [[ITP]] #fahim
+	- [[Pancytopenia]]
+	- [[Multiple myeloma]]
+	- [[Blood Transfusion]]
+	- [[Adverse Reaction]]
+- Renal System
+	- [[Urinary Tract Infection]] #fahim
+	- [[Nephrotic Syndrome]] #fahim
+	- [[Nephritic Syndrome]] #fahim
+	- [[Acute Kidney Injury]] #fahim
+	- [[Chronic Kidney Injury]] #fahim
+	- AKI
+	- CKD
+	- AKI on CKD
+- Endocrine System
+	- [[Diabetes Mellitus]] #fahim
+	- [[Cushing Syndrome]] #fahim
+- Fluid
+- Emergency Medicine
+	- [[Organophosphorus Poisoning]] #fahim
+	- [[Snake Bite]] #fahim
+- Psychiatry
+	- [[Delusions]] #fahim
+	- [[Hallucinations]] #fahim
+	- [[Illusion]] #fahim
+	- [[Schizophrenia]] #fahim
 - [[SLE]]
 - [[Down Syndrome]]
 - [[Typhoid Fever]]
 - Clinical Presentations
 	- [[Edema]]
 	- [[Clubbing]]
+	- [[Chest Pain]] #fahim
+	- [[Dyspnea]] #fahim
+	- [[Headache]] #fahim
+	- [[Hemoptysis]] #fahim
+	- [[Jaundice]] #fahim
+	- [[Anaemia]] #fahim
+	- [[Ascites]] #fahim
 - [[Infectious Disease]]

@@ -60,7 +60,7 @@ definition:: It is the bulbous enlargement of the terminal phalanges due to prol
 		- #### Associated Symptoms
 			- Respiratory : [[Cough]], [[Hemoptysis]], [[Dyspnea]]
 			- Cardiovascular: [[Cyanosis]], [[Chest Pain]], [[Palpitations]]
-			- Gastrointestinal: [[Diarrhea]], [[Weight Loss]], [[Jaundice]]
+			- Gastrointestinal: [[Diarrhoea]] , [[Weight Loss]], [[Jaundice]]
 		- #### History of Past Illness
 			- [[Chronic Lung Disease]] : [[COPD]], [[Interstitial Lung Disease]]
 			- Heart Disease : [[Congenital Heart Diseases]], [[Endocarditis]]

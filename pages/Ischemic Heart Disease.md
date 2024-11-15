@@ -1,0 +1,2 @@
+- [[Angina]] #fahim
+- [[Myocardial Infarction]] #fahim

@@ -1,2 +1,0 @@
-## Treatment
-	- [[Cervical Cerclage Operation]]

@@ -1,0 +1,2 @@
+- [[Acute Pancreatitis]]  #fahim
+- [[Chronic Pancreatitis]] #fahim
