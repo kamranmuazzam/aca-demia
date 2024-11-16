@@ -1,0 +1,31 @@
+file:: [Step_on_to_Paediatrics_1731742499843_0.pdf](../assets/Step_on_to_Paediatrics_1731742499843_0.pdf)
+file-path:: ../assets/Step_on_to_Paediatrics_1731742499843_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 218
+  hl-color:: yellow
+  id:: 67384d80-0fa9-407a-bf72-a40fed3e85c6
+  hl-type:: area
+  hl-stamp:: 1731743103288
+- [:span]
+  ls-type:: annotation
+  hl-page:: 219
+  hl-color:: yellow
+  id:: 67384e8c-b398-4d12-99be-78ae8deece2d
+  hl-type:: area
+  hl-stamp:: 1731743371471
+- [:span]
+  ls-type:: annotation
+  hl-page:: 219
+  hl-color:: yellow
+  id:: 67385fe9-5fab-4115-843c-17cd3c424e76
+  hl-type:: area
+  hl-stamp:: 1731747815019
+- [:span]
+  ls-type:: annotation
+  hl-page:: 219
+  hl-color:: yellow
+  id:: 67385ffd-3281-4b85-86ec-8a36c9df2689
+  hl-type:: area
+  hl-stamp:: 1731747836510

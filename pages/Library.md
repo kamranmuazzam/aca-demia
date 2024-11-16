@@ -5,6 +5,8 @@
 		- [[Kumar & Clark's Clinical Medicine]]
 		- [[Signs and Symptoms - Analysis from a Functional Perspective]]
 		- [[Differential Diagnosis of Common Complaints]]
+		- [[Paediatrics]]
+			- [[Step on to Paediatrics]]
 	- [[Surgery]]
 		- [[General Surgery]]
 			- [[Bailey & Love's Short Practice of Surgery]]
@@ -25,7 +27,6 @@
 		- [[The Developing Human Clinically Oriented Embryology]]
 	- [[Anatomy]]
 		- [[Moore's Essential Clinical Anatomy]]
-		-
 - Protocols
 	- [[ASCCP Management Guidelines]]
 	- [[IMCI]]

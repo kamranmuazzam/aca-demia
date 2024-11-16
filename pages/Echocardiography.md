@@ -5,5 +5,46 @@ alias:: ECG, EKG
 	- [[The Only EKG Book You’ll Ever Need]]
 	- https://litfl.com/
 	- https://en.ecgpedia.org/
-	-
+- ECG Sheet
+	- sheet
+		- interval of 2.5 seconds
+		  collapsed:: true
+			- 1st 2.5 seconds
+				- I
+				- II
+				- III
+			- 2nd 2.5 seconds
+			  collapsed:: true
+				- aVR
+				- aVL
+				- aVF
+			- 3rd 2.5 seconds
+				- V1
+				- V2
+				- V3
+			- 4rh 2.5 seconds
+				- V4
+				- V5
+				- V6
+		- Rhythm Strips
+			- V1
+			- II
+			- V5
+	- single cardiac cycle
+		- waves
+		- segments
+		- durations
+- Eithoven's Triangle
+	- ![image.png](../assets/image_1731748618656_0.png)
+- Einthoven's Law
+	- I + II = III
+- Leads
+	- Central Terminal
+		- This is the virtual negative lead made by combining all the 3 limb leads
+		- aVR + aVL + aVF = 0
+	- "a" stands for augmented
+		- previously the voltages were amplified using resistors, now done by a microprocessor
+	- "V" is listed in any lead that uses the central terminal
+- Hexaxial System
+	- ![image.png](../assets/image_1731748947015_0.png)
 	-
