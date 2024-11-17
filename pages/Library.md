@@ -7,6 +7,7 @@
 		- [[Differential Diagnosis of Common Complaints]]
 		- [[Paediatrics]]
 			- [[Step on to Paediatrics]]
+			- [[Nelson Textbook of Pediatrics]]
 	- [[Surgery]]
 		- [[General Surgery]]
 			- [[Bailey & Love's Short Practice of Surgery]]

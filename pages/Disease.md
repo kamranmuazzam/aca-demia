@@ -44,14 +44,12 @@
 		- ### Expected Course
 			- #### With Treatment
 			- #### Without Treatment
+				- ##### Possible Complications
+				- ##### Long-Term Effects
 		- ### Survival Rates
 			- #### With Treatment
 			- #### Without Treatment
 		- ### Quality of Life Considerations
-	- ## Complications
-	  background-color:: blue
-		- ### Possible Complications
-		- ### Long-term Effects
 	- ## Prevention
 	  background-color:: blue
 		- ### Health Education

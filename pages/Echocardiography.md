@@ -5,6 +5,7 @@ alias:: ECG, EKG
 	- [[The Only EKG Book You’ll Ever Need]]
 	- https://litfl.com/
 	- https://en.ecgpedia.org/
+	- {{video https://www.youtube.com/watch?v=yLhO60Us3bo}}
 - ECG Sheet
 	- sheet
 		- interval of 2.5 seconds
