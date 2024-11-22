@@ -1,0 +1,7 @@
+- When head is extended arms and legs both flex. -- Moro. From birth-4/6 mo
+- When you place your finger in palm, flexes hand. -- Grasp. From birth-4/6 mo
+- Rub cheek, head turns to that side. -- Rooting. From birth-4/6 mo
+- When stimulate dorsum of foot, steps up. -- Placing. From birth-4/6 mo
+- When neck is turned to one side, opposite arm flexes and ipsilateral arm extends. -- Tonic neck. From birth04/6 mo
+- When a fall is simulated, arms are extended. -- Parachute. From 6-8 mo - por vida
+- CNS origin of these reflexes? Brainstem and vestibular nuclei

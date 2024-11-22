@@ -1,0 +1,13 @@
+- If a baby <28 days has a fee >100.4 = sepsis until proven otherwise.
+- Sxs might include irritability, poor feeding.
+- What tests do you order?
+- CBC w/ diff, CXR, blood cultures, urine cultures (use catheter), LP
+- Risk factors for neonatal sepsis?
+	- Prematurity, chorioamnionitis, intrapartum fever, maternal leukocytosis, prolonged rupture of membranes (>18 hours), GBS+ mom
+- Most common bugs?
+	- Group B Strep
+	- E. coli
+	- Lysteria monocytogenes
+- Empiric treatment
+	- Amp + gent until 48 hours cx are negative
+	- Cefotazime + Amp if meningitis suspected

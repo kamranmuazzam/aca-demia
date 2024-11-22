@@ -1,0 +1,11 @@
+- Urinary incontinence should be attained by : 5 years
+- Primary if continence never achieved, Secondary if after a 6 mo period of dryness
+- Medical causes to r/o?
+	- UTI (do a UA), constipation (disimpact) or Diabetes (check sugar)
+- Tx of Enuresis?
+	- 1st behavioral : reward system, pee before bed, bell alarm pad
+	- 2nd pharmacological - DDAVP or imipaamine
+- Fecal continence should be attained by : 4 years
+- Most common cause? Constipation, fecal retention
+- Treatment? Disimpact, stool softeners, high fiber diet
+- Behavioral modification? Post prandial toilet sitting

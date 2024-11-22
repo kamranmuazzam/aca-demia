@@ -3,6 +3,10 @@
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
+		- MC cause in neonates? GBS, E. coli, Lysteria
+		- MC cause 1 mo-3 mo? C. trachomatis, RSV, paraflu, strep pneumo
+		- MC cause in kids 4 mo- 5 y/o? VIRAL! (RSV) then s. pneumo
+		- MC cause in kids > 5 y/o ? Mycoplasma, s. pneumoa
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -25,10 +29,17 @@
   background-color:: blue
 	- ### Clinical Diagnosis
 		- #### Classical Presentation
+			- Kid comes w/ cough productive of yellow-green sputum, runny nose and T=100.8. Lung exam reveals coarse rhonchi, decreased breaths sounds and crackles in the LL and WBC = 16K
+				- Next best step? CXR to confirm. Typical vs atypical
 		- #### Probable Diagnosis
 	- ### Laboratory Tests
+		- CBC
+			- eosinophilia (chlamydia pneumonia) C/S : Staccato cough
 	- ### Imaging Studies
+		- CXR
 	- ### Differential Diagnosis
+		- Acute Bronchitis
+			- Kid comes w/ cough productive of yellow-green sputum, runny nose and T=100.8, Lung exam only reveals coarse rhonchii..
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue

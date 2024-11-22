@@ -1,0 +1,22 @@
+- Newborns lose 10% of birth weight in 1st week. Why? -> Diuresis of extravascular fluid
+- Should regain birth weight by? 2 weeks
+- Should double weight by? 6 months
+- Should triple wegiht by? 1 year
+- Increased 50% of length by? 1 year
+- Double length by? 5 years
+- Breast milk is best for babies. (True or false)True. Duh
+- Contraindications to breast feeding
+	- Galactosemia
+	- PKU
+	- HIV
+		- if EBF, then allowed, but if mixed, then brestfeeding not allowed as formula milk causes osmotic injury of the gut which can cause HIV infection, same with HBV
+	- HSV on the breast
+	- chemo
+	- Li
+	- Iodine
+	- alcohol
+- Breast milk vs. Formula
+	- Breast milk is whey dominant, more lactose, mor LCFA, less Fe but its better absorbed
+- [[Abnormal Growth]]
+- [[Developmental Milestones]]
+- [[Potty Training]]

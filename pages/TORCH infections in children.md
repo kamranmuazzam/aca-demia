@@ -1,0 +1,6 @@
+- Maculopapular rash on palms and soles, snuffles, periostitis. -- Syphilis Tx w/ PCN
+- Hydrocephalus, intracranial calcifications and cholrioretinits. -- Toxoplasmosis. Tx w/ sulfadiazine + leucovorin
+- Cataracts, deafness and heart defects (esp PDA, VSD), extramedullary hematopoeisis. -- Rubella. No tx
+- Microcephaly, periventricular calcifications, deafness, thrombocytopenia and petechiae. -- CMV. Tx w/ ganciclovir, but won't prevent MR
+- Limb hypolasia, cutaneous scars, cataracts, chrioretinits, cortical atrophy.
+	- Congenital Varicella if mom infected 1st or 2nd trimester. If mom is exposed 5 days before 2 days after delivery, baby gets VZIG

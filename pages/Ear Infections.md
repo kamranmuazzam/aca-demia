@@ -1,0 +1,10 @@
+- 2 y/o w/ fever to 102, tugging on his right ear. Patient's tympanic membrane is red and bulging. -- Otitis media
+	- Most sensitive dx test? Limited mobility on insufflation or air-fluid level
+	- RF? ↓SES, Native Americans, formula fed, tobacco smoke, around kids
+	- Treatment? Amox or azithromycin for 10 days. If no improvement in 2-3 days switch to amox-clav
+	- Complications? Effusion-place tubes if bilat effusion >4 mo or if bilateral hearing loss
+- 12 y/o in summer swim league has pain when adjusting his google straps behind his ear. Thick exudates coming from the the ear and tender posterior auricular nodes. -- Otitis Externa
+	- Treatment? Topical ciprofloxacin
+	- Complications?
+		- Malignant external otitis -> can invade to temporal one -> facial paralysis, vertigo
+		- Need CT and IV abx, May need surgery

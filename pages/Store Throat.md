@@ -1,0 +1,22 @@
+- 7 y/o exudative pharyngitis w/ tender cervical lymph nodes and fever to 102. -- Sounds like GABHS Pharyngitis
+	- Best 1st test? Rapid strep antigen
+	- If negative? If clinical suspicion ↑ (ie, no viral sxs) -- do culture
+	- Treatment? PCN or erythromycin. Why?
+- A child presents w/ "muffled voice", stridor and refuses to turn her head to to the left. -- Retropharyngeal abscess
+	- Treatment? I&D for C&S. GAS + anaerobes. 3rd gen ceph + amp or clinda
+	- Complications? Retropharyngeal space communicates w/ mediastinum
+- A child presents w/ "hot potato voice" and upon throat exam her uvula is deviated to the right 2/2 a bulge. - peritonsillar abscess
+	- Treatment? Aspiration or I&D + abx, tonsillectomy if recurrent.
+	- Indications for tonsilectomy?
+		- .>5 episodes of sterp/year for 2 years or
+		- .>3 episodes/year for 3 years
+- Older kiddo with sore throat...
+	- Other sxs = fever, fatigue, generalized adenopathy and splenomegaly (anterior and posterior cervical nodes)
+		- Think Epstein-Barr virus
+	- What happens if you give them ampicillin or amoxicillin?
+	- Maculopapular Rash (immune mediated vasculitic)
+	- Diagnosis? Blood smear shows lymphocytosis w/ atypical lymphs + Heterophile antibody (Monospot) test.
+	- Treatment? Rest and symptomatic therapy
+	- Precautions? Splenic hemorrhage or rupture. (most in 2nd week)
+		- No contact sports until splenomegaly resolves
+-

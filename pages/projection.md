@@ -1,0 +1,1 @@
+- visible vitrum can be coated into a glass for it to work as a screen for projection

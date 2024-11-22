@@ -1,0 +1,18 @@
+- 14 y/o boy, always been below 5% in height. parents are tall & were "late bloomers"
+	- Constitutional Growth Delay
+	- Bone age< Real age
+	- Child is likely to have normal final adult height
+- Same story, but father is 5'2'' and mom is 4'10''
+	- Familial Short Stature
+	- Bone age = Real age
+- 14 y/o boy, 50% in height, 97% for weight
+	- Obesity
+	- Bone age > Real age
+- Other causes of same bone age findings?
+	- Precocious puberty, CAH, Hyperthyroidism
+- 14 y/o boy, starts out in 50% for height, in the past 2 years is now between the 5%-10%
+	- Pathologic Short Stature
+	- Consider craniopharyngioma (vision problems, chest CT)
+	- Hypothyroidism (check TFTs)
+	- Hypopiruitarism (check IgG-1)
+	- Turner (check karyotype)

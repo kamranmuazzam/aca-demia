@@ -1,0 +1,25 @@
+- Defect lateral (usually R) of the midline, no sac -- will se high maternal AFP
+	- Assoc w/ other disorders? Not usually
+	- Complications? May be atretic or necrotic req removal. Short gut syndrome
+- Defect in the midline. Covered by sac
+	- Assoc w/ other disorders? Associated w/ Edwads & Patau Beckwith Wiedemann Syndrome = big baby w/ big tongue, ↓glc, ear pits
+- Defect in the midline. No bowel present
+	- Assoc w/ other disorders? Assoc w/ congenital hypothyroidism (also big tongue)
+	- Treatment? Repair not needed unless persists past age 2 or 3
+- 4 wk old infant w/ non-bileous vomiting and palpable "olive" - pyloric stenosis
+	- Metabolic complications? Hypochloremic, metabolic alkalosis
+	- Tx? Immedaite surg referral for myotomy
+- 2 wk old infant w/ bileous vomting. The pregnacy was complicated by polyhydramnios -- Intestinal Atresia Or Annular Pancreas
+	- Assos w/? Down Syndrome (esp duodenal)
+- 1 wk old baby w/bileous voming, draws up his legs, has abd distension. - Malrotation and volvulus * Ladd's bands can kink the duodenum
+	- Pathophys? Doesn't rotate 270 ccw around SMA
+- Pooping problems
+	- A 3 day old newborn has still not passed meconium.
+		- DDX namme 2
+			- Meconium ileus - considere CF if +FH * gastrograffin enema is dx & tx
+			- Hirshsprung's DRE -> exposion of poo bx showing no ganglia is gold standard
+	- A 5 day old former 33 weeker develops bloody diarrhea - Necrotizing Enterocolitis
+		- What do you see on X-Ray? Pneumocystis intestinalis (air in the wall)
+		- Treatment? No, TPN 9if nec), antibiotics and resection of necrotic bowel
+		- Risk factors? Premature gut, introduction of feeds, formula
+	- A 2 mo old baby has colicky abd pain and current jelly stool w/ a sausage shaped mass in the RUQ. -- Intussusception * Barium enema is dx and tx

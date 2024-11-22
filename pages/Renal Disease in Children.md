@@ -1,0 +1,21 @@
+- A kiddo is peeing blood
+	- Best 1st test? Urinalysis
+	- Dysmorphic RBCs or RBC casts? Glomerular source
+	- Definiciton of nephritic syndrome
+		- Proteinuria (but <2g/24hrs)
+		- hematuria
+		- edema
+		- azotemia
+	- 1-2 days after runny nose, sore throat & cough? Berger's Dz (IgA nephropathy) MC cause
+	- 1-2 weeks after sore throat or skin infxn? Post-strep GN-smoky/cola urine, best 1st test is ASO titer. Subepithelial IgG humps
+	- Hematuria + Hemoptysis? Goodpasture's Syndrome. Abs to collagen IV
+	- Hematuria + Deafness? Alport Syndrome. XLR mutation in collagen IV
+- A kiddo is peeing protein
+	- Best 1st test? Repeat test in 2 weeks, then quantify w/ 24 hr urine
+	- Definition of nephrotic syndrome? > 3.5 g protein/24 hours, hypoalbumineamia, edema, hyperlipidemia (fatty/waxy casts)
+	- MC in kiddos?
+		- Minimal change dz-fusion of foot processes
+		- Treat common complication is infection
+			- Make sure immunized against pneumococcus and varicella
+	- If nephrotic patient suddenly develops flank pain? Suspect renal vein thrombosis! 2/2 peeing out ATIII, protein C and S. Do CT or U/S stat!
+	- Other random causes? Orthostatic = MC in school aged kids. Normal while supine, increased when standing.

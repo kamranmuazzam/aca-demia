@@ -1,0 +1,4 @@
+- Not all murmurs are a cause for alarm, > 30 % of kiddos have them
+- Good characteristics =
+	- Stills murmur - systolic, <II/VI, soft, vibratory and musical, heard best @ lower mid-sternum
+	- Venous hum - best heard in anterior neck, disappears when jugular vein is compressed

@@ -1,0 +1,43 @@
+- [[Benign Murmers]]
+- Never normal =
+	- Anything DIASTOLIC
+	- Anything > II/VI
+	- Get an echo
+- Newborn is cynanotic @ birth, O2 does not improve. -- Transposition of the Freat Arteries
+	- Most common in? Infants of diabetic mothers
+	- Assocaited murmur? NONE! (unless PDA or VSD)
+	- Immedaite tx? PGE1 to keep PDA patent
+- 2 y/o child who gets cyanotic and hypernea while plaing, squats down
+	- Tetralogy of Fallot
+		- Pulmonary Stenosis
+		- RA hypertorphy
+		- Over riding aorta
+		- VSD
+	- Assocaited murumr? Harsh SEM + Single S2
+	- Treatment? O2 and knee-chest position, surgical correction
+- Bipolar woman gives birth to a child w/ holosystolic murmur worse on inspiration.
+	- Ebstein Anomaly - Tricuspid insuficciency 2/2 TV displacement into RV
+	- Associated arrhythmia? Wolff parkinson White
+- Cyanosis @ birth with holosystolic murmur, depends on VSD or ASD for life. EKG shows LVH -- Triscuspid atresia, Give PGE1 until surgery
+- Heart defect assocaited with DiGeorge syndrome. CXR shows ↑ puml blood flow and bi-ventricular hypertrophy -- Truncus arteriosis. Eisenmenger develops early. Do surg in 1st few weeks of life
+- -#1 congenital heart lesion. Harsh holosystolic murmur over LL sternal border, loud P2 -- Ventriculoseptal defect
+	- If II/VI in a 2 mo old? If no sxs, continue to monitor. Most close by 1-2 year
+	- Gold standard dx test? Echo
+	- When is surgery indicated? FTT, -6 12 mo w/ HTN, > 2 years w/ Qp/Qs > 2:1
+	- Is louder better or worse? Better. It means the defect is small. Most often membranous. More likely to spontaneously close
+- Loud S1 w/ fixked and split S2. Older child w/ exercise intolerance. -- ASD
+- Most common defect in Down Syndrome baby. Fixed & split S2 + SEM w/ diastolic rumble -- Endocardial Cushion Defect
+	- Tx? @ risk for early Eisenmengers. Surgery before pHTN @ 6-12 mo
+- Continuous machine-like murur w/bounding pulses and wide pulse pressure -- PDA
+	- Associations? -- Prematurity, congenital rubella syndrome
+	- Treatment? If not closed by 1 wk, give indomethacin or surgically close
+- Most common defect in Turner's baby. Decreased femoral pulses, "reverse 3 sign", "notching" @ inf rib border 2/2 incr collateral. May see asymmetry in arm BPs
+- Other cardiac diseases
+	- 15 year old athlete complains of occasional palpations agnina and dizziness. Last week he fainted during the 1st inning of his baseball game. -- HOCM
+		- Murmur? SEM, better w/ ↑ preload (squat, handgrip) louder w/ valsalva, standing, exercise (↓preload)
+		- Treatment of this child? Beta blocker or CCB (no diuretics or dig- wy?)
+			- Alcohol ablation or surgical myotomy
+		- Restriction? No sports or heavy exercise!
+	- 7 year old girl presents vauge chest pain, pain in several different joints over the past few days, and a rash. Her ESR is elevated, and her EKG shows prolongation of PR interval. -- Acute Rheumatic Fever
+		- Treatment? Oral PCN (erythromycin) for 10 days, then prophylactic till 20
+			- Complications? Mitral stenosis, (then aortic or tricuspid involvement)

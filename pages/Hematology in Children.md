@@ -1,0 +1,62 @@
+- An African American (or Mediterranean) kid w/ sickle disease comes in
+	- Swollen, painful hands and feet. -- Dactylitis, 2/2 necrosis of small bones
+	- Excruciating ain in the extremities, ulcers, hip pain. -- Pain crises, Ischemic damage 2/2 sickling
+	- Point tenderness on femur, fever, and malaise. -- Osteomyelitis. MC bug is salmonella
+	- Things seen on blood smear?
+		- ↑retics, nl MCV sickles, targers, HJ bodies
+	- Acute drop in HCT with ↓↓retics? -- Aplastic crisis. Parvo B19
+	- Recurrent RUG pain after meals. -- Pigment gallstones. Do Chole
+	- Respiratory distress & emergent tonsilectomy? -- Waldyer Ring hyperplasia
+	- Proteinuria and increased creatinine + recurrent UTIs? -- Kidney infarcts due to sickled RBCs
+- More Sickle Cell Pearls
+	- Most common cause of sepsis? -- Strep Pneumo
+	- Presents w/ fever, cough, chest pain, chills, and SOB? -- Acute Chest syndrome, Pulmonary infarction. MC cause of death
+		- Tx? O2, abx and exchange transfusion
+	- Acute confusion and focal neurologic deficits? -- Stroke
+		- Tx? Exchage Trnsfusion (NOT tPA!)
+		- Assessing risk? Transcranial doppler (v<200 cm/sec), keep HbS <30%
+	- Vaccination and prophylaxis?
+		- 23-valent pneumococcal vaccine @ age 2 + H. flu and N. meningitides. PCN prophylaxis from age 2 mo until age 6 years
+			- If a patient presents w/ fatigue and megaloblastic anemia? -- Most likely folate deficiency. Has higher need 2/2 ↑ retics
+		- Treatment?
+			- Hydroxyurea incr production of HbF
+			- Tx infx aggressively and manage pain
+			- Bone marrow transplant cures, but has 10% post op mortality
+- Kids with Anemia
+	- When is anemia not a big deal?
+		- Physiologic dop in H&H for 1st 2-3 mo. Transient Erythroblastopenia occurs later (3 mo - 6 yrr) = immune suppression after viral infection (not B19)
+	- 18 mo kiddo, picky eater, drinks lots of cow's milk ↓H&H, MCV 75, ↓ferritin, ↑TIBC -- Iron deficiencyAnemia
+		- Tx? w/ oral ferrous salts
+	- 18 mo kiddo, eats a varied diet. Mom is Italian. ↓H&H, MCV 60, ↓RDW -- Thalessemia. Varying degrees
+	  id:: 673f2538-7e1f-46da-b96c-af24bc9af016
+		- Tx w/ transfusion & fegeroxamine. Can see expanded medullary space
+	- 8 mo kiddo is irritable, has glossitis & FTT. Picky eater, drink lots of goat's milk. -- Folate deficiency. See low serum (RBC) foalte
+		- Tx w/ daily folate
+	- 4 mo pale baby, normal plts, WBC's but hemaglobin is 4. Incr RBC ADA and low retics. Triphalangeal thumbs. --  Blackfan-Diamond Anemia
+		- Tx? Corticosteroids, transfusions, stem cell transplant
+	- 18 mo baby presents w/ low plts, low WBCs and profound anemia. He has café-au-lait spots, microcephaly, and absent thumbs -- Fanconi Anemia
+		- Dx? Bone marrow shows hypoplasia, Cytogenetic studies for chr breaks
+		- Tx? Corticosteoids, andorgens, bone marrow transplant
+		- Complications? Incr reisk for AML and other cancers
+	- 2 y/o baby presents w/ hyperactivity impraied growth, abdominal pain and constipation. -- Lead poisoning
+		- Dx? Venous blood sample, check lead level
+		- Tx? > 45- tx w/ succimer. >70 - admit and tx w/ EDTA + dimercaprol
+		- Screening?
+			- Test blood lead levels between 12-24 mo if low SES, live in old hoise (<1960)
+	- A kiddo walk in with thrombocytopenia
+		- 15 y/o F recurrent epistaxis, heavy menses & petechiea. ↓plts only. -- ITP
+			- Tx w/ IVIG for 1-2 days, then prednison, then splenecotmy. NO plts!!
+		- 15 y/o F recurrent epistaxis, heavy menses, petechiae, normal plts, ↑ bleeding time and PTT. -- VWD
+			- DDAVP for bleeding ro pre-op.
+			- Repalce factor VII (contains vWF) if bleeding continues
+		- 7 y/o M recurrent bruising hematuria, & hemarthroses, ↑ PTT that corrected w/ mixing studies -- Hemophilia
+			- If mild, tx w/ DDAVP, otherwise, replace factors
+		- 1 wk old newborn, born at home, comes in with bleeding from the umbilical stump & bleeding diathesis -- Vit K def. ↓ II, VII, IX and X
+			- Same in CF kid with malabsorption
+			- Tx w/ FFP acutely + vit K shot
+		- 9 y/o F with Wilson's disease developed fulminant lver disease
+			- 1st factor depleted? VII, so PT increases 1st
+			- 2 factors not depleted? VIII and vWF b/c they are made by endothelial cells
+		- 1 3 y/o child is brought in with petechiae, abdominal pain, vomiting and lethargy. he had bloody diarrhea 5 days ago after eating hamburgers at a family picnic. Labs reveal thrombocytopenia and ↑ creatinine -- Hemolytic Uremic Syndrome
+			- Most common cause? * E. Coli O157H7*, Shigella, Salmonella, Campylobacter
+			- Treatment? NO platelets! Tx w/ aggressive nutrition (TPN) and early peritoneal dialysis. Don't give abx for

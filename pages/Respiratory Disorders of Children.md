@@ -1,0 +1,23 @@
+- Baby is born w/ respiratory distress, scaphoid abdomen & this CXR. -- Diaphragmatic hernia
+	- Biggest concern? Pulmonary hypoplasia
+	- Best treatment? If dx prenatally, plan delivery at @ place w/ECMO. Let lungs mature 3-4 days then do surg
+- Baby is born w/ respiratory distress w/ wxcess drooling. -- TE-Fistula
+	- Best diagnostic test? Place feeding tube, take X-Ray see it coiled in thorax
+	- What else do you look for? VACTER associated anomalies - vertebral, anal atresia, cardiac, radial and renal.
+- 1 week old baby becomes cyanotic when feeding but pink up when crying -- Clonal Atresia
+	- What else do you look for? CHARGE associated anomalies
+		- Coloboma
+		- Heart Defects
+		- Retarded Growth
+		- GU anomalies
+		- Ear anomalies and deafness
+- 82 wk premie has dyspnea, RR of 80 w/ nasal flaring -- RDS
+	- Prenatal dx? L/s>, give antenatal betamethasone
+	- Pathophys? Surfactant def, can't keep alveoli open
+	- Tx? O2 therapy with nasal CPAP to keep alveoli open
+- 88 wk LGA infant born by C/S to an A2GDM has dyspnea/grunting -- TTN
+	- Pathyphys? Lung fluid not squeezed out, retained
+	- Prognosis? Usually minimal O2 needed. Self resolves in hours to days
+- 41 wk AGA infant was born after ROM yielded greenish-brown fluid. -- Meconium aspiration sydrome
+	- Next best step? - Intubate & suction before stimulation
+	- Complications? Pulmonary artery HTN, pneumonitis

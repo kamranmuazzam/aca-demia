@@ -1,0 +1,4 @@
+- DOL 1-3, red conjunctiva and tearing -- Chemical conjunctivitis caused by silver nitrate drops. Not common anymore b/c we use erythromycin
+- DOL 3-5, bilateral purulent conjunctivitis can cause corneal ulceration -- Gonococcal conjunctivitis tx w/ topical erythromycin and IV 3rd gen ceph
+- DOL 7-14, red conjunctiva w/ mucoid discharge & lid swelling
+	- Chlamydia conjunctivitis tx w/ oral erythromycin. Complication is chlamydial pneumonia -> cough, nasal drainage, scattered crackles + bilat infiltrates on CXR

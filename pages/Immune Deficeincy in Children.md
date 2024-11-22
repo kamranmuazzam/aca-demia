@@ -1,0 +1,26 @@
+- 2 y/o M w/ multiple ear infections, diarrhoeal episodes & pneumonias. No tonsils see on exam.
+	- -- Brutorr agammaglobulinemia
+	- - x linked
+	- - infx start @ 6-9 mo (why?)
+	- Labs? Absence of B cells on flow cytometry, low levels of all Igs
+- 17 y/o F with decreased levels of IgG, IgM, IgE and IgA but normal number of B cells
+	- Combined variable immune deficiency (acquired)
+	- Complication? Increased lymphoid tissue -> increased risk for lymphoma
+- Most common  B-cell defect. Recurrent URIs, diarrhea
+	- Selective IgA deficiency
+	- Complication? Anaphylaxis reaction if given blood containing IgA
+- 3 wk old M with seizure, truncus areteriosus, micrognathia - GiGeorge Sydrome
+	- Genetic defect? Microdeletion on Chr22
+	- What types of infections in childhood? Candida, viruses, PCP pneumonia
+- Infant w/ severe infections, no thymus or tonsils. Severe lymphopenia.
+	- SCID
+	- See infections w. bacterial, viral and opportunistic bugs
+	- Inheritance? MC is XLR. AR is an ADA deficiency
+	- Tx? Pediatric emergency! Need bone marrow transplant by age 1 or death
+- 3 y/o M child w/ recurrent swollen, infected lymph nodes in groin and staph aureus skin abscesses
+	- Chronic granulomatous disease XLR. PMB;s can ingest but no kill catalase + bugs
+	- How to diagnose?
+		- Nitrotetrazolium blue (yellow means they have the dz). New test is Flow cytometry w/ DHR 123
+- 18 mo M baby w/ secere ezcema, petechiae, and recurrent ear infections
+	- Wisckott Aldrich Syndrome. Often present w/ prolonged bleeding after circumcision
+	- Ig make up? Low IgM, high IgA and IgE, slightly low IgG

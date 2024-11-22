@@ -1,0 +1,26 @@
+- A newborn baby has decreased tone, oblique palpebral fissures, a simian crease, big tongue, white spots on his iris -- Down's Syndrome
+	- What can you tell his mother about his expected IQ?
+		- He will likely have moderate MR Speech, gross and fine motor skill delay
+	- Common medical complications?
+		- Heart? VSD, endocardial cushion defects
+		- GI? Hirschprung's intestinal atresia, imperforate anus, annular pancreas
+		- Endocrine? Hypothyroidism
+		- Msk? Atlanto-axial instability
+		- Neuro? Incr risk of Alzheimer's by 30-35 (APP is on Chr 21)
+		- Cancer? 10x increased risk of ALL
+- Omphalocele, rocker-bottom feet/ hammer toe, microcephaly and clenched hand, multiple others -- Edward's Syndrome (Trisomy 18)
+- Holoprosencephaly, severe mental retardation and microcephaly, cleft lip/palate, multiple others. -- Patau's syndrome (Trisomy 13)
+- 14 year old girl with no breast development, short stature and high FSH -- Turner's syndrome. XO. MC genotype of aborted fetuses
+	- Assoc anomalies? Horseshoe kidney, coarctation of aorta, bicuspid aortic valve
+	- Tx? Estrogen replacement for secondary sex char, and avoid osteoporosis
+- 18 year ild tall, lanky boy with mild MR has gynecomastia and hypogonadism. *increased risk for gonadal malignancy* -- Klinefelter's syndrome
+- Café-au-lait spots, seizures, large head. Autosomal dominant -- Neurofibromatosis
+- Mandibular hypolasia, glossoptosis, cleft soft palate. W/ FAS or Edwards. -- Pierre Robin Sequence
+- Broad, square face, short stature, self-injurious behavior. Deletion of Chr17 -- Smith Magenis
+- Hypotonia, hypogonadism, hyperphagia, skin picking, agression. Deletion of paternal Chr15 -- Prader-Willi
+- Seizures, strabismus, sociable w/ episodic laughter. Deletion on maternal Chr15 -- Angelman
+- Elfin-appearance, friendly, increased empathy and verbal reasoning ability. Deletion on Chr7 -- Williams
+- IUGR, hypoertonia, distinctive facies, limb malformation, self-injurious behavior, hyperactive -- Cornelia de Lange
+- Microcephaly, smooth philturm, thin upper lip, ADHD-like behavior. Most common cause of mental retardation -- Fetal Alcohol Syndrome
+- Most common type of MR in bosy, CGG repeats on the X-chr w/ anticipation. Macrocepahly, macro-orchidism, large ears -- Fragile X Syndrome
+- Autosomal dominant, or assoc w/ advanced paternal age. Short palpebral fissures, white forelock and deafness. -- Waardenburn Syndrome
