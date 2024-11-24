@@ -1,3 +1,5 @@
+tags:: #Paediatrics
+
 - Due at birth? HepB (remember to give HepBIV if mom is HbsAg +)
 - Sue at 2 mo, 4 mo and 6 mo? HepB, Rota, Dtap, DiB, PCV, IPV
 - Starting at 6 mo and then yearly? Influenza

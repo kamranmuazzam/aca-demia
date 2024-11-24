@@ -1,6 +1,7 @@
 alias:: NS
 source:: ((67391705-7e88-4abf-84ec-c43365722458)) [[Nelson Textbook of Pediatrics]] 
 ICD-11_Code::
+tags:: #Paediatrics
 Here by Nephrotic Syndrome, [[Minimal Change Nephrotic Syndrome]] is meant for most of the parts
 
 - ## Etiology

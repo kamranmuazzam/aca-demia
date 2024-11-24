@@ -1,6 +1,9 @@
 alias:: Pediatrics
 
 - {{video https://www.youtube.com/watch?v=iwVICHdflk8}}
+-
+-
+-
 - [[Gastrointestinal Disorder of Children]]
 - [[Respiratory Disorders of Children]]
 - [[Genito Urinary Disorders of Children]]
@@ -10,7 +13,6 @@ alias:: Pediatrics
 - [[Neonatal conjunctivitis]]
 - [[Genetic Diseases & Syndromes]]
 - [[Immune Deficeincy in Children]]
-- [[Growth and Development]]
 - [[Primitive Reflexes]]
 - [[Immunizations of Children]]
 - [[Heart Diseases in Children]]

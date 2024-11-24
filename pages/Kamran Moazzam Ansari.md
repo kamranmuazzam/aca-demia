@@ -1,2 +1,1 @@
-- Kamran is going to visit [[Arjun Kafle]] in {{renderer :view, "c.page.props.location", :page [[Arjun Kafle]] }}
--
+alias:: Kamran

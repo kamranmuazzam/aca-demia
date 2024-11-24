@@ -1,5 +1,6 @@
 alias:: APSGN, AGN
 ICD-11_Code::
+tags:: #Paediatrics
 
 - ## Etiology
   background-color:: blue

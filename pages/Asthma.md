@@ -1,3 +1,5 @@
+tags:: #Paediatrics
+
 - If pt has sxs twice a week and PFTs are normal? Albuterol only
 - If pt has sxs 4x a week, night cough 2x a month and PFTs are normal? Albuterol + inhaled CS
 - If pt has sxs daily, night cough 2x a week and FEV1 is 60-80% Albuterol + inhaled CS + long acting beta ag (salmeterol)

@@ -1,12 +1,15 @@
-- alias::
-  ICD-11_Code::
+definition:: Pneumonia is infection of lung parenchyma
+alias::
+ICD-11_Code::
+tags:: #Paediatrics
+
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
 		- MC cause in neonates? GBS, E. coli, Lysteria
-		- MC cause 1 mo-3 mo? C. trachomatis, RSV, paraflu, strep pneumo
-		- MC cause in kids 4 mo- 5 y/o? VIRAL! (RSV) then s. pneumo
-		- MC cause in kids > 5 y/o ? Mycoplasma, s. pneumoa
+		- MC cause 1 mo-3 mo? C. trachomatis, RSV, parainfluenza, strep pneumoniae
+		- MC cause in kids 4 mo- 5 y/o? VIRAL! (RSV) then s. pneumoniae
+		- MC cause in kids > 5 y/o ? Mycoplasma, s. pneumoniae
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -38,9 +41,10 @@
 	- ### Imaging Studies
 		- CXR
 	- ### Differential Diagnosis
-		- Acute Bronchitis
-			- Kid comes w/ cough productive of yellow-green sputum, runny nose and T=100.8, Lung exam only reveals coarse rhonchii..
+		- Acute Bronchiotis
+			- Kid comes w/ cough productive of yellow-green sputum, runny nose and T=100.8, Lung exam only reveals coarse rhonchii.
 	- ### Confirmation of Diagnosis
+		- CXR
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment

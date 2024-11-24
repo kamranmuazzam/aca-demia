@@ -1,3 +1,5 @@
+tags:: #Paediatrics
+
 - 9 mo infant w/ runny nose, wheezy cough, T = 101.5, and RR=60. Retractions are visible and pulse ox is 91% -- Bronchiolitis
 	- Most common bug? RSV. Confirm w/swab
 	- CXR findings? Hyperinflation w/ patchy atelecatsis

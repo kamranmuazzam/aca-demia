@@ -1,4 +1,5 @@
 alias:: IMCI
+tags:: #Paediatrics
 
 - ![IMCI WHO.pdf](../assets/IMCI_WHO_1731568596967_0.pdf)
 - It is a method of classification and management of Presentations in children, not a method of diagnosing and treating.

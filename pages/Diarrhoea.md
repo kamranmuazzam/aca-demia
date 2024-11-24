@@ -1,5 +1,7 @@
-- alias::
-  ICD-11_Code::
+alias::
+ICD-11_Code::
+tags:: #Paediatrics
+
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

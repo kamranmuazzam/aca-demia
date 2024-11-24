@@ -1,4 +1,5 @@
 alias:: Enteric Fever, Typhoid
+tags:: #Paediatrics
 
 - ICD-11 Code::
 - ## Etiology
