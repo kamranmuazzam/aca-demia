@@ -1,0 +1,5 @@
+- fahim : 500
+- waseka : 500
+- zarif : 500 paid
+- nadim : 500
+- sohana : 500

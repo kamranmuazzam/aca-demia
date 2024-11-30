@@ -94,7 +94,7 @@
 	- Approach to a patient with lymphadenopahty
 	- [[Leukaemia]] #fahim
 	- [[Lymphoma]] #fahim
-	- [[ITP]] #fahim
+	- [[Idiopathic Thrombocytopenic Purpura]] #fahim
 	- [[Pancytopenia]]
 	- [[Multiple myeloma]]
 	- [[Blood Transfusion]]

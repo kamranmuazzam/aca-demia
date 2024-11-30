@@ -3,6 +3,7 @@
 - Drainage of Aqueous Humor
 	- Ciliary Processes
 	- Aqueous Humor in posterior chamber (through pupil)
+		- `Aqueous Humor comes from posterior chamber to the anterior via pupil`
 	- Anterior Chamber
 		- Conventional Outflow (75%)
 		  id:: 670674ac-08d3-439f-bd7b-ef31a74ba3c3

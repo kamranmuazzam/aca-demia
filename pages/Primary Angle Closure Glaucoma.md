@@ -25,11 +25,13 @@ alias:: Acute Congestive Glaucoma, ACG
 		- corneal edema - halos
 		- Hazy cornea - blurred vision
 	- Iris Atrophy
-	- Posterior Synechiae : adhesion between pupillary margin and lense in centre
+	- ((674abd95-5b79-4a8e-9b98-77b688e6b19a))
+	  id:: 6733ccee-5f24-4141-ab80-019a48eef619
 	- Cataract
 	- Pupil
 		- vercially oval
-		- mild dilated (this is why [[Atropine]] is contraindicated )
+		- mild dilated (this is why [[Atropine 1% Sulphate]] is contraindicated )
+		  id:: 6733ccee-50d1-41fe-9e24-601c73096b43
 			- fixed
 - Treatment
 	- Drug of choice

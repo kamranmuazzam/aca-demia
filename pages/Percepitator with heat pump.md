@@ -1,0 +1,8 @@
+- a tubular structure
+	- inlet and outlet being different and work in sync wirelessly
+		- the outlet being just a valved fan
+	- inlet
+		- electrostatic precipitator
+- heat pump, both sides having radiators and water exchangers
+	- cold side
+	- hot side

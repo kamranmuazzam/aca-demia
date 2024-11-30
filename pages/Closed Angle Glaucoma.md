@@ -7,7 +7,7 @@
 	- FIrm eye "Rock hard"
 - Symptoms can be triggered when the pupil dilates
 	- low light
-	- certain drugs ([[Atropine]], [[Scopolamine]])
+	- certain drugs ([[Atropine 1% Sulphate]], [[Scopolamine]])
 - Ophthalmologic emergency
 	- if not treated in time can lead to permanent blindness
 - Treatment
