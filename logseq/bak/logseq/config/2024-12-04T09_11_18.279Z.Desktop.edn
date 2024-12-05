@@ -423,6 +423,6 @@
  :journal/page-title-format "dd-MM-yyyy"
  :publishing/all-pages-public? true
  :graph/settings {:orphan-pages? true
- :excluded-pages? true
+ :excluded-pages? false
  :builtin-pages? true}
  :graph/forcesettings {:charge-range 2200}}

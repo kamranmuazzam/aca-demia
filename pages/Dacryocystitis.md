@@ -1,7 +1,5 @@
-alias:: Nearsightedness
-definition:: #eye-prof-written 
-ICD-11_Code::
-
+- alias::
+  ICD-11_Code::
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -16,40 +14,49 @@ ICD-11_Code::
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features
+- ## Clinical Features #eye-prof-written
   background-color:: blue
 	- ### Signs and Symptoms
 		- #### Symptoms
 		- #### Signs
-	- ### Stages or Classification #eye-prof-written
-		- [[Pathological Myopia]]
+	- ### Stages or Classification
+		- [[Congenital Dacryocystitis]]
+			- ### Clinical Features #eye-prof-written
+		- [[Acute Dacrocystitis]]
+			- ### Clinical Features #eye-prof-written
+		- [[Chronic Dacryocystitis]]
 	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
-		- ### Classical Presentation #eye-prof-written
-			- School Child with complaints of unable to read the blackboard in his classroom if he seat at last row
+		- #### Classical Presentation #eye-prof-written
+			- Painful Swelling and redness over the lacrimal sac area(medial canthus), with history waterying in the eye, occasional discharge for last 2 years
+			- Congenital -> infant with persistent watering(epiphora) and mild discharge from both eyes since birth
+		- #### Probable Diagnosis
 	- ### Laboratory Tests
 	- ### Imaging Studies
-	- ### Differential Diagnosis
+	- ### Differential Diagnosis #eye-prof-written
+	- ### Confirmation of Diagnosis
 - ## Management and Treatment #eye-prof-written
   background-color:: blue
 	- ### Medical Treatment
+		- Child #eye-prof-written
+		- Adult #eye-prof-written
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
+	- ### Follow-up
+	- ## Management of Lacrimal Abscess #eye-prof-written
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
 		- #### With Treatment
-		- #### Without Treatment
+		- #### Without Treatment #eye-prof-written
+			- ##### Possible Complications
+			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment
 		- #### Without Treatment
 	- ### Quality of Life Considerations
-- ## Complications
-  background-color:: blue
-	- ### Possible Complications
-	- ### Long-term Effects
 - ## Prevention
   background-color:: blue
 	- ### Health Education

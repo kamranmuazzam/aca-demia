@@ -14,6 +14,8 @@
 			- [[Bailey & Love's Short Practice of Surgery]]
 		- [[ENT]]
 			- [[P L Dhingra Diseases of Ear, Nose and Throat & Head and Neck Surgery]]
+		- [[Eye]]
+			- [[Parsons Diseases of the Eye]]
 	- [[Gynaecology & Obsetrics]]
 		- [[Blueprints Obstetrics and Gynecology]]
 		- [[Obstetrics]]

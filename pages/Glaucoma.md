@@ -30,11 +30,21 @@ ICD-11_Code::
 		- #### Symptoms
 		- #### Signs
 	- ### Stages or Classification
+		- [[Primary Adult Glaucoma]]
+			- [[Primary Open Angle Glaucoma]]
+			- [[Primary Angle Closure Glaucoma]]
+		- [[Secondary Glaucomas]]
+		- [[Paediatric Glaucoma]]
+			- [[Congenital Glaucoma]]
+			- [[Juvenile Primary Open Angle Glaucoma]]
+		-
+		-
 		- [[Closed Angle Glaucoma]]
 		- [[Open Angle Glaucoma]]
 		- [[Primary Angle Closure Glaucoma]]
 		- [[Primary Open Angle Glaucoma]]
 		- Types
+		  collapsed:: true
 			- Primary
 				- cause unclear
 				- more common
@@ -99,6 +109,10 @@ ICD-11_Code::
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
+		- Very high [[IOP]] need to be lowered immediately with the use of intravenous acetazolamide or mannitol
+		- Oral acetazolamide or glycerol takes about 0.5-1 hour to control moderately high [[IOP]]
+		- 1st Line of Treatment
+			- [[ß-Blockers]], [[alpha-2 agonists]]
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
 - ## Prognosis

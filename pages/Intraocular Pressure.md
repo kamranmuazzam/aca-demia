@@ -1,7 +1,7 @@
 alias:: IOP
 
 - Intraocular Pressure is measured by Tonometry
-- Normal IOP is 12-21 mm Hg #normal_reference_range
+- Normal IOP is 10-21 mm Hg (avg 15 mm Hg) #normal_reference_range
 - Maintenance of normal IOP
 	- Parasympathetic System
 		- Constricts ciliary muscle

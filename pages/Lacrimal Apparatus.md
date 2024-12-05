@@ -1,0 +1,3 @@
+- Drawing and Labelling lacrimal apparatus/passage #eye-prof-written
+- SN : Punctum #eye-prof-written
+- Pathway of Tear #eye-prof-written

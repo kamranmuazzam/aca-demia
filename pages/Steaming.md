@@ -1,0 +1,2 @@
+- Steaming can be done with say an a traditional steamer.
+- I am more of interested in say steam distillation technique of distillation.

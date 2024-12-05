@@ -1,7 +1,5 @@
-alias:: Nearsightedness
-definition:: #eye-prof-written 
-ICD-11_Code::
-
+- alias::
+  ICD-11_Code::
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -21,35 +19,34 @@ ICD-11_Code::
 	- ### Signs and Symptoms
 		- #### Symptoms
 		- #### Signs
-	- ### Stages or Classification #eye-prof-written
-		- [[Pathological Myopia]]
+	- ### Stages or Classification
 	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
-		- ### Classical Presentation #eye-prof-written
-			- School Child with complaints of unable to read the blackboard in his classroom if he seat at last row
+		- #### Classical Presentation
+		- #### Probable Diagnosis
 	- ### Laboratory Tests
 	- ### Imaging Studies
 	- ### Differential Diagnosis
+	- ### Confirmation of Diagnosis
 - ## Management and Treatment #eye-prof-written
   background-color:: blue
 	- ### Medical Treatment
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
+	- ### Follow-up
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
 		- #### With Treatment
 		- #### Without Treatment
+			- ##### Possible Complications
+			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment
 		- #### Without Treatment
 	- ### Quality of Life Considerations
-- ## Complications
-  background-color:: blue
-	- ### Possible Complications
-	- ### Long-term Effects
 - ## Prevention
   background-color:: blue
 	- ### Health Education
