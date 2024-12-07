@@ -1,0 +1,1 @@
+definition:: Contraction of intravascular volume

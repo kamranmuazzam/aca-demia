@@ -1,7 +1,7 @@
 alias::  APH
-source:: Chapter ((671a2f62-866e-4f30-a251-05c2686ade76)) of [[Dutta Obs]] 
-definition:: ((6719b1c0-b5eb-4f5e-b70e-13bc5a2d9efc)) #obspw #confusion might be 20th week
+source:: Chapter ((671a2f62-866e-4f30-a251-05c2686ade76)) of [[Dutta Obs]]
 
+- #definition ((6719b1c0-b5eb-4f5e-b70e-13bc5a2d9efc)) #obspw #confusion might be 20th week
 - # Etiology #obspw
   alias:: Classification of Antepartum hemorrhage
 	- ((6719b208-4fdb-4f2d-8820-cc6beb8e32ed))

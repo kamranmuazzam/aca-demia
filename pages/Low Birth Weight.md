@@ -1,7 +1,7 @@
 alias:: LBW
-definition:: ((6741bfd1-e2b0-4630-a571-b86248c17294)) #pedi-prof-written
 tags:: #Paediatrics
 
+- #definition ((6741bfd1-e2b0-4630-a571-b86248c17294)) #pedi-prof-written
 - # Spectrum of LBW  #pedi-prof-written
 	- LBW : < 2500 gm
 	- Very LBW : < 1500 gm

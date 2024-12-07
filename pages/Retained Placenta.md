@@ -1,5 +1,4 @@
-definition:: #obs-prof-written
-
+- #definition #obs-prof-written
 - Causes #obs-prof-written
 - Diagnosis #obs-prof-written
 - Treatment #obs-prof-written

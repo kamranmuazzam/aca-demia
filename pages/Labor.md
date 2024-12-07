@@ -1,6 +1,6 @@
-definition:: ((6713bc8d-10b6-4544-9313-75cc8efac4ea)) #obspw 
 contrast:: [[Braxton Hicks contraction]] , not regular and without cervical change
 
+- #definition ((6713bc8d-10b6-4544-9313-75cc8efac4ea)) #obspw
 - [[Normal Labor]] & ((67225810-2ee9-4dee-8e5d-714fd84d2b1a))
 - [[Fetal Orientation]]
 - # Presentation #classical-presentation #obs-prof-written #unanswered
@@ -12,13 +12,13 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 - # Maternal Changes
   collapsed:: true
 	- ## Cervical dilation
-	  definition:: opening/diameter of cervix during labor
+		- #definition opening/diameter of cervix during labor
 		- Full Dilation of Cervix
 		  id:: 6711ec53-8dd0-47dc-811d-012d2c2ec744
-		  definition:: 10 cm cervical dilation
+			- #definition 10 cm cervical dilation
 	- ## Cervical effacement
-	  definition:: Thickness of the cervix, expressed as a percentage
 	  note:: `although this correlates with the cervical dilation, it is not the same, as that is the gap in between the cervix, while this is the thickness of the cervix itself`
+		- #definition Thickness of the cervix, expressed as a percentage
 		- 2 cm is 0% effacement; 1 cm is 50%
 		- 100% effacement
 		  id:: 6711eafd-a950-4149-8d0b-d4c8828ef836
@@ -29,10 +29,9 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 				- [[Laminaria]]
 - # Lower Segement of Uterus #obspw 
   alias:: LS
-  definition:: #obs-prof-written #unanswered
-	- ((6713c79b-ba93-455e-af98-77ccb7eb6139))
+	- #definition #obs-prof-written ((6713c79b-ba93-455e-af98-77ccb7eb6139))
 	- SN : #obs-prof-written #unanswered
 - # Engagement
-  definition:: #obspw
+	- #definition #obspw
 	- ## Causes of non-engaged head in a primae #obspw
 	- Complications if labor occurs in primae #obspw

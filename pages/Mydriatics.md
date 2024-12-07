@@ -1,5 +1,4 @@
-definition:: [[mydriasis]] #eye-prof-written
-
+- #definition [[mydriasis]] #eye-prof-written
 - # Classification #eye-prof-written
 	- ## Long Acting Mydriatics
 	  duration:: 14-21 days

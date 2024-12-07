@@ -1,6 +1,6 @@
 alias:: hyperthermia,  pyrexia
-definition:: A body temperature of 38 ºC (100.4 ºF) or higher is considered a fever
 
+- #definition A body temperature of 38 ºC (100.4 ºF) or higher is considered a fever
 - ## Associations
   collapsed:: true
 	- Associated Signs and Symptoms

@@ -1,7 +1,7 @@
-definition:: When the placenta is implanted partially or completely over the lower uterine segment (over and adjacent to the internal os) it is called placenta previa #obspc
 title:: Placenta Praevia
 ICD-11_Code::
 
+- #definition When the placenta is implanted partially or completely over the lower uterine segment (over and adjacent to the internal os) it is called placenta previa #obspc
 - # Morbidly Adherent Placenta #obspw #unanswered
 	- q : name 3 morbidly adherent placenta
 - ## Etiology

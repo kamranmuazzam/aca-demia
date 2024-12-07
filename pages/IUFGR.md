@@ -1,6 +1,6 @@
 alias:: Intra-Uterine Fetal Growth Retardation
-definition:: IUFGR is said to be present in those babies whose birth wegiht is below the 10th percentile of the average for the gestational age #obspc
 
+- #definition IUFGR is said to be present in those babies whose birth wegiht is below the 10th percentile of the average for the gestational age #obspc
 - # Difference between symmetrical & asymmetrical IUFGR #obspc
 	- |Symmetric IUFGR|Asymmetrical IUFGR|
 	  |--|--|

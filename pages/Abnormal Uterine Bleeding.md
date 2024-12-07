@@ -1,6 +1,6 @@
 alias:: AUB
-definition:: Any uterine bleeding that occurs outside the normal volume, duration, regularity or frequency is considered abnormal uterine bleeding.
 
+- #definition Any uterine bleeding that occurs outside the normal volume, duration, regularity or frequency is considered abnormal uterine bleeding.
 - # Etiology
   alias:: FIGO Classification of Abnormal Uterine Bleeding
   abbreviation:: [[P]] [[A]] [[L]] [[M]]- [[C]] [[O]] [[E]] [[I]] [[N]]

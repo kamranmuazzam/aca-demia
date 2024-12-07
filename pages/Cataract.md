@@ -1,7 +1,9 @@
-definition:: Any opacity in human crystalline lens #eye-prof-written 
 alias::
 ICD-11_Code::
 
+- #definition {{c1 Any opacity in human crystalline lens}} #eye-prof-written #card
+  id:: 67542d36-5b17-40ac-b386-e03ef8bd4a2b
+  deck:: [[Eye]]
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -22,58 +24,16 @@ ICD-11_Code::
 		- #### Symptoms
 		- #### Signs
 	- ### Stages or Classification #eye-prof-written
-		- ##### Etiological Classificaton #eye-prof-written
-			- Developmental Cataract
-			  Developmental cataract may be preset *at birth(congenital)* or it may develop later
-				- Most common morphological type
-					- Punctate Cataract
-					- Zonular Cataract (maternal infection, malnutrition, placental haemorrhage)
-					- Fusiform Cataract
-					- Nuclear Cataract
-					- Coronary Cataract
-					- Anterior Capsular Cataract
-					- Posterior Capsular Cataract
-			- Acquired #eye-prof-written
-				- Age related cataract
-				  alias:: Senile Cataract
-				  rare-age:: <50
-				  universal-age:: >70 (varying degrees)
-				- Secondary cataract #eye-prof-written
-				  alias:: Pre-Senile Cataract
-					- Cataract due to other causes
-					- Infection
-					  collapsed:: true
-						- Rubella is a classic cause of congenital cataracts.
-					- Cataract associated with ocular disease
-					  collapsed:: true
-						- Complicated Cataract
-						  definition:: This results from disturbance of the nutrition of the lens due to inflammatory or degenerative disease of other parts of the eye #eye-prof-written
-							- Ocular Diseases that cause complicated cataract #eye-prof-written
-								- [[Iridocyclitis]]
-								- [[Ciliary Body Tumours]]
-								- [[Choroiditis]]
-								- [[Degenerative Myopia]]
-								- [[Anterior Segment Ischaemia]]
-								- [[Retinitis Pigmentosa]]
-								- [[Retinal Detachment]]
-								- [[Glaucoma]]
-								- Chronic [[Uveitis]]
-					- Cataract associated with Systemic Disease #eye-prof-written
-					  collapsed:: true
-						- Diabetic cataract
-						  alias:: Snow flake cataract
-						- [[Parathyroid tetany]]
-						- [[Myotonic Dystrophy]]
-						- [[Galactosaemia]]
-						- [[Down Syndrome]]
-						- [[Atopic Cataract]]
-					- Cataract due to other causes
-					  collapsed:: true
-						- [[Heat cataract]]
-						- [[Irradiation cataract]]
-						- [[Electric cataract]]
-						- [[Traumatic Cataract]]
-		- ##### Depending on maturity
+		- ##### Etiological Classificaton #eye-prof-written #card
+		  deck:: #Eye
+		  id:: 674ac82d-455f-4fbd-b556-e99abf5ff579
+			- [[Developmental Cataract]]
+			  id:: 674ac7a4-7bfe-4cd4-9c61-6ad349bdd3af
+			- [[Acquired Cataract]]
+			  id:: 674ac7b5-20c1-41d8-b9e0-e338bfe7abcd
+		- ##### Depending on maturity #eye-prof-written #card
+		  deck:: #Eye
+		  id:: 674ac835-5aa6-4acd-8035-a1b5a218abdb
 			- [[Immature Cataract]]
 			- [[Intumescent Cataract]]
 			- [[Mature Cataract]]
@@ -82,16 +42,15 @@ ICD-11_Code::
 				- Morgagnian Cataract
 	- ### Diagnostic Criteria
 	  id:: 33644eee-3af2-4d56-8089-32a582fb4f8d
-		- |Traits|Immature Cataract|Mature Cataract|Hypermature Cataract|
-		  |--|--|--|--|
-		  |Visual Acuity|upto 6/12, 6/18|6/36, 6/60|Hand movement to PL, PR|
-		  |Colour|Grayish white|Pearly white|Milky White|
-		  |Iris shadow|present|absent|absent|
-		  |Fundal glow|present|absent|absent|
+		- | Traits        | Immature Cataract | Mature Cataract | Hypermature Cataract    |
+		  | ------------- | ----------------- | --------------- | ----------------------- |
+		  | Visual Acuity | upto 6/12, 6/18   | 6/36, 6/60      | Hand movement to PL, PR |
+		  | Colour        | Grayish white     | Pearly white    | Milky White             |
+		  | Iris shadow   | present           | absent          | absent                  |
+		  | Fundal glow   | present           | absent          | absent                  |
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
-	  collapsed:: true
 		- #### Classical Presentation #classical-presentation
 			- Old Age, above 60
 			- Gradual Dimness of Vision for past few years
@@ -101,16 +60,16 @@ ICD-11_Code::
 		- Follow ((33644eee-3af2-4d56-8089-32a582fb4f8d))
 		- #### Probable Diagnosis
 	- ### Examination
-		- *General Examination of the patient should be done to determine the presence of serious systemic disease*
+		- _General Examination of the patient should be done to determine the presence of serious systemic disease_
 		- Visual Acuity
 		- Pupillary light reflex [Direct, consensual]
 		- Color of lens [Torch examination]
-		  *grading of nucleus hardness* by [[LOCS]]
+		  _grading of nucleus hardness_ by [[LOCS]]
 			- ((674f65c1-fc03-4bf1-ab74-bbb1463be2f2))
 				- The grading of nucleus hardness is useful to the cataract surgeon in planning surgery by phacoemulsification
 		- [[Intraocular Pressure]] [Digitally]
 		- Retinal and Optic Nerve Function
-		  *If the fundus cannot be seen, 5 tests are of value*
+		  _If the fundus cannot be seen, 5 tests are of value_
 			- Detection of the projection of light
 			- Macular function
 			- Entopic view of the retina
@@ -137,7 +96,6 @@ ICD-11_Code::
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
-  collapsed:: true
 	- ### Medical Management
 	- ### Surgical Options
 		- ### Names of Cataract Surgeries #eye-prof-written
@@ -146,19 +104,21 @@ ICD-11_Code::
 			- [[Phaco-emulsification]] with [[Posterior Chamber Intraocular Lens Implantation]]
 			- [[Lensectomy]]
 			- [[Femtosecond Laser-Assisted Cataract Surgery]]
-		- ### Preoperative Investigations #eye-prof-written
+		- ### Preoperative Investigations 
 		  Preoperative Clinical Evaluation
-			- Ocular
-			  collapsed:: true
-				- Tonometry
-				- Sac Patency Test
-				- Biometry
-				- B-Scan if Hypermature Cataract
-			- Systemic
-			  collapsed:: true
-				- Blood Sugar, HbA1C
-				- ECG
-				- Chest X-Ray if Respiratory problem
+			- Ocular #eye-prof-written #card
+			  deck:: #Eye
+			  id:: 674ff598-cb9b-4a1f-bd83-7cccdbfd5f2d
+				- [[Tonometry]]
+				- [[Sac Patency Test]]
+				- [[Biometry]]
+				- [[B-Scan]] if Hypermature Cataract
+			- Systemic #eye-prof-written #card
+			  deck:: #Eye
+			  id:: 674ff5c8-ce33-4f49-a8f6-bddb48164eb9
+				- Blood Sugar, [[HbA1c]]
+				- [[ECG]]
+				- [[Chest X-Ray PA view]] if Respiratory problem
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 	  collapsed:: true
@@ -169,8 +129,8 @@ ICD-11_Code::
 			- Opthalmoscope
 - ## Prognosis
   background-color:: blue
-  collapsed:: true
 	- ### Expected Course
+	  collapsed:: true
 		- #### With Treatment
 			- Due to anasthetics
 				- Retrobulbar hemorrhage
@@ -184,22 +144,28 @@ ICD-11_Code::
 				  logseq.order-list-type:: number
 				- Lens Drop
 				  logseq.order-list-type:: number
+				- Injury to Surrounding Structures
+				  logseq.order-list-type:: number
 			- Early Post-operative complication(first 3 weeks)
 				- [[Corneal edema]]
-				- Macular Edema
+				- Uveitis
 			- Late Post Operative Complication
+				- Macular Edema
 				- Posterior capsular opacification (2-3 years)
 				  alias:: after cataract, secondary cataract
 				- [[Endophthalmitis]]
+				- Intraocular lens malposition
+				- Sublaxation
 				- Astigmatism
 		- #### Without Treatment
 			- ##### Possible Complications
-				- Progression of
+				- Progression of Immature to Mature and Mature to Hypermature Cataract
 			- ##### Long-Term Effects
 				- Lens Induced Glaucoma
 					- Hypermature -> Phacolytic glaucoma, Phaco-anaphylactic glaucoma
 					- Immature, Mature -> Phacomorphic glaucoma
 				- [Anti-glaucoma drug + Cataract Surgery] Media
+				- Retinal Detachment
 	- ### Quality of Life Considerations
 - ## Prevention
   background-color:: blue
@@ -210,6 +176,7 @@ ICD-11_Code::
 	- ### Lifestyle Modifications
 - ## Patient Education and Support
   background-color:: blue
+  collapsed:: true
 	- ### Educational Resources
 	- ### Support Groups
 	- ### Counseling Options

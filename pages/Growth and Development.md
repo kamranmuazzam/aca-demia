@@ -1,11 +1,11 @@
 # Growth
-definition:: ((674196b2-c3dc-4efa-95d6-6d9220c51768)) #pedi-prof-written
 tags:: #Paediatrics
+- #definition: ((674196b2-c3dc-4efa-95d6-6d9220c51768)) #pedi-prof-written
 - # Development
-  definition:: ((674196e0-b9d1-41c9-9640-1d9f262ce0d6)) #pedi-prof-written
+	- #definition ((674196e0-b9d1-41c9-9640-1d9f262ce0d6)) #pedi-prof-written
 	- ## Early Childhood Development
-	  definition:: ((67419858-7444-4287-a359-6d5068b4027e)) ((67419839-6a62-413a-8099-2b499d850b8b)) ((674197cc-57a1-4044-94c1-1128e2e89772)) #pedi-prof-written
 	  alias:: ECD
+		- #definition ((67419858-7444-4287-a359-6d5068b4027e)) ((67419839-6a62-413a-8099-2b499d850b8b)) ((674197cc-57a1-4044-94c1-1128e2e89772)) #pedi-prof-written
 		- ### Factors affecting the ECD #pedi-prof-written
 - # Factors influencing growth and development #pedi-prof-written
 	- ((6741989a-0748-42b9-9225-674b3e86b616))

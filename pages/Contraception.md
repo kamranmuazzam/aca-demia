@@ -19,6 +19,6 @@
 			- Reduces the incidence of tubal infertility and ectopic pregnancy
 			- Protection against cervical cell abnormalities
 			- Useful where the coital act is infrequent and irregular
-		- Combined 
-		  definition:: combined use of  mechanical and chemical devices
+		- Combined
+			- #definition combined use of  mechanical and chemical devices
 			- example :condom together with a spermicidal jelly

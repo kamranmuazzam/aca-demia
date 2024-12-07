@@ -1,4 +1,3 @@
-definition:: #eye-prof-written
-
+- #definition #eye-prof-written
 - # Advantages #eye-prof-written
 - # Disadvantages #eye-prof-written

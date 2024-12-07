@@ -1,4 +1,12 @@
-## Indications #card
+## Indications #ent-prof-card #card 
+card-last-score:: 1
+card-repeats:: 1
+card-next-schedule:: 2024-12-07T18:00:00.000Z
+card-last-interval:: -1
+id:: 6733ccee-2ae1-4595-b0f6-5f09375b1b25
+card-ease-factor:: 2.5
+card-last-reviewed:: 2024-12-07T09:10:10.080Z
+deck:: #ENT
 	- [[Recurrent Tonsillitis]]
 	  logseq.order-list-type:: number
 	- [[Quinsy]]: for the first time and also second time without tonsillitis

@@ -1,7 +1,7 @@
-definition:: #eye-prof-written
 alias::
 ICD-11_Code::
 
+- #definition #eye-prof-written
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

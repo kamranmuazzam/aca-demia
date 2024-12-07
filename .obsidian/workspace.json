@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "13900b5cf176b6cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c01caa1fd2db9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07d7dc4ffe0e0e29",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b973a7505fb9ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba88cf54b14be8af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fee092e757590804",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9eec337ac40e078",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#eye-prof-written",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b5f82f291cd3cfe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c63a6d1f4c37ee91",
+    "type": "split",
+    "children": [
+      {
+        "id": "e757fbad9712aa5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "108a8de768a6189a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/Fever.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fever"
+            }
+          },
+          {
+            "id": "61f5c898fda47edc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/Fever.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fever"
+            }
+          },
+          {
+            "id": "910ec3e664350a51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "35c9ddeadbf9f1b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/Fever.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fever"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "07d7dc4ffe0e0e29",
+  "lastOpenFiles": [
+    "pages/Chalazion.md",
+    "pages/Conjunctivitis.md",
+    "pages/Allergic Conjunctivitis.md",
+    "pages/Acute Dacrocystitis.md",
+    "pages/Accomodation.md",
+    "pages/Fever.md",
+    "DCR.md",
+    "pages/eye-prof-written.md",
+    "pages/Cataract.md",
+    "pages/Closed Angle Glaucoma.md",
+    "pages/Smoking History.md"
+  ]
+}

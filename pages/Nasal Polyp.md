@@ -1,5 +1,4 @@
-definition:: soft tissue masses (teardrop-shaped, non-neoplastic) that arises from the mucous membranes of the nose and paranasal sinuses.
-
+- #definition soft tissue masses (teardrop-shaped, non-neoplastic) that arises from the mucous membranes of the nose and paranasal sinuses.
 - usually due to chronic inflmmation
 - Epidemiology
 	- Bilateral (usually)

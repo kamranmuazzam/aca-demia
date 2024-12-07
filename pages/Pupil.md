@@ -1,4 +1,3 @@
-definition:: #eye-prof-written
-
+- #definition #eye-prof-written
 - [[Argyll Robertson Pupil]]
 - # Pupillary Signs of Different Ocular Diseases with Explanation #eye-prof-written

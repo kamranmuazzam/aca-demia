@@ -1,7 +1,7 @@
 alias:: GDM
-definition:: GDM is defined as carbohydrate intolerance of variable severity with onset or first recognition during the present pregnancy #obspc 
 ICD-11_Code::
 
+- #definition GDM is defined as carbohydrate intolerance of variable severity with onset or first recognition during the present pregnancy #obspc
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

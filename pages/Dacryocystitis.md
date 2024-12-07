@@ -30,8 +30,6 @@
   background-color:: blue
 	- ### Clinical Diagnosis
 		- #### Classical Presentation #eye-prof-written
-			- Painful Swelling and redness over the lacrimal sac area(medial canthus), with history waterying in the eye, occasional discharge for last 2 years
-			- Congenital -> infant with persistent watering(epiphora) and mild discharge from both eyes since birth
 		- #### Probable Diagnosis
 	- ### Laboratory Tests
 	- ### Imaging Studies
@@ -40,7 +38,6 @@
 - ## Management and Treatment #eye-prof-written
   background-color:: blue
 	- ### Medical Treatment
-		- Child #eye-prof-written
 		- Adult #eye-prof-written
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations

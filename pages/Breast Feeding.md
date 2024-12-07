@@ -1,7 +1,7 @@
 # Exclusive Breast Feeding
 alias:: EBF
-definition:: Exclusive Breast Feeding means giving the baby only breast milk (not even a drop of water or other foods) from birth till 6 months (180 days) of age. (newer definitions allow consumption of medicine) #pedi-prof-written
 tags:: #Paediatrics
+	- #definition Exclusive Breast Feeding means giving the baby only breast milk (not even a drop of water or other foods) from birth till 6 months (180 days) of age. (newer definitions allow consumption of medicine) #pedi-prof-written
 - # Benefits of Breast Feeding #pedi-prof-written
 	- ## Benefit to the New Born #obspc #pedi-prof-written
 		- Complete food, Species specific

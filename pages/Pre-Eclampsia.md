@@ -1,8 +1,8 @@
 alias:: PE
 source:: ((671a2f95-31d1-4ec3-8576-8f636115a1a5)) [[Dutta Obs]] 
-definition:: Multisystem disorder characterized by denovo onset of HTN with proteinuria developed beyond 20 weeks of gestation or accompanied by neurological, hematological, lymphatic, hepatic, renal manifestations or Fetal growth restriction in absence of proteinuria.
 ICD-11_Code::
 
+- #definition Multisystem disorder characterized by denovo onset of HTN with proteinuria developed beyond 20 weeks of gestation or accompanied by neurological, hematological, lymphatic, hepatic, renal manifestations or Fetal growth restriction in absence of proteinuria.
 - ## Etiology
   background-color:: blue
 	- ### Risk Factors

@@ -5,7 +5,7 @@ alias:: Polyp_
 		- Endometrial Polyp
 		  commonality:: most common type of benign uterine polyp
 		- Endocervical Polyp
-		  definition:: #gynepw
+			- #definition #gynepw
 			- Treatment #gynepw
 		- Myomatous Polyp
 		- Fibroid Polyp

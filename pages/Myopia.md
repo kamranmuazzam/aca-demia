@@ -1,7 +1,7 @@
 alias:: Nearsightedness
-definition:: #eye-prof-written 
 ICD-11_Code::
 
+- #definition #eye-prof-written
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

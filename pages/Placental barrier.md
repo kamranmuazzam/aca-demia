@@ -1,3 +1,2 @@
-definition:: #obs-prof-written #unanswered
-
+- #definition #obs-prof-written #unanswered
 - # Structure of placental barrier at term #obs-prof-written #unanswered

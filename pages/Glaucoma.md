@@ -1,7 +1,16 @@
-definition:: `Glaucoma is group of disorders characterized by a progressive optic neuropathy resulting in irreversible visual field defects associated frequently but not invariably with increased intraocular pressure .`
+card-last-score:: 5
+card-repeats:: 1
+card-next-schedule:: 2024-12-11T09:10:05.423Z
+card-last-interval:: 4
+id:: 6733cced-0281-4d6a-8378-000aeff0a1f7
+card-ease-factor:: 2.6
+card-last-reviewed:: 2024-12-07T09:10:05.425Z
 alias::
-ICD-11_Code::
+icd-11-code::
 
+- #definition {{c1 Glaucoma is group of disorders characterized by a progressive optic neuropathy resulting in irreversible visual field defects associated frequently but not invariably with increased intraocular pressure .}} #eye-prof-card #card
+  deck:: #Eye
+  id:: 67542d3c-7ebb-445b-b59f-a43a4062ed39
 - Progressive Optic Neuropathy meaning [[Peripheral Vision Loss]] followed by central vision loss
   id:: 670679fd-0957-4e98-9774-c0ab0ad988ff
 - There is common misconception that glaucoma means increased [[IOP]] but there are glaucoma with normal [[IOP]] which are called [[Normal Tension Glaucoma]]

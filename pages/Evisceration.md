@@ -1,4 +1,3 @@
-definition:: Resection of inner 2 layers of the eyeball, leaving out the outer fibrous coat
-
+- #definition Resection of inner 2 layers of the eyeball, leaving out the outer fibrous coat
 - Indication
 	- [[Endophthalmitis]]

@@ -1,5 +1,4 @@
-definition:: It is a fungal infection of external auditory canal
-
+- #definition It is a fungal infection of external auditory canal
 - alias:: AA03
   ICD-11_Code:: [[AA03]]
 - ## Etiology

@@ -1,7 +1,10 @@
+id:: 67503fc7-1712-4c11-a1f2-e7bcf9942f04
 alias::
-definition::  #eye-prof-written 
-ICD-11_Code::
+icd-11-code::
 
+- #definition {{c1 Triangular, fibrovascular, subepithelial ingrowth of degenerative bulbar conjunctival tissue extended from the conjunctiva on to the cornea encroaching the limbus}} #eye-prof-card, #eye-prof-written #card
+  deck:: #Eye
+  id:: 6754219b-65c2-49eb-bf00-c1e9287c63d8
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -34,8 +37,18 @@ ICD-11_Code::
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment #eye-prof-written
   background-color:: blue
-	- ### Medical Treatment
+	- ### Medical Treatment (Symptomatic Relief)
+	  recurrence::
+		- Low Potent steroid drop
+		- Artificial Tear
+		- Advice the patient to stay away from aggravating factors (Heat, Dust)
+		- Follow up
 	- ### Surgical Options #eye-prof-written
+		- Excision of Pterygium with conjunctival autograft (from the same eye)
+		- Excision of Pterygium with amniotic membrane graft
+		- Excision of Pterygium with Mitomycin C
+		- Adjunctive Radiotherapy with ß-radiation
+		- Excision of Pterygium with bear sclera
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis

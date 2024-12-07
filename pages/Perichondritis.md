@@ -1,7 +1,6 @@
-definition:: It is defined as inflammation of the perichondrium of the pinna
-
 - alias::
   ICD-11_Code::
+- #definition It is defined as inflammation of the perichondrium of the pinna
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

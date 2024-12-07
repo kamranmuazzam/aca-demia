@@ -1,7 +1,7 @@
 alias:: PNA, Asphyxia neonatorum
-definition:: ((6741ba70-452e-4168-92dc-001013ce69f7)) #pedi-prof-written
 tags:: #Paediatrics
 
+- #definition ((6741ba70-452e-4168-92dc-001013ce69f7)) #pedi-prof-written
 - # Classical Presentation #classical-presentation #pedi-prof-written
 	- A newborn baby delivered by LUCS due to fetal distress/ failed to take breath immediately after delivery
 - # Clinical Feature

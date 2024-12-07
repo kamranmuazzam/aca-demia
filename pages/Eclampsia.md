@@ -1,8 +1,8 @@
 alias:: Antepartum Eclampsia
-definition:: [[Pre-Eclampsia]] when complicated with grand mal seizures (generalized tonic-clonic convulsions) and/or coma is called eclampsia #obspc
 source:: ((671a2fe1-638a-434d-895f-ddf00e3932c9)) [[Dutta Obs]]
 ICD-11_Code::
 
+- #definition [[Pre-Eclampsia]] when complicated with grand mal seizures (generalized tonic-clonic convulsions) and/or coma is called eclampsia #obspc
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

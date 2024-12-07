@@ -1,5 +1,4 @@
-definition:: Obstructed Labor is one where in spite of good uterine contractions, the progressive descent of the presenting part is arrested due to mechanical obstruction #obspc
-
+- #definition Obstructed Labor is one where in spite of good uterine contractions, the progressive descent of the presenting part is arrested due to mechanical obstruction #obspc
 - alias::
   ICD-11_Code::
 - ## Etiology

@@ -1,7 +1,7 @@
 alias::
-definition:: The accumulation of serous fluid within the pleural space is termed pleural effusion
 ICD-11_Code::
 
+- #definition The accumulation of serous fluid within the pleural space is termed pleural effusion
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

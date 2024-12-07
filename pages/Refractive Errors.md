@@ -1,5 +1,4 @@
-definition:: #eye-prof-written
-
+- #definition #eye-prof-written
 - # Classification #eye-prof-written  
   List
 	- [[Ametropia]]

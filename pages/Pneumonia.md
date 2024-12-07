@@ -1,8 +1,8 @@
-definition:: Pneumonia is infection of lung parenchyma
 alias::
 ICD-11_Code::
 tags:: #Paediatrics
 
+- #definition Pneumonia is infection of lung parenchyma
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

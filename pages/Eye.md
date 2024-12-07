@@ -2,7 +2,8 @@
 - [[Physiology of Eye]]
 - [[Visual Acuity]]
 - [[Proptosis]]
-- [[Cataract]]
-- [[Pterigium]]
+- Main Diseases
+	- [[Cataract]]
+	- [[Pterigium]]
 - [[Foreign Body in Eye]]
 - [[Conjunctivitis]]

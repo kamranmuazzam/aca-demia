@@ -1,1 +1,9 @@
 - SN : #eye-prof-written
+- # Indications
+	- [[Epiphora]]
+	- Recurrent or [[Chronic Conjunctivitis]]
+	- Suspected Nasolacrimal Duct Obstruction as in [[Chronic Dacryocystitis]]
+- # Contraindications
+	- [[Acute Dacrocystitis]]
+	- Recent Ocular Surgery
+	- [[Pregnancy]] (if contrast usage)

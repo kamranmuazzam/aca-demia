@@ -1,5 +1,4 @@
-definition:: Perinatal mortality is defined as deaths among fetuses weighing 100 g or more at brith (28 weeks gestation) who die before or during delivery or within the first 7 days of delivery #obspc
-
+- #definition Perinatal mortality is defined as deaths among fetuses weighing 100 g or more at brith (28 weeks gestation) who die before or during delivery or within the first 7 days of delivery #obspc
 - The perinatal mortality rate is expressed in terms of such deaths per 1000 total births
 - # Causes
 	- Chronic hypoxia(30%)

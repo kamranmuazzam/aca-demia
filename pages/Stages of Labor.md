@@ -1,18 +1,18 @@
 tags:: #obspw #obspc
 
 - # Stage One of Labor
-  definition:: Closed to ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
+  id:: 6711ec95-ab78-44a9-97ff-cb303010369c
   duration-primigarvida:: 12 hours
   duration-multigravida:: 6 hours
   start-event:: onset of true labor pain
   end-event:: ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
-  id:: 6711ec95-ab78-44a9-97ff-cb303010369c
+	- #definition Closed to ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
 	- ((6711eafd-a950-4149-8d0b-d4c8828ef836)) and ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
 	- ### Latent Stage One of Labor
-	  definition:: Closed to 3-4 cm dilated
 	  id:: 67120253-4848-4e62-bb98-e1c7f8f23d75
+		- #definition Closed to 3-4 cm dilated
 	- ### Active Stage One of Labor
-	  definition:: 3-4 cm to full dilation (dilation accelerates)
+		- #definition 3-4 cm to full dilation (dilation accelerates)
 		- Cardinal movements begin to occur
 	- ## Management #obspw
 		- ### Principles
@@ -95,11 +95,12 @@ tags:: #obspw #obspc
 				- Degree of molding of the head
 				- Caput formation
 - # Stage Two of Labor
-  definition:: Full dilation to delivery of fetus
+  
   duration-primigravida:: 2 hours
   duration-multiparae:: 30 minutes
   start-event:: ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
   end-event:: expulsion of the fetus from the birth canal
+	- #definition Full dilation to delivery of fetus
 	- ## Events #obs-prof-written #unanswered
 	- ## Causes of Delay #obs-prof-written #unanswered
 	- ## Management #obspw
@@ -122,10 +123,11 @@ tags:: #obspw #obspc
 				- ((67149b3a-a6bd-4f97-8e41-393564bd0b0f))
 				  logseq.order-list-type:: number
 - # Stage Three of Labor
-  definition:: Delivery of fetus to delivery of placenta
+  
   duration:: 15 minutes
   start-event:: expulsion of the fetus from the birth canal
   end-event:: expulsion of the placenta and membranes (afterbirths)
+	- #definition Delivery of fetus to delivery of placenta
 	- ### Complications #obspw #obspc
 		- Postpartum hemorrhage
 		  logseq.order-list-type:: number
@@ -141,8 +143,8 @@ tags:: #obspw #obspc
 	- ## Management #obs-prof-written #unanswered
 - # Stage Four of Labor
   id:: 67120339-884f-4956-b117-a92e2dcdbc38
-  definition:: The hour following delivery
   duration:: 1 hour
+	- #definition The hour following delivery
 	- Things to Observe
 		- Vitals
 			- Pulse

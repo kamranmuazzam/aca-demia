@@ -1,5 +1,4 @@
-definition:: It is composed of desquamated epithelium, dirt, secretions of sebaceous (watery secretion) and seruminous gland (fatty secretion)
-
+- #definition It is composed of desquamated epithelium, dirt, secretions of sebaceous (watery secretion) and seruminous gland (fatty secretion)
 - ## Composition
 	- Desquamated Epithelium
 	  logseq.order-list-type:: number

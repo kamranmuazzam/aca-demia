@@ -1,5 +1,4 @@
-definition:: An ectopic pregnancy is one in which the fertilized ovum is implanted and develops outside the normal endometrial cavity #gyn-prof-card
-
+- #definition An ectopic pregnancy is one in which the fertilized ovum is implanted and develops outside the normal endometrial cavity #gyn-prof-card
 - # Etiology
 	-
 	- ## Risk Factors #gyn-prof-card

@@ -1,5 +1,4 @@
-definition:: Pelvic organ prolapse refers to protrusions of the pelvic organs into or out of the vaginal canal
-
+- #definition Pelvic organ prolapse refers to protrusions of the pelvic organs into or out of the vaginal canal
 - # Etiology
 	- ## Predisposing Factors #gyn-prof-card
 		- ### Acquired

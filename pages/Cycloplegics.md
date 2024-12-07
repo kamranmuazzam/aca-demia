@@ -1,3 +1,2 @@
-definition:: [[Cycloplegia]] #eye-prof-written
-
+- #definition [[Cycloplegia]] #eye-prof-written
 - # Classification #eye-prof-written

@@ -1,0 +1,1 @@
+definition:: absence of menstruation for three normal cycles or 6 months

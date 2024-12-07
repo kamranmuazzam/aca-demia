@@ -1,6 +1,6 @@
-definition:: excessive accumulation of fluid in the interstitial spaces
 alias:: Oedema
 
+- #definition excessive accumulation of fluid in the interstitial spaces
 - ## Pathophysiology
 	- The balance of forces within the capillary
 		- Arterial End
