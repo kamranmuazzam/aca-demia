@@ -1,22 +1,26 @@
 alias:: DCR
 contrast:: [[Therapeutic Syringing and Probing]] in case of [[Congenital Dacryocystitis]]
 
-- #definition It is a surgical procedure where anastomosis is made between the medial wall of lacrimal sac and lateral wall of nasal mucosa by cutting the intervening bones at the level of medial meatus. #eye-prof-written
+- #definition It is a surgical procedure where anastomosis is made between the medial wall of lacrimal sac and lateral wall of nasal mucosa by cutting the intervening bones at the level of medial meatus. #eye-prof-written #card
+  deck:: #Eye
 - # Bones cut
 	- [[Lacrimal Bone]]
 	- ((67534b53-2cdb-4a95-9892-83bd4bdd4749))
 	- [[Ethmoid bone]]
-- # Indications #eye-prof-written
+- # Indications #eye-prof-written #card
+  deck:: #Eye
 	- [[Chronic Dacryocystitis]]
 	- Recurrent attack of [[Acute Dacrocystitis]]
 	- Paralysis of lacrimal pump
 	- Flaccid lacrimal passage
-- # Contraindication #eye-prof-written
-	- ## Absolute
+- # Contraindication
+	- ## Absolute #eye-prof-written #card
+	  deck:: #Eye
 		- Malignancy of lacrimal sac
 		- Atropic rhinitis
 		- Multiple fistula of lacrimal sac
-	- ## Relative
+	- ## Relative #eye-prof-card #card
+	  deck:: #Eye
 		- Nasal polyp
 		- Deviated nasal septum
 		- Hypertrophy of inferior turbinate

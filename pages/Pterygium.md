@@ -44,9 +44,14 @@ icd-11-code::
 		- Advice the patient to stay away from aggravating factors (Heat, Dust)
 		- Follow up
 	- ### Surgical Options #eye-prof-written
-		- Excision of Pterygium with conjunctival autograft (from the same eye)
-		- Excision of Pterygium with amniotic membrane graft
-		- Excision of Pterygium with Mitomycin C
+		- Small : {{c1 Excision of Pterygium with conjunctival autograft}} #card
+		  deck:: #Eye
+			- from which eye -> {{c1 same eye}} #card
+			  deck:: #Eye
+		- Large : {{c1 Excision of Pterygium with amniotic membrane graft}} #card
+		  deck:: #Eye
+		- Recurrent : {{c1 Excision of Pterygium with Mitomycin C and conjunctival autograft}} #card
+		  deck:: #Eye
 		- Adjunctive Radiotherapy with ß-radiation
 		- Excision of Pterygium with bear sclera
 	- ### Lifestyle and Dietary Recommendations
