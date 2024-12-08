@@ -1,5 +1,6 @@
 # Indication #eye-prof-card #card
 deck:: #Eye
+id:: 6755f797-130e-416a-a3af-2c5769873997
 	- Cataract Surgery
 	  logseq.order-list-type:: number
 	- Removal of foreign body from eye

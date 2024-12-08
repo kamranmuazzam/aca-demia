@@ -8,12 +8,14 @@
 		  id:: 6755f0ba-eef9-4eec-9715-e541f128960d
 	- ## Contact Methods #card #eye-prof-card
 	  deck:: #Eye
+	  id:: 6755f113-e3c9-4796-ad2d-d2dd7fecb4d4
 		- [[Goldman Applanation Tonometry]]
 		  logseq.order-list-type:: number
 		- [[Indentation Method]]
 		  logseq.order-list-type:: number
 	- ## Non-Contact Methods #card #eye-prof-card
 	  deck:: #Eye
+	  id:: 6755f315-b4c5-441a-b69c-bd153521394c
 		- [[Air puff Tonometry]]
 		- [[Digital Tonometry]]
 - Best Procedure for Tonometry -> {{c1 [[Goldman Applanation Tonometry]]}} #card #eye-prof-card

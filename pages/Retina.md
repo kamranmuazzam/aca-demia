@@ -14,5 +14,7 @@
 - # Artery Supply
 	- Outer Layers : {{c1 Ciliary Arteries}} branch of opthalmic artery #eye-prof-card #card
 	  deck:: #Eye
+	  id:: 6755fa6b-1123-4ee4-87fd-0a074fb3eb89
 	- Inner Layers : {{c1 Central Retinal Artery}} branch of opthalmic artery #eye-prof-card #card
 	  deck:: #Eye
+	  id:: 6755fab5-4f8f-4871-b6f6-fc409a4f1214

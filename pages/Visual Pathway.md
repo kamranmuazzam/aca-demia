@@ -3,6 +3,7 @@
   optic radiation> visual cortex
 - Order of Visual Pathway #eye-prof-card #card
   deck:: #Eye
+  id:: 6755fb58-764f-40fb-b418-6bcd3d62ad9a
 	- Light on Cornea
 	  logseq.order-list-type:: number
 	- Retina

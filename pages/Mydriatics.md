@@ -1,5 +1,6 @@
 - #definition {{c1 Mydriatics are drugs that cause [[mydriasis]]}} #eye-prof-written #eye-prof-card #card
   deck:: #Eye
+  id:: 6750168e-34a4-48d2-bb00-246240b1500e
 - # Classification #eye-prof-written
 	- ## Long Acting Mydriatics
 	  duration:: 14-21 days
@@ -37,6 +38,7 @@
 	  logseq.order-list-type:: number
 - Common Mydriatic Drugs #eye-prof-card #card
   deck:: #Eye
+  id:: 6755f5ef-3b34-432b-b57c-851387aa099a
 	- [[Phenylephrine]]
 	  logseq.order-list-type:: number
 	- [[Tropicamide]]

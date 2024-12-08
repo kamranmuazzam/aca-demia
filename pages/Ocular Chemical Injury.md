@@ -1,5 +1,6 @@
 # Complications #eye-prof-card #card
-deck:; #Eye
+id:: 6755f373-b8fc-4a44-aec6-5cdbf7cfcdc2
+deck:: #Eye
 	- [[Corneal Opacity]]
 	  logseq.order-list-type:: number
 	- [[Corneal Ulcer]]
