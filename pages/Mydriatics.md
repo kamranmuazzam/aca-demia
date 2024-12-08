@@ -1,8 +1,8 @@
-- #definition [[mydriasis]] #eye-prof-written
+- #definition {{c1 Mydriatics are drugs that cause [[mydriasis]]}} #eye-prof-written #eye-prof-card #card
+  deck:: #Eye
 - # Classification #eye-prof-written
 	- ## Long Acting Mydriatics
 	  duration:: 14-21 days
-	  collapsed:: true
 		- [[Atropine 1% Sulphate]]
 		- ## Indication
 			- [[Corneal Ulcer]]
@@ -11,13 +11,12 @@
 		- `Atropine is contraindicated in Glaucoma, but indicated in neovascular Glaucoma`
 	- ## Intermediate Mydriatics
 	  duration:: 7-14 days
-	  collapsed:: true
+		- [[Cyclopentolate]]
 		- [[Homatropine]]
 		- ## Indication
 			-
 	- ## Short Acting Mydriatics
 	  duration:: 4-6 hours
-	  collapsed:: true
 		- [[Tropicamide]]
 		- ## Indication
 			- ### Therapeutic
@@ -34,5 +33,17 @@
 	  logseq.order-list-type:: number
 	- In acute anterior uveitis, corneal ulcer & after trabeculectomy operation
 	  logseq.order-list-type:: number
-	- For cycloplegic refraction in children
+	- In Cataract Surgery
+	  logseq.order-list-type:: number
+- Common Mydriatic Drugs #eye-prof-card #card
+  deck:: #Eye
+	- [[Phenylephrine]]
+	  logseq.order-list-type:: number
+	- [[Tropicamide]]
+	  logseq.order-list-type:: number
+	- [[Cyclopentolate]]
+	  logseq.order-list-type:: number
+	- [[Homatropine]]
+	  logseq.order-list-type:: number
+	- [[Atropine 1% Sulphate]]
 	  logseq.order-list-type:: number

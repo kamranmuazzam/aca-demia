@@ -11,3 +11,8 @@
 	- Ganglion cell layer
 	- Nerve fiber layer
 	- Internal limiting membrane
+- # Artery Supply
+	- Outer Layers : {{c1 Ciliary Arteries}} branch of opthalmic artery #eye-prof-card #card
+	  deck:: #Eye
+	- Inner Layers : {{c1 Central Retinal Artery}} branch of opthalmic artery #eye-prof-card #card
+	  deck:: #Eye

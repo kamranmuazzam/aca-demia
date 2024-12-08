@@ -32,10 +32,19 @@ ICD-11_Code::
 	- ### Laboratory Tests
 	- ### Imaging Studies
 	- ### Differential Diagnosis
-- ## Management and Treatment #eye-prof-written
+- ## Management and Treatment #eye-prof-written #eye-prof-card
   background-color:: blue
-	- ### Medical Treatment
-	- ### Surgical Options
+	- ### Non-Surgical #eye-prof-card #card
+	  deck:: #Eye
+	  id:: 6733ccee-981c-4557-b8e8-0e700c1e3f74
+		- EyeGlasses
+		- Contact Lenses
+	- ### Surgical Options #eye-prof-card #card
+	  deck:: #Eye
+	  id:: 6733ccee-438a-4ecd-8a30-9c7a0f83ff97
+		- [[Laser Vision Correction]]
+		- Phakic Intraocular Lens
+		- Refractive Lens Exchange
 	- ### Lifestyle and Dietary Recommendations
 - ## Prognosis
   background-color:: blue

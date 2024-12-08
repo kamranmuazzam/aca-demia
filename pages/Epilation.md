@@ -1,0 +1,1 @@
+- #definition Evacuation of pus by pulling out affected eyelash

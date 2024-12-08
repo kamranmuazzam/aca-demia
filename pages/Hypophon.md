@@ -1,0 +1,1 @@
+- Accumulation of white blood cells (WBC) in the anterior chamber, forming a white, purulent layer.

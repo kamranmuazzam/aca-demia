@@ -98,6 +98,7 @@ ICD-11_Code::
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
+  collapsed:: true
 	- ### Medical Management
 	- ### Surgical Options
 		- ((674f748b-95b8-42e9-916f-1658f31beb7e))
@@ -141,14 +142,16 @@ ICD-11_Code::
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
-	  collapsed:: true
 		- #### With Treatment
 			- Due to anasthetics
+			  collapsed:: true
 				- Retrobulbar hemorrhage
 				- Inadvertent perforation of the globe
 				- Oculocardiac reflex
 				- Accidental intracranial spread of the anaesthetic
-			- Per-operative complications
+			- Per-operative complications  #eye-prof-written #card
+			  deck:: [[Eye]]
+			  id:: 674acc2d-1181-4582-9238-eb1832535f0c
 				- Posterior Capsular Tear
 				  logseq.order-list-type:: number
 				- Vitrous Prolapse, Iris Prolapse
@@ -157,25 +160,27 @@ ICD-11_Code::
 				  logseq.order-list-type:: number
 				- Injury to Surrounding Structures
 				  logseq.order-list-type:: number
-			- Early Post-operative complication(first 3 weeks)
+			- Early Post-operative complication(first 3 weeks) #eye-prof-written #card
+			  deck:: [[Eye]]
+			  id:: 674acec8-b302-423c-a9be-3c186e75f46c
 				- [[Corneal edema]]
 				- Uveitis
-			- Late Post Operative Complication
+			- Late Post Operative Complication  #eye-prof-written #card
+			  deck:: [[Eye]]
+			  id:: 674acf3c-c9f9-4d95-a09d-584c445d228d
 				- Macular Edema
 				- Posterior capsular opacification (2-3 years)
 				  alias:: after cataract, secondary cataract
 				- [[Endophthalmitis]]
-				- Intraocular lens malposition
 				- Sublaxation
 				- Astigmatism
 		- #### Without Treatment
 			- ##### Possible Complications
 				- Progression of Immature to Mature and Mature to Hypermature Cataract
 			- ##### Long-Term Effects
-				- Lens Induced Glaucoma
-					- Hypermature -> Phacolytic glaucoma, Phaco-anaphylactic glaucoma
-					- Immature, Mature -> Phacomorphic glaucoma
-				- [Anti-glaucoma drug + Cataract Surgery] Media
+				- [[Lens Induced Glaucoma]]
+					- [[Immature Cataract]] , [[Mature Cataract]] -> [[Phacomorphic Glaucoma]]
+					- [[Hypermature Cataract]] -> [[Phacolytic Glaucoma]] , [[Phaco-anaphylactic glaucoma]]
 				- Retinal Detachment
 	- ### Quality of Life Considerations
 - ## Prevention

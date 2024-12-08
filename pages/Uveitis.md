@@ -3,6 +3,7 @@
 - #definition {{c1 Uveitis is the Inflammation of the uveal tract, which may involve the adjacent
   Structure.}} #eye-prof-card #card
   deck:: #Eye
+  id:: 6755b9b4-8bc4-4688-8f1d-d401a0a9969e
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -40,7 +41,7 @@
 		  collapsed:: true
 			- Relief of pain
 			- Prevention & breakdown of ((674abd95-5b79-4a8e-9b98-77b688e6b19a))
-		- [[Corticosteroids]]
+		- [[Topical Steroid]]
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up

@@ -112,13 +112,17 @@ icd-11-code::
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
-	- ### Investigations#eye-prof-card #card
-	  deck:: #Eye
+	- ### Investigations #eye-prof-card #card
 	  id:: 6755b419-5ac8-4901-ace1-1ec0e64ec78c
+	  deck:: #Eye
 		- [[Color Fundus Photography]]
+		  logseq.order-list-type:: number
 		- Corneal thickness by [[CCT]]
+		  logseq.order-list-type:: number
 		- Visual Field analysis by [[Perimetry]]
+		  logseq.order-list-type:: number
 		- OCT of optic disc & outer layers of retina
+		  logseq.order-list-type:: number
 	- ### Differential Diagnosis
 - ## Management and Treatment
   background-color:: blue

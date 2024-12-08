@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c01caa1fd2db9d",
+        "id": "ba8490928400e18d",
         "type": "tabs",
         "children": [
           {
-            "id": "07d7dc4ffe0e0e29",
+            "id": "682b879877ec909c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -48,9 +48,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#eye-prof-written",
+                "query": "tag:#eye-prof-card",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -159,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07d7dc4ffe0e0e29",
+  "active": "682b879877ec909c",
   "lastOpenFiles": [
+    "pages/Acute Anterior Uveitis.md",
+    "logseq/bak/pages/Glaucoma/2024-12-07T11_10_46.318Z.Desktop.md",
     "pages/Chalazion.md",
     "pages/Conjunctivitis.md",
     "pages/Allergic Conjunctivitis.md",

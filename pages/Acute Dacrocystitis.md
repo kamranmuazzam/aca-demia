@@ -17,8 +17,20 @@
 - ## Clinical Features #eye-prof-written
   background-color:: blue
 	- ### Signs and Symptoms
-		- #### Symptoms
-		- #### Signs
+		- #### Symptoms #eye-prof-written #card
+		  deck:: [[Eye]]
+		  id:: a8ddd379-c7eb-43bf-b5c6-55cb70de2c56
+			- Watering
+			  logseq.order-list-type:: number
+			- Pain
+			  logseq.order-list-type:: number
+		- #### Signs #eye-prof-written #card
+		  deck:: [[Eye]]
+		  id:: 455c396b-e575-43bc-97c9-9a788db9e227
+			- Red tender tense swelling in medial canthus
+			  logseq.order-list-type:: number
+			- Abscess in several cases
+			  logseq.order-list-type:: number
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
 - ## Diagnosis
@@ -57,7 +69,13 @@
 	- ### Expected Course
 		- #### With Treatment
 		- #### Without Treatment
-			- ##### Possible Complications
+			- ##### Possible Complications  #eye-prof-written #card
+			  deck:: [[Eye]]
+			  id:: e901594a-f442-44c1-8dcb-52494a6b4f39
+				- [[Chronic Dacryocystitis]]
+				  logseq.order-list-type:: number
+				- [[Lacrimal Abscess]]
+				  logseq.order-list-type:: number
 			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment

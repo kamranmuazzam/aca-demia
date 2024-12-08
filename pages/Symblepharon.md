@@ -1,0 +1,1 @@
+- #definition {{c1 Symblepharon is adhesion of [[Bulbar Conjunctiva]] with [[Palpebral Conjunvtiva]] }
