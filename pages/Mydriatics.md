@@ -27,3 +27,12 @@
 				  collapsed:: true
 					- ((674ab9bb-e705-41fe-b1af-c0655be8d9a5))
 				- For Fundoscopy
+- # Indication #eye-prof-card #card
+  deck:: Eye
+  id:: 6755b317-44f9-4aa2-a29c-b5056fdcabe0
+	- Dilate pupil for fundus examination before cataract surgery, laser therapy
+	  logseq.order-list-type:: number
+	- In acute anterior uveitis, corneal ulcer & after trabeculectomy operation
+	  logseq.order-list-type:: number
+	- For cycloplegic refraction in children
+	  logseq.order-list-type:: number

@@ -8,9 +8,9 @@ card-last-reviewed:: 2024-12-07T09:10:05.425Z
 alias::
 icd-11-code::
 
-- #definition {{c1 Glaucoma is group of disorders characterized by a progressive optic neuropathy resulting in irreversible visual field defects associated frequently but not invariably with increased intraocular pressure .}} #eye-prof-card #card
-  deck:: #Eye
+- #definition {{c1 Glaucoma is group of disorders characterized by a progressive optic neuropathy resulting in irreversible visual field defects frequently assocaited with raised intraocular pressure .}} #eye-prof-card #card
   id:: 67542d3c-7ebb-445b-b59f-a43a4062ed39
+  deck:: #Eye
 - Progressive Optic Neuropathy meaning [[Peripheral Vision Loss]] followed by central vision loss
   id:: 670679fd-0957-4e98-9774-c0ab0ad988ff
 - There is common misconception that glaucoma means increased [[IOP]] but there are glaucoma with normal [[IOP]] which are called [[Normal Tension Glaucoma]]
@@ -112,8 +112,13 @@ icd-11-code::
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
+	- ### Investigations#eye-prof-card #card
+	  deck:: #Eye
+	  id:: 6755b419-5ac8-4901-ace1-1ec0e64ec78c
+		- [[Color Fundus Photography]]
+		- Corneal thickness by [[CCT]]
+		- Visual Field analysis by [[Perimetry]]
+		- OCT of optic disc & outer layers of retina
 	- ### Differential Diagnosis
 - ## Management and Treatment
   background-color:: blue

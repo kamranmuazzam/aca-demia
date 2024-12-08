@@ -1,5 +1,8 @@
 - alias::
   ICD-11_Code::
+- #definition {{c1 Uveitis is the Inflammation of the uveal tract, which may involve the adjacent
+  Structure.}} #eye-prof-card #card
+  deck:: #Eye
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

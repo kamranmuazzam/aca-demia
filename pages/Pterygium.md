@@ -46,12 +46,16 @@ icd-11-code::
 	- ### Surgical Options #eye-prof-written
 		- Small : {{c1 Excision of Pterygium with conjunctival autograft}} #card
 		  deck:: #Eye
+		  id:: 675351eb-458f-441e-b5d0-62fb96e65bda
 			- from which eye -> {{c1 same eye}} #card
 			  deck:: #Eye
+			  id:: 67549c19-2590-4b75-bc19-2925edcc4723
 		- Large : {{c1 Excision of Pterygium with amniotic membrane graft}} #card
 		  deck:: #Eye
+		  id:: 67535203-19de-45d7-8d92-4fc6b6c5a0fc
 		- Recurrent : {{c1 Excision of Pterygium with Mitomycin C and conjunctival autograft}} #card
 		  deck:: #Eye
+		  id:: 6753521e-81a7-47d8-8133-0bcb1765cb04
 		- Adjunctive Radiotherapy with ß-radiation
 		- Excision of Pterygium with bear sclera
 	- ### Lifestyle and Dietary Recommendations

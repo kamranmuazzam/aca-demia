@@ -37,8 +37,8 @@
 			- Reason #eye-prof-card #card
 			  deck:: #Eye
 			  id:: 67541e08-11bf-4d94-8ab7-cff391949cc8
-				- **Reduces ciliary muscle spasm**: By inducing cycloplegia, atropine alleviates pain associated with ciliary muscle spasm.
-				- **Keeps the pupil fixed and dilated**: Atropine induces mydriasis, preventing further angle closure and reducing the risk of complications from neovascularization of the iris (rubeosis iridis).
+				- **Reduces ciliary muscle spasm**: By inducing **cycloplegia**, atropine alleviates **pain** associated with ciliary muscle spasm.
+				- **Keeps the pupil fixed and dilated**: Atropine induces **mydriasis**, preventing further angle closure and reducing the risk of complications from **neovascularization** of the iris (rubeosis iridis).
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up

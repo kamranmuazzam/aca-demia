@@ -17,8 +17,20 @@
 - ## Clinical Features
   background-color:: blue
 	- ### Signs and Symptoms
-		- #### Symptoms
-		- #### Signs
+		- #### Symptoms #eye-prof-card #card
+		  deck:: #Eye
+		  id:: a8cc2e5c-90dd-4c82-8d22-14a5a66b12bb
+			- Mild pain
+			  logseq.order-list-type:: number
+			- Photophobia
+			  logseq.order-list-type:: number
+			- Redness
+			  logseq.order-list-type:: number
+		- #### Signs #eye-prof-card #card
+		  deck:: #Eye
+		  id:: ad1ea991-9cc3-440f-9266-3be8950f0d2e
+			- Visual Acuity reduced
+			  logseq.order-list-type:: number
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
 - ## Diagnosis
@@ -32,21 +44,37 @@
 		- [[Acute Angle Closure Glaucoma]]
 		  id:: 67541f2a-f920-4139-bbd2-9e23ab3a42b2
 			- id:: 67541f3e-5249-4a44-8402-70410e14efe4
-			  |Topic|AAU|AACG|
-			  |--|--|--|
-			  |Pain and vision loss|{{c1 Mild pain and gradual loss of vision}}|{{c1 Severe pain and sudden marked loss of vision}}|
-			  |Circumcilliary|{{c2 Mild}}|{{c2 Moderate to severe}}|
-			  |Cornea|{{c3 Mild hazy}}|{{c3 Hazy}}|
-			  |Ant. Chamber|{{c4 Depth Normal}}|{{c4 Shallow}}|
-			  |Cell|{{c5 +++}}|{{c5 +/-}}|
-			  |Flare|{{c6 +++}}|{{c6 +}}|
-			  |Pupil|{{c7 Constricted}}|{{c7 Mild dilated}}|
-			  |IOP|{{c8 Less/Normal}}|{{c8 Increased}}|
-			  |Treatment|{{c9 Steroid[:br]Mydriatics}}|{{c9 Anti-Glaucoma Drugs}}|
+			  | Topic            | AAU                            | AACG                           |
+			  |------------------|--------------------------------|--------------------------------|
+			  | Pain and vision loss | Mild pain and gradual loss of vision | Severe pain and sudden marked loss of vision |
+			  | Circumcilliary    | Mild                           | Moderate to severe             |
+			  | Cornea            | Mild hazy                      | Hazy                           |
+			  | Ant. Chamber      | Depth Normal                   | Shallow                        |
+			  | Cell              | +++                            | +/-                            |
+			  | Flare             | +++                            | +                              |
+			  | Pupil             | Constricted                    | Mild dilated                   |
+			  | IOP               | Less/Normal                    | Increased                      |
+			  | Treatment         | Steroid, Mydriatics            | Anti-Glaucoma Drugs            |
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
+		- Medications
+			- [[Mydriatics]] Topical [[Atropine 1% Sulphate]] [[TDS]]
+			  logseq.order-list-type:: number
+			- [[Steroid]] -> Topical [[Dexamethasone]]
+			  logseq.order-list-type:: number
+		- Mechanism of Action of the Medications
+			- [[Mydriatics]] #eye-prof-card #card
+			  deck:: #Eye
+			  id:: 6755b7b7-3a46-45a7-aa9b-82898d07b7df
+				- Relief Pain
+				  logseq.order-list-type:: number
+				- Prevention and also breakdown of if existing Synachae
+				  logseq.order-list-type:: number
+			- [[Steroid]] -> {{c1 Reduces Inflammation}} #eye-prof-card #card
+			  deck:: #Eye
+			  id:: 6755b7e5-3798-4191-a163-e41954f7ce45
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up

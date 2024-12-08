@@ -3,12 +3,14 @@ contrast:: [[Therapeutic Syringing and Probing]] in case of [[Congenital Dacryoc
 
 - #definition It is a surgical procedure where anastomosis is made between the medial wall of lacrimal sac and lateral wall of nasal mucosa by cutting the intervening bones at the level of medial meatus. #eye-prof-written #card
   deck:: #Eye
+  id:: 67542d39-b6be-47db-bec4-baf114abc845
 - # Bones cut
 	- [[Lacrimal Bone]]
 	- ((67534b53-2cdb-4a95-9892-83bd4bdd4749))
 	- [[Ethmoid bone]]
 - # Indications #eye-prof-written #card
   deck:: #Eye
+  id:: 67502f0d-28ea-4241-9004-f9285f0594a4
 	- [[Chronic Dacryocystitis]]
 	- Recurrent attack of [[Acute Dacrocystitis]]
 	- Paralysis of lacrimal pump
@@ -16,11 +18,13 @@ contrast:: [[Therapeutic Syringing and Probing]] in case of [[Congenital Dacryoc
 - # Contraindication
 	- ## Absolute #eye-prof-written #card
 	  deck:: #Eye
+	  id:: 67534d89-05bb-4804-b743-10c183b4b160
 		- Malignancy of lacrimal sac
 		- Atropic rhinitis
 		- Multiple fistula of lacrimal sac
 	- ## Relative #eye-prof-card #card
 	  deck:: #Eye
+	  id:: 67534d93-e5cb-448f-b685-4175795a29b3
 		- Nasal polyp
 		- Deviated nasal septum
 		- Hypertrophy of inferior turbinate
