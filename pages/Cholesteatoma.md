@@ -1,7 +1,8 @@
 - alias::
   ICD-11_Code::
-- #definition {{c1 }} #ent-prof-card #card
+- #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
+  id:: 6756c713-60be-453c-8b30-ab4c6d5335e0
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -14,15 +15,18 @@
   - ### Geographic Distribution
 - ## Pathophysiology
   background-color:: blue
-  - ### Mechanism of Disease #ent-prof-card #card
+  - ### Mechanism of Disease #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: b4a881f1-bb60-4a39-8c4d-af04161a135e
   - ### Affected Systems/Organs
     - Intracranial Complications
-      - Mechanism #ent-prof-card #card
+      - Mechanism #ent-prof-card #unanswered #card
         deck:: #ENT
-- ## Clinical Features #ent-prof-card #card
+        id:: 6756ce3a-2ab7-4c2c-8a0a-1cc353422dd0
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6756cf34-077e-4771-9169-584c3f362368
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -37,9 +41,10 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 2e0078c6-cf6c-4b3d-8223-0ca14f393bf2
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations
@@ -49,8 +54,9 @@
   - ### Expected Course
     - #### With Treatment
     - #### Without Treatment
-      - ##### Possible Complications #ent-prof-card #card
+      - ##### Possible Complications #ent-prof-card #unanswered #card
         deck:: #ENT
+        id:: b23de92e-4657-4264-824c-24fa3cad1f05
       - ##### Long-Term Effects
   - ### Survival Rates
     - #### With Treatment

@@ -14,9 +14,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: e7ef8278-394b-4031-81a4-7ae527bf7f6f
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -27,21 +28,24 @@
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
-  - ### Investigation #ent-prof-card #card
+  - ### Investigation #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756ba70-7690-4493-9769-4bb8d8576e1b
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: f47ebcf7-3ddd-490a-ba70-306d4b3239be
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations
   - ### Follow-up
-- ##### Release a case of airway obstruction due to Carcinoma Larynx #ent-prof-card #card
+- ##### Release a case of airway obstruction due to Carcinoma Larynx #ent-prof-card #unanswered #card
   deck:: #ENT
+  id:: 6756baf9-e01b-4bb0-8058-c9b6f7e146f1
   - [[Tracheostomy]]
 - ## Prognosis
   background-color:: blue

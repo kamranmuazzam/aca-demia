@@ -3,8 +3,9 @@
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
-    - ### Names of Foreign Bodies in Nose #ent-prof-card #card
+    - ### Names of Foreign Bodies in Nose #ent-prof-card #unanswered #card
       deck:: #ENT
+      id:: 6756c608-aef3-4c0d-a3a3-ecc8abd74751
   - ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -16,9 +17,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 2825038c-36a6-4d14-bc37-11cff7ba062a
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -33,9 +35,10 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 75f55c1e-b022-41f2-864f-518b3d6e6db5
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

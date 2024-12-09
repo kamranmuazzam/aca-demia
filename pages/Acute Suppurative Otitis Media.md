@@ -1,9 +1,10 @@
 alias:: ASOM
 ICD-11_Code::
 
-- ## Etiology #ent-prof-card #card
+- ## Etiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6756cf32-3a7b-41ed-8fea-a0f681ae9e7d
   - ### Causative Agents
   - ### Risk Factors
 - ## Epidemiology
@@ -12,14 +13,16 @@ ICD-11_Code::
   - ### Prevalence
     - ### Demographics
   - ### Geographic Distribution
-- ## Pathophysiology #ent-prof-card #card
+- ## Pathophysiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 782d278c-2df9-4263-8e34-97ecc224a950
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: a75925d6-4e7c-4bb5-b330-4c6e4c33c818
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -34,9 +37,10 @@ ICD-11_Code::
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: b1c1548a-73e5-4d11-9249-1f0f1b2b101e
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations
@@ -46,10 +50,12 @@ ICD-11_Code::
   - ### Expected Course
     - #### With Treatment
     - #### Without Treatment
-      - ##### Complications #ent-prof-card #card
+      - ##### Complications #ent-prof-card #unanswered #card
         deck:: #ENT
-      - ##### Sequel #ent-prof-card #card
+        id:: 06d1b4e7-12da-40c3-9f32-d0f47a801483
+      - ##### Sequel #ent-prof-card #unanswered #card
         deck:: #ENT
+        id:: 6756cf32-6112-4fa1-81f0-3f85ea01f0ab
   - ### Survival Rates
     - #### With Treatment
     - #### Without Treatment

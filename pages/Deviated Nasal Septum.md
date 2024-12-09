@@ -1,8 +1,9 @@
 - alias::
   ICD-11_Code::
-- ## Etiology #ent-prof-card #card
+- ## Etiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: a12b2c41-66a3-47f3-955c-f74a8fd201f4
   - ### Causative Agents
   - ### Risk Factors
 - ## Epidemiology
@@ -15,9 +16,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 54938744-188d-4ab1-aa09-32bef16d24a4
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -32,9 +34,10 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 79b6dbbe-38f6-4e65-98ab-4b95f3dade21
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

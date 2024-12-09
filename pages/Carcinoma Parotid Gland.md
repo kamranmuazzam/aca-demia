@@ -14,9 +14,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: a9d8f1f0-97f2-425c-9f1d-36077e177008
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs

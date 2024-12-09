@@ -22,9 +22,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6733ccee-2abe-4542-a82e-a7e5755b34d6
   - ### Signs and Symptoms
     - #### Symptoms
       - Intense itching & irritation
@@ -54,10 +55,12 @@
 - ## Management and Treatment
   background-color:: blue
   - ### Surgical Options
-    - For blockage: {{c1 Removal of the fungal mass by forceps, suction or by syringe}} #ent-prof-card #card
+    - For blockage: {{c1 Removal of the fungal mass by forceps, suction or by syringe}} #ent-prof-card #unanswered #card
       deck:: #ENT
-  - ### Medical Treatment #ent-prof-card #card
+      id:: 6733ccee-7980-4895-ad56-952edb6147b4
+  - ### Medical Treatment #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756cf36-e0de-4456-8c77-c1efbe134db8
     - For itching : Antihistamine (Chlorpheniramine)
     - If pain: Tab. Paracetamol(500 mg) three times daily till pain subside
     - If secondary infection present: Antibiotics (Phenoxymethyl penicillin)

@@ -21,9 +21,10 @@
     - #### Signs
   - ### Stages or Classification
   - ### Diagnostic Criteria
-- ## Diagnosis #ent-prof-card #card
+- ## Diagnosis #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 23733b98-e0a2-45fb-84fe-73d91f7c1a3e
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis

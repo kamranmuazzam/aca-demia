@@ -65,9 +65,9 @@
 			- [[Steroid]] -> Topical [[Dexamethasone]]
 			  logseq.order-list-type:: number
 		- Mechanism of Action of the Medications
-			- [[Mydriatics]] #eye-prof-card #card
-			  deck:: #Eye
+			- [[Atropine 1% Sulphate]] #eye-prof-card #card
 			  id:: 6755b7b7-3a46-45a7-aa9b-82898d07b7df
+			  deck:: #Eye
 				- Relief Pain
 				  logseq.order-list-type:: number
 				- Prevention and also breakdown of if existing Synachae

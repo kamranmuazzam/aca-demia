@@ -21,9 +21,10 @@
     - #### Signs
   - ### Stages or Classification
   - ### Diagnostic Criteria
-- ## Diagnosis #ent-prof-card #card
+- ## Diagnosis #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 146ed908-262b-45bb-a3c9-ee89813aaaa7
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
@@ -31,12 +32,14 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
     - [[Antrochoanal Polyp]]
-      - Differences #ent-prof-card #card
+      - Differences #ent-prof-card #unanswered #card
         deck:: #ENT
+        id:: 6756c3ac-94e0-4b01-9b59-15fa3ea7206c
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 191b8483-4607-4bb9-821e-207baa7e562c
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

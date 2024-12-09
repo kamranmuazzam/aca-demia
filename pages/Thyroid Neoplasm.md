@@ -19,16 +19,18 @@
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
-  - ### Stages or Classification #ent-prof-card #card
+  - ### Stages or Classification #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: cf7127fe-8d80-4a80-ade1-8a7577b8b3c4
   - ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
-  - ### Investigation #ent-prof-card #card
+  - ### Investigation #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756b676-e1f2-426c-9a92-ca8cd58d1a70
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis

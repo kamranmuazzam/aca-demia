@@ -1,7 +1,8 @@
 - alias::
   ICD-11_Code::
-- #definition soft tissue masses (teardrop-shaped, non-neoplastic) that arises from the mucous membranes of the nose and paranasal sinuses. #ent-prof-card #card
+- #definition soft tissue masses (teardrop-shaped, non-neoplastic) that arises from the mucous membranes of the nose and paranasal sinuses. #ent-prof-card #unanswered #card
   deck:: #ENT
+  id:: 6733ccee-38eb-4cfd-b655-5edb891d4701
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -29,8 +30,9 @@
     - #### Symptoms
       - History of [[Samter's triad]]
     - #### Signs
-  - ### Stages or Classification #ent-prof-card #card
+  - ### Stages or Classification #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: a3130458-2726-4c0b-9ebd-085ec2810978
   - ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
@@ -41,8 +43,9 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
     - [[Inferior Turbinate]]
-      - Differentiate #ent-prof-card #card
+      - Differentiate #ent-prof-card #unanswered #card
         deck:: #ENT
+        id:: 6756beab-f1ec-4c13-95d1-2ac4ef1b90f1
   - ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue

@@ -1,7 +1,8 @@
 - alias::
   ICD-11_Code::
-- #definition {{c1 }} #ent-prof-card #card
+- #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
+  id:: 6756bdb7-a31c-443d-b8eb-a34f8e72da6f
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -32,9 +33,10 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: a52df07d-fc55-46a1-b2c1-3690d2f23591
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

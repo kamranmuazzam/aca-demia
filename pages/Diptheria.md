@@ -22,7 +22,6 @@
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
 - ## Diagnosis #ent-prof-written #card
-  background-color:: blue
     deck:: #ENT
 	- ### Clinical Diagnosis
 		- #### Classical Presentation

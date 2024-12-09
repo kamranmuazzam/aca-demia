@@ -2,8 +2,9 @@
   ICD-11_Code::
 - ## Etiology
   background-color:: blue
-  - ### Causative Agents #ent-prof-card #card
+  - ### Causative Agents #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6733ccec-688c-4457-840d-2ffaa6f77b4b
   - ### Risk Factors
   - | Most Commons                       | Coagulopathy                | Inflammatory                                       | Iatrogenic(medication induced)               | Neoplastic               | Traumatic                                  | Vascular                                                          |
     | ---------------------------------- | --------------------------- | -------------------------------------------------- | -------------------------------------------- | ------------------------ | ------------------------------------------ | ----------------------------------------------------------------- |
@@ -65,9 +66,10 @@
     logseq.order-list-type:: number
   - Hemorrhages that are life-threatening occur in the posterior segment (sphenopalatine artery, a branch of maxillary artery)
   - Common causes include foreign body, trauma, allergic rhinitis, and nasal angiofibromas (common in adolescent males)
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6733ccec-105f-48ff-ba7c-1b3af590ed12
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

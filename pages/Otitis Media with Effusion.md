@@ -12,8 +12,9 @@
   - ### Geographic Distribution
 - ## Pathophysiology
   background-color:: blue
-  - ### Mechanism of Disease #ent-prof-card #card
+  - ### Mechanism of Disease #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: e5e8984f-91b9-4523-b5d1-00400bfb2a81
   - ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue

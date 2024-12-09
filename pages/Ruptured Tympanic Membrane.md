@@ -3,8 +3,9 @@ ICD-11_Code::
 
 - ## Etiology
   background-color:: blue
-  - ### Causative Agents #ent-prof-card #card
+  - ### Causative Agents #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: a0ae438b-8af2-41f9-99f1-35110c1bbdc3
   - ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -21,8 +22,9 @@ ICD-11_Code::
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
-  - ### Types #ent-prof-card #card
+  - ### Types #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 67dcf02d-c10d-442d-9e1a-05ee98a38fc7
     - Differences between [[Central Perforation]] & [[Marginal Perforation]]
   - ### Diagnostic Criteria
 - ## Diagnosis
@@ -34,9 +36,10 @@ ICD-11_Code::
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: a39f3760-165f-4df9-9ff9-71d86d50049e
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

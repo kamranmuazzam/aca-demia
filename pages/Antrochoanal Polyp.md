@@ -21,9 +21,10 @@
     - #### Signs
   - ### Stages or Classification
   - ### Diagnostic Criteria
-- ## Diagnosis #ent-prof-card #card
+- ## Diagnosis #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: b60be11f-a8f7-4d59-bdc2-2b436cdbaa32
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
@@ -31,9 +32,10 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 984e2564-c66d-424d-9132-3312c25c965f
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

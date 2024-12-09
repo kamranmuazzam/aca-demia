@@ -14,9 +14,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 49ee1cd7-ce1f-4c21-a273-6e222282ac02
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -27,15 +28,17 @@
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
-  - ### Investigatiosn #ent-prof-card #card
+  - ### Investigatiosn #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756b6b8-254c-446c-b927-42fa2a1c0e7d
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 90c38ac3-b1b0-4c9d-b6f0-463912e4337a
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

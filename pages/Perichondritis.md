@@ -1,7 +1,8 @@
 - alias::
   ICD-11_Code::
-- #definition It is defined as inflammation of the perichondrium of the pinna #ent-prof-card #card
+- #definition It is defined as inflammation of the perichondrium of the pinna #ent-prof-card #unanswered #card
   deck:: #ENT
+  id:: 67542d40-7651-40c8-92c2-cf87ac1d55e6
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -32,9 +33,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6733ccee-0f47-4280-ba92-ee43d6ab6408
   - ### Signs and Symptoms
     - #### Symptoms
       - Severe Pain
@@ -50,9 +52,10 @@
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6733ccee-4031-4bf4-accb-1e06b3adf1bd
   - ### Medical Treatment with [[Hospitalization]]
     - [[Broad Spectrum Antibiotics]]
       logseq.order-list-type:: number

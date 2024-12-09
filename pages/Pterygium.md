@@ -2,9 +2,9 @@ id:: 67503fc7-1712-4c11-a1f2-e7bcf9942f04
 alias::
 icd-11-code::
 
-- #definition {{c1 Triangular, fibrovascular, subepithelial ingrowth of degenerative bulbar conjunctival tissue extended from the conjunctiva on to the cornea encroaching the limbus}} #eye-prof-card, #eye-prof-written #card
-  deck:: #Eye
+- #definition {{c1 Triangular, fibrovascular, subepithelial ingrowth of degenerative bulbar conjunctival tissue extending from the conjunctiva on to the cornea encroaching the limbus}} #eye-prof-card, #eye-prof-written #card
   id:: 6754219b-65c2-49eb-bf00-c1e9287c63d8
+  deck:: #Eye
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

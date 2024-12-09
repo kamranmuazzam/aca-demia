@@ -26,15 +26,17 @@
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
-  - ### Investigation #ent-prof-card #card
+  - ### Investigation #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756bbbc-9731-4257-87a4-df3fc932e43a
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 578709b2-13ab-41d6-8b76-7c809f270a82
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

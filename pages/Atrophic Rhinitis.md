@@ -14,9 +14,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 076f87a1-3352-4223-ab92-057fa79dcb5c
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -31,9 +32,10 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6c359ab4-206d-4b36-ac9e-9ccef443bae6
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations
@@ -43,8 +45,9 @@
   - ### Expected Course
     - #### With Treatment
     - #### Without Treatment
-      - ##### Possible Complications #ent-prof-card #card
+      - ##### Possible Complications #ent-prof-card #unanswered #card
         deck:: #ENT
+        id:: cdac1bc9-1e05-45ba-8e84-2c8168f2a52c
       - ##### Long-Term Effects
   - ### Survival Rates
     - #### With Treatment

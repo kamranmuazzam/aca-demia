@@ -14,9 +14,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 464b6633-91a4-428a-b619-da2aa496c4e9
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -27,18 +28,21 @@
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
-  - ### Investigation #ent-prof-card #card
+  - ### Investigation #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756b5b4-3bc1-4867-9de8-8fa712fb4021
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
     - [[Achalasia Cardia]]
-      - Differences #ent-prof-card #card
+      - Differences #ent-prof-card #unanswered #card
         deck:: #ENT
+        id:: 6756aebe-94f6-4540-bb8d-48b5a674608e
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 1f402519-98a7-48ea-a65a-27f7915cd7ab
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

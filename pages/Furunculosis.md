@@ -1,10 +1,12 @@
 - alias::
   ICD-11_Code::
-- #definition {{c1 }} #ent-prof-card #card
+- #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
-- ## Etiology #ent-prof-card #card
+  id:: 6756a8ab-4837-43bd-8f2a-5e5a48df80fa
+- ## Etiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6756cf33-62f1-4697-b808-6abef9e42e55
   - ### Causative Agents
   - ### Risk Factors
 - ## Epidemiology
@@ -13,14 +15,16 @@
   - ### Prevalence
     - ### Demographics
   - ### Geographic Distribution
-- ## Pathophysiology #ent-prof-card #card
+- ## Pathophysiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: f0515a7d-e1eb-4340-981b-5b843b5bb246
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: e445fb66-0f09-4bbf-a956-f1602db091af
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -35,9 +39,10 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 0103a3c3-347d-4f75-8dfc-57f0e330cc30
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

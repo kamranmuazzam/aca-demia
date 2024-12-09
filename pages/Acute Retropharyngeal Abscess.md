@@ -14,9 +14,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 27392bbe-50d1-4650-837d-dccf4f455d4f
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -27,18 +28,21 @@
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
-  - ### Investigation #ent-prof-card #card
+  - ### Investigation #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756b61f-4520-49bf-a222-e8244026dcf1
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
     - [[Chronic Retropharyngeal Abscess]]
-      - Differences #ent-prof-card #card
+      - Differences #ent-prof-card #unanswered #card
         deck:: #ENT
+        id:: 6756ae63-85c1-4975-92c6-81bccebb2bfb
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 32ecf5df-62d9-4669-bf18-94d0b5189c9d
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

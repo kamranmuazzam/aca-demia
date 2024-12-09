@@ -1,7 +1,8 @@
 - alias::
   ICD-11_Code::
-- #definition {{c1 }} #ent-prof-card #card
+- #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
+  id:: 6756b42a-f01e-49f9-9607-950a21bc25a5
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -21,16 +22,18 @@
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
-  - ### Stages or Classification #ent-prof-card #card
+  - ### Stages or Classification #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 7a4bfba6-3f71-4029-8dde-b27bfa1527a7
   - ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
-  - ### Investigation #ent-prof-card #card
+  - ### Investigation #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756b615-65e1-4d94-9a47-ceca69322c22
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis

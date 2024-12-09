@@ -1,7 +1,8 @@
 - alias::
   ICD-11_Code::
-- #definition {{c1 }} #ent-prof-card #card
+- #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
+  id:: 6756b8d3-824a-4c28-9c1a-6b41a25652cf
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -21,20 +22,23 @@
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
-  - ### Stages or Classification #ent-prof-card #card
+  - ### Stages or Classification #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 39750d8e-d114-4734-bed3-85921884aeba
     - [[Hodgkin Lymphoma]]
     - [[Non Hodgkin Lymphoma]]
-  - Differences between [[Hodgkin Lymphoma]] & [[Non Hodgkin Lymphoma]] #ent-prof-card #card
+  - Differences between [[Hodgkin Lymphoma]] & [[Non Hodgkin Lymphoma]] #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756b90e-1c9b-4d4e-985f-541498e0373c
   - ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
   - ### Clinical Diagnosis
     - #### Classical Presentation
     - #### Probable Diagnosis
-  - ### Investigation #ent-prof-card #card
+  - ### Investigation #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 6756b8f7-9adc-4f99-908f-3f82f85fb5d7
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis

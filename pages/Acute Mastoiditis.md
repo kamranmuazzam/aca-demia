@@ -30,8 +30,9 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
     - [[Furunculosis]]
-      - Differences #ent-prof-card #card
+      - Differences #ent-prof-card #unanswered #card
         deck:: #ENT
+        id:: 6756bf74-1837-4386-b65d-01fd1761851d
   - ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue

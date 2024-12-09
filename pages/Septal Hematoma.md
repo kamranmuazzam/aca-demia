@@ -3,8 +3,9 @@
 - #definition
 - ## Etiology
   background-color:: blue
-  - ### Causative Agents #ent-prof-card #card
+  - ### Causative Agents #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: 64266b0a-1aaa-42f1-8753-bdefd8d0e31a
   - ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -16,9 +17,10 @@
   background-color:: blue
   - ### Mechanism of Disease
   - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 932292be-6531-4121-a91b-8f88bd317a67
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
@@ -33,9 +35,10 @@
   - ### Imaging Studies
   - ### Differential Diagnosis
   - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: a9a2e6bf-5e0f-4758-9453-efb3537e2918
   - ### Medical Treatment
   - ### Surgical Options
   - ### Lifestyle and Dietary Recommendations

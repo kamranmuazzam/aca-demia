@@ -4,7 +4,8 @@
   background-color:: blue
 	- ### Causative Agents
 		- ### 3 important causes of unilateral tonsillar enlargement #ent-prof-written #card
-		    deck:: #ENT
+		  deck:: #ENT
+		  id:: 6756d082-fbe1-4362-8a50-35ce92742f7a
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -16,9 +17,10 @@
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #card
+- ## Clinical Features #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6733ccec-0fd5-4d94-a031-50fd073d4404
 	- ### Signs and Symptoms
 		- #### Symptoms
 			- Severe sore throat
@@ -54,11 +56,13 @@
 		- Throat swab for culture and sensitivity
 	- ### Imaging Studies
 	- ### Differential Diagnosis #ent-prof-written #card
-	    deck:: #ENT
+	  deck:: #ENT
+	  id:: 6756d014-278c-406e-a192-6887a71c7666
 	- ### Differential Diagnosis
-- ## Management and Treatment #ent-prof-card #ent-prof-written #card
+- ## Management and Treatment #ent-prof-card #unanswered #ent-prof-written #card
   background-color:: blue
   deck:: #ENT
+  id:: 6733ccec-59ce-49d1-91d1-710b3d517df6
 	- ### Medical Treatment
 		- Broad spectrum antibiotics: [[Cefixime]] 200 mg / [[Cefuroxime]] 200 mg [[TDS]]
 		- Analgesics: [[Aspirin]], [[Paracetamol]]
@@ -81,7 +85,8 @@
 - ## Complications
   background-color:: blue
 	- ### Possible Complications #ent-prof-written #card
-	    deck:: #ENT
+	  deck:: #ENT
+	  id:: 6733ccec-a955-46e4-8e41-16435a23d761
 		- #### Local
 			- [[Chronic Tonsilitits]]
 			- [[Peritonsillar abscess]]

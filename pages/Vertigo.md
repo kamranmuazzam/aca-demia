@@ -1,11 +1,13 @@
 - alias::
   ICD-11_Code::
-- #definition {{c1 }} #ent-prof-card #card
+- #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
+  id:: 6756c26e-8c76-4f88-9f40-061bbefc10dd
 - ## Etiology
   background-color:: blue
-  - ### Causative Agents #ent-prof-card #card
+  - ### Causative Agents #ent-prof-card #unanswered #card
     deck:: #ENT
+    id:: e11cf2f0-ae51-4057-a4e7-d30365595c1a
   - ### Risk Factors
 - ## Epidemiology
   background-color:: blue

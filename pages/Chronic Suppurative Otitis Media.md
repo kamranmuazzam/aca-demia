@@ -23,8 +23,9 @@ ICD-11_Code::
   - ### Stages or Classification
     - [[Tubotympanic Chronic Suppurative Otitis Media]]
     - [[Anticoantral Chronic Suppurative Otitis Media]]
-    - Differences between [[Tubotympanic variety CSOM]] and [[Anticoantral variety CSOM]] #ent-prof-card #card
+    - Differences between [[Tubotympanic variety CSOM]] and [[Anticoantral variety CSOM]] #ent-prof-card #unanswered #card
       deck:: #ENT
+      id:: 6756c6d1-5755-4374-91b1-8f5ec4f8f6ef
   - ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
@@ -32,11 +33,14 @@ ICD-11_Code::
     - #### Classical Presentation
     - #### Probable Diagnosis
   - ### Investigation
-    - |Test|Interpretation|
+    - deck:: #ENT
+      id:: 6756bff6-4066-4836-ad06-539a7077b1ca
+      |Test|Interpretation|
       |[[Rinne's Test]]|{{c1 }}|
       |[[Weber Test]]|{{c2 }}|
-      #ent-prof-card #card
+      #ent-prof-card #unanswered #card
       deck:: #ENT
+      id:: 6756bff6-4066-4836-ad06-539a7077b1ca
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
@@ -52,8 +56,9 @@ ICD-11_Code::
   - ### Expected Course
     - #### With Treatment
     - #### Without Treatment
-      - ##### Possible Complications #ent-prof-card #card
+      - ##### Possible Complications #ent-prof-card #unanswered #card
         deck:: #ENT
+        id:: c93f1a22-c346-4a1e-9be1-67b2db2bca1c
       - ##### Long-Term Effects
   - ### Survival Rates
     - #### With Treatment

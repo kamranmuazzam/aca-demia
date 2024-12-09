@@ -4,9 +4,10 @@
     logseq.order-list-type:: number
   - Dirt
     logseq.order-list-type:: number
-  - Secretion of (Formation) #ent-prof-card #card
+  - Secretion of (Formation) #ent-prof-card #unanswered #card
     logseq.order-list-type:: number
     deck:: #ENT
+    id:: 6733ccef-2563-4b05-b5ae-48913f93e037
     - Sebaceous gland
       logseq.order-list-type:: number
     - Serimunous gland
@@ -28,9 +29,10 @@
     logseq.order-list-type:: number
 - alias::
   ICD-11_Code::
-- ## Etiology #ent-prof-card #card
+- ## Etiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6733ccef-7988-48c3-99dc-0de47e748645
   - ### Causative Agents
     - Long standing impacted wax may ulcerate the meatal skin & result in granuloma formation (_wax granuloma_)
       logseq.order-list-type:: number
@@ -85,9 +87,10 @@
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
-- ## Management and Treatment #ent-prof-card #card
+- ## Management and Treatment #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
+  id:: 6733ccef-220c-4ac9-8b57-a1bd92422057
   - ### Medical Treatment : no medical treatment
     background-color:: red
   - ### Surgical Options
