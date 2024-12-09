@@ -1,5 +1,6 @@
 - alias::
   ICD-11_Code::
+  tags:: #Disease
 - #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6756c26e-8c76-4f88-9f40-061bbefc10dd

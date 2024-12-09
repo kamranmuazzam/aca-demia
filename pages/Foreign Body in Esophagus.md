@@ -1,5 +1,6 @@
 - alias::
   ICD-11_Code::
+  tags:: #Disease
 - ## Etiology
   background-color:: blue
   - # Common Foreign Bodies that may introduced in the Oesophagus #ent-prof-card #unanswered #card

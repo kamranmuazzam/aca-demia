@@ -1,5 +1,6 @@
 - alias::
   ICD-11_Code::
+  tags:: #Disease
 - #definition
 - ## Etiology
   background-color:: blue

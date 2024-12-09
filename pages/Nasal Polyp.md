@@ -1,5 +1,6 @@
 - alias::
   ICD-11_Code::
+  tags:: #Disease
 - #definition soft tissue masses (teardrop-shaped, non-neoplastic) that arises from the mucous membranes of the nose and paranasal sinuses. #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6733ccee-38eb-4cfd-b655-5edb891d4701

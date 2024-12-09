@@ -1,3 +1,6 @@
+- alias::
+  ICD-11_Code::
+  tags:: #Disease
 - #definition It is composed of desquamated epithelium, dirt, secretions of sebaceous (watery secretion) and seruminous gland (fatty secretion)
 - ## Composition
   - Desquamated Epithelium
@@ -27,8 +30,6 @@
     logseq.order-list-type:: number
   - Protection of ear from insect (foreign material) & dust
     logseq.order-list-type:: number
-- alias::
-  ICD-11_Code::
 - ## Etiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT

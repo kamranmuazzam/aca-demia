@@ -1,5 +1,6 @@
 - alias::
   ICD-11_Code::
+  tags:: #Disease
 - #definition It is defined as inflammation of the perichondrium of the pinna #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 67542d40-7651-40c8-92c2-cf87ac1d55e6

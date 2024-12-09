@@ -1,5 +1,6 @@
 - alias::
   ICD-11_Code::
+  tags:: #Disease
 - ## Etiology
   background-color:: blue
   - ### Causative Agents #ent-prof-card #unanswered #card

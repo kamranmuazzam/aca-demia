@@ -1,5 +1,6 @@
 alias:: CSOM
 ICD-11_Code::
+tags:: #Disease
 
 - ## Etiology
   background-color:: blue

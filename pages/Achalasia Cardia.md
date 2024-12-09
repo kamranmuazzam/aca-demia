@@ -1,5 +1,6 @@
 - alias::
   ICD-11_Code::
+  tags:: #Disease
 - ## Etiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT

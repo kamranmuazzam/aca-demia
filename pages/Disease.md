@@ -3,6 +3,7 @@
   template-including-parent:: false
 	- alias::
 	  ICD-11_Code::
+	  tags:: #Disease
 	- ## Etiology
 	  background-color:: blue
 		- ### Causative Agents

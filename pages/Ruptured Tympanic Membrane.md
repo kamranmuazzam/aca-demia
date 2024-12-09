@@ -1,5 +1,6 @@
 alias:: Perforation of Tympanic Membrane
 ICD-11_Code::
+tags:: #Disease
 
 - ## Etiology
   background-color:: blue
