@@ -3,6 +3,8 @@
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
+		- ### 3 important causes of unilateral tonsillar enlargement #ent-prof-written #card
+		    deck:: #ENT
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -14,8 +16,9 @@
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features
+- ## Clinical Features #ent-prof-card #card
   background-color:: blue
+  deck:: #ENT
 	- ### Signs and Symptoms
 		- #### Symptoms
 			- Severe sore throat
@@ -46,13 +49,16 @@
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
-	- ### Laboratory Tests
+	- ### Investigations
 		- CBC: Neutrophilic leukocytosis
 		- Throat swab for culture and sensitivity
 	- ### Imaging Studies
+	- ### Differential Diagnosis #ent-prof-written #card
+	    deck:: #ENT
 	- ### Differential Diagnosis
-- ## Management and Treatment
+- ## Management and Treatment #ent-prof-card #ent-prof-written #card
   background-color:: blue
+  deck:: #ENT
 	- ### Medical Treatment
 		- Broad spectrum antibiotics: [[Cefixime]] 200 mg / [[Cefuroxime]] 200 mg [[TDS]]
 		- Analgesics: [[Aspirin]], [[Paracetamol]]
@@ -74,7 +80,8 @@
 	- ### Quality of Life Considerations
 - ## Complications
   background-color:: blue
-	- ### Possible Complications
+	- ### Possible Complications #ent-prof-written #card
+	    deck:: #ENT
 		- #### Local
 			- [[Chronic Tonsilitits]]
 			- [[Peritonsillar abscess]]

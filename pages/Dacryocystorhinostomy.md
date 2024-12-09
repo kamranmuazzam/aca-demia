@@ -20,7 +20,7 @@ contrast:: [[Therapeutic Syringing and Probing]] in case of [[Congenital Dacryoc
 	  deck:: #Eye
 	  id:: 67534d89-05bb-4804-b743-10c183b4b160
 		- Malignancy of lacrimal sac
-		- Atropic rhinitis
+		- [[Atrophic Rhinitis]]
 		- Multiple fistula of lacrimal sac
 	- ## Relative #eye-prof-card #card
 	  deck:: #Eye

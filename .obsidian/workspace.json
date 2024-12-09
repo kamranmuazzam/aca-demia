@@ -11,10 +11,14 @@
             "id": "682b879877ec909c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pages/Wax.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Wax"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#eye-prof-card",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -159,8 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "682b879877ec909c",
+  "active": "e9eec337ac40e078",
   "lastOpenFiles": [
+    "journals/2024_12_09.md",
+    "pages/Perichondritis.md",
+    "pages/Otomycosis.md",
+    "pages/Achalasia Cardia.md",
     "pages/Acute Anterior Uveitis.md",
     "logseq/bak/pages/Glaucoma/2024-12-07T11_10_46.318Z.Desktop.md",
     "pages/Chalazion.md",
