@@ -1,6 +1,5 @@
 - [[Anatomy of External Ear]]
 - ### Importance of Important landmarks of Pinna
-  collapsed:: true
 	- tragus
 		- reconstructive surgery
 		- repair the tympanic membrane

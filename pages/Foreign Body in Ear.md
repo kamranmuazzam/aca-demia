@@ -1,11 +1,50 @@
-# Types #ent-prof-card #unanswered #card
-
-deck:: #ENT
+# Types #ent-prof-card  #card #[[External Ear]] 
 id:: 6756a934-1410-48f2-b1a9-99cdf6a75c0c
-
 deck:: #ENT
-id:: 6756a934-1410-48f2-b1a9-99cdf6a75c0c
-
-- # Management #ent-prof-card #unanswered #card
-  deck:: #ENT
+	- Nonliving
+	  logseq.order-list-type:: number
+		- Children inserted
+		  logseq.order-list-type:: number
+			- piece of paper or sponge
+			  logseq.order-list-type:: number
+			- grain seeds (rice, wheat, maize)
+			  logseq.order-list-type:: number
+			- slate pencil
+			  logseq.order-list-type:: number
+			- piece of chalk or metallic ball bearings
+			  logseq.order-list-type:: number
+		- Adults inserted
+		  logseq.order-list-type:: number
+			- broken end of matchstick
+			  logseq.order-list-type:: number
+			- overlooked cotton swab
+			  logseq.order-list-type:: number
+	- Living
+	  logseq.order-list-type:: number
+		- Flycing or crawling insects like
+		  logseq.order-list-type:: number
+			- mosquitoes
+			  logseq.order-list-type:: number
+			- beetles
+			  logseq.order-list-type:: number
+			- cockroach
+			  logseq.order-list-type:: number
+			- ant
+			  logseq.order-list-type:: number
+			- maggots from flies
+			  logseq.order-list-type:: number
+- # Management of a case of Living Body in ear #ent-prof-card  #card #[[External Ear]] 
   id:: 6756cf39-f53f-48c4-b651-e41c2953306b
+  deck:: #ENT
+	- No attempt should be made to catch them alive
+	  background-color:: pink
+	- Insect killed by
+		- oil (household remedy)
+		- spirit
+		- chloroform water
+	- Removed by
+		- Forceps removal
+		- Syrining
+		- Suction
+		- Microscopic removal with special instruments
+		- Postaural approach
