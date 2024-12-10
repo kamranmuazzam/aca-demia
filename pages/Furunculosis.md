@@ -2,7 +2,7 @@ alias:: Localized Acute Otitis Externa
 ICD-11_Code::
 tags:: #Disease
 
-- #definition {{c1 A furuncle is a staphylococcal infection of the hair follicle of the outer 1/3rd of the external ear}} #ent-prof-card  #card #[[External Ear]] 
+- #definition {{c1 A furuncle is a staphylococcal infection of the hair follicle of the outer 1/3rd of the external ear(cartilagenous)}} #ent-prof-card  #card #[[External Ear]] 
   id:: 67579687-462c-4d72-a007-b7aabc820878
   deck:: #ENT
 - ## Etiology
@@ -32,6 +32,11 @@ tags:: #Disease
   id:: 4c306545-036f-47cd-920c-f0c4f03dc15c
 	- ### Signs and Symptoms
 		- #### Symptoms
+			- Severe Pain during movement. of pina
+			- Painful jaw movement
+			- Earache
+			- Blokage of Ear, Deafness
+			- Spread of Infection to Mastoid
 		- #### Signs
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
@@ -49,7 +54,7 @@ tags:: #Disease
   deck:: #ENT
   id:: 3af07f85-c7db-408f-a49b-e78a42fe5ebd
 	- ### Medical Treatment
-		- Systemic Antibiotics
+		- Systemic Antibiotics [[Flucloxacillin]] 500 mg [[BDS]] for 7 days
 		- Analgesics
 		- Local Heat
 		- Ear pack of 10% ichthammol glycerine provides splintage and reduces pain
@@ -58,10 +63,10 @@ tags:: #Disease
 	- ### Surgical Options
 	  if abscess formed
 		- incision and drainage of abscess
-	- If recurrent [[Furunculosis]]
-		- Exclude diabetes
-		- Attention paid to the patient's nasal vestibules which may harbour staphylococci and the infection transferred by patient's fingers
-		- Staphylococcal infections of the skin as a possible source should also be excluded and suitably treated
+- If recurrent [[Furunculosis]]
+	- Exclude diabetes
+	- Attention paid to the patient's nasal vestibules which may harbour staphylococci and the infection transferred by patient's fingers
+	- Staphylococcal infections of the skin as a possible source should also be excluded and suitably treated
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course

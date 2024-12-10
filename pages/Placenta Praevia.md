@@ -2,8 +2,8 @@ title:: Placenta Praevia
 ICD-11_Code::
 tags:: #Disease
 
-- #definition When the placenta is implanted partially or completely over the lower uterine segment (over and adjacent to the internal os) it is called placenta previa #obspc
-- # Morbidly Adherent Placenta #obspw #unanswered
+- #definition When the placenta is implanted partially or completely over the lower uterine segment (over and adjacent to the internal os) it is called placenta previa #obs-prof-card
+- # Morbidly Adherent Placenta #obs-prof-written #unanswered
   - q : name 3 morbidly adherent placenta
 - ## Etiology
   background-color:: blue
@@ -25,8 +25,8 @@ tags:: #Disease
   - ### Signs and Symptoms
     - #### Symptoms
     - #### Signs
-  - ### Stages or Classification #obspc
-    - # Types #obspc
+  - ### Stages or Classification #obs-prof-card
+    - # Types #obs-prof-card
       based-on:: depending upon the degree of extension of placenta to the lower segment
       - Type-I Placenta Previa
         alias:: Low-lying
@@ -51,7 +51,7 @@ tags:: #Disease
       - Major Degree
         include:: ((671a1d7f-856e-44e4-8e7d-faf35ac5e699)), ((671a1d7f-856e-44e4-8e7d-faf35ac5e699)), ((6718ed85-3d32-46f7-b74c-40c0cfe78d98)), [[Type-IV Placenta Previa]]
   - ### Diagnostic Criteria
-- ## Diagnosis #obspw #unanswered
+- ## Diagnosis #obs-prof-written #unanswered
   background-color:: blue
   - ### Clinical Diagnosis
     - ((671a158b-14d5-41ea-bc14-924f7589074d))
@@ -61,7 +61,7 @@ tags:: #Disease
     - [[Abdominal Ultrasonography]]
   - ### Differential Diagnosis
     collapsed:: true
-    - [[Abruptio Placentae]] #obspc
+    - [[Abruptio Placentae]] #obs-prof-card
       id:: 6718edc1-f69a-40e0-9826-ec8d0995a444
       - | Parameters                   | Placenta Previa                                                                | Abruptio Placentae                                                                                               |
         | ---------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -77,14 +77,14 @@ tags:: #Disease
         | FHS                          | Usually present                                                                | Usually absent especially in concealed type                                                                      |
         | Placentography (USG)         | Placenta in lower segment                                                      | Placenta in upper segment                                                                                        |
         | Vaginal Examination          | Placenta is felt on the lower segment                                          | Placenta is not felt on lower segment. Blood clots should not be confused with placenta                          |
-    - # [[Accidental Hemorrhage]] #obspw #unanswered
+    - # [[Accidental Hemorrhage]] #obs-prof-written #unanswered
       - | Accidental hemorrhage | Placenta Preveia |
         | --------------------- | ---------------- |
         |                       |                  |
         |                       |                  |
         |                       |                  |
         |                       |                  |
-- ## Management and Treatment #obspw #unanswered
+- ## Management and Treatment #obs-prof-written #unanswered
   background-color:: blue
   - ### Medical Treatment
   - ### Surgical Options

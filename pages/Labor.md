@@ -1,6 +1,9 @@
+alias:: Labour
 contrast:: [[Braxton Hicks contraction]] , not regular and without cervical change
 
-- #definition ((6713bc8d-10b6-4544-9313-75cc8efac4ea)) #obspw
+- #definition {{c1 Series of events that take place in the genital organs in an effort to expel the viable products of conception (fetus, placenta and the membranes) out of the womb through the vagina into the outer world is called ‘labor’}} #obs-prof-written #obs-prof-card #card
+  id:: 67542d3d-a847-4b44-aa30-652a82f3c2f8
+  deck:: #Obstetrics
 - [[Normal Labor]] & ((67225810-2ee9-4dee-8e5d-714fd84d2b1a))
 - [[Fetal Orientation]]
 - # Presentation #classical-presentation #obs-prof-written #unanswered
@@ -27,11 +30,11 @@ contrast:: [[Braxton Hicks contraction]] , not regular and without cervical chan
 			- Cervical ripening agents
 				- [[Misoprostol]]
 				- [[Laminaria]]
-- # Lower Segement of Uterus #obspw 
+- # Lower Segement of Uterus #obs-prof-written
   alias:: LS
 	- #definition #obs-prof-written ((6713c79b-ba93-455e-af98-77ccb7eb6139))
 	- SN : #obs-prof-written #unanswered
 - # Engagement
-	- #definition #obspw
-	- ## Causes of non-engaged head in a primae #obspw
-	- Complications if labor occurs in primae #obspw
+	- #definition #obs-prof-written
+	- ## Causes of non-engaged head in a primae #obs-prof-written
+	- Complications if labor occurs in primae #obs-prof-written

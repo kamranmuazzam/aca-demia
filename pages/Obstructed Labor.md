@@ -1,10 +1,10 @@
-- #definition Obstructed Labor is one where in spite of good uterine contractions, the progressive descent of the presenting part is arrested due to mechanical obstruction #obspc
+- #definition Obstructed Labor is one where in spite of good uterine contractions, the progressive descent of the presenting part is arrested due to mechanical obstruction #obs-prof-card
 - alias::
   ICD-11_Code::
   tags:: #Disease
 - ## Etiology
   background-color:: blue
-  - ### Causative Agents #obspc
+  - ### Causative Agents #obs-prof-card
     collapsed:: true
     - Fault in the passage
       - Bony : Cephalopelvic disproportion
@@ -43,7 +43,7 @@
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
-- ## Management #obspc
+- ## Management #obs-prof-card
   background-color:: blue
   - ### Medical Management
     - Fluid Electrolyte Balance and correction of dehydration and ketoacidosis
@@ -68,7 +68,7 @@
   - ### Quality of Life Considerations
 - ## Complications
   background-color:: blue
-  - ### Possible Complications #obspc
+  - ### Possible Complications #obs-prof-card
     - #### Maternal
       - ###### Immediate
         - Exhaustion

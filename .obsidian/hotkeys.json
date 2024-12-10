@@ -1,0 +1,12 @@
+{
+  "obsidian-living-graph:toggle": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ]
+}

@@ -39,9 +39,19 @@ tags:: #Disease
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
-	- ### Surgical Options
+		- Antibiotic ear drops: Gentamicin
+		- Systemic Antibiotics: Amoxicillin
+		- Nasal decongestants
+		- Antihistamine
+		- Analgesic
 	- ### Lifestyle and Dietary Recommendations
+		- Keep water out of the eye
+		- Maintian aural hygine
 	- ### Follow-up
+		- 14 days later
+		- ### Surgical Options
+			- After drying : Myringoplasty/Tympanoplasty
+			- If Discharge : Simple/Cortical Mastoidectomy
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course

@@ -6,17 +6,39 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "#disease",
+      "color": {
+        "a": 1,
+        "rgb": 14112342
+      }
+    },
+    {
+      "query": "#signs",
+      "color": {
+        "a": 1,
+        "rgb": 14701269
+      }
+    },
+    {
+      "query": "a",
+      "color": {
+        "a": 1,
+        "rgb": 2017383
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.15975046351469732,
+  "centerStrength": 0.47,
+  "repelStrength": 18.7796524891285,
+  "linkStrength": 0.643086883767123,
+  "linkDistance": 165,
+  "scale": 0.061065864744578376,
   "close": true
 }

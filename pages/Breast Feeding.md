@@ -1,9 +1,14 @@
 # Exclusive Breast Feeding
+
 alias:: EBF
 tags:: #Paediatrics
-	- #definition Exclusive Breast Feeding means giving the baby only breast milk (not even a drop of water or other foods) from birth till 6 months (180 days) of age. (newer definitions allow consumption of medicine) #pedi-prof-written
+	- #definition Exclusive Breast Feeding means giving the baby only breast milk (not even a drop of water or other foods) from birth till 6 months (180 days) of age. (newer definitions allow consumption of medicine) #pedi-prof-written #obs-prof-card #card
+	  deck:: #Obstetrics
+	  id:: 67587cd3-809e-4887-b692-340d02cdcb87
 - # Benefits of Breast Feeding #pedi-prof-written
-	- ## Benefit to the New Born #obspc #pedi-prof-written
+	- ## Benefit to the New Born  #pedi-prof-written #obs-prof-card #card
+	  deck:: #Obstetrics
+	  id:: 6733ccec-b532-47d5-a51c-1657898381da
 		- Complete food, Species specific
 		- Easily digested & well absorbed
 		- Protects against infection
@@ -21,8 +26,10 @@ tags:: #Paediatrics
 		- Promotes family planning
 		- Decreases need for hospitalization
 		- Contributes to child survival
-- # Positioning & Attachment  #pedi-prof-written
-	- Proper Positioning means #obspc #pedi-prof-written
+- # Positioning & Attachment #pedi-prof-written
+	- Proper Positioning means  #pedi-prof-written #obs-prof-card #card
+	  deck:: #Obstetrics
+	  id:: 67587bb7-72aa-4e5b-8f38-745b60be57de
 		- The body is fully supported
 		  logseq.order-list-type:: number
 		- Body close to the mother
@@ -31,12 +38,14 @@ tags:: #Paediatrics
 		  logseq.order-list-type:: number
 		- Facing breast, nose opposite to the nipple
 		  logseq.order-list-type:: number
-	- Good attachment #obspc
+	- Good attachment #obs-prof-card #card
+	  deck:: #Obstetrics
+	  id:: 6733ccec-c3ce-4583-8ca2-56251e7a0fb3
 		- The baby's chin is touching the breast
 		  logseq.order-list-type:: number
 		- The baby's mouth is openly widely
 		  logseq.order-list-type:: number
-		- The baby's lower lop is turned outwards
+		- The baby's lower lip is turned outwards
 		  logseq.order-list-type:: number
 		- More areola is seen above than below
 		  logseq.order-list-type:: number

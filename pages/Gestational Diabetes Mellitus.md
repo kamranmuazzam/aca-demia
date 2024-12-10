@@ -2,11 +2,11 @@ alias:: GDM
 ICD-11_Code::
 tags:: #Disease
 
-- #definition GDM is defined as carbohydrate intolerance of variable severity with onset or first recognition during the present pregnancy #obspc
+- #definition GDM is defined as carbohydrate intolerance of variable severity with onset or first recognition during the present pregnancy #obs-prof-card
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
-  - ### Risk Factors #obspc
+  - ### Risk Factors #obs-prof-card
     - Positive family history of diabetes(parents or sibling). Family history should include uncles, aunts and grandparents.
     - Having a still birth with pancreatic islet hyperplasia revealed on autopsy
     - Unexplained perinatal loss
@@ -38,7 +38,7 @@ tags:: #Disease
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis
-- ## Management and Treatment #obspc
+- ## Management and Treatment #obs-prof-card
   background-color:: blue
   - ### Medical Treatment
     - [[Insulin]]
@@ -57,7 +57,7 @@ tags:: #Disease
     - Monitoring
       - Women should perform self-blood glucose monitoring using reflectance meter.
   - ### Obstetric Management
-    - #### Time of Termination of Pregnancy #obspc
+    - #### Time of Termination of Pregnancy #obs-prof-card
       - Women with good glycemic control and who do not require insulin may wait for spontaneous onset of labor. However, elective delivery (induction or cesarean section) is considered in patients requiring insulin or with complications (macrosomia) at around 38 weeks
 - ## Prognosis
   background-color:: blue
@@ -73,7 +73,7 @@ tags:: #Disease
   - ### Quality of Life Considerations
 - ## Complications
   background-color:: blue
-  - ### Possible Complications in pregnancy #obspc
+  - ### Possible Complications in pregnancy #obs-prof-card
     - Maternal
       - During Pregnancy
         collapsed:: true
@@ -107,7 +107,7 @@ tags:: #Disease
   background-color:: blue
   - ### Health Education
   - ### Community Approach
-  - ### Screening Programs #obspc
+  - ### Screening Programs #obs-prof-card
     - WHO screening method
       - Random blood sugar, Urine for sugar, $\ce{HbA1C}$
     - We follow [[OGTT]]

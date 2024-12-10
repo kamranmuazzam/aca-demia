@@ -77,6 +77,6 @@ tags:: #Disease
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
-- SN: #ent-prof-written #card
+- #SN Short Note #ent-prof-written #card
   deck:: #ENT
   id:: 6756d165-7510-43dd-9c23-5bf2e574f25a

@@ -18,11 +18,11 @@ tags:: #[[Surgical Procedure]]
 - # Complications #ent-prof-card #ent-prof-written #unanswered #card
   id:: 6756cf31-13c8-4242-aff7-89c661a83299
   deck:: #ENT
-	- peroperative
-	- Postoperative
+  - peroperative
+  - Postoperative
 - # Postoperative Care of a Tracheostomized Patient #ent-prof-card #ent-prof-written #unanswered #card
   id:: 6756cf31-300d-4849-9162-7cfa687f441a
   deck:: #ENT
-- SN: Emergency Tracheostomy/Tracheostomy #ent-prof-written #unanswered #card
+- #SN Short Note Emergency Tracheostomy/Tracheostomy #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 67581832-6df8-4455-9370-c9197f2c9a91

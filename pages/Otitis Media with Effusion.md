@@ -43,10 +43,19 @@ tags:: #Disease
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment #ent-prof-written #unanswered #card
   background-color:: blue
-  deck:: #ENT
   id:: 721febf5-0538-48d5-ab55-5a624f78a3b9
+  deck:: #ENT
 	- ### Medical Treatment
+		- Systemic Antibiotics
+		- Topical Steroid Spray
+		- Nasal Decongestants
+		- Antihistamine
 	- ### Surgical Options
+		- Myringotomy & evacuation of fluid under GA
+		- Insertion of grommets
+	- Also, Surgical Treatment for Underlying Cause
+		- Adenoidectomy
+		- Tonsillectomy
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis
@@ -79,6 +88,6 @@ tags:: #Disease
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
-- SN: #ent-prof-written #unanswered #card
+- #SN Short Note #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 6757ff5f-3b11-438c-a3eb-314789142181

@@ -9,6 +9,6 @@ tags:: #[[Surgical Procedure]]
 - # Complications #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6756cf36-4a24-4d8f-b0ac-af31f3f3910a
-- SN: #ent-prof-written #unanswered #card
+- #SN Short Note #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 67580d4c-b2a6-4647-beb0-c1eef96a0e33

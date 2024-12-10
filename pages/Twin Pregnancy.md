@@ -1,35 +1,34 @@
-- Antenatal Complications of Twin Pregnancy #obspc
-	- ## Maternal
-		- During Pregnancy
-			- Nausea and vomiting
-			- Anemia
-			- Preeclampsia (25%)
-			- Hydramnios (10%)
-			- Antepartum hemorrhage
-			- Malpresentation
-			- Preterm Labor(50%)
-			- Mechanical distress increased compared to a singleton pregnancy
-				- Palpitation
-				- Dyspnea
-				- Varicosities and hemorrhoids
-		- During Labor
-			- Early rupture of the membranes and cord prolapse
-			- Prolonged labor
-			- Increased operative interference
-			- Bleeding (intrapartum)
-			- Postpartum hemorrhage is the real danger
-		- During Peurperium
-			- There is increased incidence of
-				- Subinvolution - because of bigger size of the uterus
-				- Infection because of increased operative interference, preexisting anemia and blood loss during delivery
-				- Lactation failure - this is minimized by reassurance and giving her additional support
-	- ## Fetal
-		- Miscarriage rate is increased especially with monozygotic twins
-		- Premature rate (80%)
-		- Discordant twin growth (25%)
-		- Intrauterine death of one fetus
-		- Appearing twin
-		- Fetal anomalies are increased by 2-4%
-		- Asphyxia and childbirth are more common
-- Delivery of Second baby of twin pregnancy
-	-
+- Antenatal Complications of Twin Pregnancy #obs-prof-card
+  - ## Maternal
+    - During Pregnancy
+      - Nausea and vomiting
+      - Anemia
+      - Preeclampsia (25%)
+      - Hydramnios (10%)
+      - Antepartum hemorrhage
+      - Malpresentation
+      - Preterm Labor(50%)
+      - Mechanical distress increased compared to a singleton pregnancy
+        - Palpitation
+        - Dyspnea
+        - Varicosities and hemorrhoids
+    - During Labor
+      - Early rupture of the membranes and cord prolapse
+      - Prolonged labor
+      - Increased operative interference
+      - Bleeding (intrapartum)
+      - Postpartum hemorrhage is the real danger
+    - During Peurperium
+      - There is increased incidence of
+        - Subinvolution - because of bigger size of the uterus
+        - Infection because of increased operative interference, preexisting anemia and blood loss during delivery
+        - Lactation failure - this is minimized by reassurance and giving her additional support
+  - ## Fetal
+    - Miscarriage rate is increased especially with monozygotic twins
+    - Premature rate (80%)
+    - Discordant twin growth (25%)
+    - Intrauterine death of one fetus
+    - Appearing twin
+    - Fetal anomalies are increased by 2-4%
+    - Asphyxia and childbirth are more common
+- ## Delivery of Second baby of twin pregnancy

@@ -31,7 +31,7 @@
         - Fetal Heart Sound absent in concealed type
   - ### Stages or Classification
   - ### Diagnostic Criteria
-- ## Diagnosis #obspw #unanswered
+- ## Diagnosis #obs-prof-written #unanswered
   background-color:: blue
   - ### Clinical Diagnosis #obGyn-prof-OSPE
     - Lower abdominal pain
@@ -45,7 +45,7 @@
   - ### Imaging Studies
     - [[Abdominal Ultrasonography]] : Placenta in upper segment
   - ### Differential Diagnosis
-- ## Management and Treatment #obspw #unanswered #obGyn-prof-OSPE
+- ## Management and Treatment #obs-prof-written #unanswered #obGyn-prof-OSPE
   background-color:: blue
   - Bishop's scoring
     - If cervix favourable
@@ -64,7 +64,7 @@
     - #### With Treatment
     - #### Without Treatment
   - ### Quality of Life Considerations
-- ## Complications #obspw #unanswered
+- ## Complications #obs-prof-written #unanswered
   background-color:: blue
   - ### Possible Complications #obGyn-prof-OSPE
     - Acute Renal Failure

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2bdea1e21f1dbc3d",
+        "id": "ac04fb4554df7ee7",
         "type": "tabs",
         "children": [
           {
-            "id": "977b375358a91d37",
+            "id": "322b44aa8d3d6bfd",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ent-prof-card tag:#card",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Fever.md",
+                "file": "pages/Hemophilia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fever"
+              "title": "Backlinks for Hemophilia"
             }
           },
           {
@@ -109,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/Fever.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fever"
+              "title": "Outgoing links"
             }
           },
           {
@@ -135,18 +134,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "pages/Fever.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Fever"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 705.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -156,11 +154,29 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "infranodus-graph-view:InfraNodus Graph View": false
     }
   },
-  "active": "977b375358a91d37",
+  "active": "322b44aa8d3d6bfd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "pages/SLE.md",
+    "pages/Hemophilia.md",
+    "Hemoptysis.md",
+    "pages/Clubbing.md",
+    "logseq/bak/pages/Clubbing/2024-12-10T16_03_25.730Z.Desktop.md",
+    "Scabies.md",
+    "Lung Abscess.md",
+    "pages/Pleural Effusion.md",
+    "pages/Nephrotic Syndrome.md",
+    "MCNS.md",
+    "Serum Sickness.md",
+    "pages/Haemoconcentration.md",
+    "pages/Lymphoma.md",
+    "pages/Surgery.md",
+    "pages/Medicine.md",
+    "logseq/bak/pages/Conjunctivitis/2024-12-07T11_10_46.312Z.Desktop.md",
     "logseq/bak/pages/Thyroidectomy/2024-12-09T11_06_23.322Z.Desktop.md",
     "logseq/bak/pages/Hoarseness of Voice/2024-12-09T11_06_23.321Z.Desktop.md",
     "logseq/bak/pages/Brachial Cyst/2024-12-09T11_06_23.303Z.Desktop.md",
@@ -169,20 +185,6 @@
     "pages/Wax.md",
     "journals/2024_12_09.md",
     "pages/Perichondritis.md",
-    "pages/Otomycosis.md",
-    "pages/Achalasia Cardia.md",
-    "pages/Acute Anterior Uveitis.md",
-    "logseq/bak/pages/Glaucoma/2024-12-07T11_10_46.318Z.Desktop.md",
-    "pages/Chalazion.md",
-    "pages/Conjunctivitis.md",
-    "pages/Allergic Conjunctivitis.md",
-    "pages/Acute Dacrocystitis.md",
-    "pages/Accomodation.md",
-    "pages/Fever.md",
-    "DCR.md",
-    "pages/eye-prof-written.md",
-    "pages/Cataract.md",
-    "pages/Closed Angle Glaucoma.md",
-    "pages/Smoking History.md"
+    "pages/Otomycosis.md"
   ]
 }

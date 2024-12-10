@@ -1,9 +1,9 @@
 - alias::
   ICD-11_Code::
   tags:: #Disease
-- #definition {{c1 }} #ent-prof-written #unanswered #card
-  deck:: #ENT
+- #definition {{c1 Inflammation of Middle Ear}} #ent-prof-written #[[Middle Ear]] #card
   id:: 6757fa25-24af-43c9-8ce7-c49306615a0c
+  deck:: #ENT
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -23,9 +23,18 @@
 	- ### Signs and Symptoms
 		- #### Symptoms
 		- #### Signs
-	- ### Stages or Classification #ent-prof-written #unanswered #card
-	  deck:: #ENT
+	- ### Stages or Classification #ent-prof-written #[[Middle Ear]] #card
 	  id:: d1209344-b8fc-499e-a376-447fb4a003a2
+	  deck:: #ENT
+		- [[Acute Otitis Media]]
+			- [[Acute Suppurative Otitis Media]]
+			- [[Acute Non Suppurative Otitis Media]]
+			- [[Recurrent Acute Otitis Media]]
+		- [[Chronic Otitis Media]]
+			- [[Chronic Suppurative Otitis Media]]
+				- [[Tubotympanic variety CSOM]]
+				- [[Anticoantral variety CSOM]]
+			- [[Glue Ear]]
 	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue

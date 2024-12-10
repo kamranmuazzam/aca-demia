@@ -13,7 +13,7 @@
 - # Complication #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 675805be-d972-4904-9e77-546bf17e5707
-- SN: #ent-prof-written #unanswered #card
+- #SN Short Note #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 67580655-70fe-4807-b22f-f0deeb621cb5
 -

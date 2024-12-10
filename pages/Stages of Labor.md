@@ -1,5 +1,14 @@
-tags:: #obspw #obspc
+tags:: #obs-prof-written #obs-prof-card
 
+- Names of Stages with Duration #obs-prof-card #card
+  deck:: #Obstetrics
+  id:: 67587aae-7fa9-4f7a-b075-10ea7b2fb1d6
+	- | Stage of Labor | Duration Primi | Duration Multigravida |
+	  | -------------- | -------------- | --------------------- |
+	  | Stage 1        | 12 hours       | 6 hours               |
+	  | Stage 2        | 2 hours        | 30 minutes            |
+	  | Stage 3        | 15 minutes     |                       |
+	  | Stage 4        | 1 hour         |                       |
 - # Stage One of Labor
   id:: 6711ec95-ab78-44a9-97ff-cb303010369c
   duration-primigarvida:: 12 hours
@@ -14,7 +23,7 @@ tags:: #obspw #obspc
 	- ### Active Stage One of Labor
 		- #definition 3-4 cm to full dilation (dilation accelerates)
 		- Cardinal movements begin to occur
-	- ## Management #obspw
+	- ## Management #obs-prof-written
 		- ### Principles
 		  collapsed:: true
 			- ((6713de39-95ed-4e4b-97d4-1e5ca784dce1))
@@ -103,7 +112,7 @@ tags:: #obspw #obspc
 	- #definition Full dilation to delivery of fetus
 	- ## Events #obs-prof-written #unanswered
 	- ## Causes of Delay #obs-prof-written #unanswered
-	- ## Management #obspw
+	- ## Management #obs-prof-written
 		- ### Principle
 		  collapsed:: true
 			- ((671499fd-6751-4332-9b99-3ef50bc95c2b))
@@ -128,7 +137,7 @@ tags:: #obspw #obspc
   start-event:: expulsion of the fetus from the birth canal
   end-event:: expulsion of the placenta and membranes (afterbirths)
 	- #definition Delivery of fetus to delivery of placenta
-	- ### Complications #obspw #obspc
+	- ### Complications #obs-prof-written #obs-prof-card
 		- Postpartum hemorrhage
 		  logseq.order-list-type:: number
 		- Retention of placenta

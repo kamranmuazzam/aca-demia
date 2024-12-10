@@ -2,12 +2,20 @@ alias:: ASOM
 ICD-11_Code::
 tags:: #Disease
 
-- ## Etiology #ent-prof-card #unanswered #card
+- ## Etiology #ent-prof-card #[[Middle Ear]] #card
   background-color:: blue
-  deck:: #ENT
   id:: 6756cf32-3a7b-41ed-8fea-a0f681ae9e7d
+  deck:: #ENT
 	- ### Causative Agents
+		- *S. beta haemolyticus*
+		- *S. pneumonia*
+		- *S. aureus*
+		- *H. influenza*
 	- ### Risk Factors
+		- Age: Infants & Child
+		- Poor Socio-economic status
+		- Recurrent attacks of common cold
+		- Infections of tonsils and adenoid
 - ## Epidemiology
   background-color:: blue
 	- ### Incidence
@@ -23,20 +31,30 @@ tags:: #Disease
 	  deck:: #ENT
 	  id:: 6757fa48-ff98-449d-a3ed-3ba27e8a7f71
 	- ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #ent-prof-written #unanswered #card
+- ## Clinical Features #ent-prof-card #ent-prof-written #[[Middle Ear]] #card
   background-color:: blue
   id:: a75925d6-4e7c-4bb5-b330-4c6e4c33c818
   deck:: #ENT
 	- ### Signs and Symptoms
 		- #### Symptoms
-		- #### Signs
+			- Severe Earache
+			- Conductive Deafness
+			- Otorrhea
+			- Fever
 	- ### Stages or Classification
-	- ### Diagnostic Criteria
+		- Total occlusion
+		- Presuppuration
+		- Suppuration
+		- Resolution
+		- Complications
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
 		- #### Classical Presentation
 		- #### Probable Diagnosis
+	- ### Auroscopic Examination
+		- [[Tympanic Membrane]] congested
+		- Handle of Malleus Prominent
 	- ### Laboratory Tests
 	- ### Imaging Studies
 	- ### Differential Diagnosis
@@ -57,12 +75,14 @@ tags:: #Disease
 	- ### Expected Course
 		- #### With Treatment
 		- #### Without Treatment
-			- ##### Complications #ent-prof-card #unanswered #card
-			  deck:: #ENT
+			- ##### Complications/Sequel #ent-prof-card #[[Middle Ear]] #card
 			  id:: 06d1b4e7-12da-40c3-9f32-d0f47a801483
-			- ##### Sequel #ent-prof-card #unanswered #card
 			  deck:: #ENT
-			  id:: 6756cf32-6112-4fa1-81f0-3f85ea01f0ab
+				- [[Acute Mastoiditis]] with abscess
+				- Facial paralysis
+				- Intracranial Complication
+				- Labyrinthitis
+				- [[CSOM]]
 	- ### Survival Rates
 		- #### With Treatment
 		- #### Without Treatment

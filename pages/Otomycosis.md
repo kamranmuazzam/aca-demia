@@ -1,13 +1,13 @@
-- #definition It is a fungal infection of external auditory canal #ent-prof-written #unanswered #card
-  deck:: #ENT
+- #definition It is a fungal infection of external auditory canal #ent-prof-written #[[External Ear]] #card
   id:: 6733ccee-4455-4ccc-aecc-9123043c28a7
+  deck:: #ENT
 - alias:: AA03
   ICD-11_Code:: [[AA03]]
   tags:: #Disease
-- ## Etiology #ent-prof-written #unanswered #card
+- ## Etiology #ent-prof-written #[[External Ear]] #card
   background-color:: blue
-  deck:: #ENT
   id:: 6733ccee-75c3-49a6-8adf-01d9db0dbc53
+  deck:: #ENT
 	- ### Causative Agents
 		- _[[Aspergillus niger]]_ (black fungal ball)
 		- _[[Aspergillus fumigatus]]_ (green)
@@ -45,20 +45,20 @@
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis : S/S
+	- ### Otoscope Findings
+		- Fungal ball or otomycotic plug - wet filter paper/ newspaper
+			- A. niger appears black headed filamentous growth
+			- A. fumigatus as pale blue or green
+			- Candida as white or creamy deposit
+		- Meatal skin appear, _sodden, red_ and _oedematous_
 	- ### Investigations
-		- Otoscope Findings
-			- Fungal ball or otomycotic plug - wet filter paper/ newspaper
-				- A. niger appears black headed filamentous growth
-				- A. fumigatus as pale blue or green
-				- Candida as white or creamy deposit
-			- Meatal skin appear, *sodden, red* and *oedematous*
 		- Wet film preparation
 			- Hyphae are found in aspergillus
 			- Small ovoid budding is found in candida
 		- Aural swab for C/S
 	- ### Imaging Studies
 	- ### Differential Diagnosis
-- ## Management and Treatment #ent-prof-card #ent-prof-written #card #[[External Ear]] 
+- ## Management and Treatment #ent-prof-card #ent-prof-written #card #[[External Ear]]
   background-color:: blue
   id:: 6733ccee-2f53-4849-b192-14e354d05c13
   deck:: #ENT
@@ -74,6 +74,7 @@
 				- Other borad-spectrum antifungal agents : Cotrimazole and Povidone Iodine
 				- Two percent salicylic acid in alcohol is also effective
 			- Antifungal treatment should be continued for a week even after apparent cure to avoid recurrences
+			- AntiHistamine if edema in external auditory canal
 		- Antibiotic/steroid preparation for secondary bacterial infections
 	- ### Lifestyle and Dietary Recommendations
 		- Ear must be kept dry
@@ -109,6 +110,6 @@
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
-- SN: #ent-prof-written #unanswered #card
+- #SN Short Note #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 6757f8d6-dc67-41ec-b250-9de12becf15c

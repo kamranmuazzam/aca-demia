@@ -10,6 +10,6 @@
 - # Clinical Importance #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6756cf30-0c4d-4a7d-b90c-8ed2e058783f
-- SN: #ent-prof-written #unanswered #card
+- #SN Short Note #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 67580db4-8ec4-4061-a7fc-d56c2d831c7a

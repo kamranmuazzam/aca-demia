@@ -1,6 +1,6 @@
 - [[Female Reproductive System]]
-	- Pathological Conditions of the [[Fallopian Tube]] #obspw
-		- [[Salphingitis]]
-		- [[Ectopic Pregnancy]]
+  - Pathological Conditions of the [[Fallopian Tube]] #obs-prof-written
+    - [[Salphingitis]]
+    - [[Ectopic Pregnancy]]
 - [[Neoplasm]]
 -
