@@ -1,0 +1,6 @@
+- Written = 259
+- Viva = 264
+- Both = 85
+- Total = 438
+- Only Written = 176
+- Only Viva = 182

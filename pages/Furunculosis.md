@@ -1,13 +1,16 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
-- #definition {{c1 Recurrent or multiple [[Furuncle]]s is called Furunculosis }} #ent-prof-card #unanswered #card
-  id:: 6756a8ab-4837-43bd-8f2a-5e5a48df80fa
+alias:: Localized Acute Otitis Externa
+ICD-11_Code::
+tags:: #Disease
+
+- #definition {{c1 A furuncle is a staphylococcal infection of the hair follicle of the outer 1/3rd of the external ear}} #ent-prof-card  #card #[[External Ear]] 
+  id:: 67579687-462c-4d72-a007-b7aabc820878
   deck:: #ENT
 - ## Etiology
   background-color:: blue
-  id:: 6756cf33-62f1-4697-b808-6abef9e42e55
-	- ### Causative Agents
+	- ### Causative Agents #ent-prof-card #card #[[External Ear]] 
+	  deck:: #ENT
+	  id:: c3ed9276-100a-4ae9-8b22-5374b5db6310
+		- [[Staphylococcus aureus]]
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -15,16 +18,18 @@
 	- ### Prevalence
 		- ### Demographics
 	- ### Geographic Distribution
-- ## Pathophysiology #ent-prof-card #unanswered #card
+- ## Pathophysiology #ent-prof-card  #card #[[External Ear]] 
   background-color:: blue
   deck:: #ENT
-  id:: f0515a7d-e1eb-4340-981b-5b843b5bb246
+  id:: bcf7efa7-463f-4fe6-af30-cee75433b2ed
 	- ### Mechanism of Disease
+		- infection of the hair follicles of external ear by [[Staphylococcus aureus]]
 	- ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #unanswered #card
+		- only the cartilagenous part comprises the hair follicles, hence Furuncle is confined to cartilagenous part of external ear
+- ## Clinical Features #ent-prof-card #ent-prof-written #unanswered #card
   background-color:: blue
   deck:: #ENT
-  id:: e445fb66-0f09-4bbf-a956-f1602db091af
+  id:: 4c306545-036f-47cd-920c-f0c4f03dc15c
 	- ### Signs and Symptoms
 		- #### Symptoms
 		- #### Signs
@@ -39,13 +44,24 @@
 	- ### Imaging Studies
 	- ### Differential Diagnosis
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment
+- ## Management and Treatment #ent-prof-card  #card #[[External Ear]] 
   background-color:: blue
-  id:: 0103a3c3-347d-4f75-8dfc-57f0e330cc30
+  deck:: #ENT
+  id:: 3af07f85-c7db-408f-a49b-e78a42fe5ebd
 	- ### Medical Treatment
+		- Systemic Antibiotics
+		- Analgesics
+		- Local Heat
+		- Ear pack of 10% ichthammol glycerine provides splintage and reduces pain
+			- Hygroscopic action of glycerine reduces oedema
+			- ichammol is mildly antiseptic
 	- ### Surgical Options
-	- ### Lifestyle and Dietary Recommendations
-	- ### Follow-up
+	  if abscess formed
+		- incision and drainage of abscess
+	- If recurrent [[Furunculosis]]
+		- Exclude diabetes
+		- Attention paid to the patient's nasal vestibules which may harbour staphylococci and the infection transferred by patient's fingers
+		- Staphylococcal infections of the skin as a possible source should also be excluded and suitably treated
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course

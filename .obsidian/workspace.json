@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba8490928400e18d",
+        "id": "2bdea1e21f1dbc3d",
         "type": "tabs",
         "children": [
           {
-            "id": "682b879877ec909c",
+            "id": "977b375358a91d37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "logseq/bak/pages/Acute Maxillary Sinusitis/2024-12-09T11_06_23.310Z.Desktop.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-12-09T11_06_23.310Z.Desktop"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ent-prof-card",
+                "query": "tag:#ent-prof-card tag:#card",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -163,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9eec337ac40e078",
+  "active": "977b375358a91d37",
   "lastOpenFiles": [
+    "logseq/bak/pages/Thyroidectomy/2024-12-09T11_06_23.322Z.Desktop.md",
+    "logseq/bak/pages/Hoarseness of Voice/2024-12-09T11_06_23.321Z.Desktop.md",
+    "logseq/bak/pages/Brachial Cyst/2024-12-09T11_06_23.303Z.Desktop.md",
+    "logseq/bak/pages/Acute Maxillary Sinusitis/2024-12-09T11_06_23.310Z.Desktop.md",
     "pages/Syringing the Ear.md",
     "pages/Wax.md",
     "journals/2024_12_09.md",

@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias:: Faucal Diptheria
+ICD-11_Code::
+tags:: #Disease
+
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -32,8 +33,10 @@
 	- ### Imaging Studies
 	- ### Differential Diagnosis
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment
+- ## Management and Treatment #ent-prof-written #unanswered #card
   background-color:: blue
+  deck:: #ENT
+  id:: 366399fd-5120-48a7-bf04-beaa7d657344
 	- ### Medical Treatment
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations

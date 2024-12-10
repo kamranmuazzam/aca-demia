@@ -1,11 +1,6 @@
-# Causes of Unilateral Nasal Obstruction #ent-prof-card #unanswered #card
-
+# Causes of Nasal Obstruction #ent-prof-card #ent-prof-written #unanswered #card
 deck:: #ENT
-id:: 6756bd03-b273-4585-82ec-5de64f8c9d53
-
-deck:: #ENT
-id:: 6756bd03-b273-4585-82ec-5de64f8c9d53
-
-- # Causes of Bilateral Nasal Obstruction #ent-prof-card #unanswered #card
+id:: 675807c7-eb5f-4e7d-b503-500b7e64afea
+- # Management of a case of unilateral nasal obstruction #ent-prof-written #unanswered #card
   deck:: #ENT
-  id:: 6756cf32-efce-4a4f-8566-d27168a70380
+  id:: 675807e8-64c2-424f-84c8-099bf776531c

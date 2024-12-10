@@ -8,71 +8,74 @@
   background-color:: blue
   deck:: #ENT
   id:: 6756cf3a-1a9f-4d2a-a472-b8758ec4dc5e
-  - ### Causative Agents
-  - ### Risk Factors
+	- ### Causative Agents
+	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
-  - ### Incidence
-  - ### Prevalence
-    - ### Demographics
-  - ### Geographic Distribution
+	- ### Incidence
+	- ### Prevalence
+		- ### Demographics
+	- ### Geographic Distribution
 - ## Pathophysiology
   background-color:: blue
-  - ### Mechanism of Disease
-  - ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #unanswered #card
+	- ### Mechanism of Disease
+	- ### Affected Systems/Organs
+- ## Clinical Features #ent-prof-card #ent-prof-written #unanswered #card
   background-color:: blue
-  deck:: #ENT
   id:: b3dc5b3d-6350-4a81-99c5-6eace147331c
-  - ### Signs and Symptoms
-    - #### Symptoms
-    - #### Signs
-  - ### Stages or Classification
-  - ### Diagnostic Criteria
+  deck:: #ENT
+	- ### Signs and Symptoms
+		- #### Symptoms
+		- #### Signs
+	- ### Stages or Classification
+	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-  - ### Clinical Diagnosis
-    - #### Classical Presentation
-    - #### Probable Diagnosis
-  - ### Laboratory Tests
-  - ### Imaging Studies
-  - ### Differential Diagnosis
-  - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #unanswered #card
+	- ### Clinical Diagnosis
+		- #### Classical Presentation
+		- #### Probable Diagnosis
+	- ### Laboratory Tests
+	- ### Imaging Studies
+	- ### Differential Diagnosis
+	- ### Confirmation of Diagnosis
+- ## Management and Treatment #ent-prof-card #ent-prof-written #unanswered #card
   background-color:: blue
-  deck:: #ENT
   id:: 50b4d3aa-2afc-4659-8402-a810ca1e5960
-  - ### Medical Treatment
-  - ### Surgical Options
-  - ### Lifestyle and Dietary Recommendations
-  - ### Follow-up
+  deck:: #ENT
+	- ### Medical Treatment
+	- ### Surgical Options
+	- ### Lifestyle and Dietary Recommendations
+	- ### Follow-up
 - ## Prognosis
   background-color:: blue
-  - ### Expected Course
-    - #### With Treatment
-    - #### Without Treatment
-      - ##### Possible Complications
-      - ##### Long-Term Effects
-  - ### Survival Rates
-    - #### With Treatment
-    - #### Without Treatment
-  - ### Quality of Life Considerations
+	- ### Expected Course
+		- #### With Treatment
+		- #### Without Treatment
+			- ##### Possible Complications
+			- ##### Long-Term Effects
+	- ### Survival Rates
+		- #### With Treatment
+		- #### Without Treatment
+	- ### Quality of Life Considerations
 - ## Prevention
   background-color:: blue
-  - ### Health Education
-  - ### Community Approach
-  - ### Screening Programs
-  - ### Lifestyle Modifications
+	- ### Health Education
+	- ### Community Approach
+	- ### Screening Programs
+	- ### Lifestyle Modifications
 - ## Patient Education and Support
   background-color:: blue
-  - ### Educational Resources
-  - ### Support Groups
-  - ### Counseling Options
+	- ### Educational Resources
+	- ### Support Groups
+	- ### Counseling Options
 - ## Recent Research and Developments
   background-color:: blue
-  - ### Ongoing Clinical Trials
-  - ### Recent Advances
+	- ### Ongoing Clinical Trials
+	- ### Recent Advances
 - ## Key Literature
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
+- SN : #ent-prof-written #unanswered #card
+  deck:: #ENT
+  id:: 6757ffc3-f24d-4947-9bc6-4ec09ec9e26b

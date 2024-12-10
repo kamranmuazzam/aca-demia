@@ -3,3 +3,6 @@
 - male adolescent
 - profuse nose bleed(epitaxis)
 - bipsy may be contraindicated
+- SN: #ent-prof-written #unanswered #card
+  deck:: #ENT
+  id:: 67580efb-a12a-4496-907a-890dbbe8effa

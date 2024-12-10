@@ -11,6 +11,8 @@
 	  id:: 6755d348-2ba5-4418-b753-7d0d393bddce
 	- Descemet's membrane (Posterior Limiting Lamina)
 	  logseq.order-list-type:: number
+	- Endothelium
+	  logseq.order-list-type:: number
 - # Factors responsible for the transparency of Cornea #eye-prof-card #card
   deck:: #Eye
   id:: 6755d64e-9c2a-479d-be62-0751197354c1

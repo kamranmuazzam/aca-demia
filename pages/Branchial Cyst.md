@@ -1,16 +1,12 @@
-alias:: Localized Acute Otitis Externa
-ICD-11_Code::
-tags:: #Disease
-
-- #definition {{c1 A furuncle is a staphylococcal infection of the hair follicle}} #ent-prof-card  #card #[[External Ear]] 
+- alias::
+  ICD-11_Code::
+  tags:: #Disease
+- #definition {{c1 }} #ent-prof-written #unanswered #card
   deck:: #ENT
-  id:: 67579687-462c-4d72-a007-b7aabc820878
+  id:: 675816b7-9859-4bc6-bc3d-d746c1d1ad9d
 - ## Etiology
   background-color:: blue
-	- ### Causative Agents #ent-prof-card #card #[[External Ear]] 
-	  deck:: #ENT
-	  id:: c3ed9276-100a-4ae9-8b22-5374b5db6310
-		- [[Staphylococcus aureus]]
+	- ### Causative Agents
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -18,14 +14,10 @@ tags:: #Disease
 	- ### Prevalence
 		- ### Demographics
 	- ### Geographic Distribution
-- ## Pathophysiology #ent-prof-card  #card #[[External Ear]] 
+- ## Pathophysiology
   background-color:: blue
-  deck:: #ENT
-  id:: bcf7efa7-463f-4fe6-af30-cee75433b2ed
 	- ### Mechanism of Disease
-		- infection of the hair follicles of external ear by [[Staphylococcus aureus]]
 	- ### Affected Systems/Organs
-		- only the cartilagenous part comprises the hair follicles, hence Furuncle is confined to cartilagenous part of external ear
 - ## Clinical Features
   background-color:: blue
 	- ### Signs and Symptoms
@@ -42,24 +34,14 @@ tags:: #Disease
 	- ### Imaging Studies
 	- ### Differential Diagnosis
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card  #card #[[External Ear]] 
+- ## Management and Treatment #ent-prof-written #unanswered #card
   background-color:: blue
   deck:: #ENT
-  id:: 3af07f85-c7db-408f-a49b-e78a42fe5ebd
+  id:: b0461cb4-85cd-4d1f-b38c-e0b364f85390
 	- ### Medical Treatment
-		- Systemic Antibiotics
-		- Analgesics
-		- Local Heat
-		- Ear pack of 10% ichthammol glycerine provides splintage and reduces pain
-			- Hygroscopic action of glycerine reduces oedema
-			- ichammol is mildly antiseptic
 	- ### Surgical Options
-	  if abscess formed
-		- incision and drainage of abscess
-	- If recurrent [[Furunculosis]]
-		- Exclude diabetes
-		- Attention paid to the patient's nasal vestibules which may harbour staphylococci and the infection transferred by patient's fingers
-		- Staphylococcal infections of the skin as a possible source should also be excluded and suitably treated
+	- ### Lifestyle and Dietary Recommendations
+	- ### Follow-up
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
@@ -90,3 +72,6 @@ tags:: #Disease
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
+- SN: #ent-prof-written #unanswered #card
+  deck:: #ENT
+  id:: 675816cb-502e-4950-a501-eba182f53e6b

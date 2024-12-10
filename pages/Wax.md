@@ -1,7 +1,10 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
-- #definition It is composed of desquamated epithelium, dirt, secretions of sebaceous (watery secretion) and seruminous gland (fatty secretion)
+alias:: Ear Wax
+ICD-11_Code::
+tags:: #Disease
+
+- #definition It is composed of desquamated epithelium, dirt, secretions of sebaceous (watery secretion) and seruminous gland (fatty secretion) #ent-prof-written #unanswered #card
+  deck:: #ENT
+  id:: 6733ccef-a283-49df-8f0c-778297b4d0d1
 - ## Composition
 	- Desquamated Epithelium
 	  logseq.order-list-type:: number
@@ -30,10 +33,10 @@
 	  logseq.order-list-type:: number
 	- Protection of ear from insect (foreign material) & dust
 	  logseq.order-list-type:: number
-- ## Etiology #ent-prof-card #unanswered #card
+- ## Etiology #ent-prof-card #ent-prof-written #unanswered #card
   background-color:: blue
-  deck:: #ENT
   id:: 6733ccef-7988-48c3-99dc-0de47e748645
+  deck:: #ENT
 	- ### Causative Agents
 		- Long standing impacted wax may ulcerate the meatal skin & result in granuloma formation (_wax granuloma_)
 		  logseq.order-list-type:: number
@@ -58,10 +61,10 @@
 	- ### Affected Systems/Organs
 		- ((675798b9-1c47-4d4e-bf3f-f0e918a2c78c))
 		- ((67579897-adbd-4590-b33f-139f936b8701))
-- ## Clinical Features #ent-prof-card  #card #[[External Ear]] 
+- ## Clinical Features #ent-prof-card #ent-prof-written #card #[[External Ear]] 
   background-color:: blue
-  deck:: #ENT
   id:: 6733ccef-f88b-470f-b61d-dee5132df0ff
+  deck:: #ENT
 	- ### Signs and Symptoms
 		- #### Symptoms
 			- Impariment of Hearing or Sense of Blocked ear
@@ -87,7 +90,7 @@
 	- ### Laboratory Tests
 	- ### Imaging Studies
 	- ### Differential Diagnosis
-- ## Management and Treatment #ent-prof-card  #card #[[External Ear]] 
+- ## Management and Treatment #ent-prof-card #ent-prof-written #card #[[External Ear]] 
   background-color:: blue
   id:: 6733ccef-220c-4ac9-8b57-a1bd92422057
   deck:: #ENT

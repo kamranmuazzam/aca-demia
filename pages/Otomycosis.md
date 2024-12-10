@@ -1,9 +1,13 @@
-- #definition It is a fungal infection of external auditory canal
+- #definition It is a fungal infection of external auditory canal #ent-prof-written #unanswered #card
+  deck:: #ENT
+  id:: 6733ccee-4455-4ccc-aecc-9123043c28a7
 - alias:: AA03
   ICD-11_Code:: [[AA03]]
   tags:: #Disease
-- ## Etiology
+- ## Etiology #ent-prof-written #unanswered #card
   background-color:: blue
+  deck:: #ENT
+  id:: 6733ccee-75c3-49a6-8adf-01d9db0dbc53
 	- ### Causative Agents
 		- _[[Aspergillus niger]]_ (black fungal ball)
 		- _[[Aspergillus fumigatus]]_ (green)
@@ -23,10 +27,10 @@
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #unanswered #card
+- ## Clinical Features #ent-prof-card #ent-prof-written #unanswered #card
   background-color:: blue
-  deck:: #ENT
   id:: 6733ccee-2abe-4542-a82e-a7e5755b34d6
+  deck:: #ENT
 	- ### Signs and Symptoms
 		- #### Symptoms
 			- Intense Itching
@@ -36,9 +40,6 @@
 			- Watery Discharge with a musty odour
 			- Ear blockage
 			- fungal mass may appear white, brown or black and has been likened to a wet piece of filter paper
-			- On auriscopic findings
-				- Fungal ball or otomycotic plug - wet filter paper/ newspaper color of the ball
-				- Mucous membrane **swollen**, **reddish**, **congested**
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
 - ## Diagnosis
@@ -46,20 +47,21 @@
 	- ### Clinical Diagnosis : S/S
 	- ### Investigations
 		- Otoscope Findings
-			- A. niger appears black headed filamentous growth
-			- A. fumigatus as pale blue or green
-			- Candida as white or creamy deposit
-			- Meatal skin appear, *sodden, red * and *oedematous*
+			- Fungal ball or otomycotic plug - wet filter paper/ newspaper
+				- A. niger appears black headed filamentous growth
+				- A. fumigatus as pale blue or green
+				- Candida as white or creamy deposit
+			- Meatal skin appear, *sodden, red* and *oedematous*
 		- Wet film preparation
 			- Hyphae are found in aspergillus
 			- Small ovoid budding is found in candida
 		- Aural swab for C/S
 	- ### Imaging Studies
 	- ### Differential Diagnosis
-- ## Management and Treatment #ent-prof-card  #card #[[External Ear]] 
+- ## Management and Treatment #ent-prof-card #ent-prof-written #card #[[External Ear]] 
   background-color:: blue
-  deck:: #ENT
   id:: 6733ccee-2f53-4849-b192-14e354d05c13
+  deck:: #ENT
 	- ### Surgical Options
 		- For blockage:
 		  id:: 6733ccee-7980-4895-ad56-952edb6147b4
@@ -107,3 +109,6 @@
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
+- SN: #ent-prof-written #unanswered #card
+  deck:: #ENT
+  id:: 6757f8d6-dc67-41ec-b250-9de12becf15c

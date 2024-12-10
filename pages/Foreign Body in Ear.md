@@ -1,4 +1,4 @@
-# Types #ent-prof-card  #card #[[External Ear]] 
+# Types #ent-prof-card #ent-prof-written #card #[[External Ear]] 
 id:: 6756a934-1410-48f2-b1a9-99cdf6a75c0c
 deck:: #ENT
 	- Nonliving
@@ -33,7 +33,7 @@ deck:: #ENT
 			  logseq.order-list-type:: number
 			- maggots from flies
 			  logseq.order-list-type:: number
-- # Management of a case of Living Body in ear #ent-prof-card  #card #[[External Ear]] 
+- # Management of a case of Living Body in ear #ent-prof-card #ent-prof-written #card #[[External Ear]] 
   id:: 6756cf39-f53f-48c4-b651-e41c2953306b
   deck:: #ENT
 	- No attempt should be made to catch them alive
@@ -48,3 +48,6 @@ deck:: #ENT
 		- Suction
 		- Microscopic removal with special instruments
 		- Postaural approach
+- SN: #ent-prof-written #unanswered #card
+  deck:: #ENT
+  id:: 6757f761-f508-45ac-86a6-33c2821188c7
