@@ -44,8 +44,6 @@
 		- Aspiration may need to be repeated, when ails, incision and drainage. Then Pressure applied by dental rolls tied through and through sutures.
 	- ### Medical Treatment
 		- Prophylactic Antibiotic
-	- ### Lifestyle and Dietary Recommendations
-	- ### Follow-up
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course

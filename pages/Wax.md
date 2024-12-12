@@ -78,10 +78,9 @@ tags:: #Disease
 			- ((67579917-c01b-4bbc-afc5-c1fcbe54be4f))
 			  logseq.order-list-type:: number
 		- #### Signs
-			- Impacted wax is seen in auroscopic findings
-				- brownish, hard or soft mass in the [[EAC]]
-	- ### Stages or Classification
-	- ### Diagnostic Criteria
+	- ### Auroscopic Examination
+		- Impacted wax is seen in auroscopic findings
+			- brownish, hard or soft mass in the [[EAC]]
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
@@ -103,7 +102,6 @@ tags:: #Disease
 				- Hydrogen peroxide, liquid paraffin or olive oil may also achieve the same result
 				- Commercial drops containing ceruminolytic agents like paradichlorobenzene 2% can also be sued and above methods tried again
 		- Any ulceration seen in meatal wall as a result of impacted wax is protected by application of suitable antibiotic ointment
-	- ### Lifestyle and Dietary Recommendations
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course

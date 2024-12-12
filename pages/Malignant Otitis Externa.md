@@ -26,10 +26,9 @@
   id:: 7cb04bbd-1833-4b20-951c-15e69c28556d
   deck:: #ENT
 	- ### Signs and Symptoms
-		- #### Symptoms
-			- Excruciating pain
-			- Appearance of granulations in the ear canal
-			- Facial paralysis is common
+		- Excruciating pain
+		- Appearance of granulations in the ear canal
+		- Facial paralysis is common
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
@@ -55,6 +54,7 @@
 		- Toilet of ear canal. REmoev discharge, debris and granulations or any dead tissue or bone
 	- ### Lifestyle and Dietary Recommendations
 		- Control of Diabetes
+		- Keep Ear Dry
 	- ### Follow-up
 		- ((6757a3e7-9b44-4101-a82f-5c6b79cc4fba))
 - ## Prognosis

@@ -21,23 +21,48 @@ tags:: #Disease
 	- ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  collapsed:: true
 	- ### Signs and Symptoms
 		- #### Symptoms
 		- #### Signs
-	- ### Stages or Classification #eye-prof-written
-		- ##### Etiological Classificaton #eye-prof-written #card
-		  deck:: #Eye
+	- ### Stages or Classification  #eye-prof-written #card
+	  deck:: #Eye
+	  id:: 8f52cfc8-95b3-4ea0-8758-f08a7dc504e3
+		- ##### Etiological Classificaton
 		  id:: 674ac82d-455f-4fbd-b556-e99abf5ff579
-			- [[Developmental Cataract]]
+			- [[Congenital Cataract]]
 			  id:: 674ac7a4-7bfe-4cd4-9c61-6ad349bdd3af
 			- [[Acquired Cataract]]
 			  id:: 674ac7b5-20c1-41d8-b9e0-e338bfe7abcd
-		- ##### Depending on maturity #eye-prof-written #card
-		  deck:: #Eye
+				- Age Related Cataract
+				  alias:: Senile Cataract
+				  rare-age:: <50
+				  universal-age:: >70 (varying degrees)
+				- [[Secondary cataract]] #eye-prof-written
+					- [[Complicated Cataract]] ([[Cataract associated with ocular disease]])
+					  id:: 675ae3d9-5da8-439c-bc82-befdf3102729
+						- [[Glaucoma]]
+						- [[Iridocyclitis]]
+						- [[Choroiditis]]
+						- Chronic [[Uveitis]]
+						- [[Ciliary Body Tumours]]
+						- [[Retinal Detachment]]
+					- Cataract associated with Systemic Disease #eye-prof-written
+						- [[Diabetic Cataract]]
+						- [[Parathyroid tetany]]
+						- [[Myotonic Dystrophy]]
+						- [[Galactosaemia]]
+						- [[Down Syndrome]]
+						- [[Atopic Cataract]]
+					- Cataract due to other causes
+						- [[Heat cataract]]
+						- [[Irradiation cataract]]
+						- [[Electric cataract]]
+						- [[Traumatic Cataract]]
+						- Infection (Rubella)
+		- ##### Depending on maturity
 		  id:: 674ac835-5aa6-4acd-8035-a1b5a218abdb
-			- [[Intumescent Cataract]]
 			- [[Immature Cataract]]
+			- [[Intumescent Cataract]]
 			- [[Mature Cataract]]
 			- [[Hypermature Cataract]]
 				- Sclerotic Cataract
@@ -111,9 +136,12 @@ tags:: #Disease
 		- [[Lensectomy]]
 		- [[Femtosecond Laser-Assisted Cataract Surgery]]
 		- ### Preoperative Investigations
-		  Preoperative Clinical Evaluation
-			- Ocular #eye-prof-written #card
-			  deck:: #Eye
+		  deck:: #Eye
+		  id:: 674f012e-4c5e-406c-b535-f147b43abe3d
+		  Preoperative Clinical Evaluation  #eye-prof-written #card
+		  deck:: #Eye
+		  id:: 674f012e-4c5e-406c-b535-f147b43abe3d
+			- Ocular
 			  id:: 674ff598-cb9b-4a1f-bd83-7cccdbfd5f2d
 				- [[Tonometry]]
 				  logseq.order-list-type:: number
@@ -123,8 +151,7 @@ tags:: #Disease
 				  logseq.order-list-type:: number
 				- [[B-Scan]] if Hypermature Cataract
 				  logseq.order-list-type:: number
-			- Systemic #eye-prof-written #card
-			  deck:: #Eye
+			- Systemic
 			  id:: 674ff5c8-ce33-4f49-a8f6-bddb48164eb9
 				- Blood Sugar, [[HbA1c]]
 				  logseq.order-list-type:: number
@@ -143,15 +170,10 @@ tags:: #Disease
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
-		- #### With Treatment
-			- Due to anasthetics
-			  collapsed:: true
-				- Retrobulbar hemorrhage
-				- Inadvertent perforation of the globe
-				- Oculocardiac reflex
-				- Accidental intracranial spread of the anaesthetic
-			- Per-operative complications #eye-prof-written #card
-			  deck:: [[Eye]]
+		- #### Complications of Cataract Surgery #eye-prof-written #card
+		  id:: 9755541b-5478-4477-acd3-f63e03ef348c
+		  deck:: [[Eye]]
+			- Per-operative complications
 			  id:: 674acc2d-1181-4582-9238-eb1832535f0c
 				- Posterior Capsular Tear
 				  logseq.order-list-type:: number
@@ -161,23 +183,23 @@ tags:: #Disease
 				  logseq.order-list-type:: number
 				- Injury to Surrounding Structures
 				  logseq.order-list-type:: number
-			- Early Post-operative complication(first 3 weeks) #eye-prof-written #card
-			  deck:: [[Eye]]
+			- Early Post-operative complication(first 3 weeks)
 			  id:: 674acec8-b302-423c-a9be-3c186e75f46c
 				- [[Corneal edema]]
 				- Uveitis
-			- Late Post Operative Complication #eye-prof-written #card
-			  deck:: [[Eye]]
+			- Late Post Operative Complication
 			  id:: 674acf3c-c9f9-4d95-a09d-584c445d228d
 				- Macular Edema
 				- Posterior capsular opacification (2-3 years)
 				  alias:: after cataract, secondary cataract
 				- [[Endophthalmitis]]
-				- Sublaxation
+				- Retinal Detachment
+				- Dislocation, Sublaxation
 				- Astigmatism
 		- #### Without Treatment
 			- ##### Possible Complications
 				- Progression of Immature to Mature and Mature to Hypermature Cataract
+				  aka: blindness
 			- ##### Long-Term Effects
 				- [[Lens Induced Glaucoma]]
 					- [[Immature Cataract]] , [[Mature Cataract]] -> [[Phacomorphic Glaucoma]]

@@ -1,7 +1,7 @@
 - alias::
   ICD-11_Code::
   tags:: #Disease
-- #definition {{c1 It is defined as inflammation of the perichondrium of the pinna #ent-prof-}}card  #card #[[External Ear]] 
+- #definition {{c1 It is defined as inflammation of the perichondrium of the pinna }} #ent-prof-card  #card #[[External Ear]] 
   id:: 67542d40-7651-40c8-92c2-cf87ac1d55e6
   deck:: #ENT
 - ## Etiology

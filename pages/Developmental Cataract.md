@@ -1,9 +1,0 @@
-- Developmental cataract may be preset *at birth([[Congenital Cataract]])* or it may develop later
-- Most common morphological type
-	- Punctate Cataract
-	- Zonular Cataract (maternal infection, malnutrition, placental haemorrhage)
-	- Fusiform Cataract
-	- Nuclear Cataract
-	- Coronary Cataract
-	- Anterior Capsular Cataract
-	- Posterior Capsular Cataract

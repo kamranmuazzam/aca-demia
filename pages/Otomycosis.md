@@ -1,4 +1,4 @@
-- #definition It is a fungal infection of external auditory canal #ent-prof-written #[[External Ear]] #card
+- #definition {{c1 It is a fungal infection of external auditory canal}} #ent-prof-written #[[External Ear]] #card
   id:: 6733ccee-4455-4ccc-aecc-9123043c28a7
   deck:: #ENT
 - alias:: AA03
@@ -14,9 +14,8 @@
 		- _[[Candida albicans]]_ (whitish)
 	- ### Risk Factors
 		- Hot and humid climate
-		- More in summer, DM, topical use of antibiotics
-		- Secondary to bacterial infection diffuse otitis externa and suppurative otitis media
-			- At that time antibiotic should not be given because antibiotic solution support the growth of fungus
+		- [[Diabetes Mellitus]]
+		- Topical use of Antibiotics (H/O [[Diffuse Otitis Externa]], [[Suppurative Otitis Media]]
 - ## Epidemiology
   background-color:: blue
 	- ### Incidence
@@ -74,7 +73,7 @@
 				- Other borad-spectrum antifungal agents : Cotrimazole and Povidone Iodine
 				- Two percent salicylic acid in alcohol is also effective
 			- Antifungal treatment should be continued for a week even after apparent cure to avoid recurrences
-			- AntiHistamine if edema in external auditory canal
+		- AntiHistamine if edema in external auditory canal
 		- Antibiotic/steroid preparation for secondary bacterial infections
 	- ### Lifestyle and Dietary Recommendations
 		- Ear must be kept dry
