@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ac04fb4554df7ee7",
+        "id": "090714f4f1cc6b9a",
         "type": "tabs",
         "children": [
           {
-            "id": "322b44aa8d3d6bfd",
+            "id": "b75dd98562f3d7e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -155,11 +155,54 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "infranodus-graph-view:InfraNodus Graph View": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "322b44aa8d3d6bfd",
+  "floating": {
+    "id": "9795396101ca0309",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e7c3cf0801f14fec",
+        "type": "window",
+        "children": [
+          {
+            "id": "e4946e82e7d01737",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54277b6927d9449f",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "excalibrain.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "excalibrain"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 208,
+        "y": 0,
+        "width": 1024,
+        "height": 800,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b75dd98562f3d7e9",
   "lastOpenFiles": [
+    "pages/Acute Suppurative Otitis Media.md",
+    "Excalidraw/ExcaliBrain Snapshot - Otitis Media.excalidraw.md",
+    "excalibrain.md",
+    "Excalidraw",
+    "pages/Advanced Medical Sciences.md",
+    "pages/Medicine.md",
     "Untitled.md",
     "pages/SLE.md",
     "pages/Hemophilia.md",
@@ -175,16 +218,11 @@
     "pages/Haemoconcentration.md",
     "pages/Lymphoma.md",
     "pages/Surgery.md",
-    "pages/Medicine.md",
     "logseq/bak/pages/Conjunctivitis/2024-12-07T11_10_46.312Z.Desktop.md",
     "logseq/bak/pages/Thyroidectomy/2024-12-09T11_06_23.322Z.Desktop.md",
     "logseq/bak/pages/Hoarseness of Voice/2024-12-09T11_06_23.321Z.Desktop.md",
     "logseq/bak/pages/Brachial Cyst/2024-12-09T11_06_23.303Z.Desktop.md",
     "logseq/bak/pages/Acute Maxillary Sinusitis/2024-12-09T11_06_23.310Z.Desktop.md",
-    "pages/Syringing the Ear.md",
-    "pages/Wax.md",
-    "journals/2024_12_09.md",
-    "pages/Perichondritis.md",
-    "pages/Otomycosis.md"
+    "pages/Syringing the Ear.md"
   ]
 }

@@ -185,6 +185,7 @@ Here by Nephrotic Syndrome, [[Minimal Change Nephrotic Syndrome]] is meant for m
 		- More than 95% of children with minimal change disease respond to corticosteroid therapy
 			- Prednisone : {{c1 60}} mg/m2/day (max {{c1 60}} mg) for 4-6 weeks followed by alternate day prednisone {{c1 40}} mg/m2 every other day for 4-6 weeks #pedi-prof-written #card #dose
 			  deck:: #Pediatrics
+			  id:: 67594233-18a5-4605-bb2c-b8afc0f1cf75
 		- Tuberculosis must be ruled out before starting immunosuppressive therapy with corticosteoids by placing a purified protein derivative skin test or obtaining an interferon-gamma release assay and confirming a negative result
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations

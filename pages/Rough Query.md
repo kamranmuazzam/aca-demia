@@ -1,4 +1,6 @@
-- {{query (and [[ent-prof-card]] [[ent-prof-written]] )}}
+- {{query (and [[ent-prof-card]] [[External Ear]] )}}
   query-table:: false
-  query-properties:: [:block :page :deck]
+-
+-
+-
 -

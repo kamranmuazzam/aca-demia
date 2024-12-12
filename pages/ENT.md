@@ -1,15 +1,9 @@
 ## Diseases of Ear
-	- ### Diseases of [[External Ear]]
-		- [[Otitis Externa]]
-		- [[Perichondritis]]
-		- [[Hematoma Auris]]
-		- [[Furunculosis]]
-		- [[Otomycosis]]
-		- [[Wax]]
+	- ### [[Diseases of External Ear]]
 	- ### Diseases of [[Middle Ear]]
 		- [[Acute Suppurative Otitis Media]]
 		- [[Chronic Suppurative Otitis Media]]
-		- [[Otitis Media with Effusion]]
+		- [[Glue Ear]]
 	- ### Diseases [[Internal Ear]]
 - ## Diseases of Nose
   collapsed:: true

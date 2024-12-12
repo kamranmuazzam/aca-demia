@@ -1,7 +1,7 @@
 - alias::
   ICD-11_Code::
   tags:: #Disease
-- #definition {{c1 Inflammation of Middle Ear}} #ent-prof-written #[[Middle Ear]] #card
+- #definition {{c1 Inflammation of Middle Ear}} #ent-prof-written #[[Middle Ear]] ##[[otitis media]] #card
   id:: 6757fa25-24af-43c9-8ce7-c49306615a0c
   deck:: #ENT
 - ## Etiology
@@ -23,14 +23,14 @@
 	- ### Signs and Symptoms
 		- #### Symptoms
 		- #### Signs
-	- ### Stages or Classification #ent-prof-written #[[Middle Ear]] #card
+	- ### Stages or Classification #ent-prof-written #[[Middle Ear]] #[[Otitis Media]] #card
 	  id:: d1209344-b8fc-499e-a376-447fb4a003a2
 	  deck:: #ENT
 		- [[Acute Otitis Media]]
 			- [[Acute Suppurative Otitis Media]]
 			- [[Acute Non Suppurative Otitis Media]]
 			- [[Recurrent Acute Otitis Media]]
-		- [[Chronic Otitis Media]]
+		- [[Otitis Media]]
 			- [[Chronic Suppurative Otitis Media]]
 				- [[Tubotympanic variety CSOM]]
 				- [[Anticoantral variety CSOM]]
@@ -56,7 +56,21 @@
 	- ### Expected Course
 		- #### With Treatment
 		- #### Without Treatment
-			- ##### Possible Complications
+			- ##### Possible Complications (mostly in [[Anticoantral variety CSOM]] ) #ent-prof-card #ent-prof-written #unanswered #[[Otitis Media]] #card
+			  deck:: #ENT
+			  id:: 675950e8-2493-4057-9836-5c7d78af3239
+				- ##### Intracranial Complications
+					- Extradural abscess
+					- Subdural abscess
+					- Meningitis, Encephalitis
+					- Brain abscess
+					- Lateral sinus thromboplebitis
+					- Otitic Hydrocephalus
+				- ##### Extracranial Complications
+					- Mastoiditis
+					- Petrositis
+					- Facial Paralysis
+					- Labyrinthitis
 			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment
@@ -81,3 +95,4 @@
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
+-

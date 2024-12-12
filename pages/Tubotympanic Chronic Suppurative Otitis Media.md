@@ -32,12 +32,15 @@ tags:: #Disease
 	- ### Imaging Studies
 	- ### Differential Diagnosis
 		- [[Anticoantral variety CSOM]]
-			- Differences #ent-prof-written #unanswered #card
-			  deck:: #ENT
+			- Differences (safe vs unsafe) #ent-prof-written #unanswered #[[Otitis Media]] #card
 			  id:: 6757fc97-f174-4d36-b902-2046198d31de
+			  deck:: #ENT
+				- perforation
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment
+- ## Management and Treatment  #ent-prof-written #unanswered #[[Otitis Media]] #card
   background-color:: blue
+  deck:: #ENT
+  id:: ad799e10-5d6d-4dcd-9599-02bf3e0c9242
 	- ### Medical Treatment
 		- Antibiotic ear drops: Gentamicin
 		- Systemic Antibiotics: Amoxicillin

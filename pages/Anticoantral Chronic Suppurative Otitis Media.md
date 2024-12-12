@@ -1,9 +1,10 @@
-alias:: Anticoantral variety CSOM, Unsafe variety of CSOM, Cholesteoma
+alias:: Anticoantral variety CSOM, Unsafe variety of CSOM, Cholestetoma
 ICD-11_Code::
 tags:: #Disease
 
-- #definition [[cholesteomata]]{{c1 Cholesteotoma is a sac/a pocket in the middle ear cleft lined by a keratinized squamous epithelium and contains desquamated sheets of keratin }} #ent-prof-card #ent-prof-written #unanswered #card
+- #definition [[cholestetoma]]{{c1 Cholesteotoma is a sac/a pocket in the middle ear cleft lined by a keratinized squamous epithelium and contains desquamated sheets of keratin }} #ent-prof-card #ent-prof-written #unanswered #[[Otitis Media]] #card
   deck:: #ENT
+  id:: 67594233-fd8e-41eb-b99f-2ec5ada9c827
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -16,8 +17,9 @@ tags:: #Disease
 	- ### Geographic Distribution
 - ## Pathophysiology
   background-color:: blue
-	- ### Mechanism of Disease #ent-prof-card #unanswered #card
+	- ### Mechanism of Formation of Cholesteotoma #ent-prof-card #unanswered #[[Otitis Media]] #card
 	  deck:: #ENT
+	  id:: 9b57cedc-6542-4978-b272-78c5b7a15b52
 	- ### Affected Systems/Organs
 - ## Clinical Features #ent-prof-card #ent-prof-written #unanswered #card
   background-color:: blue
@@ -26,12 +28,13 @@ tags:: #Disease
 	- ### Signs and Symptoms
 		- #### Symptoms
 		- #### Signs
-	- ### Stages or Classification #ent-prof-written #unanswered #card
+	- ### Stages or Classification #ent-prof-written #unanswered #[[Otitis Media]] #card
 	  deck:: #ENT
+	  id:: d991be63-5beb-4225-bcbb-aac60b7555d6
 	- ### Diagnostic Criteria
-- # Characteristics of Discharge #ent-prof-written #unanswered #card
-  deck:: #ENT
+- # Characteristics of Discharge #ent-prof-written #unanswered #[[Otitis Media]] #card
   id:: 6757fc3a-4e53-4ebc-9629-14b8dd06e859
+  deck:: #ENT
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
@@ -41,8 +44,10 @@ tags:: #Disease
 	- ### Imaging Studies
 	- ### Differential Diagnosis
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #unanswered #card
+- ## Management and Treatment #ent-prof-card #unanswered #[[Otitis Media]] #card
   background-color:: blue
+  id:: d2dba435-0e4a-41e9-b4c4-4c32d96a0b2e
+  deck:: #ENT
 	- ### Medical Treatment
 		- Antibiotic ear drops: Gentamicin
 		- Systemic Antibiotics: Amoxicillin
@@ -63,22 +68,7 @@ tags:: #Disease
 	- ### Expected Course
 		- #### With Treatment
 		- #### Without Treatment
-			- ##### Possible Complications #ent-prof-card #ent-prof-written #unanswered #card
-			  id:: c482bb3c-04fd-4000-9f1a-337441876d57
-			  deck:: #ENT
-				- ##### Intracranial Complications
-					- Extradural abscess
-					- Subdural abscess
-					- Meningitis, Encephalitis
-					- Brain abscess
-					- Lateral sinus thromboplebitis
-					- Otitic Hydrocephalus
-				- ##### Extracranial Complications
-					- Mastoiditis
-					- Petrositis
-					- Facial Paralysis
-					- Labyrinthitis
-			- ##### Management of any one intracranial complications of CSOM #ent-prof-written #unanswered #card
+			- ##### Management of any one intracranial complications of CSOM #ent-prof-written #unanswered #[[Otitis Media]] #card
 			  id:: 6757fe99-6247-41fd-aeaa-1a73068239ed
 			  deck:: #ENT
 	- ### Survival Rates
