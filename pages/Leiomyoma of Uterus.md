@@ -55,7 +55,7 @@ tags:: #Disease
     - Frequent association of anovulation.
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
       - Asymptomatic - majority (75%)
       - Dysmenorrhea

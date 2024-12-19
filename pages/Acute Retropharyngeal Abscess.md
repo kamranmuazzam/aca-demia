@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Inflammatory Disease]], #Throat, #ENT
+
 - #definition {{c1 }} #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 675810f9-674c-4fbc-b426-cfaf80f94596
@@ -24,7 +25,7 @@
   background-color:: blue
   id:: 27392bbe-50d1-4650-837d-dccf4f455d4f
   deck:: #ENT
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification
@@ -37,9 +38,11 @@
   - ### Investigation #ent-prof-card #unanswered #card
     deck:: #ENT
     id:: 6756b61f-4520-49bf-a222-e8244026dcf1
-  - ### Typical Radiological Features #ent-prof-written #unanswered #card
-    deck:: #ENT
-    id:: 67581125-937a-4643-916e-2a9d4f1d223a
+    - ### Typical Radiological Features #ent-prof-written #unanswered #card
+      id:: 67581125-937a-4643-916e-2a9d4f1d223a
+      deck:: #ENT
+      - Widening of prevertebral soft tissue shadow due to presence of abscess
+      - Soft tissue shadow encroaching the air column
   - ### Laboratory Tests
   - ### Imaging Studies
   - ### Differential Diagnosis

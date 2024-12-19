@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #Neoplasia, #Laryngology , #ENT
+
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -19,7 +20,7 @@
   background-color:: blue
   deck:: #ENT
   id:: 8b3e6e6f-9d19-4cbc-96bc-80175be22817
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

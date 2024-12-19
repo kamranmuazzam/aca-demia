@@ -17,7 +17,7 @@
   - ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
       - Severe respiratory distress, orthopnoea, feeding difficulties, tachypnoea

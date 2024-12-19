@@ -1,10 +1,10 @@
 alias:: peritonsillar abscess
 ICD-11_Code::
-tags:: #Disease
+tags:: #Disease, #[[Inflammatory Disease]], #Throat, #ENT
 
-- #definition {{c1 }} #ent-prof-card #unanswered #card
-  deck:: #ENT
+- #definition {{c1 Collection of pus in peritonsillar space is known as peritonsillar abscess or quinsy }} #ent-prof-card #unanswered #card
   id:: 6756b260-7501-42a1-9738-3d39be0fe940
+  deck:: #ENT
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -21,7 +21,7 @@ tags:: #Disease
   - ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification
@@ -43,10 +43,17 @@ tags:: #Disease
   background-color:: blue
   deck:: #ENT
   id:: 482c2fd5-0fa6-4908-a26b-7c5429aa5d14
-  - ### Medical Treatment
   - ### Surgical Options
+    at OPD
+    - Drainage of Pus
+  - ### Medical Treatment
+    - Broad Spectrum antibiotic
+    - Analgesic
   - ### Lifestyle and Dietary Recommendations
+    - Oral Hygiene maintained by mouth wash
   - ### Follow-up
+    - Following day : drain any reaccumulation
+    - Tonsillectomy done after 4-6 weeks
 - ## Prognosis
   background-color:: blue
   - ### Expected Course

@@ -17,7 +17,7 @@
   - ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
       id:: 6a809090-cfec-499d-8a53-72733578865f

@@ -22,7 +22,7 @@ tags:: #Disease
 - ## Clinical Features
   background-color:: blue
   collapsed:: true
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification #obs-prof-card

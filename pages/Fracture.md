@@ -1,5 +1,8 @@
-- alias::
-  ICD-11_Code::
+alias::
+ICD-11_Code::
+tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
+
+- #definition {{c1 }} #ortho-prof-written
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -16,10 +19,14 @@
 	- ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-	- ### Signs and Symptoms
+	- ### Clinical Presentation #ortho-prof-written #ortho-prof-written
 		- #### Symptoms
 		- #### Signs
-	- ### Stages or Classification
+	- ### Classification #ortho-prof-written
+		- ### Clinical Classification #ortho-prof-card
+		- ### Radiological Classification #ortho-prof-card
+			- [[Close Fracture]]
+		- ### Etiological Classification #ortho-prof-written
 	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
@@ -29,9 +36,6 @@
 	- ### Laboratory Tests
 	- ### Imaging Studies
 	- ### Differential Diagnosis
-		- [[Chronic Retropharyngeal Abscess]]
-			- Differences #ear-prof-card #card
-			  deck:: #ENT
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
@@ -42,6 +46,9 @@
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
+		- ### Immediate Complications #ortho-prof-card
+		- ### Delayed Complications #ortho-prof-card
+		- ### Management of Immediate Complications of Fracture #ortho-prof-card
 		- #### With Treatment
 		- #### Without Treatment
 			- ##### Possible Complications

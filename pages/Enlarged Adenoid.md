@@ -24,7 +24,7 @@ alias:: Adenoid
   background-color:: blue
   deck:: #ENT
   id:: ebea0a07-c8e9-495a-bcf6-ed94e5f1e3a8
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

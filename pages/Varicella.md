@@ -26,7 +26,7 @@ tags:: #Disease
   - ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

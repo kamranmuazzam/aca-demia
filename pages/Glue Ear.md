@@ -1,6 +1,6 @@
 alias:: Chronic Non Suppurative Otitis Media ,CNSOM, Otitis Media with Effusion, OME, Serous Otitis Media, Secretory Otitis Media, Mucoid Otitis Media
 ICD-11_Code::
-tags:: #Disease
+tags:: #Disease, #Otology , #[[Inflammatory Disease]], #ENT
 
 - #definition {{c1 This is an insidious condition characterized by accumulation of nonpurulent effusion in the middle ear cleft. }} #ent-prof-card #ent-prof-written #unanswered #[[Otitis Media]] #card
   id:: 6756ac3f-1083-4687-90f9-a2cdab6b164a
@@ -70,8 +70,9 @@ tags:: #Disease
 	- ### Surgical Options
 		- Myringotomy and Aspiration of Fluid
 		  logseq.order-list-type:: number
-		- Grommet Insertion
+		- [[Grommet]] Insertion
 		  logseq.order-list-type:: number
+		  *Circular or radial incision in the postero inferior part of tympanic membrane with insertion of grommet*
 		- Tympanotomy or Cortical Mastoidectomy
 		  logseq.order-list-type:: number
 		- Surgical Treatment of Causative Factor

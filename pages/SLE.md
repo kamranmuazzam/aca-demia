@@ -22,7 +22,7 @@ tags:: #Disease
     - [[Blood cells]]
     - [[Nervous System]]
 - ## Clinical Features
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
       - [[Seizures]] and [[Fever]] in **children**
         :LOGBOOK:

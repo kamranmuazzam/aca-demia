@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, , #[[Trauma Induced Disease]], #Otology , #ENT
+
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents #ent-prof-card  #card #[[External Ear]] 

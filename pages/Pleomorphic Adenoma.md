@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #Neoplasia, #[[Head & Neck]] , #ENT
+
 - #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6756b95e-c2cb-4c5b-98a5-1736584258e7
@@ -20,7 +21,7 @@
   - ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

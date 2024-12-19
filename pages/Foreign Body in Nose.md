@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Trauma Induced Disease]], #ENT
+
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -22,7 +23,7 @@
   background-color:: blue
   deck:: #ENT
   id:: 2825038c-36a6-4d14-bc37-11cff7ba062a
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

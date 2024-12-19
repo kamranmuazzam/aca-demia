@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Inflammatory Disease]], #Rhinology, #ENT
+
 - ## Etiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
@@ -21,7 +22,7 @@
   background-color:: blue
   id:: 00ed145a-4123-46b2-8747-008133352fc0
   deck:: #ENT
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

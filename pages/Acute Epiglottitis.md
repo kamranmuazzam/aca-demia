@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Inflammatory Disease]], #Throat, #ENT
+
 - ## Etiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
@@ -21,7 +22,7 @@
   background-color:: blue
   deck:: #ENT
   id:: 594754be-5664-46ab-8213-ccbed28261b5
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

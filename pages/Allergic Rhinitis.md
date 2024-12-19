@@ -1,6 +1,6 @@
 alias:: Nasal Allergy
 ICD-11_Code::
-tags:: #Disease
+tags:: #Disease, #[[Inflammatory Disease]], #Rhinology, #ENT
 
 - ## Etiology
   background-color:: blue
@@ -20,7 +20,7 @@ tags:: #Disease
   background-color:: blue
   id:: b1a89f71-c40c-4f6d-b9b5-94bd9c0b80de
   deck:: #ENT
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

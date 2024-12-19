@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Inflammatory Disease]], #[[Head & Neck]] , #ENT
+
 - #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6756b8b1-7ab0-4520-b4a3-4cda026d234c
@@ -20,7 +21,7 @@
   - ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

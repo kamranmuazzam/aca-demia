@@ -1,6 +1,8 @@
-# Classification #ent-prof-card #ent-prof-written #card #[[External Ear]] 
-id:: 6756a805-64ab-44e4-aee0-a28c733812b3
-deck:: #ENT
+tags:: #[[Inflammatory Disease]], #Otology,  #ENT
+
+- # Classification #ent-prof-card #ent-prof-written #card #[[External Ear]] 
+  id:: 6756a805-64ab-44e4-aee0-a28c733812b3
+  deck:: #ENT
 	- [[Malignant Otitis Externa]] - [[Diffuse Otitis Externa]]
 	- Infective Group
 	  logseq.order-list-type:: number

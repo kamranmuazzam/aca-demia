@@ -1,7 +1,9 @@
-# Types #ent-prof-card #ent-prof-written #card #[[External Ear]]
+tags:: #[[Trauma Induced Disease]] #ENT
 
-id:: 6756a934-1410-48f2-b1a9-99cdf6a75c0c
-deck:: #ENT
+- # Types #ent-prof-card #ent-prof-written #card #[[External Ear]]
+  
+  id:: 6756a934-1410-48f2-b1a9-99cdf6a75c0c
+  deck:: #ENT
 	- Nonliving
 		- Children inserted
 			- piece of paper or sponge

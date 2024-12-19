@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, , #[[Trauma Induced Disease]], #Throat , #ENT
+
 - ## Etiology
   background-color:: blue
   - ## Common Foreign Bodies that may introduced in the Oesophagus #ent-prof-card #ent-prof-written #unanswered #card
@@ -26,7 +27,7 @@
   background-color:: blue
   deck:: #ENT
   id:: fcaf4274-5a62-4051-bb53-6838993f76b1
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

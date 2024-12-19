@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #Neoplasia, #Rhinology, #ENT
+
 - #definition {{c1 }} #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 67580c17-1935-4c28-9aa1-56dad69bc9d2
@@ -24,7 +25,7 @@
   background-color:: blue
   id:: d15cc573-58c4-4954-9664-4ee4841c91f8
   deck:: #ENT
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

@@ -19,7 +19,7 @@
   background-color:: blue
   deck:: #ENT
   id:: de4b90d5-6491-4ba7-b943-9e3d9ce1ec88
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

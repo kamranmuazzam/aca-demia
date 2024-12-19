@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Inflammatory Disease]], #Otology , #ENT
+
 - #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6756c289-999e-43b8-a165-6b05d19fb679
@@ -22,7 +23,7 @@
   background-color:: blue
   deck:: #ENT
   id:: ccad68e3-86a7-49e5-b518-9b79c6ceb88c
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

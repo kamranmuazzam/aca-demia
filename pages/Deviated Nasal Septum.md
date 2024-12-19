@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Congenital Disease]], #[[Trauma Induced Disease]], #Rhinology, #ENT
+
 - ## Etiology #ent-prof-card #unanswered #card
   background-color:: blue
   deck:: #ENT
@@ -21,7 +22,7 @@
   background-color:: blue
   id:: 54938744-188d-4ab1-aa09-32bef16d24a4
   deck:: #ENT
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

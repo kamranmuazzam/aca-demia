@@ -1,4 +1,4 @@
-tags:: #[[Surgical Procedure]]
+tags:: #[[Surgical Procedure]], #ENT
 
 - #definition {{c1 }} #ent-prof-written #unanswered #card
   deck:: #ENT
@@ -18,8 +18,8 @@ tags:: #[[Surgical Procedure]]
 - # Complications #ent-prof-card #ent-prof-written #unanswered #card
   id:: 6756cf31-13c8-4242-aff7-89c661a83299
   deck:: #ENT
-  - peroperative
-  - Postoperative
+	- peroperative
+	- Postoperative
 - # Postoperative Care of a Tracheostomized Patient #ent-prof-card #ent-prof-written #unanswered #card
   id:: 6756cf31-300d-4849-9162-7cfa687f441a
   deck:: #ENT

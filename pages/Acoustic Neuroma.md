@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #Neoplasia, #Otology, #ENT
+
 - #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6756c304-3499-4275-8d91-49419983f0cc
@@ -20,7 +21,7 @@
   - ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

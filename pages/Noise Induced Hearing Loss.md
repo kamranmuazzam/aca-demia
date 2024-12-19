@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, , #[[Degenerative Disease]], #Otology , #ENT
+
 - ## Etiology
   background-color:: blue
   - ### Causative Agents
@@ -20,7 +21,7 @@
     id:: 6756c2ba-5a45-4230-9ecc-74d47ef2a9f1
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

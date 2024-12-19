@@ -17,7 +17,7 @@
   - ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms #eye-prof-card #card
       deck:: Eye
       id:: c3f181b7-5dfb-4fd9-a503-6b6249eca219

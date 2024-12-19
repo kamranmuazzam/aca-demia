@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Congenital Disease]], #[[Head & Neck]], #ENT
+
 - #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6756b7cb-0e39-419c-9e5a-5d0676a0e1a0
@@ -22,7 +23,7 @@
   background-color:: blue
   deck:: #ENT
   id:: 637ecf91-1409-4a8b-92a1-32d975883843
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Trauma Induced Disease]], #Rhinology, #ENT
+
 - #definition
 - ## Etiology
   background-color:: blue
@@ -22,7 +23,7 @@
   background-color:: blue
   deck:: #ENT
   id:: 932292be-6531-4121-a91b-8f88bd317a67
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification

@@ -1,6 +1,7 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, #[[Degenerative Disease]], #Otology , #ENT
+
 - #definition {{c2 }} #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6756c1ba-ec8e-4c85-a213-861eb86f84c2
@@ -22,7 +23,7 @@
   background-color:: blue
   deck:: #ENT
   id:: 036db9d5-059f-4959-9ae3-58c26281be65
-  - ### Signs and Symptoms
+  - ### Clinical Presentation
     - #### Symptoms
     - #### Signs
   - ### Stages or Classification
