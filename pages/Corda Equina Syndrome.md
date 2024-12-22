@@ -1,0 +1,1 @@
+- > Emergency, as Sacral roots injury will cause irreversible loss of Sacral Parasympathetic Outflow, then irreversible urinary incontinence, bowel incontinence

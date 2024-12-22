@@ -1,4 +1,4 @@
-tags:: #Signs
+tags:: #Signs, #[[Clinical Presentation]], #ENT
 
 - # Causes #ent-prof-written #unanswered #card
   deck:: #ENT

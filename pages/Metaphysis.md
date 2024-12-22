@@ -1,0 +1,2 @@
+- a square form widest of the diaphysis
+- Has more spongy bone

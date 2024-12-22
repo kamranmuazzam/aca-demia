@@ -2,7 +2,8 @@
   query-table:: false
   collapsed:: true
 -
-- #+BEGIN_QUERY
+- collapsed:: true
+  #+BEGIN_QUERY
   {:title "All pages have a *programming* tag"
    :query [:find ?name
          :in $ ?tag1 ?tag2
@@ -22,3 +23,5 @@
 - {{query (and [[ent-prof-card]] "Clinical")}}
   collapsed:: true
 - {{query (and #ent-prof-card #definition ) }}
+  collapsed:: true
+- {{query (and #definition (or #ortho-prof-card #ortho-prof-written ) ) }}

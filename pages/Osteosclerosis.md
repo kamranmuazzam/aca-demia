@@ -1,1 +1,1 @@
-tags:: #[[Congenital Disease]], #Otology, #ENT
+tags:: #[[Developmental Disease]], #Otology, #ENT

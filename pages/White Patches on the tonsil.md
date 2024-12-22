@@ -1,4 +1,4 @@
-tags:: #Signs
+tags:: #Signs, #[[Clinical Presentation]], #ENT
 
 - # Differential Diagnosis #ent-prof-card #unanswered #ent-prof-written #card
   deck:: #ENT

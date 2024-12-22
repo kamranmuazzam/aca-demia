@@ -1,1 +1,24 @@
+alias:: Plaster, POP
+
+- Chemical Composition : $$\ce{CaCO3. 1/2 H2O}$$
+- heat is produced when put in water
+- 3--5 seconds, wait until bubbling ends
+- types
+	- full/half
+		- half plaster,back slab, splint
+		- full plaster
+	- length
+		- short
+			- lower 2/3rd, upper 1/3rd
+		- long
+		- ex : short arm, long arm, short leg, arm leg
+- thickness
+	- upper limb : 12-14
+	- lower limb : 16-18
+- procedure
+	- mark the sites
+	- wrap cotton
+	- wrap plaster
+- Put plaster as to immobilize
 - full description #ortho-prof-card
+- #SN Short Note #ortho-prof-written

@@ -4,67 +4,68 @@ tags:: #Disease, #[[Trauma Induced Disease]], #Orthopedics
 
 - ## Etiology
   background-color:: blue
-  - ### Causative Agents
-  - ### Risk Factors
+	- ### Causative Agents
+	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
-  - ### Incidence
-  - ### Prevalence
-    - ### Demographics
-  - ### Geographic Distribution
+	- ### Incidence
+	- ### Prevalence
+		- ### Demographics
+	- ### Geographic Distribution
 - ## Pathophysiology
   background-color:: blue
-  - ### Mechanism of Disease #ortho-prof-card
-  - ### Affected Systems/Organs
+	- ### Mechanism of Disease #ortho-prof-card
+	- ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Clinical Presentation
-    - #### Symptoms
-    - #### Signs
-  - ### Stages or Classification
-  - ### Diagnostic Criteria
+	- ### Clinical Presentation
+		- #### Symptoms
+		- #### Signs
+	- ### Stages or Classification
+	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-  - ### Clinical Diagnosis
-    - #### Classical Presentation
-    - #### Probable Diagnosis
-  - ### Laboratory Tests
-  - ### Imaging Studies
-  - ### Differential Diagnosis
-  - ### Confirmation of Diagnosis
+	- ### Clinical Diagnosis
+		- #### Classical Presentation
+		- #### Probable Diagnosis
+	- ### Laboratory Tests
+	- ### Imaging Studies
+	- ### Differential Diagnosis
+	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
-  - ### Medical Treatment
-  - ### Surgical Options
-  - ### Lifestyle and Dietary Recommendations
-  - ### Follow-up
+	- ### Medical Treatment
+	- ### Surgical Options
+	- ### Lifestyle and Dietary Recommendations
+	- ### Follow-up
 - ## Prognosis
   background-color:: blue
-  - ### Expected Course
-    - #### Possible Complications #ortho-prof-card
-    - #### With Treatment
-    - #### Without Treatment
-      - ##### Possible Complications
-      - ##### Long-Term Effects
-  - ### Survival Rates
-    - #### With Treatment
-    - #### Without Treatment
-  - ### Quality of Life Considerations
+	- ### Expected Course
+		- #### Possible Complications #ortho-prof-card
+		  Supracondylar Fracture of Humerus #ortho-prof-written
+		- #### With Treatment
+		- #### Without Treatment
+			- ##### Possible Complications
+			- ##### Long-Term Effects
+	- ### Survival Rates
+		- #### With Treatment
+		- #### Without Treatment
+	- ### Quality of Life Considerations
 - ## Prevention
   background-color:: blue
-  - ### Health Education
-  - ### Community Approach
-  - ### Screening Programs
-  - ### Lifestyle Modifications
+	- ### Health Education
+	- ### Community Approach
+	- ### Screening Programs
+	- ### Lifestyle Modifications
 - ## Patient Education and Support
   background-color:: blue
-  - ### Educational Resources
-  - ### Support Groups
-  - ### Counseling Options
+	- ### Educational Resources
+	- ### Support Groups
+	- ### Counseling Options
 - ## Recent Research and Developments
   background-color:: blue
-  - ### Ongoing Clinical Trials
-  - ### Recent Advances
+	- ### Ongoing Clinical Trials
+	- ### Recent Advances
 - ## Key Literature
   background-color:: blue
 - ## Guidelines and Protocols

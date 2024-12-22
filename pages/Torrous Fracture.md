@@ -1,0 +1,4 @@
+- one bone ledged into other as perisoteum is not thick
+- presentation
+	- pain, might be swelling, history of trauma
+	- X-Ray shows Torrous Fracture

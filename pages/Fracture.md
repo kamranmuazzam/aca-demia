@@ -3,6 +3,8 @@ ICD-11_Code::
 tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 
 - #definition {{c1 }} #ortho-prof-written
+- > *No Fracture is Emergency*
+  Exception : *Open Fracture with Neovascular Injury is Emergency*
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -16,11 +18,24 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 - ## Pathophysiology
   background-color:: blue
 	- ### Mechanism of Disease
+		- Mechanical Failure of bone under Stress
+			- Axial Loading (Compression)
+			- Rotation/Torsion
+			- Bending
+			- Missile Injury
+		- [[Fracture Displacement]]
+		- [[Fracture Geometry]]
 	- ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-	- ### Clinical Presentation #ortho-prof-written #ortho-prof-written
+	- ### Clinical Presentation
 		- #### Symptoms
+		  id:: fbf7aec0-e837-41a5-ab98-07614c74239f
+			- Frequently Traumatic
+			- Can be atraumatic (eg. bone tumor)
+			- Pain
+			- "crack" heard
+			- Immediate Disability
 		- #### Signs
 	- ### Classification #ortho-prof-written
 		- ### Clinical Classification #ortho-prof-card
@@ -31,14 +46,71 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
-		- #### Classical Presentation
+		- #### Classical Presentation same as Clinical Presentation
 		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
+	- ### Evaluation #ortho-prof-written
+		- #### History
+			- {{embed ((fbf7aec0-e837-41a5-ab98-07614c74239f))}}
+		- #### Physical Examination
+			- Inspection
+				- Deformity
+				- Swelling
+				- Ecchymosis
+				- Open wound with fracture seen
+			- Palpation
+				- Tenderness localized to fracture site (check if no significant pain)
+				- Instability
+				- Painful range of motion if near a joint (a diaphysial joint fracture still might lead to painful range of motion)
+				- Impaired pulse (if vascular compromise)
+			- Detailed neurological exam
+				- Sensation
+					- Light Touch
+					- 2 point discrimination
+				- Reflexes, muscle tone
+				- Motor exam
+					- Grade strength 1-5
+		- #### Imaging
+			- Plain radiographs often sufficient
+				- At least orthogonal views (AP, Lateral)
+				- Joint above and joint below (proximal & distal)
+			- CT scan in some instances
+				- For better assessing articular fractures
+				- For pre-operative planning purposes
+				- For Pelvic, Scapular, Spine fracture
+			- MRI on nuclear imaging for occult fractures
 	- ### Differential Diagnosis
+		- [[Dislocation]]
+			- Comparison of Fracture and Dislocation #ortho-prof-written
+			  id:: 676398f1-aa63-4330-9077-25d9b7cf2964
+		- [[Infection]]
+		- [[Sprain]]
+		- [[Bone Tumors]]
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
+	- Bone Heals itself by *regenerating* new bone tissue rather than healing with scar tissue
+	- We can assist it in optimizing
+		- Fracture alignment ("reduction")
+		- Articular alignment
+		- Length
+		- Rotation
+		- Local Environment
+	- ### Treatment Options
+		- Closed Reduction and Casting
+		- ORIF (plate/screw fixation)
+		- External Fixation
+		- Intramedullary nailing/rodding
+		- Arthroplasty (replacement)
+	- ### Principle of Management of Long Bone Fracture #ortho-prof-written
+		- Reduce
+		- Rest and Recognition
+			- RICE therapy
+		- Reduction
+			- [[Open Reduction]]
+			- [[Closed Reduction]]
+		- Retention
+			- [[Plaster]]
+		- Rehabilitate
 	- ### Medical Treatment
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
@@ -46,8 +118,12 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
-		- ### Immediate Complications #ortho-prof-card
-		- ### Delayed Complications #ortho-prof-card
+		- ### Complications #ortho-prof-written
+		  Complications of Long Bone Fracture
+			- ### Immediate Complications #ortho-prof-card
+				- [[Compartment Syndrome]]
+			- ### Delayed Complications #ortho-prof-card
+		- ### Prevention of Immediate Complications of Fracture #ortho-prof-written
 		- ### Management of Immediate Complications of Fracture #ortho-prof-card
 		- #### With Treatment
 		- #### Without Treatment
