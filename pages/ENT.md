@@ -20,7 +20,7 @@
 	- ## Throat
 	  collapsed:: true
 		- [[Tracheostomy]]
-- ## Congenital Disease
+- ## Developmental Disease
   #+BEGIN_QUERY
   {
   :query [:find ?name
@@ -31,7 +31,7 @@
        [?p :block/tags ?t1]
        [?p :block/tags ?t2]
        [?p :block/name ?name]]
-  :inputs [:current-page "congenital disease"]
+  :inputs [:current-page "developmental disease"]
   :view (fn [result]
        [:div.flex.flex-col
         (for [page result]
@@ -52,7 +52,8 @@
    :view (fn [result]
          [:div.flex.flex-col
           (for [page result]
-            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])
+            [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)]
+  )])
   }
   #+END_QUERY
 - ## Neoplasia
@@ -140,6 +141,9 @@
     (for [page result]
       [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
   #+END_QUERY
+-
+-
+-
 -
 -
 -

@@ -266,7 +266,18 @@
  ;; input "{{poem red,blue}}"
  ;; becomes
  ;; Rose is red, violet's blue. Life's ordered: Org assists you.
- :macros {}
+:macros {
+   "P"  "{{renderer :template-view, reference property in the page, $1, :default $2, :macro-mode}}",
+   "PP" "{{renderer :template-view, reference property in the page, $1, :default $2, :deep-search, :macro-mode}}",
+  :evalpage "<button class='kit eval' data-kit='evalpage'>► Evaluate code of open code-blocks</button>"
+  :evalparent "<button class='kit eval' data-kit='evalparent'>► Evaluate code of parent block</button>"
+  :runpage "<button class='kit run' data-kit='runpage' data-page-name='$1'>► Run code of page $1</button>"
+  :togglemsg "<button class='kit' data-kit='togglemsg'>► Toggle messages</button>"
+  :cell "<span class='kit cell' data-kit='synthesis' data-type='cell' data-what='$1'><b>$1</b><input value=' :cell' /></span>"
+  :eval "<span class='kit' data-kit='synthesis' data-type='eval' data-what='$1'><b>$1</b></span>"
+  :evalonce "<span class='kit' data-kit='synthesis' data-type='once' data-what='$1'><b>$1</b></span>"
+  :parse "<span class='kit' data-kit='synthesis' data-type='parse' data-what='$1'><b>$1</b></span>"
+}
 
  ;; Configure the default expansion level for linked references.
  ;; For example, consider the following block hierarchy:

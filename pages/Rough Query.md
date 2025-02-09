@@ -25,3 +25,36 @@
 - {{query (and #ent-prof-card #definition ) }}
   collapsed:: true
 - {{query (and #definition (or #ortho-prof-card #ortho-prof-written ) ) }}
+  collapsed:: true
+- {{query (and [[ortho-prof-card]] [[ortho-prof-written]] )}}
+  collapsed:: true
+- {{query (and "Classification" (or #ortho-prof-card #ortho-prof-written ) ) }}
+  collapsed:: true
+-
+-
+- fdafasssss
+  id:: 6776bb0d-6876-4da1-915f-66cc8f7bd4ca
+- ```
+  query.pages()
+        .property('tags')
+            .reference('book')
+        .noProperty('category')
+        .getNames()
+  ```
+- length of ent
+	- {{renderer :view, "query.pages().tags('ent').getNames().map((p) => p.title).join('\n')"}}
+- {{{
+  var books = query.pages()
+    .tags('book')
+    .get()
+  }}}
+- {{renderer :view, query.table(books)}}
+- {{renderer :view, c.page.name}}
+- ```javascript
+  ``{
+    var books = query.pages().tags('book').get()
+  }``
+  ```
+- sda
+  {{renderer :view, "query.table(query.pages().tags(['surgery','ent']).get(),['page','knowledge'])"}}
+-

@@ -1,0 +1,14 @@
+- Alcohol
+- Vinegar
+- Koji
+- Miso
+- Kombucha
+- Kefir
+- Ginger Ale
+- Yogurt
+- Curd
+- Cheese
+- Kimchi
+- Tempeh
+- Soy Sauce
+- Pickle

@@ -11,7 +11,7 @@ alias:: Plaster, POP
 		- short
 			- lower 2/3rd, upper 1/3rd
 		- long
-		- ex : short arm, long arm, short leg, arm leg
+		- ex : short arm, long arm, short leg, long leg
 - thickness
 	- upper limb : 12-14
 	- lower limb : 16-18

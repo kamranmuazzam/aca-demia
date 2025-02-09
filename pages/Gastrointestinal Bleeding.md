@@ -1,2 +1,2 @@
-- Upper Gastrointestinal Bleeding #fahim
-- Lower Gastrointestinal Bleeding #fahim
+tags:: clinical presentation, medicine, alimentary system
+high-yeild:: true

@@ -11,10 +11,14 @@
             "id": "b75dd98562f3d7e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pages/Pancreatitis.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Pancreatitis"
             }
           }
         ]
@@ -138,9 +142,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "a2dfb40061f4e524",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon",
+              "title": "pages"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -155,74 +169,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "infranodus-graph-view:InfraNodus Graph View": false
     }
-  },
-  "floating": {
-    "id": "9795396101ca0309",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e7c3cf0801f14fec",
-        "type": "window",
-        "children": [
-          {
-            "id": "e4946e82e7d01737",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "54277b6927d9449f",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "excalibrain.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "excalibrain"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 208,
-        "y": 0,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
   },
   "active": "b75dd98562f3d7e9",
   "lastOpenFiles": [
+    "logseq/bak/pages/Haleem Masala/2025-01-03T00_23_14.824Z.Desktop.md",
+    "logseq/bak/pages/Haleem Masala/2025-01-03T00_20_22.843Z.Desktop.md",
+    "logseq/bak/pages/Haleem Masala/2025-01-03T00_20_05.932Z.Desktop.md",
+    "logseq/bak/pages/Haleem Masala",
+    "pages/testPage.md",
+    "pages/Synthesis___Custom.md",
+    "pages/Synthesis___Text.md",
+    "pages/Synthesis___Number.md",
+    "pages/Synthesis___Collections.md",
+    "pages/Synthesis___Base.md",
+    "pages/Synthesis.md",
+    "journals/2025_01_03.md",
+    "logseq/custom.js",
+    "logseq/custom.css",
+    "logseq/bak/logseq/config/2025-01-02T22_53_03.447Z.Desktop.edn",
+    "logseq/bak/logseq/config/2025-01-02T22_52_34.821Z.Desktop.edn",
+    "logseq/bak/logseq/config/2025-01-02T19_45_59.163Z.Desktop.edn",
+    "pages/Haleem Masala.md",
+    "pages/Haleem.md",
+    "pages/Cullinary.md",
+    "pages/sample disease 2.md",
+    "pages/sample disease 1.md",
+    "pages/sample disease.md",
+    "pages/Medicine.md",
+    "excalibrain.md",
     "pages/Acute Suppurative Otitis Media.md",
     "Excalidraw/ExcaliBrain Snapshot - Otitis Media.excalidraw.md",
-    "excalibrain.md",
     "Excalidraw",
     "pages/Advanced Medical Sciences.md",
-    "pages/Medicine.md",
     "Untitled.md",
     "pages/SLE.md",
     "pages/Hemophilia.md",
-    "Hemoptysis.md",
-    "pages/Clubbing.md",
-    "logseq/bak/pages/Clubbing/2024-12-10T16_03_25.730Z.Desktop.md",
-    "Scabies.md",
-    "Lung Abscess.md",
-    "pages/Pleural Effusion.md",
-    "pages/Nephrotic Syndrome.md",
-    "MCNS.md",
-    "Serum Sickness.md",
-    "pages/Haemoconcentration.md",
-    "pages/Lymphoma.md",
-    "pages/Surgery.md",
-    "logseq/bak/pages/Conjunctivitis/2024-12-07T11_10_46.312Z.Desktop.md",
-    "logseq/bak/pages/Thyroidectomy/2024-12-09T11_06_23.322Z.Desktop.md",
-    "logseq/bak/pages/Hoarseness of Voice/2024-12-09T11_06_23.321Z.Desktop.md",
-    "logseq/bak/pages/Brachial Cyst/2024-12-09T11_06_23.303Z.Desktop.md",
-    "logseq/bak/pages/Acute Maxillary Sinusitis/2024-12-09T11_06_23.310Z.Desktop.md",
-    "pages/Syringing the Ear.md"
+    "Hemoptysis.md"
   ]
 }

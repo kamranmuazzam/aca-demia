@@ -1,0 +1,15 @@
+- Sign #shaheen
+	- Sign on Picture #shaheen
+		- Lid retraction
+	- Hand Sign
+		- Tremor
+		- Sleeping Tachycardia
+		- Warm, Sweaty Hand
+	- Eye Sign
+		- Exopthalmos
+		- Lid Lag
+		- Lid retraction
+	- Cardiac Sign
+		- Tachycardia
+		- Atrial fibrillation
+		- SVT

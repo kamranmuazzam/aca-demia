@@ -1,7 +1,7 @@
 - Benign Tumor of nasal mucosa (benign, yet destructive)
 - the tumor (oma) consists of blood vessels and fibrous tissue
 - male adolescent
-- profuse nose bleed(epitaxis)
+- profuse nosebleed(epitaxis)
 - bipsy may be contraindicated
 - #SN Short Note #ent-prof-written #unanswered #card
   deck:: #ENT

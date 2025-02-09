@@ -1,0 +1,6 @@
+- Apart from Depression #shaheen
+	- [[Schizophrenia]]
+	- [[Bipolar Disorder]]
+	- [[Delirium]]
+	- [[Dementia]]
+	- [[Anxiety Disorder]]

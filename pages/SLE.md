@@ -1,113 +1,114 @@
 alias::
 ICD-11_Code::
-tags:: #Disease
+tags:: #Disease, medicine, rheumatology
+high-yeild:: true
 
 - ## Etiology
-  - ### Causative Agents
-  - ### Risk Factors
+	- ### Causative Agents
+	- ### Risk Factors
 - ## Epidemiology
-  - ### Incidence
-  - ### Prevalence
-    - ### Demographics
-      - **90% women**
-      - frequently starting at **childbearing age**
-  - ### Geographic Distribution
+	- ### Incidence
+	- ### Prevalence
+		- ### Demographics
+			- **90% women**
+			- frequently starting at **childbearing age**
+	- ### Geographic Distribution
 - ## Pathophysiology
-  - ### Mechanism of Disease
-  - ### Affected Systems/Organs
-    almost any organ, but mainly involves
-    - [[Skin]]
-    - [[Joints]]
-    - [[Kidneys]]
-    - [[Blood cells]]
-    - [[Nervous System]]
+	- ### Mechanism of Disease
+	- ### Affected Systems/Organs
+	  almost any organ, but mainly involves
+		- [[Skin]]
+		- [[Joints]]
+		- [[Kidneys]]
+		- [[Blood cells]]
+		- [[Nervous System]]
 - ## Clinical Features
-  - ### Clinical Presentation
-    - #### Symptoms
-      - [[Seizures]] and [[Fever]] in **children**
-        :LOGBOOK:
-        CLOCK: [2024-10-18 Fri 12:10:47]
-        :END:
-      - [[Raynaud's Phenomenon]] and [[Pleuritis]] } **twice** as common in **adults**
-    - #### Signs
-      - [[Malar Rash]]
-      - [[Ulcers]]
-      - [[Proteinurea]]
-      - [[Urinary Cellular Casts]]
-      - [[Thrombocytopenia]]
-      - [[Hemolytic Anemia]]
-      - [[Lymphadenopathy]]
-  - ### Stages or Classification
-  - ### Diagnostic Criteria
+	- ### Clinical Presentation
+		- #### Symptoms
+			- [[Seizures]] and [[Fever]] in **children**
+			  :LOGBOOK:
+			  CLOCK: [2024-10-18 Fri 12:10:47]
+			  :END:
+			- [[Raynaud's Phenomenon]] and [[Pleuritis]] } **twice** as common in **adults**
+		- #### Signs
+			- [[Malar Rash]]
+			- [[Ulcers]]
+			- [[Proteinurea]]
+			- [[Urinary Cellular Casts]]
+			- [[Thrombocytopenia]]
+			- [[Hemolytic Anemia]]
+			- [[Lymphadenopathy]]
+	- ### Stages or Classification
+	- ### Diagnostic Criteria
 - ## Diagnosis
-  - ### Clinical Diagnosis
-    - Classical Triad of [[Fever]], [[Join Pain]], [[Rash]] in a woman of child bearing age
-    - **Constitutional** (eg, fatigue, fever, arthralgia, weight changes)
-    - **Musculoskeletal** (eg, arthralgia, arthropathy, myalgia, frank arthritis, avascular necrosis)
-    - **Dermatologic** (eg, malar rash, photosensitivity, discoid lupus)
-    - **Renal** (eg, acute or chronic kidney failure, acute nephritic disease)
-    - **Neuropsychiatric** (eg, seizure, psychosis)
-    - **Pulmonary** (eg, pleurisy, pleural effusion, pneumonitis, pulmonary hypertension, interstitial lung disease)
-    - **Gastrointestinal** (eg, nausea, dyspepsia, abdominal pain)
-    - **Cardiac** (eg, pericarditis, myocarditis)
-    - **Hematologic** (eg, cytopenias such as leukopenia, lymphopenia, anemia, or thrombocytopenia)
-  - ### Laboratory Tests
-    - [[CBC with differential]]
-    - [[Serum Creatinine]]
-    - [[Urine RME]]
-    - [[ESR]] or [[CRP level]]
-    - [[Complement levels]]
-    - [[Liver Function Tests]]
-    - [[Creatine Kinase Assay]]
-    - [[Spot Protein/Spot Creatinine Ratio]], [[Autoantibody Tests]]
-  - ### Imaging Studies
-    - [[Joint Radiography]]
-    - [[Chest Radiography and Chest CT Scanning]]
-    - [[Echocardiography]]
-    - [[Brain MRI]]
-    - [[Cardiac MRI]]
-  - ### Differential Diagnosis
-    - [[Adult-Onset Still Disease]]
-    - [[Behçet Syndrome]]
-    - [[Chronic Fatigue Syndrome]]
-    - [[Endocarditis]]
-    - [[Fibromyalgia]]
-    - [[HIV Infection]]
-    - [[Inflammatory Bowel Disease]]
-    - [[Lyme Disease]]
-    - [[Mixed Connective Tissue Disease]]
-    - [[Psoriatic Arthritis]]
-    - [[Reactive Arthritis]]
-    - [[Rheumatoid Arthritis]]
-    - [[Sarcoidosis]]
-    - [[Systemic Sclerosis]]
+	- ### Clinical Diagnosis
+		- Classical Triad of [[Fever]], [[Join Pain]], [[Rash]] in a woman of child bearing age
+		- **Constitutional** (eg, fatigue, fever, arthralgia, weight changes)
+		- **Musculoskeletal** (eg, arthralgia, arthropathy, myalgia, frank arthritis, avascular necrosis)
+		- **Dermatologic** (eg, malar rash, photosensitivity, discoid lupus)
+		- **Renal** (eg, acute or chronic kidney failure, acute nephritic disease)
+		- **Neuropsychiatric** (eg, seizure, psychosis)
+		- **Pulmonary** (eg, pleurisy, pleural effusion, pneumonitis, pulmonary hypertension, interstitial lung disease)
+		- **Gastrointestinal** (eg, nausea, dyspepsia, abdominal pain)
+		- **Cardiac** (eg, pericarditis, myocarditis)
+		- **Hematologic** (eg, cytopenias such as leukopenia, lymphopenia, anemia, or thrombocytopenia)
+	- ### Laboratory Tests
+		- [[CBC with differential]]
+		- [[Serum Creatinine]]
+		- [[Urine RME]]
+		- [[ESR]] or [[CRP level]]
+		- [[Complement levels]]
+		- [[Liver Function Tests]]
+		- [[Creatine Kinase Assay]]
+		- [[Spot Protein/Spot Creatinine Ratio]], [[Autoantibody Tests]]
+	- ### Imaging Studies
+		- [[Joint Radiography]]
+		- [[Chest Radiography and Chest CT Scanning]]
+		- [[Echocardiography]]
+		- [[Brain MRI]]
+		- [[Cardiac MRI]]
+	- ### Differential Diagnosis
+		- [[Adult-Onset Still Disease]]
+		- [[Behçet Syndrome]]
+		- [[Chronic Fatigue Syndrome]]
+		- [[Endocarditis]]
+		- [[Fibromyalgia]]
+		- [[HIV Infection]]
+		- [[Inflammatory Bowel Disease]]
+		- [[Lyme Disease]]
+		- [[Mixed Connective Tissue Disease]]
+		- [[Psoriatic Arthritis]]
+		- [[Reactive Arthritis]]
+		- [[Rheumatoid Arthritis]]
+		- [[Sarcoidosis]]
+		- [[Systemic Sclerosis]]
 - ## Management and Treatment
-  - ### Medical Treatment
-    - **[[Antimalarials]]** eg, [[Hydroxychloroquine]]
-    - **[[Corticosteroids]]** eg, [[Methylprednisolone]], [[Prednisone]], short-term use recommended
-    - **[[Nonbiologic DMARDs]]** [[Cyclophosphamide]], [[Methotrexate]], [[Azathioprine]], [[Mycophenolate]], [[Cyclosporine]]
-    - **[[NSAIDS]]** eg, [[Ibuprofen]], [[Naproxen]], [[Diclofenac]]
-    - **[[Biologic DMARDs]]** eg, [[Belimumab]], [[Rituximab]], [[Anifrolumab]], and/or [[IV Immune Globulin]]
-  - ### Surgical Options
-  - ### Lifestyle and Dietary Recommendations
+	- ### Medical Treatment
+		- **[[Antimalarials]]** eg, [[Hydroxychloroquine]]
+		- **[[Corticosteroids]]** eg, [[Methylprednisolone]], [[Prednisone]], short-term use recommended
+		- **[[Nonbiologic DMARDs]]** [[Cyclophosphamide]], [[Methotrexate]], [[Azathioprine]], [[Mycophenolate]], [[Cyclosporine]]
+		- **[[NSAIDS]]** eg, [[Ibuprofen]], [[Naproxen]], [[Diclofenac]]
+		- **[[Biologic DMARDs]]** eg, [[Belimumab]], [[Rituximab]], [[Anifrolumab]], and/or [[IV Immune Globulin]]
+	- ### Surgical Options
+	- ### Lifestyle and Dietary Recommendations
 - ## Prognosis
-  - ### Expected Course
-  - ### Survival Rates
-  - ### Quality of Life Considerations
+	- ### Expected Course
+	- ### Survival Rates
+	- ### Quality of Life Considerations
 - ## Complications
-  - ### Possible Complications
-  - ### Long-term Effects
+	- ### Possible Complications
+	- ### Long-term Effects
 - ## Prevention
-  - ### Health Education
-  - ### Community Approach
-  - ### Screening Programs
-  - ### Lifestyle Modifications
+	- ### Health Education
+	- ### Community Approach
+	- ### Screening Programs
+	- ### Lifestyle Modifications
 - ## Patient Education and Support
-  - ### Educational Resources
-  - ### Support Groups
-  - ### Counseling Options
+	- ### Educational Resources
+	- ### Support Groups
+	- ### Counseling Options
 - ## Recent Research and Developments
-  - ## Ongoing Clinical Trials
-  - ## Recent Advances
+	- ## Ongoing Clinical Trials
+	- ## Recent Advances
 - ## Key Literature
-  - ## Guidelines and Protocols
+	- ## Guidelines and Protocols

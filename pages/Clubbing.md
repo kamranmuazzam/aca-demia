@@ -19,38 +19,21 @@
 		- Dysfunction of 15 PGDH enzyme
 		- Failure to metabolize PGE2
 		- Increased blood flow, and connective tissue proliferation
-- Etiology
+- Etiology #shaheen
 	- Respiratory
-		- Bronchial Carcinoma (more commonly large cell than small cell)
-		- Chronic suppurative lung disease
-			- Bronchiectasis
-			- Lung Abscess
-			- Chronic empyema
-		- Pulmonary Fibrosis
-			- Idiopathic pulmonary fibrosis
-			- Cystic fibrosis
-			- Fibrosing Alveolitis
-		- Asbestosis
-		- Sarcoidosis
+		- Lung Cancer
+		- Lung Abscess
+		- Bronchiectasis
 	- Cardiac
-		- Fallot Tetralogy
-		- Eisenmenger Syndrome
-		- Subactute Bacterial Endocarditis
-		- Left Atrial Myxoma
+		- Infective Endocarditis
+		- Tetralogy of Fallot
 	- GI
-		- [[IBD]]
 		- Cirrhosis
-		- Coliac Disease
-		- GI Lymphoma
-		- PBC
-	- Idiopathic
-		- Familial usually before puberty
-	- Rare
-		- Thyroid Acropachy
-		- Pregnancy
-		- Unilateral clubbing
-		- Bronchial arteovenous aneurysm
-		- Axillary artery aneurysm
+		- [[IBD]]
+	- Endocrine
+		- Thyrotoxicosis
+	- Congenital
+		- Benign familial(harmless)
 - ## Approach
 	- ### History
 		- #### Onset

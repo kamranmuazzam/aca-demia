@@ -5,7 +5,7 @@
 	- [[Acute  Osteomyelitis in Children]]
 	- [[Corda Equina Syndrome]]
 - [[Cystic Lesions of Bone]]
-- ## Congenital Disease
+- ## Developmental Disease
   #+BEGIN_QUERY
   {
   :query [:find ?name

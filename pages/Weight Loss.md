@@ -5,48 +5,17 @@
 - Cachexia
 	- Syndrome of weight loss accompanied by loss of muscle mass, fatigue, generalized weakness, and abnormal labs (e.g. anemia, ↓ albumin, ↑ inflammatory markers)
 	- Chachexia can occur simultaneously with fluid retention (e.g. leg edema, ascites), obscuring the weight loss.
-- Association
-	- Malignancy causes weight loss
-		- Tumor effect directly
-		  logseq.order-list-type:: number
-		- Treatment effect
-		  logseq.order-list-type:: number
-			- Chemotherapy
-			  logseq.order-list-type:: number
-			- Chronic radiation enteritis
-			  logseq.order-list-type:: number
-	- Non-Malignant GI Illness
-		- Malabsorption
-			- Celiac disease
-			- Chronic pancreatitis
-		- IBD
-		- Chronic mesenteric ischemia
-	- Psychiatric
-		- Depression
-		- Eating disorders
-	- Infections
-		- HIV/AIDS
-		- Tuberculosis
+- Association #shaheen
+	- Chronic Infection
+		- [[Tuberculosis]]
+		- [[HIV Infection]]
 	- Endocrine
 		- Uncontrolled diabtetes
 		- Hyperthyroidism
-		- Chronic adrenal insufficianecy
-	- Neuro
-		- Dementia
-		- Stroke
-		- Parkinson's Disease
-	- Other
-		- Food insecurity
-		- Chronic illness
-			- Heart Failure (Cardiac cachexia)
-			- COPD ("pulmonary cachexia")
-		- Medications
-			- Cholinesterase inhibitors
-			- SGLT2 inhibitors
-			- GLP-1 agaonists
-		- Drugs
-			- Alcohol
-			- Stimulants
+		- Addison's Disease
+	- Malignancy
+	- Malabsorption
+	- Malnutrition
 - History
 	- Quantify weight loss (how much and over what duration)
 	- Previous weight fluctuations and trends

@@ -1,75 +1,77 @@
-- alias::
-  ICD-11_Code::
-  tags:: #Disease
+alias::
+ICD-11_Code::
+tags:: #Disease, medicine, pulmunology
+high-yeild:: true
+
 - ## Etiology
   background-color:: blue
-  - ### Causative Agents
-  - ### Risk Factors
+	- ### Causative Agents
+	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
-  - ### Incidence
-  - ### Prevalence
-    - ### Demographics
-  - ### Geographic Distribution
+	- ### Incidence
+	- ### Prevalence
+		- ### Demographics
+	- ### Geographic Distribution
 - ## Pathophysiology
   background-color:: blue
-  - ### Mechanism of Disease
-  - ### Affected Systems/Organs
+	- ### Mechanism of Disease
+	- ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Clinical Presentation
-    - #### Symptoms
-    - #### Signs
-  - ### Stages or Classification
-  - ### Diagnostic Criteria
+	- ### Clinical Presentation
+		- #### Symptoms
+		- #### Signs
+	- ### Stages or Classification
+	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-  - ### Clinical Diagnosis
-    - #### Classical Presentation
-    - #### Probable Diagnosis
-  - ### Laboratory Tests
-  - ### Imaging Studies
-    - [[ECG]]
-      - Low voltage
-      - Poor R wave progression
-      - Tall P waves
-      - Unusual QRS axis
-  - ### Differential Diagnosis
-  - ### Confirmation of Diagnosis
+	- ### Clinical Diagnosis
+		- #### Classical Presentation
+		- #### Probable Diagnosis
+	- ### Laboratory Tests
+	- ### Imaging Studies
+		- [[ECG]]
+			- Low voltage
+			- Poor R wave progression
+			- Tall P waves
+			- Unusual QRS axis
+	- ### Differential Diagnosis
+	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
-  - ### Medical Treatment
-  - ### Surgical Options
-  - ### Lifestyle and Dietary Recommendations
-  - ### Follow-up
+	- ### Medical Treatment
+	- ### Surgical Options
+	- ### Lifestyle and Dietary Recommendations
+	- ### Follow-up
 - ## Prognosis
   background-color:: blue
-  - ### Expected Course
-    - #### With Treatment
-    - #### Without Treatment
-  - ### Survival Rates
-    - #### With Treatment
-    - #### Without Treatment
-  - ### Quality of Life Considerations
+	- ### Expected Course
+		- #### With Treatment
+		- #### Without Treatment
+	- ### Survival Rates
+		- #### With Treatment
+		- #### Without Treatment
+	- ### Quality of Life Considerations
 - ## Complications
   background-color:: blue
-  - ### Possible Complications
-  - ### Long-term Effects
+	- ### Possible Complications
+	- ### Long-term Effects
 - ## Prevention
   background-color:: blue
-  - ### Health Education
-  - ### Community Approach
-  - ### Screening Programs
-  - ### Lifestyle Modifications
+	- ### Health Education
+	- ### Community Approach
+	- ### Screening Programs
+	- ### Lifestyle Modifications
 - ## Patient Education and Support
   background-color:: blue
-  - ### Educational Resources
-  - ### Support Groups
-  - ### Counseling Options
+	- ### Educational Resources
+	- ### Support Groups
+	- ### Counseling Options
 - ## Recent Research and Developments
   background-color:: blue
-  - ### Ongoing Clinical Trials
-  - ### Recent Advances
+	- ### Ongoing Clinical Trials
+	- ### Recent Advances
 - ## Key Literature
   background-color:: blue
 - ## Guidelines and Protocols

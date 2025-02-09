@@ -1,0 +1,7 @@
+- Differentials #shaheen
+	- [[Septic Arthritis]]
+	- [[Gout]]
+	- [[Pseudogout]]
+	- [[Haemarthrosis]]
+	- [[Trauma]]
+	- Monoarticular presentation of [[Oligoarthritis]] & [[Polyarthritis]]

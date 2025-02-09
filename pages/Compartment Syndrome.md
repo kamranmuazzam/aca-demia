@@ -46,11 +46,14 @@ tags:: #Disease , #[[Trauma Induced Disease]], #Orthopedics
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
+  id:: 7208f015-bf3e-4261-9c90-536e561b1d4d
 	- ### Immediate Treatment #ortho-prof-card
 		- Elevate for 30 mins to 1 hr
 			- Check every 1 hr
 		- If Extrinsic Cause, then removal of cause
-		- If not improved, then fasciotomy (curvilinear incision)
+		- If not improved, then fasciotomy
+			- curvilinear incision in anterior forearm
+			- liner incision in anterolateral and anteromedial leg
 	- Treatment of Cause
 	- Wound Treatment
 		- Dressing

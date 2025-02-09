@@ -1,0 +1,24 @@
+-
+- ## Recipe
+	- muttonweight: {{cell 3 as kg}}
+	- ### Ingredients
+		- #### Whole Spices
+			- {{cell (2 * (muttonweight)) as tablespoon}} coriander seeds
+			- {{cell (2 * (muttonweight)) as tablespoon}} cumin seeds
+			- {{cell (1 * (muttonweight)) as tablespoon}} caraway seeds, _ajma_
+			- {{cell (1 * (muttonweight)) as tablespoon}} black cumin seeds
+			- {{cell (2 * (muttonweight)) as pcs}} bay leaf, _crushed_
+			- {{cell (2 * (muttonweight)) as inch}} cinnamon stick
+			- {{cell (8 * (muttonweight)) as pcs}} green cardamom
+			- {{cell (2 * (muttonweight)) as tablespoon}} fennel seeds
+			- {{cell (15 * (muttonweight)) as pcs}} red button chillies
+			- {{cell (0.5 * (muttonweight)) as teaspoon}} black pepper
+		- ### Other
+			- {{cell (1 * (muttonweight)) as teaspoon}} turmeric powder
+			- {{cell (0.5 * (muttonweight)) as tablespoon}} salt
+	- ### Procedure
+		- drugOfChoice: [[Acetazolamide]]
+		- All whole spices and seeds were taken in a pan and roasted dry for about a minute until fragrant
+		- Turmeric powder and Salt were added
+		  *In case whole spices or seeds unavailable, they were also added in powdered form if available*
+			- Whole mixture was grinded and seived through a fine seive

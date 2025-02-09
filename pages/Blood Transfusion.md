@@ -1,0 +1,64 @@
+# Common Transfused Products #gs-prof-card
+	- **Whole Blood**: Contains all blood components (red cells, plasma, platelets). It is rarely used now, except in cases of acute massive blood loss.
+	- **Packed Red Blood Cells (PRBCs)**: Concentrated red cells with most of the plasma removed. Used to treat anemia and blood loss.
+	- **Fresh Frozen Plasma (FFP)**: Contains clotting factors. Used in coagulopathies, liver disease, and massive transfusion.
+	- **Cryoprecipitate**: Rich in fibrinogen, Factor VIII, and von Willebrand factor. Used in bleeding disorders like hemophilia and DIC.
+	- **Platelets**: Used in thrombocytopenia or platelet dysfunction to prevent or treat bleeding.
+	- **Prothrombin Complex Concentrates (PCC)**: Contains clotting factors II, VII, IX, and X. Used for rapid reversal of warfarin-induced bleeding.
+	- **Albumin**: Used in hypovolemia, burns, and hypoalbuminemia.
+	- **Granulocytes**: Rarely used, but may be given in severe neutropenia with infection.
+	- **Autologous Blood**: Patient’s own blood, collected preoperatively for transfusion during surgery.
+- # Complications of Blood Transfusion #gs-prof-card
+	- ## Immediate Complications
+		- Acute Hemolytic Reaction
+		- Febrile Non-Hemolytic Reaction
+		- Allergic Reactions
+		- Transfusion Related Acute Lung Injury
+		- Bacterial Contamination
+		- Circulatory Overload
+		- Air Embolism
+	- ## Delayed Complications
+		- Delayed Hemolytic Reaction
+		- Transfusion-Transmitted Infections
+		- Iron Overload
+		- Graft Versus Host Disease
+		- Post Transfusion Purpura
+- # Management of Mismatched Blood Transfusion #gs-prof-card
+	- Stop the Transfusion Immediately
+	- Maintain IV Access with Normal Saline to ensure adequate hydration
+	- Send Blood Samples to lab for
+		- Repeat cross-matching
+		- Direct Coombs test
+		- Serum bilirubin, hemoglobin, haptoglobin
+		- Urine for hemoglobin
+	- Monitor Vital Signs : Blood pressure, pulse, urine output
+	- Administer Medications
+		- Diuretics (e.g., furosemide) to maintain urine output
+		- Antihistamines and steroid to reduce allergic reactions
+		- Calcium Gluconate if hypocalcemia is suspected (due to citrate toxicity)
+	- Treat Renal Failure: If oliguria persists, consider dialysis
+	- Investigate Cause: Ensure proper labelling and cross-matching procedures were followed
+- # Massive Blood Transfusion
+	- Massive Blood transfusion is defined as #gs-prof-card
+		- Replacement of one blood volume (approximately 5-6 liters in adults) within 24 hours or
+		- Transfusion of >10 units of RCC in 24 hours, or
+		- Transfusion of >4 units of RCC in 1 hour when ongoing blood loss is anticipated
+	- ## Complications of Massive Blood Transfusion #gs-prof-card
+		- Coagulopathy
+		- Hypocalcemia
+		- Hyperkalemia
+		- Hypothermia
+		- Acid-Base Imbalance
+		- Immunological Reactions
+		- Infections
+		- Fluid Overload
+	- ## Precautions During Massive Blood Transfusion #gs-prof-card
+		- Proper cross-matching
+		- Use of Blood Warmers
+		- Monitor Coagulation Profile
+		- Calcium Supplementation
+		- Monitor Electrolytes
+		- Avoid Fluid Overload
+		- Activate Massive Transfusion Protocol
+		- Monitor for Complications
+	-

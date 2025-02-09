@@ -1,0 +1,4 @@
+- Types
+	- [[Waterbath Canning]]
+	- [[Pressure Canning]]
+	- [[Dry Canning]]

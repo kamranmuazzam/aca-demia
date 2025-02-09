@@ -39,9 +39,34 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 		- #### Signs
 	- ### Classification #ortho-prof-written
 		- ### Clinical Classification #ortho-prof-card
+			- According to Communication with exterior
+				- [[Closed Fracture]]
+				- [[Open Fracture]]
+			- According to Involvement of vital structures
+				- [[Simple Fracture]]
+				- [[Complicated Cataract]]
 		- ### Radiological Classification #ortho-prof-card
-			- [[Close Fracture]]
+			- According to Configuration of the Fracture
+				- [[Transverse Fracture]]
+				- [[Spiral Fracture]]
+				- [[Oblique Fracture]]
+				- [[Z-Fracture]]
+				- [[Comminuted Fracture]]
+				- [[Wedge Fracture]]
+				- [[Avulsion Fracture]]
+				- [[Depressed Fracture]]
+				- [[Impacted Fracture]]
+				- [[Burst Fracture]]
+			- According to Involvement of Joint Capsule
+				- Intracapsular
+				- Extracapsular
+			- According to cortical involvement of bone
+				- Complete
+				- Green Stick
 		- ### Etiological Classification #ortho-prof-written
+			- [[Traumatic Fracture]]
+			- [[Pathological Fracture]]
+			- [[Stress Fracture]]
 	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
@@ -121,10 +146,29 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 		- ### Complications #ortho-prof-written
 		  Complications of Long Bone Fracture
 			- ### Immediate Complications #ortho-prof-card
+				- Vessel Injury
+				  logseq.order-list-type:: number
+				- Nerve Injury
+				  logseq.order-list-type:: number
+				- Visceral Injury
+				  logseq.order-list-type:: number
 				- [[Compartment Syndrome]]
+				  logseq.order-list-type:: number
 			- ### Delayed Complications #ortho-prof-card
+				- #### General Complication
+					- Pulmonary Embolism
+					- Fat Embolism
+					- Acute Respiratory Distress Syndrome
+					- [[Tetanus]]
+					- [[Gas Gangrene]]
+				- #### Local Complication
+					- [[Malunion]]
+					- [[Non-Union]]
+					- [[Delayed Union]]
+					- [[Avascular Necrosis]]
 		- ### Prevention of Immediate Complications of Fracture #ortho-prof-written
 		- ### Management of Immediate Complications of Fracture #ortho-prof-card
+			- ((7208f015-bf3e-4261-9c90-536e561b1d4d)) of  [[Compartment Syndrome]]
 		- #### With Treatment
 		- #### Without Treatment
 			- ##### Possible Complications

@@ -1,0 +1,46 @@
+# Postoperative Fluid Management Regimen for a 60 kg Male
+	- **Maintenance Fluids**:
+		- Daily requirement: **2.5–3 L/day** (35–40 mL/kg/day).
+		- Example: **1 L of 0.9% saline + 1.5 L of 5% dextrose**.
+	- **Replacement Fluids**:
+		- Replace losses from drains, vomiting, or bleeding (e.g., 1:1 replacement with **0.9% saline** or **balanced crystalloids** like Ringer’s lactate).
+	- **Additional Requirements**:
+		- Correct preoperative deficits (e.g., dehydration) and ongoing losses (e.g., nasogastric output).
+- # Rationale for Fluid Choice
+	- **0.9% Saline (Normal Saline)**:
+		- **Use**: For extracellular fluid (ECF) replacement (e.g., vomiting, diarrhea, bleeding).
+		- **Rationale**: Contains sodium and chloride, which are lost in ECF losses.
+		- **Caution**: Can cause hyperchloremic acidosis if used in large volumes.
+	- **5% Dextrose**:
+		- **Use**: For maintenance fluids to provide free water and prevent dehydration.
+		- **Rationale**: Provides calories and prevents ketosis in fasting patients.
+		- **Caution**: Does not replace electrolytes; avoid in hyponatremia.
+	- **Balanced Crystalloids (e.g., Ringer’s Lactate)**:
+		- **Use**: For both maintenance and replacement.
+		- **Rationale**: Contains electrolytes (Na⁺, K⁺, Ca²⁺, lactate) that mimic plasma composition.
+		- **Caution**: Avoid in hyperkalemia or liver failure (lactate metabolism impaired).
+	- **Colloids (e.g., Albumin, Gelatin)**:
+		- **Use**: For intravascular volume expansion in hypovolemic shock or significant blood loss.
+		- **Rationale**: Expands plasma volume more effectively than crystalloids.
+		- **Caution**: Risk of anaphylaxis, renal impairment, or coagulopathy.
+- # Management & Monitoring of Hypokalaemia
+	- #### **Causes of Hypokalaemia** :
+		- Inadequate intake, gastrointestinal losses (vomiting, diarrhea), renal losses (diuretics), or shifts into cells (alkalosis, insulin).
+	- #### **Management** :
+	- **Mild Hypokalaemia (K⁺: 3.0–3.5 mmol/L)**:
+		- Oral potassium supplements (e.g., **KCl tablets or syrup**).
+		- Dose: **40–80 mmol/day** in divided doses.
+	- **Moderate to Severe Hypokalaemia (K⁺ < 3.0 mmol/L)**:
+		- Intravenous potassium replacement:
+			- **Dose**: 20–40 mmol in 1 L of 0.9% saline or 5% dextrose over 4–6 hours.
+			- **Maximum infusion rate**: 10–20 mmol/hour (to avoid cardiac arrhythmias).
+		- Monitor ECG for signs of hypokalaemia (e.g., U waves, flattened T waves).
+	- #### **Monitoring** :
+		- **Serum Potassium Levels**:
+			- Check every 4–6 hours during IV replacement.
+		- **ECG**:
+			- Monitor for arrhythmias or changes (e.g., U waves, prolonged QT interval).
+		- **Renal Function**:
+			- Ensure adequate urine output (>0.5 mL/kg/hour) before giving potassium.
+		- **Magnesium Levels**:
+			- Hypomagnesemia can exacerbate hypokalaemia; correct if present.
