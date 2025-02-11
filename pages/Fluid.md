@@ -1,0 +1,5 @@
+- [[Shock]]
+- [[Hemorrhage]]
+- [[Anaesthesia]]
+- {{embed ((67a75be2-14a2-4db1-8090-880ee5c47591))}}
+-

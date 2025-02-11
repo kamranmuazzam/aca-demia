@@ -1,10 +1,7 @@
 alias::
 ICD-11_Code::
-tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
+tags:: disease, general surgery
 
-- #definition {{c1 }} #ent-prof-card #unanswered #card
-  deck:: #ENT
-  id:: 6756b7cb-0e39-419c-9e5a-5d0676a0e1a0
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -19,18 +16,27 @@ tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #unanswered #card
+		- Another testes
+			- Blood supply obstructed
+			- Ischemia
+			- Necrosis
+			- Atrophy occurs
+			- Chitta testes
+			- Antisperm antibody produced
+			- So opposite testes spermatogenic action hampered
+			- So, infertility occurs
+- ## Clinical Features
   background-color:: blue
-  deck:: #ENT
-  id:: 637ecf91-1409-4a8b-92a1-32d975883843
 	- ### Clinical Presentation
 		- #### Symptoms
-			- gradually increasing swelling on right side of neck since birth
+			- Sudden, severe testicular pain and scrotal swelling
+			- May complain of lower abdominal pain
+			- Vomiting
 		- #### Signs
-			- Swelling Examination
-				- Partially compressible
-				- Positive Fluctuation test
-				- Brilliantly Transilluminant
+			- Prehn Sign Positive
+				- When you elevate testes pain aggravate in torsion testes
+				  > (Patient does not allow to touch testes)
+				- If reduced then acute epididymoorchitis
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
 - ## Diagnosis
@@ -41,20 +47,25 @@ tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
 	- ### Laboratory Tests
 	- ### Imaging Studies
 	- ### Differential Diagnosis
-		- Thyroid Swelling
-		- Brachial cyst
-		- Enlarged Cervical Lymph node
-		- Carotid artery aneurysm
-		- Submandibular Salivary Gland Tumor
+		- Acute epididymoorchidis
+		- Idiopathic scrotal edema
+		- Infantile hydrocele
+		- Strangulated Inguinal Hernia
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #unanswered #card
+- ## Management and Treatment
   background-color:: blue
-  deck:: #ENT
-  id:: 872e3283-b66f-480b-b243-c1ff1f9e6d18
-	- ### Medical Treatment
-		- Sclerotherapy
+	- ### Medical Treatment (no medical management)
 	- ### Surgical Options
-		- Excision of the cyst
+		- Within 6 hours if a patient comes
+			- Under GA untwist the testes. Then do routine orchidopexy of both testes
+		- If patient comes after 6 hours
+		  > Testes is not viable after 6 hours of torsion
+			- Council the parents
+			- Under GA I will explore scrotum and untwist the testes
+			- If testes viable I will do orchidopexy of affected testes and orchidopexy of the opposite testes
+			- If not viable
+				- Orchidectomy of affected testes
+				- Orchidopexy of opposite testes
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis
@@ -63,6 +74,7 @@ tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
 		- #### With Treatment
 		- #### Without Treatment
 			- ##### Possible Complications
+				- Infertility as another testes is affected by antisperm antibody
 			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment

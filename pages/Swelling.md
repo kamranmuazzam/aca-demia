@@ -1,0 +1,6 @@
+- Transillumination test Positive
+	- [[Hydrocele]]
+	- [[Hemangioma]]
+	- [[Epididymal Cyst]]
+	- [[Cystic Hygroma]]
+	- [[Meningocele]]

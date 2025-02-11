@@ -1,10 +1,7 @@
 alias::
 ICD-11_Code::
-tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
+tags:: disease, general surgery, medicine
 
-- #definition {{c1 }} #ent-prof-card #unanswered #card
-  deck:: #ENT
-  id:: 6756b7cb-0e39-419c-9e5a-5d0676a0e1a0
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -19,18 +16,18 @@ tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #unanswered #card
+- ## Clinical Features
   background-color:: blue
-  deck:: #ENT
-  id:: 637ecf91-1409-4a8b-92a1-32d975883843
 	- ### Clinical Presentation
 		- #### Symptoms
-			- gradually increasing swelling on right side of neck since birth
+			- Pain
+				- Site : Epigastric Region
+				- Onset : Develops quickly
+				- Characteristic
+					-
+				- Duration
+					-
 		- #### Signs
-			- Swelling Examination
-				- Partially compressible
-				- Positive Fluctuation test
-				- Brilliantly Transilluminant
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
 - ## Diagnosis
@@ -41,20 +38,11 @@ tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
 	- ### Laboratory Tests
 	- ### Imaging Studies
 	- ### Differential Diagnosis
-		- Thyroid Swelling
-		- Brachial cyst
-		- Enlarged Cervical Lymph node
-		- Carotid artery aneurysm
-		- Submandibular Salivary Gland Tumor
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #unanswered #card
+- ## Management and Treatment
   background-color:: blue
-  deck:: #ENT
-  id:: 872e3283-b66f-480b-b243-c1ff1f9e6d18
 	- ### Medical Treatment
-		- Sclerotherapy
 	- ### Surgical Options
-		- Excision of the cyst
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis

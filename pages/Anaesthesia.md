@@ -1,9 +1,11 @@
 # Types #gs-prof-card
+collapsed:: true
 	- **General Anaesthesia**: Reversible loss of consciousness and pain sensation.
 	- **Regional Anaesthesia**: Numbs a specific region of the body (e.g., spinal, epidural, nerve blocks).
 	- **Local Anaesthesia**: Numbs a small, specific area (e.g., lidocaine injection for suturing).
 	- **Sedation**: Conscious sedation or deep sedation for minor procedures.
 - # Common Drugs Used in Anesthesia #gs-prof-card
+  collapsed:: true
 	- **Induction Agents**:
 		- Propofol, Thiopentone, Etomidate.
 	- **Inhalational Agents**:
@@ -25,11 +27,13 @@
 	- **Difficult Airway Management**:
 		- Use of video laryngoscopy, fiberoptic bronchoscopy, or surgical airway (cricothyroidotomy) if needed.
 - # Components of General Anesthesia #gs-prof-card
+  collapsed:: true
 	- **Hypnosis**: Loss of consciousness (e.g., propofol, inhalational agents).
 	- **Analgesia**: Pain relief (e.g., opioids, regional blocks).
 	- **Muscle Relaxation**: Paralysis for intubation and surgery (e.g., succinylcholine, rocuronium).
 	- **Autonomic Stability**: Control of hemodynamic responses (e.g., beta-blockers, vasopressors).
 - # Pre-operative Assessment for General Anaesthesia #gs-prof-card
+  collapsed:: true
 	- **History**:
 		- Medical history (e.g., cardiac, respiratory, renal diseases).
 		- Previous anaesthetic complications (e.g., malignant hyperthermia, difficult intubation).
@@ -42,16 +46,4 @@
 		- ECG, chest X-ray, pulmonary function tests (if indicated).
 	- **Risk Stratification**:
 		- ASA (American Society of Anesthesiologists) physical status classification.
-- # Monitoring During Postoperative Recovery Phase #gs-prof-card
-	- **Vital Signs**:
-		- Continuous monitoring of heart rate, blood pressure, oxygen saturation (SpO₂), and respiratory rate.
-	- **Pain Assessment**:
-		- Use of pain scales (e.g., Visual Analog Scale - VAS).
-	- **Neurological Status**:
-		- Level of consciousness (e.g., Glasgow Coma Scale).
-	- **Fluid Balance**:
-		- Input/output monitoring, especially in major surgeries.
-	- **Complications**:
-		- Watch for nausea/vomiting, hypoxia, hypotension, or bleeding.
-	- **Discharge Criteria**:
-		- Stable vitals, adequate pain control, and return of protective reflexes.
+-

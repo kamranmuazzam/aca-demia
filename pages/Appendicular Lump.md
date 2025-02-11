@@ -1,10 +1,8 @@
 alias::
 ICD-11_Code::
-tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
+source:: ((67ab22d8-f4bb-4d4f-8d68-e159bdbeb8fc))
+tags:: disease, general surgery
 
-- #definition {{c1 }} #ent-prof-card #unanswered #card
-  deck:: #ENT
-  id:: 6756b7cb-0e39-419c-9e5a-5d0676a0e1a0
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -19,18 +17,16 @@ tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #unanswered #card
+- ## Clinical Features
   background-color:: blue
-  deck:: #ENT
-  id:: 637ecf91-1409-4a8b-92a1-32d975883843
 	- ### Clinical Presentation
 		- #### Symptoms
-			- gradually increasing swelling on right side of neck since birth
+			- History of acute appendicitis 2-3 days back
+			- Now present with a [[Lump in Right Iliac Fossa]]
+			- May have pain & fever
 		- #### Signs
-			- Swelling Examination
-				- Partially compressible
-				- Positive Fluctuation test
-				- Brilliantly Transilluminant
+			- General examination: tachycardia, tachypnea, ↑ temperature
+			- Local examination: circumscribed, tender appendicular lump found in right iliac fossa with rigidity on overlying musculature
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
 - ## Diagnosis
@@ -38,23 +34,35 @@ tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
 	- ### Clinical Diagnosis
 		- #### Classical Presentation
 		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
+	- ### Investigation
+		- ### Imaging Studies
+			- CBC
+		- ### Laboratory Tests
+			- USG of lower abdomen
 	- ### Differential Diagnosis
-		- Thyroid Swelling
-		- Brachial cyst
-		- Enlarged Cervical Lymph node
-		- Carotid artery aneurysm
-		- Submandibular Salivary Gland Tumor
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #unanswered #card
+- ## Management and Treatment
   background-color:: blue
-  deck:: #ENT
-  id:: 872e3283-b66f-480b-b243-c1ff1f9e6d18
-	- ### Medical Treatment
-		- Sclerotherapy
+	- ### Initial Medical Management
+		- [[Oschner Shereen regime]]
+		- #### Discontinue conservative treatment in appendicular lump
+			- Patient feels better
+			  logseq.order-list-type:: number
+			- Temperature decreased
+			  logseq.order-list-type:: number
+			- Pulse rate decreased
+			  logseq.order-list-type:: number
+			- Pain subsided
+			  logseq.order-list-type:: number
+			- Reduce the size of lump
+			  logseq.order-list-type:: number
 	- ### Surgical Options
-		- Excision of the cyst
+		- If the condition is improved then continued for 7-10 days & after 6 weeks interval appendicectomy.
+		  logseq.order-list-type:: number
+		- If no improvement then it is appendicular abscess & emergency incisional extraperitoneal drainage of the pus
+		  logseq.order-list-type:: number
+		- If static then waits for another 24 hours & improve then continue if otherwise emergency incisional extraperitoneal drainage of the pus.
+		  logseq.order-list-type:: number
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis

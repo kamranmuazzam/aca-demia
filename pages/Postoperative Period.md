@@ -1,4 +1,20 @@
-# Postoperative Fluid Management Regimen for a 60 kg Male
+# Monitoring During Postoperative Recovery Phase #gs-prof-card
+collapsed:: true
+	- **Vital Signs**:
+		- Continuous monitoring of heart rate, blood pressure, oxygen saturation (SpO₂), and respiratory rate.
+	- **Pain Assessment**:
+		- Use of pain scales (e.g., Visual Analog Scale - VAS).
+	- **Neurological Status**:
+		- Level of consciousness (e.g., Glasgow Coma Scale).
+	- **Fluid Balance**:
+		- Input/output monitoring, especially in major surgeries.
+	- **Complications**:
+		- Watch for nausea/vomiting, hypoxia, hypotension, or bleeding.
+	- **Discharge Criteria**:
+		- Stable vitals, adequate pain control, and return of protective reflexes.
+- # Postoperative Fluid Management Regimen for a 60 kg Male
+  id:: 67a75be2-14a2-4db1-8090-880ee5c47591
+  collapsed:: true
 	- **Maintenance Fluids**:
 		- Daily requirement: **2.5–3 L/day** (35–40 mL/kg/day).
 		- Example: **1 L of 0.9% saline + 1.5 L of 5% dextrose**.
@@ -7,6 +23,7 @@
 	- **Additional Requirements**:
 		- Correct preoperative deficits (e.g., dehydration) and ongoing losses (e.g., nasogastric output).
 - # Rationale for Fluid Choice
+  collapsed:: true
 	- **0.9% Saline (Normal Saline)**:
 		- **Use**: For extracellular fluid (ECF) replacement (e.g., vomiting, diarrhea, bleeding).
 		- **Rationale**: Contains sodium and chloride, which are lost in ECF losses.
@@ -24,6 +41,7 @@
 		- **Rationale**: Expands plasma volume more effectively than crystalloids.
 		- **Caution**: Risk of anaphylaxis, renal impairment, or coagulopathy.
 - # Management & Monitoring of Hypokalaemia
+  collapsed:: true
 	- #### **Causes of Hypokalaemia** :
 		- Inadequate intake, gastrointestinal losses (vomiting, diarrhea), renal losses (diuretics), or shifts into cells (alkalosis, insulin).
 	- #### **Management** :
@@ -44,3 +62,4 @@
 			- Ensure adequate urine output (>0.5 mL/kg/hour) before giving potassium.
 		- **Magnesium Levels**:
 			- Hypomagnesemia can exacerbate hypokalaemia; correct if present.
+-

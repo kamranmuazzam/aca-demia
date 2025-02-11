@@ -1,13 +1,39 @@
 alias::
 ICD-11_Code::
-tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
+source:: ((67aaec8f-f43c-4fd5-bb43-4323e59cf08f))
+tags:: disease
 
-- #definition {{c1 }} #ent-prof-card #unanswered #card
-  deck:: #ENT
-  id:: 6756b7cb-0e39-419c-9e5a-5d0676a0e1a0
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
+		- According to Age
+			- Neonate
+				- Imperforate anus
+				- Meconium ileus
+				- Volvulus neonatorum
+				- Duodenal Atresia
+				- Congenital Band
+			- Infant
+				- Hirchsprung's Disease
+				- Intussusception
+				- Obstruction with worm bolus
+			- Children
+				- Hirschprung's Disease
+				- Round worm impaction
+				- Hands & adhesion
+				- Intussusception
+			- Adult
+				- Obstructed Hernia
+				- Bands & Adhesion
+				- Faecolith
+				- Volvulus
+				- Gall stone ileus
+			- Elderly
+				- Carcinoma of colon
+				- Sigmoid volvulus
+				- Tumor
+				- Faecolith
+				- [[Intussusception]]
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -19,18 +45,17 @@ tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-card #unanswered #card
+- ## Clinical Features
   background-color:: blue
-  deck:: #ENT
-  id:: 637ecf91-1409-4a8b-92a1-32d975883843
 	- ### Clinical Presentation
 		- #### Symptoms
-			- gradually increasing swelling on right side of neck since birth
 		- #### Signs
-			- Swelling Examination
-				- Partially compressible
-				- Positive Fluctuation test
-				- Brilliantly Transilluminant
+			- Cardinal Features of Intestinal Obstruction
+			  id:: 67ab1401-fd43-4aa9-8734-b66fe30e1513
+				- Absolute Constipation
+				- Abdominal Distention
+				- Pain
+				- Vomiting
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
 - ## Diagnosis
@@ -38,23 +63,19 @@ tags:: #Disease, #[[Developmental Disease]], #[[Head & Neck]], #ENT
 	- ### Clinical Diagnosis
 		- #### Classical Presentation
 		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
+	- ### Investigation
+		- ### Imaging Studies
+			- Plain X-Ray Abdomen Features in Intestinal Obstruction
+			  id:: 67ab16ea-b845-4d34-91bd-485a720aa493
+				- Multiple Air Fluid Levels in Step Ladder Pattern
+				- Loss of Haustration of Large Bowel
+		- ### Laboratory Tests
 	- ### Differential Diagnosis
-		- Thyroid Swelling
-		- Brachial cyst
-		- Enlarged Cervical Lymph node
-		- Carotid artery aneurysm
-		- Submandibular Salivary Gland Tumor
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #unanswered #card
+- ## Management and Treatment
   background-color:: blue
-  deck:: #ENT
-  id:: 872e3283-b66f-480b-b243-c1ff1f9e6d18
 	- ### Medical Treatment
-		- Sclerotherapy
 	- ### Surgical Options
-		- Excision of the cyst
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis

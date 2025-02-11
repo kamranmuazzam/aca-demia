@@ -1,0 +1,1 @@
+- ![gs card qa.pdf](../assets/gs_card_qa_1739254847409_0.pdf)
