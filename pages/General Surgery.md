@@ -1,8 +1,92 @@
 - Preoperative
-	- Anesthesia
+	- Anaesthesia
+		- General Anesthesia
+	- Sterilization
 - Operative
 	- Incision
 	- Complications
+		- Hemorrhage
+	- Circumcision
+	- Laproscopic Surgery
+	- Appendidectomy
+	- Hernia Surgery
+	- T-tube
 - Postoperative
 	- Monitoring
-	- Fluid Management
+- Fluid Management
+	- Transfusion
+	- Postoperative fluid regime
+	- Shock
+- Cases
+	- Wound
+		- Gangrene
+		- Carbuncle
+		- Tetanus
+		- Gas gangrene
+		- Sinus
+		- Fistula
+	- Swelling
+		- Cyst
+		- Cystic Hygroma
+	- Vascular Disease
+		- DVT
+		- Chronic Limb Ischemia
+		- Varicosity of Vein
+	- Urology
+		- Testes
+			- Undecendent Testes
+			- Testicular torsion
+		- Kidney
+			- Renal Cell Carcinoma
+		- Prostate
+			- BEP
+		- Urinary Bladder
+			- Urinary Bladder Carcinoma
+		- Urethra
+			- Urethral Rupture
+			- Ureteric Stone
+		- Acute Retention of Urine
+		- Hematuria
+		- Vasectomy
+	- GIT
+		- Intestinal Obstruction
+		- Intussuseption
+		- Appendix
+			- Acute Appendicitis
+			- Appendicular Lump
+		- Peritonitis
+		- Pelvic abscess
+		- Stomach
+			- Ca Stomach
+			- GOO
+			- PUD
+			- Pyloric Stenosis
+		- Colon
+			- Colonic Carcinoma
+		- Anorectal
+			- Fistula in ano
+			- Perianal abscess
+	- Hepatobiliary Pancreatic
+		- Obstructive Jaundice
+		- Gall Bladder
+			- Choledocholithiasis
+			- Cholelithiasis
+			- Acute Cholecystitis
+			- Stone obstructed in cystic duct
+		- Pancreas
+			- Acute Pancreatitis
+	- Thyroid
+		- Complications of Thyroid surgery and management
+		- Thyrotoxicosis
+		- Secondary thyrotoxicosis
+		- Thyrotoxic crisis
+	- Breast
+		- Ca Breast
+		- Reconstructive Breast Surgery
+		- Acute Bacterial Mastitis
+- Imaging
+	- Pneumoperitoneum
+	- Acute calculus cholecystitis
+	- Ileocolic intussusception
+- Radiotherapy
+- Burn
