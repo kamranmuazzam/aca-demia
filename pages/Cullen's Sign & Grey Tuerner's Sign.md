@@ -1,0 +1,3 @@
+- In any retroperitoneal haemorrhage, blood moves to dependent area causing bluish discoloration
+	- in the flanks known as [[Grey Tuerner's Sign]]
+	- periampullary (through fascial plains) as [[Cullen's Sign]]

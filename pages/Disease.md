@@ -24,16 +24,16 @@
 			- #### Symptoms
 			- #### Signs
 		- ### Stages or Classification
-		- ### Diagnostic Criteria
 	- ## Diagnosis
 	  background-color:: blue
-		- ### Clinical Diagnosis
-			- #### Classical Presentation
-			- #### Probable Diagnosis
-		- ### Laboratory Tests
-		- ### Imaging Studies
-		- ### Differential Diagnosis
-		- ### Confirmation of Diagnosis
+		- ### Diagnostic Criteria
+		- ### Investigation
+			- ### Establishing Diagnosis
+			- ### Ruling Out Differential Diagnosis
+				- |DD|Ruling Out|
+				  |--|--|
+				  |d_d|r_o|
+			- ### General Assessment
 	- ## Management and Treatment
 	  background-color:: blue
 		- ### Medical Treatment

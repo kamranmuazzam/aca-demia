@@ -14,7 +14,6 @@ collapsed:: true
 		- Stable vitals, adequate pain control, and return of protective reflexes.
 - # Postoperative Fluid Management Regimen for a 60 kg Male
   id:: 67a75be2-14a2-4db1-8090-880ee5c47591
-  collapsed:: true
 	- **Maintenance Fluids**:
 		- Daily requirement: **2.5–3 L/day** (35–40 mL/kg/day).
 		- Example: **1 L of 0.9% saline + 1.5 L of 5% dextrose**.

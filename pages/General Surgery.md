@@ -90,3 +90,34 @@
 	- Ileocolic intussusception
 - Radiotherapy
 - Burn
+- Long Case
+	- [[PUD]]
+	  logseq.order-list-type:: number
+	- [[GOO]]
+	  logseq.order-list-type:: number
+		- to to pyloric stenosis
+		  logseq.order-list-type:: number
+		- Ca Stomach
+		  logseq.order-list-type:: number
+	- Obstructed Jaundice
+	  logseq.order-list-type:: number
+	- [[Chronic Cholecystitis]]
+	  logseq.order-list-type:: number
+	- [[Chronic Pancreatitis]]
+	  logseq.order-list-type:: number
+	- Renal Colic
+	  logseq.order-list-type:: number
+	- Lump in the Right Iliac Fossa
+	  logseq.order-list-type:: number
+	- BEP
+	  logseq.order-list-type:: number
+	- Ca Breast
+	  logseq.order-list-type:: number
+- Short Case
+	- Swelling
+		- Lipoma
+		- Sebaceous Cyst
+		- Thyroid Gland
+		- Hernia
+			- Inguinal Hernia
+	- Ulcer
