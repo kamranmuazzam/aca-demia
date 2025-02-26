@@ -1,64 +1,34 @@
 # Monitoring During Postoperative Recovery Phase #gs-prof-card
-collapsed:: true
-	- **Vital Signs**:
-		- Continuous monitoring of heart rate, blood pressure, oxygen saturation (SpO₂), and respiratory rate.
-	- **Pain Assessment**:
-		- Use of pain scales (e.g., Visual Analog Scale - VAS).
-	- **Neurological Status**:
-		- Level of consciousness (e.g., Glasgow Coma Scale).
-	- **Fluid Balance**:
-		- Input/output monitoring, especially in major surgeries.
-	- **Complications**:
-		- Watch for nausea/vomiting, hypoxia, hypotension, or bleeding.
-	- **Discharge Criteria**:
-		- Stable vitals, adequate pain control, and return of protective reflexes.
-- # Postoperative Fluid Management Regimen for a 60 kg Male
+	- Vitals
+		- Pulse, BP, Oximetry, Temperature, Hydration
+	- Breathing type
+	- level of consciousness
+	- Urine output
+	- Pain
+	- Hydration status
+- # Postoperative Fluid Management Regimen for a 60 kg Male #gs-prof-card
   id:: 67a75be2-14a2-4db1-8090-880ee5c47591
 	- **Maintenance Fluids**:
 		- Daily requirement: **2.5–3 L/day** (35–40 mL/kg/day).
 		- Example: **1 L of 0.9% saline + 1.5 L of 5% dextrose**.
-	- **Replacement Fluids**:
-		- Replace losses from drains, vomiting, or bleeding (e.g., 1:1 replacement with **0.9% saline** or **balanced crystalloids** like Ringer’s lactate).
-	- **Additional Requirements**:
-		- Correct preoperative deficits (e.g., dehydration) and ongoing losses (e.g., nasogastric output).
-- # Rationale for Fluid Choice
-  collapsed:: true
-	- **0.9% Saline (Normal Saline)**:
-		- **Use**: For extracellular fluid (ECF) replacement (e.g., vomiting, diarrhea, bleeding).
-		- **Rationale**: Contains sodium and chloride, which are lost in ECF losses.
-		- **Caution**: Can cause hyperchloremic acidosis if used in large volumes.
-	- **5% Dextrose**:
-		- **Use**: For maintenance fluids to provide free water and prevent dehydration.
-		- **Rationale**: Provides calories and prevents ketosis in fasting patients.
-		- **Caution**: Does not replace electrolytes; avoid in hyponatremia.
-	- **Balanced Crystalloids (e.g., Ringer’s Lactate)**:
-		- **Use**: For both maintenance and replacement.
-		- **Rationale**: Contains electrolytes (Na⁺, K⁺, Ca²⁺, lactate) that mimic plasma composition.
-		- **Caution**: Avoid in hyperkalemia or liver failure (lactate metabolism impaired).
-	- **Colloids (e.g., Albumin, Gelatin)**:
-		- **Use**: For intravascular volume expansion in hypovolemic shock or significant blood loss.
-		- **Rationale**: Expands plasma volume more effectively than crystalloids.
-		- **Caution**: Risk of anaphylaxis, renal impairment, or coagulopathy.
-- # Management & Monitoring of Hypokalaemia
-  collapsed:: true
-	- #### **Causes of Hypokalaemia** :
-		- Inadequate intake, gastrointestinal losses (vomiting, diarrhea), renal losses (diuretics), or shifts into cells (alkalosis, insulin).
-	- #### **Management** :
-	- **Mild Hypokalaemia (K⁺: 3.0–3.5 mmol/L)**:
-		- Oral potassium supplements (e.g., **KCl tablets or syrup**).
-		- Dose: **40–80 mmol/day** in divided doses.
-	- **Moderate to Severe Hypokalaemia (K⁺ < 3.0 mmol/L)**:
-		- Intravenous potassium replacement:
-			- **Dose**: 20–40 mmol in 1 L of 0.9% saline or 5% dextrose over 4–6 hours.
-			- **Maximum infusion rate**: 10–20 mmol/hour (to avoid cardiac arrhythmias).
-		- Monitor ECG for signs of hypokalaemia (e.g., U waves, flattened T waves).
-	- #### **Monitoring** :
-		- **Serum Potassium Levels**:
-			- Check every 4–6 hours during IV replacement.
-		- **ECG**:
-			- Monitor for arrhythmias or changes (e.g., U waves, prolonged QT interval).
-		- **Renal Function**:
-			- Ensure adequate urine output (>0.5 mL/kg/hour) before giving potassium.
-		- **Magnesium Levels**:
-			- Hypomagnesemia can exacerbate hypokalaemia; correct if present.
+	- IV fluids
+		- 1st post-operative day : 5% Dextrose in Aqua
+		- 2nd post-operative day : Dextrose in Normal Saline
+		- 3rd post-operative day : Dextrose in Normal Saline with added K+ (60 mmol/30ml)
+	- |Day|Fluid|Rationale|
+	  |--|--|--|
+	  |1st Post operative Day|Dextrose in Aqua|Only Nutrition and Water[:br][:br]No need for electrolytes as it is released in during surgery|
+	  |2nd Post operative Day|Dextrose Normal Saline|Nutrition, water and Electrolytes|
+	  |3rd Post operative Day|Dextrose Normal Saline with K+ (60 mmol/30 ml)|Nutrition, water and Electroltes with Potassium if hypokalemia|
+	- ## If Hypokalemia develops
+		- |Hypokalemia|Correction|
+		  |--|--|
+		  |Mild Hypokalemia(3-3.5 mmol/L)|Oral correction by green cocnut water, fruit juice, banana, tomato orange etc|
+		  |Moderate hypokalemia|Oral potassium suplementatio nby potassium tablet or syrup with antacid or in diluted form|
+		  |Severe hypokalaemia|40 mmol of KCl with 1 L normal saline for 8 hourly intravenous|
+		- Also Monitor
+			- ECG monitoring
+			- Urine output
+			- Level of K+ should be checked daily
+-
 -

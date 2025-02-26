@@ -8,7 +8,7 @@ tags:: disease, general surgery, medicine
 		- Idiopathic
 		- Traumatic
 			- Accident
-			- Instrumentation
+			- Instrumentation (MRCP, ERCP, Laparotomy)
 		- Pancreatic Gall Stone
 		- Drugs/Toxins
 	- ### Risk Factors

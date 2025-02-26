@@ -1,7 +1,12 @@
-- {{video https://www.youtube.com/watch?v=0rYNCAWORro}}
+- round questions
+	- pain
+	- eating
+	- nausea vomiting
+	- bowel
+	- bladder
+	- walking
+- [[General Surgery]]
 - [[ENT]]
 - [[Opthalmology]]
 - [[Urology]]
 - [[sample disease 1]]
-- # Sample 
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'ent']).get(),['page','knowledge'])"}}

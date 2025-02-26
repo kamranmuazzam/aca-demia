@@ -1,0 +1,7 @@
+- Color
+	- Air : Black
+	- Soft Tissue : Dark Grey
+	- Bone : White (Light Gray)
+- Examples
+	- [[Chest X-Ray PA view]]
+	- [[X-Ray Abdomen PA View Erect Posture Incudling Both Domes of Diaphragm]]

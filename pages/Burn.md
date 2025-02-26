@@ -43,7 +43,7 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 		- Burn and Trauma
 	- ### Fluid Management of a Burn Patient #ortho-prof-card
 		- Parkland Formula
-			- 4 ml/kg/%TBSA burned of Ringer's Lactate over 24 hours
+			- 4 ml  /kg/%TBSA burned of Ringer's Lactate/Hartsman over 24 hours
 			- First half in the first 8 hours, second half over the next 16 hours
 		- Maintenance Fluids (Additional Fluid on top of that by Parkland Formula)
 			- Example : Pediatric Patients (Holliday-Segar formula)
@@ -61,6 +61,17 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 		- {{embed [[Wallace's Rule of Nine]]}}
 	- ### Medical Treatment
 	- ### Surgical Options
+		- Treatment of Burn Wound
+			- Debridment of dead tissue
+			  logseq.order-list-type:: number
+			- Thorough washing with Antiseptic (Iodine)
+			  logseq.order-list-type:: number
+			- Dressing (Silver Sulfadiazine, Silver Nitrate, Mefenide Acetate)
+			  logseq.order-list-type:: number
+			- After Healing, Tangential excision followed by skin grafting
+			  logseq.order-list-type:: number
+				- if needed, escharotomy
+				  logseq.order-list-type:: number
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis

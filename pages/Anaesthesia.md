@@ -1,11 +1,9 @@
 # Types #gs-prof-card
-collapsed:: true
 	- **General Anaesthesia**: Reversible loss of consciousness and pain sensation.
 	- **Regional Anaesthesia**: Numbs a specific region of the body (e.g., spinal, epidural, nerve blocks).
 	- **Local Anaesthesia**: Numbs a small, specific area (e.g., lidocaine injection for suturing).
 	- **Sedation**: Conscious sedation or deep sedation for minor procedures.
 - # Common Drugs Used in Anesthesia #gs-prof-card
-  collapsed:: true
 	- **Induction Agents**:
 		- Propofol, Thiopentone, Etomidate.
 	- **Inhalational Agents**:
@@ -27,23 +25,28 @@ collapsed:: true
 	- **Difficult Airway Management**:
 		- Use of video laryngoscopy, fiberoptic bronchoscopy, or surgical airway (cricothyroidotomy) if needed.
 - # Components of General Anesthesia #gs-prof-card
-  collapsed:: true
-	- **Hypnosis**: Loss of consciousness (e.g., propofol, inhalational agents).
-	- **Analgesia**: Pain relief (e.g., opioids, regional blocks).
-	- **Muscle Relaxation**: Paralysis for intubation and surgery (e.g., succinylcholine, rocuronium).
-	- **Autonomic Stability**: Control of hemodynamic responses (e.g., beta-blockers, vasopressors).
+	- Amnesia (reversible)
+	- Analgesia
+	- Muscle relaxation
 - # Pre-operative Assessment for General Anaesthesia #gs-prof-card
-  collapsed:: true
-	- **History**:
-		- Medical history (e.g., cardiac, respiratory, renal diseases).
-		- Previous anaesthetic complications (e.g., malignant hyperthermia, difficult intubation).
-		- Drug allergies and current medications.
-	- **Examination**:
-		- Airway assessment (Mallampati score, thyromental distance).
-		- Cardiovascular and respiratory systems.
+	- ## History
+		- History : Allergy, Asthma, Chest Pain & Cough, Previous Anaesthetic Complications
+		- Physical Examination : Height, Weight, Pulse, BP, heart, lungs, teeth, tongue
+		- Drug History
+		- Bleeding diathesis
+	- ## Medical Checklist
+		- Cardiovascular : HTN, angina, arrhythmias, failure
+		- Respiratory: infection, asthma
+		- Gastrointestinal: regurgitation, bowel obstruction, jaudice
+		- Metabolic: porphyria, hyperprexia, pheochromocytoma, steroids, diabetes
+		- Coagulation: hereditary & acquired
+		- Neurological-consciousness level, cervical instability
 	- **Investigations**:
-		- Blood tests (e.g., Hb, electrolytes, coagulation profile).
-		- ECG, chest X-ray, pulmonary function tests (if indicated).
-	- **Risk Stratification**:
-		- ASA (American Society of Anesthesiologists) physical status classification.
--
+		- Blood
+			- Coagulation Profile
+			- Blood Sugar
+			- Blood Urea
+			- Serum creatinine
+		- Urine Routine Microscopic Examination
+		- Chest X-Ray P/A view
+		- if indicated : ECG, pulmonary function tests

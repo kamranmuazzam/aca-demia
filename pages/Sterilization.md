@@ -1,0 +1,27 @@
+- #definition It is freeing an article by removing or killing all bacteria, spores, fungi and viruses #gs-prof-card
+- # Methods of Sterilization #gs-prof-card
+	- ## Physical Methods
+		- ### Heat
+			- #### Moist Heat
+				- Steam with Pressure ([[Autoclaving]])
+				- Steam without Pressure (Tyndalization)
+			- #### Dry Heat
+				- Hot air oven
+				- Red Heat
+				- Flaming
+				- Incineration
+		- ### Filtration
+			- 0.22-0.45 µm pore size
+			- HEPA filters
+		- ### Ionizing radiation
+			- Gamma Radiation
+	- ## Chemical Methods
+		- ### Gas Vapor Sterilants
+			- Ethylene oxide
+			- Formaldehyde vapor
+			- Hydrogen peroxide vapor
+			- Plasma gas
+		- ### Chemical Sterilants
+			- Peracetic acid
+			- Glutaraldehyde
+-

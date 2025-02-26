@@ -31,7 +31,9 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 	- ### Clinical Presentation
 		- #### Symptoms
 		  id:: fbf7aec0-e837-41a5-ab98-07614c74239f
+		  collapsed:: true
 			- Frequently Traumatic
+			- Appears deformed
 			- Can be atraumatic (eg. bone tumor)
 			- Pain
 			- "crack" heard
@@ -75,8 +77,13 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 		- #### Probable Diagnosis
 	- ### Evaluation #ortho-prof-written
 		- #### History
+		  *MIST*
+			- Mechanism of Injury
+			- Injury
 			- {{embed ((fbf7aec0-e837-41a5-ab98-07614c74239f))}}
+			- Treatment Recieved
 		- #### Physical Examination
+		  *Look Feel Move Neurovasculature*
 			- Inspection
 				- Deformity
 				- Swelling

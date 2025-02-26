@@ -21,3 +21,9 @@ alias:: OGTT
 	- Urine test for glucose
 		- Testing of urine for glucose is the usual procedure for detecting DM . But it has no diagnostic value because DM may exist without glycosuria if blood glucose level does not exceed the renal threshold
 		- Sometimes there may be glycosuria in absence of DM> Example : Renal glycosuria, alimentary glycosuria
+- # Interpretation
+	- ||Fasting|After 2 hours|
+	  |--|--|--|
+	  |Normal|4.5-6(mmol/L)[:br]80-110(mg/dL)|<7.7(mmol/L)[:br]<140 (mg/dL)|
+	  |Pre-Diabetes|6.1-6.9(mmol/L)[:br]110-130(mg/dL)|7.8-11(mmol/L)[:br]140-200(mg/dL)|
+	  |Diabetes|>7(mmol/L)[:br]>130(mg/dL)|>11.1(mmol/L)[:br]>200(mg/dL)|
