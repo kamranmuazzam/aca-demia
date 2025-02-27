@@ -14,13 +14,13 @@
 	  **Yeh sawaal har pal tumhare labon se jawab chahte**
 	  **dil hi dil me jo khat likhe maine wo aab hay kahan gaye **
 - 2
+	- Tanhaiyon me maine kyun tumhe dhoonda,
+	  Wahan to main khud ko bhi kho baitha.
 	- Safar to hamne hamsafar ke liye na rakha,
 	  To kya wo safar bhi safar na tha?
 	  Ya wo safar hamne shuru hi nahi kiya,
 	  Wo zindagi jo hamne jee bhi nahi,
 	  Wo zindagi, na galat na sahi.
-	- Tanhaiyon me maine kyun tumhe dhoonda,
-	  Wahan to main khud ko bhi kho baitha.
 	- Pahaadon ki uchaiyon pe maine bohot gaur kiya,
 	  Aur socha tha maine sab kuch sahih taur kiya.
 	  Lekin wadiyon me maine gour farmaya hi nahi,

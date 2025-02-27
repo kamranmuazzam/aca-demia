@@ -5,12 +5,11 @@ tags:: disease, general surgery
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
-	  *Poly microbial infection involving aerobic and anaerobic bacteria*
+	  *Poly microbial infection involving both aerobic and anaerobic bacteria*
 		- [[Escherichia coli]]
 		- [[Klebsiella]]
 		- [[Streptococcus]]
 		- [[Staphylococcus aureus]]
-		  not so common here, tho
 		- [[Bacteroides]]
 		- [[Clostridium]]
 	- ### Risk Factors
@@ -32,14 +31,11 @@ tags:: disease, general surgery
 - ## Pathophysiology
   background-color:: blue
 	- ### Mechanism of Disease
-		- Like other necrotizing fascitis, Fournier's gangrene involves bacterial invasion, toxin release, and tissue necrosis
+		- Like other necrotizing fasciitis, Fournier's gangrene involves bacterial invasion, toxin release, and tissue necrosis
 		- Peculiarity
 			- Infection spreads rapidly along fascial planes (Colles' Fascia, Buck's Fascia, and Dartos Fascia)
 			- This allows the infection to dissect through tissues without obvious surface signs initially, leading to delayed recognition
 			- The scrotum and perineum have a rich blood supply, but thrombosis of small vessels due to bacterial toxins leads to ischemia and necrosis
-		- causing thromosis of small vessels
-		- tissue ischemia
-		- necrosis
 	- ### Affected Systems/Organs
 		- Genitourinary system (Scrotum, Penis, Perineum)
 		- May extend to the abdominal wall, thighs, or retroperineum
@@ -108,7 +104,7 @@ tags:: disease, general surgery
 - ## Management and Treatment
   background-color:: blue
 	- ### Immediate Resuscitation
-	  If onset of sepsis
+	  *If onset of sepsis*
 		- IV fluids(crystalloids) to maintain hemodynamic stability
 		- Correct Electrolyte imbalances and acidosis
 	- ### Empirical Antibiotics

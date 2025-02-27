@@ -1,0 +1,12 @@
+- #definition Decreased Blood Flow
+- # Causes
+	- Prolonged Hypotension
+	- Long Standing Diabetes
+		- Corneal Hypoxia
+		- Retinal Hypoxia
+	- Ischemic Hypoxia
+		- Heart Failure
+		- Vasodilatory Shock
+		- Damage to vasculature
+- # Treatment
+	- According to Cause

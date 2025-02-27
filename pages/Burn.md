@@ -16,12 +16,31 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
+		- Inhalational Burn
+		- Carbon Monoxide Poisoning
+		- Shock
+			- Hypovolemic Shock
+			- Anaphylactic Shock
+			- Spetic Shock
+			- Obstructive Shock due to Pulmonary embolism
+		- Airway obstruction
+		- Infection leading to Sepsis
 - ## Clinical Features
   background-color:: blue
 	- ### Clinical Presentation
 		- #### Symptoms
 		- #### Signs
 	- ### Stages or Classification
+		- Wilsons Classification
+			- 1st Degree
+				- Only epidermis involved
+				- Painful
+			- 2nd Degree
+				- Whole thickness of skin destroyed with destruction of dermal appendages
+				- Painful
+			- 3rd Degree
+				- Lesion extends beyond the depth of true skin & invilve muscle or even bone also
+				- Relatively painful (kinda painless)
 	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
@@ -60,6 +79,7 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 	- ### Calculation of Burn Area #ortho-prof-card
 		- {{embed [[Wallace's Rule of Nine]]}}
 	- ### Medical Treatment
+		- Prophylactic Antibiotics
 	- ### Surgical Options
 		- Treatment of Burn Wound
 			- Debridment of dead tissue
@@ -78,9 +98,46 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
   background-color:: blue
 	- ### Expected Course
 		- #### With Treatment
+			- Burn Scar
 		- #### Without Treatment
-			- ##### Possible Complications
-			- ##### Long-Term Effects
+			- ##### Immediate Complications
+				- Hypovolumic Shock
+				- Airway Obstruction : Edema Glottidis & Pulmonary edema
+				- Carbon Monoxide Poisoning
+				- Infection
+				- Compartment Syndrome
+				- Hypokalemia
+				- Asphyxia
+				- Anaphylactic Shock
+			- ##### Intermedaite Complications
+				- Septic Shock
+				- [[Acute Respiratory Distress Sydrome]]
+				- [[Acute Kidney Injury]]
+				- Pulmonary Embolism
+				- Fat embolism
+				- GIT disturbances
+					- Bleeding
+					- Curling Ulcer
+			- ##### Long Term Complications
+				- Scarring and Contractures
+				- Chronic Pain
+				  *Nerve damage*
+				- Functional Impairment
+				- Disability
+			- ##### Systemic Complications
+				- Metabolic Changes
+				- Immune Dysfunction
+				- Multiorgan Failure
+			- ##### Region Wise Complication
+				- Eyes: Vision Loss
+				- Face and Neck
+					- Impairment in Breathing, Swallowing, Inhalational Injury
+				- Hands and Feet
+					- Imapired Fine Motor Skills/ Walking
+				- Genital Area
+					- Urinary/ Sexual Dysfunction
+			- ##### In Children
+				- Severe burns can affect growth plates, leading to deformities or limb length discrepancies
 	- ### Survival Rates
 		- #### With Treatment
 		- #### Without Treatment

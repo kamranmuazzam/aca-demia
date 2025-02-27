@@ -1,6 +1,6 @@
 - Preoperative
 	- Anaesthesia
-		- General Anesthesia
+		- [[General Anesthesia]]
 	- Sterilization
 - Operative
 	- Incision

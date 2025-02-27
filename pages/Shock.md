@@ -1,20 +1,9 @@
 - #definition Shock is a systemic state of low tissue perfusion that is inadequate for normal cellular respiration #gs-prof-card
 - # Types of Shock #gs-prof-card
-	- Hypovolumic Shock
-		- Hemorrhage
-		- Burn
-		- Diarrhea/Vomiting
-	- Cardiogenic Shock
-		- Myocardial Infraction
-		- Congestive Cardiac Failure
-	- Distributive Shock
-		- Neurogenic Shock
-		- Anaphylactic Shock
-		- Septic Shock
-	- Obstructive Shock
-		- Tension pneumothorax
-		- Cardiac Tamponade
-		- Embolism
+	- [[Hypovolumic Shock]]
+	- [[Cardiogenic Shock]]
+	- [[Distributive Shock]]
+	- [[Obstructive Shock]]
 - # Monitoring a Shock Patient During Resuscitation #gs-prof-card
 	- Minimum
 		- ECG

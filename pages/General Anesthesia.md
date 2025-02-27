@@ -1,0 +1,155 @@
+# Components of General Anesthesia #gs-prof-card
+	- reversible unconsiouness
+	- Analgesia
+	- Muscle relaxation
+	- Recovery
+- # Classification of General Anesthesia
+	- Inhaled
+	- IV
+- # Securing Airway During General Anaesthesia #gs-prof-card
+	- **Basic Techniques**:
+		- Mask ventilation with 100% oxygen.
+	- **Advanced Techniques**:
+		- Endotracheal intubation (gold standard).
+		- Supraglottic airway devices (e.g., Laryngeal Mask Airway - LMA).
+	- **Difficult Airway Management**:
+		- Use of video laryngoscopy, fiberoptic bronchoscopy, or surgical airway (cricothyroidotomy) if needed.
+- # Pre-operative Assessment for General Anaesthesia #gs-prof-card
+	- ## History
+		- History : Allergy, Asthma, Chest Pain & Cough, Previous Anaesthetic Complications
+		- Physical Examination : Height, Weight, Pulse, BP, heart, lungs, teeth, tongue
+		- Drug History
+		- Bleeding diathesis
+	- ## Medical Checklist
+		- Cardiovascular : HTN, , Coronary Artery Disease(angina, arteriosclerosis) , arrhythmias, failure
+		- Respiratory: infection, asthma, COPD
+		- Gastrointestinal: regurgitation, bowel obstruction, jaudice
+		- Metabolic: diabetes, porphyria, hyperprexia, pheochromocytoma, steroids,
+		- Coagulation: hereditary & acquired
+		- Neurological-consciousness level, cervical instability
+	- **Investigations**:
+		- Blood
+			- Coagulation Profile
+			- Blood Sugar
+			- Blood Urea
+			- Serum creatinine
+		- Urine Routine Microscopic Examination
+		- Chest X-Ray P/A view
+		- if indicated : ECG, pulmonary function tests
+- # Complications of General Anesthesia
+	- Post Operative Nausea and Vomiting(PONV)
+	- Respiratory Complications
+		- Atelectasis
+		- Hypoxia
+		- Pneumonia
+	- Pain and Sore Throat
+	  *Due to Intubation*
+	- Cardiovascular Issues
+		- Hypotension
+		- Arrhythmia
+	- Hypothermia
+	- Delerium
+- # Preparation of Diabetes Patient for Major Surgery
+	- History
+		- Type of Diabetes
+		- Duration
+		- Drug History
+		- History of Complications
+	- Access and Improve Glycemic Control
+		- Target
+			- HbA1c : <8%
+			- Fasting Blood Glucose : <7.7 mmol/L
+			- Post Prandial Blood Glucose
+		- Adjust Medications
+			- Insulin
+				- Type 1 DM : Continue basal insulin
+				  *prevent ketoacidosis*
+				- Type 2 DM : Adjust or Reduce Basal Insulin on Fasting Glucose Levels
+			- Oral Hypoglycemics
+				- Stop SGLT2 inhibitors 3-4 days before surgery
+				  *prevent euglycemic DKA*
+				- Stop metformin 24-48 hours before surgery
+				  *prevent lactic acidosis*
+				- Adjust or stop sulfonylureas
+				  *avoid hypoglycemia*
+			- Non-Insulin Injectables
+				- Adjust GLP-1 receptor agonists based on half-life and risk of delayed gastric emptying
+	- Investigation
+		- Biochemistry
+			- Glycemic Control
+				- HbA1c
+				- Fasting Blood Glucose
+			- Renal Function Test
+				- Creatinine
+				- eGFR
+			- Electrolytes
+		- Cardiac Evaluation : ECG
+		- Urine RME
+		  *to rule out UTI*
+		- Nutritional Assessment
+	- Perioperative Management
+		- Day Before Surgery
+			- Adjust Insulin based on Glucose
+			- Ensure Patient understands Fasting Guidelines (NPO after midnight)
+		- Day of Surgery
+			- Check Fasting Blood Glucose on arrival
+			- Insulin Management
+				- Type 1 DM : Administer 50-100% of basal insulin dose
+				- Type 2 DM : Reduce or withhold insulin/oral agents based on glucose levels
+			- Intraoperative Monitoring
+				- Monitor Blood Glucose every 1-2 hours during surgery
+				- Use intravenous insulin infusion for tight glycemic control if needed
+				  *Target : 7.7-10 mmol/L*
+		- Post Operative Management
+			- Continue frequent glucose monitoring (every 2-4 hours)
+			- Restart oral hypoglycemics or insulin once the patient is eating
+			- Avoid sliding-scale insulin alone; use basal-bolus regimens for better control
+	- Special Considerations
+		- Infection Prevention
+			- Strict aseptic techniques
+			- Consider prophylactic antibiotics if indicated
+		- Wound Healing
+			- Optimize Nutrition (protein, Vitamin C and D, Zinc)
+			- Tight glycemic control to promote healing
+		- Cardiovascular Risk
+			- Monitor for perioperative myocardial ischemia or arrhythmias
+		- Fluid Management
+			- Avoid dehydration or overhydration, especially if patients with renal impairment
+	- Multidisciplinary Approach
+		- Involve endocrinologists, anestheisologists, surgeons and diabetes educators
+		- Educate the patient on the importance of glycemic control and self-monitoring
+	- Emergency Situations
+		- Diabetic Ketoacidosis
+			- Suspect in Type 1 DM or poorly controlled Type 2 DM
+			- Treat with IV fluids, insulin, and electrolyte correction
+		- Hypoglycemia
+			- Treat with IV dextrose or oral glucose if the patient is awake
+- # Precautions in Children before General Anesthesia
+	- Preoperative Assessment
+		- Thorough History and Physical Examination to Identify any underlying medical conditions
+			- Bleeding Disorders
+			- Allergies
+			- Respiratory Issues
+		- Check Family History of adverse reactions to anesthesia
+	- Fasting Guidelines
+		- Ensure the child follows fasting guidelines to prevent aspiration
+			- Clear fluids: 2 hours before anesthesia
+			- Breast milk: 4 hours before anesthesia
+			- Solid food: 6-8 hours before anesthesia
+	- Informed Consent
+		- From Parents
+	- ## Prevention of Tongue Fallback in Postoperative Period
+		- Proper positioning
+			- Place the child in the recovery position (lateral decubitus position) to allow the tongue to fall forward and secretions to drain
+			- Avoid supine positioning until the child is fully awake
+		- Airway Management
+			- Use an oropharyngeal airway if necessary to maintain patency
+			- Monitor oxygen saturation
+		- Close Monitoring
+			- Observe the child in the recovery room until fully awake and able to maintain their airway independently
+			- Ensure trained staff are present to manage any airway emergencies
+		- Avoid Over Sedation
+			- Use the minimum effective dose of sedatives and opiods to reduce the risk of respiratory depression
+		- Stimulation
+			- Gently stimulate the child if there are signs of airway obstruction
+			  *snoring or desaturation*

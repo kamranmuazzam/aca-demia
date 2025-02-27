@@ -1,0 +1,3 @@
+- Tension pneumothorax
+- Cardiac Tamponade
+- Embolism

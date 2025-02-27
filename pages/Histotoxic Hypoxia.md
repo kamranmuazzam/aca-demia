@@ -1,0 +1,13 @@
+- #definition Although oxygen reaching the cells is normal but cells are unable to use the oxygen effectively
+- Causes
+	- Disabled oxidative phosphorylation enzymes | cytochrome oxidase
+		- by cyanide poisoning
+	- Inhibition of Tissue Oxidative Process
+- Treatment
+	- No benefit in $$\ce{O2}$$ therapy
+	- Methyl blue/ Nitrates used in CN poisoning
+		- Mechanism of Action
+			- form methemoglobin
+			- reacts with CN to form cyanmethemoglobin
+			  *a non toxic compound*
+			- the administered amount is limited to the amount of methemoglobin can be safely formed

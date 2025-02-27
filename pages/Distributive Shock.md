@@ -1,0 +1,3 @@
+- Neurogenic Shock
+- Anaphylactic Shock
+- Septic Shock

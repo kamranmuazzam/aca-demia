@@ -1,0 +1,8 @@
+-
+- Spinal Anesthesia
+	- Lidocaine
+	- Bupivacaine
+- Epidural ANesthesia
+	- Bupivacaine or Ropivacaine
+	- combined with opioids like fentanyl
+-

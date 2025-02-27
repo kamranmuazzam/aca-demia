@@ -1,0 +1,50 @@
+# Classification
+	- According to Structure
+		- Esters
+			- Cocaine
+			- Procaine
+			- Chloroprocaine
+			- Benzocaine
+			- Tetracaine
+		- Amides
+			- Lignocaine
+			- Mepivacaine
+			- Bupivacaine
+			- Prilocaine
+			- Articaine
+			- Ropivacaine
+	- According to Clinical Application
+		- Surface Anesthetics
+			- Lignocaine
+			- Tetracaine
+			- Benzocaine
+			- Dibucaine
+		- Injectable Anesthetics
+			- Short acting low potency
+				- Procaine
+				- Chloroprocaine
+			- Intermediate Acting with Moderate Potency with Intermedaite Duration
+				- Lignocaine
+				- Mepivacaine
+				- Prilocaine
+				- Articaine
+			- Long Acting with High Potency with
+				- Tetracaine
+				- Bupivacaine
+				- Dibucaine
+				- Ropivacaine
+				  *Lower Risk of Cardiotoxicity*
+- # Advantages
+	- Minimal Systemic Effects
+	- Faster Recovery
+	- Cost Effective
+	- Avoids Intubation
+	- Patient is Awake
+- # Disadvantages
+	- Limited Duration
+	- Incomplete Pain Relief
+	- Anxiety
+	- Technical Challenges
+	  *requires precise administration*
+	- Limited Muscle Relaxation
+-

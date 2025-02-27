@@ -1,0 +1,11 @@
+- #deffinition the adaptation of body to high altitudes to improve arterial $$\ce{{\small p}O2}$$
+- Physiology
+  *Following are the different adaptations*
+	- Peripheral chemoreceptor
+	- Erythropoietin
+	- ↑ BPG
+	- ↑ Diffusion Capacity
+	- ↑ Capillary membrane
+	- ↑ Mitochrondria
+	- ↑ Cytochrome oxidase
+	- ↑ Myoglobin

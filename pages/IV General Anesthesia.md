@@ -1,0 +1,2 @@
+- IV general Anesthesia is not from the past, as [[Hypodermic needle]] was not invented until 1855
+- [[Inhaled General Anesthesia]] was the only game in town

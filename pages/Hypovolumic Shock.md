@@ -1,0 +1,75 @@
+# Classification
+	- Hemorrhagic Causes
+	- Non-Hemorrhagic Causes
+		- Sever Dehydration
+			- Vomiting
+			- Diarrhea
+			- Burns
+		- Fluid loss from third-spacing
+- # Presentation
+	- Symptoms
+		- History
+			- Trauma/ Burn
+			- Vomiting/ Diarrhoea
+		- Apparant Haemorrhage
+	- Signs
+		- Tachycardia
+		- Hypotention
+		- Weak Pulse
+		- Cold Extremities
+- # Metabolic Responses
+	- ↑ Gluconeogenesis ↑ Glycogenolysis
+	- Protein Catabolism and Lipolysis
+	- Anaerobic Respiration
+	- Lactic Acidosis
+	- Decreased ATP production
+- # Endocrine Responses
+	- Activation of Sympathetic Nervous System
+	  *[[Epinephrine]] & [[Norepinephrine]]*
+		- Tachycardia -> ↑ Blood Flow
+		- Vasoconstriction -> ↑ Blood Pressure
+	- Renin Angiotensin Aldosterone System Activation
+		- Angiotensin II -> vasoconstriction
+		- Aldosterone -> Sodium and Water Retention in Kidneys
+	- Antidiuretic Hormone Release
+		- Water Reabsorption
+		- Vasoconstriction
+	- Cortisol Release
+	  *Activation of Hypothalamic Pituitary Adrenal Axis*
+		- Increases gluconeogenesis and lipolysis for energy
+		  *Glucose*
+		- Suppresses inflammation and immune responses
+	- Insulin Resistance
+		- Catecholamines and Cortisol cause peripheral tissues to become resistant to insulin, ensuring glucose availability for vital organs like the brain and heart
+	- Glucagon Release
+		- Glucagon promotes glycogenolysis and gluconeogenesis
+- # Management
+	- Primary Survery (cABCDE) and Resuscitation
+		- control of Catastrophic Haemorrhage
+		- Circulation and IV Access : Establish two large-bore IV lines
+			- Administer Isotonic Crystalloids
+			- Blood Grouping, Cross Matching, Blood Transfusion
+			- Hemorrhage Control
+	- Adjuvant to Primary Survey and Resuscitation
+		- Monitoring
+			- Urinary Catheterization : Monitor Urine Output
+			- ECG : Monitor for arrhythmias
+			- Blood Pressure
+			- Pulse Oximeter
+		- Imaging
+			- AP Chest X-Ray : Access for hemothorax or pneumothorax
+			- AP Pelvis X-Ray : Assess for pelvic fractures (major bleeding source)
+			- Ultrasound(FAST) : Detect intra-abdominal bleeding
+	- Consider Need for Patient Transfer
+	- Secondary Survery
+		- Reevaluation of Vital Signs
+		- Complete History and Physical Examination
+		- Head to Toe Examination
+		- Indicated X-Rays - To rule out fractures, further bleeding sources, and injury to organs
+		- Repeat FAST if necessary
+	- Definitive Treatment
+		- Identify and Control Bleeding
+		- Restore Circulating Volume
+		- Prevent Secondary Complications
+		  *Hypothermia, Acidosis, Coagulopathy*
+	-

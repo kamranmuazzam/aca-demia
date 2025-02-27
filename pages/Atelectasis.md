@@ -1,0 +1,45 @@
+tags:: pathology
+
+- # Classification
+	- Primary Atelectasis
+	- Secondary Atelectasis
+- # Resorption Atelectasis
+	- Pathophyiology
+		- Occurs when an obstruction prevents air from reaching distal airways
+		- the air already present in the alveoli is gradually absorbed into the bloodstream
+		- leading to alveolar collapse
+	- Common Causes
+		- Obstruction of a bronchus by mucus plugs (postoperative patients, asthma, cystic fibrosis)
+		- Aspiration of foreign bodies
+		- Tumors compressing or obstructing airways
+		- Enlarged lymph nodes (tuberculosis or lymphoma)
+- # Compression Atelectasis
+	- Pathophysiology
+		- external pressure on the lung
+		- Prevention of Full Expansion of Lungs
+	- Common Causes
+		- Pleural Effusion
+		- Pneumothorax
+		- Large Intrathoracic tumors
+		- Elevated Diaphragms
+- # Contraction Atelectasis
+	- Pathophysiology
+		- Fibrosis or Scarring in the Lung or Pleura
+		- Prevention of Full Expansion of Lungs
+	- Common Causes
+		- Chronic Inflammation
+		  *[[Tuberculosis]]*
+		- Radiation-induced fibrosis
+		- Idiopathic pulmonary fibrosis
+- # Microatelectasis
+	- Etymology
+	  micro
+		- on gross appearance(macroscopically) here, the Lungs appear normal
+	- Pathophysiology
+		- Collapse of very small areas of Lung due to inadequate ventilation or surfactant deficiency
+	- Common Cause
+		- Acute Respiratory Distress Syndrome
+		- Neonatal Respiratory Distress Syndrome
+		- Prolonged shallow breathing
+			- in postoperative patients
+			- patients in mechanical ventilation

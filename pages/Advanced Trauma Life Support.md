@@ -21,7 +21,7 @@ alias:: ATLS
   id:: 67b8c588-ea1c-47d5-a414-872b2c4e58cd
 - # Triage
   id:: 67b8c58d-c415-433f-8c7b-b8d54ca976f5
-- # Primary Survery and Resiscitation
+- # Primary Survey and Resuscitation
   id:: 67b8b05c-7af5-4ec6-a617-26765a80635b
   cABCDE
 	- Catastrophic Bleeding
