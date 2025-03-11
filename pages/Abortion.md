@@ -1,5 +1,6 @@
+-
 - ((662c17b7-5646-4b91-8107-d17f271bc3bc))
-- Previously it was considered at 28 weeks as that was the viable period but due to advancement of NICU it is now approximately ((662a8241-c955-4b50-9b9c-d81072ace9c4))
+- Previously it was considered at 28 weeks as that was the viable period but due to advancement of NICU it is now approximately 20 weeks
 - ## Types of abortion
 	- ((662a82cc-0ed8-4d0a-8459-45ffd94af106))
 	- ### [[Threatened Abortion]]
@@ -8,7 +9,7 @@
 	- ### [[Complete Abortion]]
 	- ### [[Missed Abortion]]
 	- ### [[Septic Abortion]]
-	- [[Recurrent Miscarriage]]
+	- ### [[Recurrent Miscarriage]]
 - ## Incidence
   collapsed:: true
 	- Incidence : 10-20% of all clinical Pregnancies

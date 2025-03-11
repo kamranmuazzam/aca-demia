@@ -1,8 +1,10 @@
+alias:: obs
+
 - book : [[b-Obstetrics]]
 - Presentations
-	- [[Accidental Hemorrhage]]
-	- [[Antepartum Hemorrhage]]
+	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'presentation']).get(), ['page', 'knowledge', 'high-yeild'])"}}
 - Diseases
+	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'disease']).get(), ['page', 'knowledge', 'high-yeild'])"}}
 	- [[Obstructed Labor]]
 	- [[Abortion]]
 	- [[Molar Pregnancy]]

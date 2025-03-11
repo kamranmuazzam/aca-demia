@@ -3,12 +3,13 @@ alias:: Anæsthesia
 - # Etymology of Anesthesia
   id:: 67c050ed-df5d-4168-911d-a58d0c3f6824
 	- Greek Philosopher [[Dioscorides]] coined the term: Anæsthesia
+	  *Not Anaesthesia, It's Anæsthesia (Davidson has done this mistake)*
 		- He had observed the narcotic effects of the plant [[Mandragora]]
 - # [[History of Anesthesia]]
 - # Classification of Anesthesia
   #gs-prof-card
 	- [[General Anesthesia]]
-		- Inhaled General Anesthesia
+		- [[Inhaled General Anesthetics]]
 		- [[IV General Anesthesia]]
 	- [[Regional Anesthesia]]
 		- [[Neuraxial Blocks]]
@@ -28,6 +29,10 @@ alias:: Anæsthesia
 			  *Analgesia*
 	- [[Local Anesthesia]]
 	- Sedation: Conscious sedation or deep sedation for minor procedures.
+- # Usual Mechanism of Anesthetic Drugs
+	- [[General Anesthesia]] : ✅ [[GABA]] releasers
+	  *pro GABA*
+	- [[Local Anesthesia]] : ❌ Voltage Gated $$\ce{Na+}$$ Channel Blockers
 - # Complete Outlined Classification of Anesthesia
 	- [[General Anesthesia]]
 	- [[Regional Anesthesia]]

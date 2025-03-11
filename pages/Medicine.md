@@ -1,29 +1,8 @@
 - High Yeilds : {{renderer :view, "query.pages().tags([c.page.name,'medicine']).property('high-yeild').value('true').get().length"}}
-- # Cardiology
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'cardiology']).get(),['page','knowledge','high-yeild'])"}}
-- # Alimentary System
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'alimentary system']).get(),['page','knowledge','highYeild'])"}}
-- Rheumatology
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'rheumatology']).get(),['page','knowledge','highYeild'])"}}
-- Neurology
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'neurology']).get(),['page','knowledge','highYeild'])"}}
-- Nutrition, Climate & Environment
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'nutrition climate & environment']).get(),['page','knowledge','highYeild'])"}}
-- Dermatology
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'dermatology']).get(),['page','knowledge','highYeild'])"}}
-- STD
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'std']).get(),['page','knowledge','highYeild'])"}}
-- Pulmunology
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'pulmunology']).get(),['page','knowledge','highYeild'])"}}
-	-
-- Hepatology
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'hepatology']).get(),['page','knowledge','highYeild'])"}}
-- Hematology
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'hematology']).get(),['page','knowledge','highYeild'])"}}
-- Nephrology
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'nephrology']).get(),['page','knowledge', 'highYeild'])"}}
-- Endocrinology
-  {{renderer :view, "query.table(query.pages().tags([c.page.name,'endocrinology']).get(),['page','knowledge','highYeild'])"}}
+- # Disease
+	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'disease']).get(), ['page', 'knowledge', 'high-yeild'])"}}
+- # Clinical Presentation
+	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'clinical presentation']).get(), ['page', 'knowledge', 'high-yeild'])"}}
 - Fluid
 - Toxicology
 	- [[Organophosphorus Poisoning]] #fahim

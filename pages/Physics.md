@@ -1,0 +1,41 @@
+- We know, Young's Modulus (Y)
+	- $$Y = \frac {stress} {strain}$$
+	- For A,
+		- $$Y = \frac {3} {0.02} = 150$$
+	- For B
+		- $$Y = \frac {3} {0.01} = 300$$
+- B is stronger because it requires more stress for breaking, hence having a greater breaking stress.
+- B is more ductile because it has greater breaking stress, hence can undergo greater deformation before breaking.
+- A is more ductile because it has lesser breaking stress, hence will break under lesser stress.
+-
+- # Projectile
+	- Given
+		- initial velocity of ball (u) = 40 m/s
+		- projectile angle ($$\theta$$) = 40º
+		- distance to wall(d) = 22m
+	- We have,
+		- vertical velocity ($$u_y$$) = $$u \times \text{sin} (\theta) = 40 \times sin(40)$$ = 25.71 m/s
+		- horizontal velocity ($$u_x$$) = $$u \times \text{cos} (\theta) = 40 \times cos(40)$$ = 30.64 m/s
+	- Now, for the time(t) it takes to hit the wall
+		- $$s = u t + \frac {1} {2} a  t^2$$
+		- As a for horizontal direction is 0,
+			- $$s = u t$$
+			- $$30.64 = 40 \times t$$
+			- $$t = \frac {30.64} {40}$$
+			- $$t = 0.766 s$$
+			- Hence, it takes 0.766 seconds for the ball to travel to the wall
+	- Now, for vertical distance travelled
+		- $$s = u t + \frac {1} {2} a  t^2$$
+		- Here, due to gravity, a = g = 9.8
+			- $$s =  25.71 \times 0.766 - \frac {1} {2} 9.5 \times 0.766^2$$
+			- $$s = 16.91 m$$
+		- Hence, the ball hits the wall 16.91 meters above the release point.
+		- as it hits the wall, the vertical and horizontal components are given by
+			- Since, horizontal velocity is not changed, it remains 30.64 m/s
+			- For vertical velocity
+				- $$v = u + at$$
+				- $$ v = 25.71 - 9.8 \times 0.766 $$
+			- $$v = 18.2 m/s$$
+			- Hence, vertical velocity remains 18.2 m/s
+		- Since, the vertical velocity is positive, the ball is still travelling upwards and the highest point hasn't been crossed yet.
+-

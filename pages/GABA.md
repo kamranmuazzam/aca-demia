@@ -1,0 +1,1 @@
+- GABA causes chlorine influx in the cells, causing inhibition of action potential

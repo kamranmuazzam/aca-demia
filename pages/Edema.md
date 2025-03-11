@@ -1,4 +1,6 @@
 alias:: Oedema
+tags:: medicine, clinical presentation
+high-yeild:: true
 
 - #definition excessive accumulation of fluid in the interstitial spaces
 - ## Pathophysiology

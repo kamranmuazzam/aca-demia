@@ -1,8 +1,6 @@
-alias::
-ICD-11_Code::
-tags:: #Disease , #Paediatrics, medicine, alimentary system
-high-yeild:: true
-
+- alias::
+  ICD-11_Code::
+  tags:: disease
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -23,18 +21,16 @@ high-yeild:: true
 		- #### Symptoms
 		- #### Signs
 	- ### Stages or Classification
-		- [[Acute Diarrhoea]] #fahim
-		- [[Chronic Diarrhoea]] #fahim
-	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- |DD|Ruling Out|
+			  |--|--|
+			  |d_d|r_o|
+		- ### General Assessment
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
@@ -46,14 +42,12 @@ high-yeild:: true
 	- ### Expected Course
 		- #### With Treatment
 		- #### Without Treatment
+			- ##### Possible Complications
+			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment
 		- #### Without Treatment
 	- ### Quality of Life Considerations
-- ## Complications
-  background-color:: blue
-	- ### Possible Complications
-	- ### Long-term Effects
 - ## Prevention
   background-color:: blue
 	- ### Health Education
@@ -73,4 +67,3 @@ high-yeild:: true
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
-	- [[IMCI]] ((6735a5bf-cd0b-41fc-a864-7045ca6fac5c))

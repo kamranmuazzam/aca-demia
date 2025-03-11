@@ -15,7 +15,7 @@
 		- This green poison was [[Curare]]
 		  *Hence the [[Curarine]]*
 - # Britain
-	- [[Joseph Priestley]] discovered that Nitrous Oxide is an anesthetic
+	- [[Joseph Priestley]] discovered that [[Nitrous Oxide]] is an anesthetic
 	  1722, an English chemist
 		- $$\ce{NO->[Fe + Hg] N2O}$$
 		- He called it *Dephlogisticated* Nitrous Air
@@ -35,8 +35,9 @@
 	- Two Englishmen [[Horace Wells]] and [[Samuel Cooley]] having a party, they were inhaling *Nitrous Oxide* for fun
 	- [[Samuel Cooley]] bumbed his foot into a chair and had lacerations, [[Horace Wells]] inquired about the pain to which they realized that there was no pain / no feeling
 	- [[Horace Wells]] applied this on next day for Tooth Extraction on another patient and reported no pain
+	  as [[Inhaled General Anesthetics]]
 - 1846
-	- Diethyl Ether(Ether)
+	- Diethyl Ether(Ether) for [[Inhaled General Anesthetics]]
 		- Excision of a neck mass
 - 1856
 	- Cocaine extracted from *Erythroxylon coca*
@@ -49,10 +50,11 @@
 	- Intubation & Mechanical Ventilation
 	- Laryngeal Mask Airway
 - 1930s
-	- [[Ruth Gill]] & [[Richard Gill]] brought 25 pounds [[Curare]] from Interior Junge
+	- [[Ruth Gill]] & [[Richard Gill]] brought 25 pounds [[Curare]] from Interior Jungle after 2 years
 	  *During the Great Depression*
 		- After [[Curare]] There was Muscle Relaxation and Bronchodilation along with Inhaled Anesthetics
 	- [[Cyclopropane]] used as alternative of Chloroform and Ether
+	  as [[Inhaled General Anesthetics]]
 		- Due to Low [[Blood Gas Partition Coefficient]]
 			- Rapid Onset
 			- Smooth Induction

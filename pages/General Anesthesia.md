@@ -1,11 +1,33 @@
 # Components of General Anesthesia #gs-prof-card
-	- reversible unconsiouness
+	- Reversible unconsiouness (Amnesia)
 	- Analgesia
 	- Muscle relaxation
 	- Recovery
+- # Stages of General Anesthesia
+	- Analgesia
+	  logseq.order-list-type:: number
+	- Excitement
+	  logseq.order-list-type:: number
+	- Surgical Anesthesia
+	  logseq.order-list-type:: number
+	- Medullary Depression
+	  logseq.order-list-type:: number
+	- ## Analgesia
+		- Analgesia (depending on the drug)
+		- Amnesia
+		- Euphoria
+	- ## Excitement
+		- Delirium
+		- Combative Behavior
+	- ## Surgical Anesthesia
+		- Regular Breathing
+		- ↓ Eye Movements
+	- ## Medullary Depression
+		- Cardiac Depression & Arrest
+		- No eye movement
 - # Classification of General Anesthesia
-	- Inhaled
-	- IV
+	- [[Inhaled General Anesthetics]]
+	- [[IV General Anesthetics]]
 - # Securing Airway During General Anaesthesia #gs-prof-card
 	- **Basic Techniques**:
 		- Mask ventilation with 100% oxygen.
