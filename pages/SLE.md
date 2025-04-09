@@ -86,9 +86,9 @@ high-yeild:: true
 	- ### Medical Treatment
 		- **[[Antimalarials]]** eg, [[Hydroxychloroquine]]
 		- **[[Corticosteroids]]** eg, [[Methylprednisolone]], [[Prednisone]], short-term use recommended
-		- **[[Nonbiologic DMARDs]]** [[Cyclophosphamide]], [[Methotrexate]], [[Azathioprine]], [[Mycophenolate]], [[Cyclosporine]]
+		- **[[Nonbiologic DMARDs]]** :  [[Cyclophosphamide]], [[Methotrexate]], [[Azathioprine]], [[Mycophenolate]], [[Cyclosporine]]
 		- **[[NSAIDS]]** eg, [[Ibuprofen]], [[Naproxen]], [[Diclofenac]]
-		- **[[Biologic DMARDs]]** eg, [[Belimumab]], [[Rituximab]], [[Anifrolumab]], and/or [[IV Immune Globulin]]
+		- **[[Biologic DMARDs]]** : eg, [[Belimumab]], [[Rituximab]], [[Anifrolumab]], and/or [[IV Immune Globulin]]
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
 - ## Prognosis

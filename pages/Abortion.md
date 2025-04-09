@@ -54,6 +54,7 @@
 			- Infection
 			- Unexplained
 		- 2nd Trimester #gyn-prof-card
+		  ((67f6288b-d4cd-44c3-b5ae-35a152714a4e))
 			- Anatomical Abnormalities
 				- Congenital Defects in the Müllerian duct fusion or resorption
 					- Unicornuate Uterus

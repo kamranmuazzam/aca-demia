@@ -1,0 +1,2 @@
+- negative metal mold
+	- electrotyping

@@ -1,4 +1,5 @@
 - #definition It is a clinical entity where the process of miscarriage has started but has not progressed to a state from which recovery is impossible. #gyn-prof-card
+  ((67f63c73-6de6-487d-bab6-9e484437eb7f))
 - ## Presents with #gyn-prof-card
 	- Slight PV bleeding browning/red usually painless (there may be mild back pain following hemorrhage)
 - ## O/E #gyn-prof-card

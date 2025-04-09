@@ -1,6 +1,6 @@
 alias::
 ICD-11_Code::
-tags:: disease, medicine, hematology
+tags:: disease, clinical presentation, medicine, hematology
 high-yeild:: true
 
 - ## Etiology

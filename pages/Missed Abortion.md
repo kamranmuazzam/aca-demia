@@ -1,4 +1,5 @@
-- ((662aa384-f792-4766-8d43-11d508e42f9a))
+- #definition When fetus is dead and retained inside the uterus for a variable period, it is called missed miscarriage or early fetal demise.
+  ((67f63d4c-0e0a-4266-9c9e-c05ccba39cc2))
 - Clinical Presentation
 	- Persistence of bleeding
 	  logseq.order-list-type:: number
@@ -11,6 +12,7 @@
 	- Examination reveals a firm uterus smaller than Gestational Age and a closed cervix
 	  logseq.order-list-type:: number
 - ## Complication
+  ((67f63ddd-810d-4d85-8394-f256bfd60c43))
 	- Psychological upset
 	- Infection
 	- DIC

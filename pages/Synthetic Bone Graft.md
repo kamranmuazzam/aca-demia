@@ -1,0 +1,3 @@
+- Calcium Phosphate (Hydroxyapatite) with traces of silicon
+- Polyvinyl alcohol for foaming to make it into spongy bones
+- CPP with PVA binder??

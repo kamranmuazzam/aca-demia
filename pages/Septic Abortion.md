@@ -1,4 +1,5 @@
-- ((662aa4be-7b2f-48b0-b680-dc429723c5b7))
+- #definition Any abortion associated with clinical evidences of infection of the uterus and its contents is called septic abortion.
+  ((67f63c93-6802-437f-81f5-3f949f19dfff))
 - Mode of Infection
 	- Anaerobic
 		- Streptococci
@@ -34,6 +35,7 @@
 		- Blood for culture, electrolyte, CRP
 		- Plain X-Ray : Pulmonary complications
 - Complications
+  ((67f63d42-4f5d-49ca-952e-219d3ccde71e))
 	- Immediate
 		- Hemorrhage
 		- Shock

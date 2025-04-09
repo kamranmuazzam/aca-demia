@@ -1,13 +1,18 @@
 - High Yeilds : {{renderer :view, "query.pages().tags([c.page.name,'medicine']).property('high-yeild').value('true').get().length"}}
+  title:: Medicine
 - # Disease
+  collapsed:: true
 	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'disease']).get(), ['page', 'knowledge', 'high-yeild'])"}}
 - # Clinical Presentation
+  collapsed:: true
 	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'clinical presentation']).get(), ['page', 'knowledge', 'high-yeild'])"}}
 - Fluid
 - Toxicology
+  collapsed:: true
 	- [[Organophosphorus Poisoning]] #fahim
 	- [[Snake Bite]] #fahim
 - Psychiatry
+  collapsed:: true
 	- [[Delusions]] #fahim
 	- [[Hallucinations]] #fahim
 	- [[Illusion]] #fahim
@@ -16,6 +21,7 @@
 - [[Down Syndrome]]
 - [[Typhoid Fever]]
 - Clinical Presentations
+  collapsed:: true
 	- [[Edema]]
 	- [[Clubbing]]
 	- [[Chest Pain]] #fahim

@@ -1,0 +1,13 @@
+- 2026 : internship in Bangladesh
+	- 3 months before internship : study for NMCLE
+	- 1st 6 months prepare for NMCLE and get licensed in Nepal
+	- 2nd 6 months prepare for German upto B2 level
+- 2027 : work in Nepal
+	- this is for 3 months - 1 year work experience required to apply for job in Maldives
+- 2028-2029 : work in Maldives
+	- this is to gather money
+	- 40k euros is the goal
+	- this timeline can be shorted if the Netflix thing works
+- end of 2029 : move to germany and secure medical residency
+- 2030-2035 : surgery residency in germany
+- 2036-2038 : surgery fellowship in switzerland

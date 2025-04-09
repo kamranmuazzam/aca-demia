@@ -69,8 +69,7 @@ high-yeild:: true
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
-tags:: #Paediatrics
-
+  tags:: #Paediatrics
 - Most Common bugs? Strep Pneumo, H. Influenza, N. meningitidis (tx w/ Ceftriaxone and Vanco)
 - In young & immune suppressed? Add Lysteria. (tx w/Ampicillin)
 - In ppl w/ brain surg? Add Staph (tx w/ Vanco)

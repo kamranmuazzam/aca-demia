@@ -1,4 +1,5 @@
 - #definition An ectopic pregnancy is one in which the fertilized ovum is implanted and develops outside the normal endometrial cavity #gyn-prof-card
+  ((67f63f42-4617-40ed-a50a-668f4d5dd655))
 - # Etiology
 	-
 	- ## Risk Factors #gyn-prof-card
@@ -13,11 +14,48 @@
 		- Previous induced abortion
 		- Tubal endometriosis
 - # Common Sites of Ectopic Pregnancy #gyn-prof-card
-	- ![image.png](../assets/image_1730544738233_0.png)
-- Types according to site
-	- ((662c04f4-8caa-40af-b8ab-ab0c59ad776d))
+  ((67f63f4d-574b-48b2-a695-034f7c3f3963))
+	- Extrauterine(98.5%)
+		- Tubal (97%)
+			- Ampulla
+			- Isthmus
+			- Infundibulam
+			- Interstitial
+		- Ovarian(0.5%)
+		- Abdominal(1%)
+			- Primary
+			- Secondary
+				- Intraperitoneal (common)
+				- Extraperitoneal Broad Ligament
+	- Intrauterine (1.5%)
+		- Cervical
+		- Angular
+		- Cornual
+		- Cesarean Scar
 - Risk Factors
-	- ((662c06a1-512e-41b8-b34d-3baa0b16ccf8))
+  ((67f6460d-1343-47a9-b21f-e7ded1984985))
+	- Previous Ectopic Pregnancy
+	  logseq.order-list-type:: number
+	- History of Pelvic Inflammatory Disease
+	  logseq.order-list-type:: number
+	- Tubal Reconstructive Surgery
+	  logseq.order-list-type:: number
+	- History of Tubal Ligation
+	  logseq.order-list-type:: number
+	- ART(Assisted Reproductive Technology) particularly if the tubes are patent but damaged
+	  logseq.order-list-type:: number
+	- History of Infertility
+	  logseq.order-list-type:: number
+	- Tubal Endometriosis
+	  logseq.order-list-type:: number
+	- Contraception Failure (Progesterone pills, IUDs)
+	  logseq.order-list-type:: number
+	- Intrauterine Device (IUD) use
+	  logseq.order-list-type:: number
+	- Previous induced abortion
+	  logseq.order-list-type:: number
+	- Smoking
+	  logseq.order-list-type:: number
 - Diagnosis
 	- Acute Ectopic
 		- ((662c0825-944d-47f4-881c-f6396cfc2896))
@@ -26,11 +64,17 @@
 		- Amonerrhoea
 		- PV bleeding
 - Investigation
+  ((67f64862-d00f-4015-b7ba-09a52ad22c03))
+	- Estimation of β-HCG
 	- Blood examination
-	- Estimation of BHCG
+		- Anemia(if ruptured)
+		- Leukocytosis(if infection present)
+		- CRP, ESR raised
 	- Sonography
-		- ((662c093d-3f52-440f-b31f-7374c4513e31))
+		- Transvaginal Sonography
+		  *First Line Diagnostic Tool*
 	- Laporoscopy
+	  *Gold Standard*
 	- Laporotomy
 - Management
 	- Acute
@@ -66,10 +110,17 @@
 					- No FHB on TVS
 					- No intrabdominal hemorrhage
 				- Drug
+				  ((67f64886-45de-412e-8a88-53a30ec1c8f2))
 					- Methotrexate
-					- KCl
-					- Prostaglandin
+					  logseq.order-list-type:: number
+					- Potassium Chloride (KCl)
+					  logseq.order-list-type:: number
+					- Prostaglandin(PG2α)
+					  logseq.order-list-type:: number
+					- Hyperosmolar Glucose
+					  logseq.order-list-type:: number
 					- Actinomycin
+					  logseq.order-list-type:: number
 			- Conservative Surgery
 			  logseq.order-list-type:: number
 				- Indication

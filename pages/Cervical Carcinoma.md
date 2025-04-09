@@ -3,6 +3,7 @@ tags:: #prof-ospe-specimen
 
 - # Etiology
 	- # Risk Factors #gyn-prof-card
+	  ((67f6513b-c4d3-4cf3-b9df-79f2375fb636))
 		- Infection : HPV(16,18,31,33), HSV2, HIV, Chlamydia
 		- Early sexual intercourse (<16 years)
 		- Sexually transmitted infections
@@ -20,6 +21,7 @@ tags:: #prof-ospe-specimen
 		- Smoking habits
 - # Clinical Presentation
 	- # Classical Presentation #classical-presentation #obGyn-prof-OSPE #gyn-prof-card
+	  ((67f64a9f-ab87-486b-8978-45d520cba8c7))
 		- Usually multiparous
 		  logseq.order-list-type:: number
 		- Post coital bleeding or intermenstrual bleeding
@@ -61,8 +63,10 @@ tags:: #prof-ospe-specimen
 		- Friable
 		- Bleeds on touch
 	- # Confirmation of Diagnosis #obGyn-prof-OSPE #gyn-prof-card
-		- Colonoscopy, Cervical biopsy and histopathology
+	  ((67f64e7f-40fc-490e-b8b7-940eb67fa656))
+		- Colposcopy, Cervical biopsy and histopathology
 - # Treatment Options #obGyn-prof-OSPE #gyn-prof-card
+  ((67f64ea9-c53e-4d1d-8573-c816d4846fa9))
 	- Primary Surgery - upto stage II A
 	  logseq.order-list-type:: number
 		- [[Radical Hysterectomy]] open or laproscopic, with pelvic and aortic lymphadenectomy
@@ -87,7 +91,7 @@ tags:: #prof-ospe-specimen
 			  logseq.order-list-type:: number
 			- Methotrexate
 			  logseq.order-list-type:: number
-		- Combinetion therapy
+		- Combination therapy
 		  logseq.order-list-type:: number
 - # Complications
 	- # Untreated  #obGyn-prof-OSPE
@@ -98,8 +102,11 @@ tags:: #prof-ospe-specimen
 		- Uraemia
 		- Hydronephrosis due to ureteric obstruction
 - # Preventive Measures  #obGyn-prof-OSPE #gyn-prof-card
+  ((67f65448-cebc-4cbc-893d-f5c556f1240e))
 	- ## Primary Prevention (Avoidance of risk factors)
 		- ### Indentifying 'high-risk' female
+		  logseq.order-list-type:: number
+		  collapsed:: true
 			- Women with high-risk HPV infection
 			- Early age of first pregnancy
 			- High parity
@@ -108,12 +115,42 @@ tags:: #prof-ospe-specimen
 			- Low socioeconomic status
 			- Poor maintenance of local hygiene
 		- ### Sexual behavior
+		  logseq.order-list-type:: number
+		  collapsed:: true
 			- Early sexual intercourse
 			- Multiple sexual partners
 			- Previous wife died of cervical carcinoma
 		- ### Prophylactic HPV vaccine
+		  logseq.order-list-type:: number
+		  collapsed:: true
 			- Prophylactic HPV vaccine is approved to all school girls (12-18 years) and women (16-25 years). Two or three doses are usually to be given (Bivalent 0-2-6 month, Quadrivalent 0-1-6 month)
 		- ### Use of condom
+		  logseq.order-list-type:: number
 	- ## Secondary Prevention
+		- Early Diagnosis and Treatment
 		- ### Screening
 			- refer to [[ASCCP Management Guidelines]]
+- ## Schedule for Mass Screening for Cervical Carcinoma
+	- ### Principle
+		- Cervical Carcinoma develops from premalignant lesions(CIN, SIL) over years
+	- ### Screening Methods
+		- Primary Test : Pap Smear (Cytology)
+		- HPV Co-testing (High-risk HPV DNA/RNA testing)
+		- Used adjunctively with Pap
+	- ### Age & Frequency
+		- Starts at 21 years
+		- 21-29 years : Pap every 3 years
+		- 30-65 years
+			- Preferred : Pap + HPV co-testing every 5 years
+			- Alternative : Pap alone every 3 years
+		- Stop screening after 65 years if adequate prior screening and low risk
+	- ### Follow up of Abnormal Results
+		- ASC-US : Reflex HPV Testing
+		- LSIL/HSIL : Colsposcopy + Biopsy
+		- HPV 16/18+ : Immediate Colposcopy
+	- ### Impact of Vaccination
+		- Even if vaccine prevents 70-90% of cervical cancers, but is not replacement for screening
+		- Screening must be carried out
+	- Challanges in Mass Screening
+		- False negatives (sampling errors)
+		- Low coverage in resource limited settings (VIA as alternative)

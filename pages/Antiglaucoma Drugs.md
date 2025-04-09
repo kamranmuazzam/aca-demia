@@ -5,7 +5,7 @@ id:: 6755ee8a-4e8f-4419-a89f-238619a14398
 	  logseq.order-list-type:: number
 	- Epinephrine (non-selective alpha agonist)
 	  logseq.order-list-type:: number
-	- Prostaglandsins
+	- Prostaglandins
 	  logseq.order-list-type:: number
 	- Beta-Blocker (Timolol, Betaxolol)
 	  logseq.order-list-type:: number

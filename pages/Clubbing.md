@@ -1,3 +1,6 @@
+tags:: medicine, clinical presentation
+high-yeild:: true
+
 - #definition It is the bulbous enlargement of the terminal phalanges due to proliferation of connective tissue.
 - Grades of Clubbing
   id:: 66ee8e35-aeb3-482f-aeb0-6e9e676f646b
