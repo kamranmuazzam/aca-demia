@@ -20,6 +20,54 @@
 	- ## Throat
 	  collapsed:: true
 		- [[Tracheostomy]]
+- Study stuff
+	- Ear
+		- NOW [[Ménière's Disease]]
+		  :LOGBOOK:
+		  CLOCK: [2025-04-21 Mon 19:41:13]
+		  CLOCK: [2025-04-21 Mon 19:41:14]
+		  :END:
+	- Throat
+		- NOW [[Adenoid Facies]]
+		- NOW [[Enlarged Adenoid]]
+	- Operative
+		- NOW [[Myringotomy]]
+		- NOW [[Myringoplasty]]
+		  :LOGBOOK:
+		  CLOCK: [2025-04-21 Mon 18:35:17]--[2025-04-21 Mon 18:35:18] =>  00:00:01
+		  CLOCK: [2025-04-21 Mon 18:35:18]--[2025-04-21 Mon 18:35:19] =>  00:00:01
+		  CLOCK: [2025-04-21 Mon 18:35:20]--[2025-04-21 Mon 18:35:20] =>  00:00:00
+		  CLOCK: [2025-04-21 Mon 18:35:31]
+		  :END:
+		- NOW [[Cortical Mastoidectomy]]
+		  :LOGBOOK:
+		  CLOCK: [2025-04-21 Mon 18:35:06]--[2025-04-21 Mon 18:35:07] =>  00:00:01
+		  CLOCK: [2025-04-21 Mon 18:35:08]--[2025-04-21 Mon 18:35:10] =>  00:00:02
+		  CLOCK: [2025-04-21 Mon 18:35:10]--[2025-04-21 Mon 18:35:21] =>  00:00:11
+		  CLOCK: [2025-04-21 Mon 18:35:22]--[2025-04-21 Mon 18:35:23] =>  00:00:01
+		  CLOCK: [2025-04-21 Mon 18:35:31]
+		  :END:
+		- NOW [[Radical Mastoidectomy]]
+		  :LOGBOOK:
+		  CLOCK: [2025-04-21 Mon 18:35:12]--[2025-04-21 Mon 18:35:24] =>  00:00:12
+		  CLOCK: [2025-04-21 Mon 18:35:42]
+		  :END:
+		- NOW [[Modified Radical Mastoidectomy]]
+		  :LOGBOOK:
+		  CLOCK: [2025-04-21 Mon 18:35:12]--[2025-04-21 Mon 18:35:13] =>  00:00:01
+		  CLOCK: [2025-04-21 Mon 18:35:14]--[2025-04-21 Mon 18:35:15] =>  00:00:01
+		  :END:
+		- NOW [[Cochlear Implant]]
+		- NOW [[Tonsillectomy]]
+		  :LOGBOOK:
+		  CLOCK: [2025-04-21 Mon 18:36:19]
+		  CLOCK: [2025-04-21 Mon 18:36:22]
+		  :END:
+		- NOW [[Adenoidectomy]]
+		  :LOGBOOK:
+		  CLOCK: [2025-04-21 Mon 18:36:27]
+		  CLOCK: [2025-04-21 Mon 18:36:32]
+		  :END:
 - ## Developmental Disease
   #+BEGIN_QUERY
   {

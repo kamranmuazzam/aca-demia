@@ -1,19 +1,20 @@
 # Classical Presentation #classical-presentation
 - # Causes #gyn-prof-card 
   according-to:: FIGO manual
+  ((67f8f445-e550-4f26-b2eb-ed46b98afbe6))
 	- Ovulatory dysfunction
 		- Anovulation or oligo-ovulation
 		- Decreased ovarian reserve
 		- Luteal phase defect(LPD)
 		- Luteinized unruptured follicle (LUF)
-	- Tubal disease
+	- Tubal factors
 		- Pelvic Adhesions or Tubal Blockage due to PID
 		- Tubal endometriosis
 	- Uterine factors
 		- Uterine Adhesions(Asherman syndrome)
 		- Uterine hypoplasia
 		- Inadequate secretory endometrium
-		- Fibroid uterus
+		- Fibroid, polyps, congenital anomalies
 	- Cervical factors
 		- Anatomical
 			- Cervical stenosis
@@ -22,8 +23,10 @@
 			- chronic cervicitis
 			- anti-sperm antibody
 	- Vaginal Factors
+		- Atresia
 		- Vaginitis
 - # Investigation #gyn-prof-card
+  ((67f8f5f6-f60e-4cea-a791-8d9fb8a92314))
 	- ## Routine Investigations
 		- TC, DC, ESR, Hb%, Xray chest, mantaoux test to exclude tuberculosis
 		- Blood sugar estimation to exclude diabetes
@@ -57,6 +60,7 @@
 			- Progesterone
 			- Testosterone
 - # Treatment of ovulatory Infertility #gyn-prof-card
+  ((67f8f60e-8941-4fa5-9303-e4246f85d250))
 	- Stimulation of ovulation
 		- Clomiphene citrate(CC)
 		- Letrozole

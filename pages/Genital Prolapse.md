@@ -1,30 +1,35 @@
 - #definition Pelvic organ prolapse refers to protrusions of the pelvic organs into or out of the vaginal canal
+- # Confirmation
+  ((67fb487c-4145-4de0-a9f5-0336f988bc7a))
+	- Confirmation is by clinical examination
 - # Etiology
 	- ## Predisposing Factors #gyn-prof-card
-		- ### Acquired
+	  ((67fb40d9-db38-4c5b-97ac-341efcc6bd90))
+		- ### Acquired (*damage due to repeated child birth of*)
 			- Ligaments
 			- Endopelvic fascia
 			- Levator muscle (myopathy)
 			- Perineal body
-			- Pudendal nerve and muscle damage due to repeated child birth
+			- Pudendal nerve and muscle
 		- ### Congenital
 			- Genetic (connective tissue disorder)
 			- Spina Bifida
 - # Types #gyn-prof-card
-	- ((6725f97a-f3a5-43ac-8a08-471319cd14c4))
+	- ((6725f97a-f3a5-43ac-8a08-471319cd14c4)) ((67fb403e-8387-484a-8253-71377f832f40))
 - # Treatment #gyn-prof-card
+  ((67fb4644-c059-409a-86b8-f77b75ba297c))
 	- ## Conservative Treatment
 		- ### Indication
 			- Asymptomatic women
 			- Mild degree prolapses
-			- POP in early pregnancy
+			- POP in early pregnancy #confusion
 			- Old woman not willing for surgery
 		- Improvement of general measures
 		- Estrogen replacement therapy may improve minor degree prolapse in postmenopausal women
 		- [[Kegel Exercise]]
 		- [[Pessary]] Treatment
 	- ## Surgical Treatment
-		- Age > 60 years : [[Vaginal Hysterectomy]] with anterior colporrhaphy and posterior colpoperineorrhaphy
+		- Age > 60 years : [[Vaginal Hysterectomy]] with Pelvic Floor Repair (anterior colporrhaphy and posterior colpoperineorrhaphy)
 		- Age <40 years
 			- Family complete : [[Fothergill's Operation]] with [[Tubectomy]]
 			- Family incomplete : [[Fothergill's Operation]]

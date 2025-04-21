@@ -15,6 +15,7 @@
 	- Serum progesterone ≥ 25 ng/ml
 	- Serial serum hCG level is helful to assess the fetal well-being
 - # Treatment #gyn-prof-card
+  ((67f9dd89-53db-40db-b42b-a1f8a80fba84))
 	- Rest for 48 hours
 	- Analgesics
 		- Diazepam 5 mg tablet twice daily to relief pain

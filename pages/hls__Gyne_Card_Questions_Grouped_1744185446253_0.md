@@ -101,3 +101,183 @@ file-path:: ../assets/Gyne_Card_Questions_Grouped_1744185446253_0.pdf
   hl-page:: 1
   hl-color:: yellow
   id:: 67f65448-cebc-4cbc-893d-f5c556f1240e
+- schedule for mass screening for cervical carcinoma
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 67f8e818-0a55-479b-9a1f-8cefbc9cb307
+- screen a woman for cervical carcinoma
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 67f8ea90-3403-4b5d-b975-be558933cdcf
+- treatment
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67f8ece4-f2e8-4be6-8ba1-ee28132806d1
+- structures
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67f8eda1-bc33-4c2a-bc7c-906e64bb7597
+- CIN
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67f8edae-8a3f-4252-aebf-2a570a8cc43f
+- types
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67f8edb8-f760-4e9b-b1ec-e635f623bcaa
+- treatment modalities
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67f8edc4-10c8-472e-9838-15490232d0ed
+- menopause
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8ee52-62c2-48ad-8d1a-a0c084c7cee2
+- symptoms
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8ef72-e5f7-4cd7-a164-3894d4e88205
+- indications
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8f007-a6bc-4905-98f8-145836385dda
+- contraindications
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8f269-4970-484b-a438-6d61e2fbca0f
+- benefits
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8f301-ebd7-4fc3-a3a5-ba4a191689a2
+- causes
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8f445-e550-4f26-b2eb-ed46b98afbe6
+- investigations
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8f5f6-f60e-4cea-a791-8d9fb8a92314
+- treat
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8f60e-8941-4fa5-9303-e4246f85d250
+- subfertility
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8f702-7deb-4e2e-8e0b-db1bf33a220d
+- causes
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8f826-2e40-41ad-b134-672187aa31f8
+- diagnosis
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8f95f-4b3c-4120-8406-c57f5f5f0e52
+- epithelial
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 67f8fac7-f495-43b7-ab86-d9113ef19e70
+- complications
+  ls-type:: annotation
+  hl-page:: 3
+  hl-color:: yellow
+  id:: 67f8fb4c-5eef-4b26-97d1-80e476a75feb
+- treatment
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8fc4a-fe1e-47a5-b86f-a40a965c816a
+- common germ cell tumor
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8fcfa-c18b-4808-b658-22bd59ced275
+- benign or malignant
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f8fd64-12da-4282-a979-49646600828b
+- differentiate
+  ls-type:: annotation
+  hl-page:: 4
+  hl-color:: yellow
+  id:: 67f901fd-974a-48d5-986a-76545bb4226c
+- manage
+  ls-type:: annotation
+  hl-page:: 1
+  hl-color:: yellow
+  id:: 67f9dd89-53db-40db-b42b-a1f8a80fba84
+- types
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb403e-8387-484a-8253-71377f832f40
+- predisposing factors
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb40d9-db38-4c5b-97ac-341efcc6bd90
+- treat
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb4644-c059-409a-86b8-f77b75ba297c
+- confirm
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb487c-4145-4de0-a9f5-0336f988bc7a
+- Name
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb4993-051a-4e2e-b58f-323ae15f7142
+- benefits
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb50c7-06ec-4eba-a0c5-9f513f91833f
+- select
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb5473-d2c1-49d6-8ef7-27c66690e36f
+- prescribe
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb54d8-7470-434f-8704-81fa9867bce2
+- mode of action
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb5633-013a-44eb-8235-e063e888c142
+- non-contraceptive benefits
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb56b3-eedf-4fb2-9c34-675b81c45a81
+- IUCD
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 67fb5884-cb29-4aaf-843d-62b870ef333c

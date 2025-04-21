@@ -2,6 +2,7 @@ alias:: IUCD
 
 - #definition It is a small plastic carrier, usually in the shape of a T or similar design on the vertical stem of which is wound some copper wire & may have copper bands on the transverse arms
   #gyn-prof-card
+  ((67fb5884-cb29-4aaf-843d-62b870ef333c))
 - # Time of Insertion
   #gyn-prof-card
 	- ## Interconceptional Period

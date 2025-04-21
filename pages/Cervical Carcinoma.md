@@ -66,7 +66,7 @@ tags:: #prof-ospe-specimen
 	  ((67f64e7f-40fc-490e-b8b7-940eb67fa656))
 		- Colposcopy, Cervical biopsy and histopathology
 - # Treatment Options #obGyn-prof-OSPE #gyn-prof-card
-  ((67f64ea9-c53e-4d1d-8573-c816d4846fa9))
+  ((67f64ea9-c53e-4d1d-8573-c816d4846fa9)) ((67f8ece4-f2e8-4be6-8ba1-ee28132806d1))
 	- Primary Surgery - upto stage II A
 	  logseq.order-list-type:: number
 		- [[Radical Hysterectomy]] open or laproscopic, with pelvic and aortic lymphadenectomy
@@ -131,6 +131,7 @@ tags:: #prof-ospe-specimen
 		- ### Screening
 			- refer to [[ASCCP Management Guidelines]]
 - ## Schedule for Mass Screening for Cervical Carcinoma
+  ((67f8e818-0a55-479b-9a1f-8cefbc9cb307))
 	- ### Principle
 		- Cervical Carcinoma develops from premalignant lesions(CIN, SIL) over years
 	- ### Screening Methods
@@ -142,6 +143,7 @@ tags:: #prof-ospe-specimen
 		- 21-29 years : Pap every 3 years
 		- 30-65 years
 			- Preferred : Pap + HPV co-testing every 5 years
+				- If HPV positive but Pap smear negative then cervical cytology repeated every 6-12 months
 			- Alternative : Pap alone every 3 years
 		- Stop screening after 65 years if adequate prior screening and low risk
 	- ### Follow up of Abnormal Results
@@ -154,3 +156,23 @@ tags:: #prof-ospe-specimen
 	- Challanges in Mass Screening
 		- False negatives (sampling errors)
 		- Low coverage in resource limited settings (VIA as alternative)
+- ## Process of Screening
+  ((67f8ea90-3403-4b5d-b975-be558933cdcf))
+	- Exfoliative cytology by Pap Smear
+	  logseq.order-list-type:: number
+	- HPV DNA test
+	  logseq.order-list-type:: number
+	- VIA
+	  logseq.order-list-type:: number
+	- Colposcopy
+	  logseq.order-list-type:: number
+	- Cervicography
+	  logseq.order-list-type:: number
+	- Biopsy with or without colposcopy. If colposcopy not available
+	  logseq.order-list-type:: number
+		- Schiller's test
+		  logseq.order-list-type:: number
+		- Ring biopsy
+		  logseq.order-list-type:: number
+		- Endocervical curettage
+		  logseq.order-list-type:: number

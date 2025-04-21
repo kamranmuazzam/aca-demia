@@ -1,8 +1,6 @@
-alias:: Hyperopia, Far Sightedness
-ICD-11_Code::
-tags:: #Disease
-
-- #definition Hypermetropia is a type of refractive error when parallel rays of light coming from infinity focus behind the retina, when accomodation apparatus is at rest
+- alias::
+  ICD-11_Code::
+  tags:: disease
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -21,28 +19,42 @@ tags:: #Disease
   background-color:: blue
 	- ### Clinical Presentation
 		- #### Symptoms
+		  *Same as [[Bacterial Corneal Ulcer]] but mild *
+			- {{embed ((c3f181b7-5dfb-4fd9-a503-6b6249eca219))}}
 		- #### Signs
+			- Slough Dry
+			- Feathery Borders
+			- Yellow Line of Demarcation
+			- Immune Ring (Wessely)
+			- Satellite
+			- Marked Ciliary and Corneal Congestion
 	- ### Stages or Classification
-	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation #eye-prof-written
-			- oldage onset, problem with reading book, but his distance vision was 6/6 in both eyes
-			- he never used glasses
-			- Tailor by profession(any profession requiring focus in near vision), painless gradual dimness of near vision
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
-- ## Management and Treatment #eye-prof-written
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- |DD|Ruling Out|
+			  |--|--|
+			  |d_d|r_o|
+		- ### General Assessment
+- ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
-		- Eye Glasses
-		- Contact Lens
+		- Topical Drugs
+			- *Aspergillus* and *Fusarium* : Local Natamycin, Voriconazole, or amphoterecin B
+			- *Candida* : Nystatin
+		- Cycloplegics
+			- [[Atropine eye drop]]
+		- Systemic Drugs (*Oral Antifungal Agents*)
+		  *if severe with hypopyon, perforated or there is suspicion of endophthalmitis*
+			- Ketoconazole
+			- Voriconazole
+		- Contraindicated : Steroids
 	- ### Surgical Options
-		- Clear Lens Extraction with Intraocular Lens Implantation
+	  *if ulcer progresses despite therapeutic measures*
+		- Therapeutic Penetrating Keratoplasty
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis

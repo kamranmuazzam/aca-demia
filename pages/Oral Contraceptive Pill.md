@@ -1,12 +1,12 @@
 alias:: OCP
 
 - # Mode of Action #gyn-prof-card
-  collapsed:: true
+  ((67fb5633-013a-44eb-8235-e063e888c142))
 	- ## Inhibition of Follicular Development
 		- Estrogen supresses the secretion of FSH from anterior pituitary
 		- without FSH there is no Follicular Development
 	- ## Inhibition of Ovulation
-		- Progestin supresses the secretion of LH
+		- Progestin suppresses the secretion of LH
 		- without LH surge there is no ovulation
 	- ## Endometrial Changes (Static Endometrial Hypoplasia)
 		- Following changes are inhibited by the hormones, edema, decidualization of stroma, and regression of endometrial glands
@@ -18,7 +18,7 @@ alias:: OCP
 		- Hormonal contraceptives may affect the motility and function of the fallopian tubes, altering the transport of both sperm and ova.
 		- Even in the rare event of breakthrough ovulation, this mechanism, along with the others, reduces the chances of fertilization and subsequent pregnancy.
 - # Selection of a Patient #gyn-prof-card
-  collapsed:: true
+  ((67fb5473-d2c1-49d6-8ef7-27c66690e36f))
 	- History and General Examination for screening contraindications
 		- History
 			- Age
@@ -33,7 +33,7 @@ alias:: OCP
 				- chronic kidney disease
 				- acute/chronic liver disease
 				- medically treated gall bladder disease
-				- Sickel Cell Disease
+				- Sickle Cell Disease
 			- Surgical History
 				- For Immobilization
 				- Graft Failure
@@ -49,7 +49,7 @@ alias:: OCP
 		- Liver Function Test
 		  *if indicated*
 - # Prescription a pill to the patient #gyn-prof-card
-  collapsed:: true
+  ((67fb54d8-7470-434f-8704-81fa9867bce2))
 	- ## Patient Instruction
 		- ### Starting the Pill
 			- New users should ideally start the pill packed on day one of their menstrual cycle
@@ -64,7 +64,7 @@ alias:: OCP
 		- ### Delayed Start
 			- If the pill is started after day 1 but up to day 5 of the menstrual cycle, additional contraception( e.g., *condoms*) is advised for the first 7 days.
 		- ### Special Cases
-			- After Abortion : Start the pull the next day of abortion.
+			- After Abortion : Start the pill the next day of abortion.
 			- After Chilbbirth
 				- For non-lactating women, start the pill 3 weeks after childbirth.
 				- For lactating women, wait 6 months before starting the pill or use progesterone only pill after 3 weeks during lactation.
@@ -84,8 +84,8 @@ alias:: OCP
 			- Missed *Dummy* Pills
 				- Discard the missed Inactive Pills
 - # Non-contraceptive benefits of Oral Contraceptive Pills #gyn-prof-card
-  collapsed:: true
   contrast :: ((672601cb-212e-4eac-a6d0-9c2e423e022c))
+  ((67fb56b3-eedf-4fb2-9c34-675b81c45a81))
 	- ## Improvement of menstrual abnormalities
 		- Regulation of menstrual cycle
 			- Reduction of dysmenorrhea (40%)
@@ -95,16 +95,16 @@ alias:: OCP
 			- Reduction of Mittelschmerz's syndrome
 		- Protection against iron-deficiency anemia
 	- ## Protection against health disorders
-		- **Pelvic inflammatory disease**
-		- **Endometriosis**
-		- **Fibroid uterus**
+		- *Pelvic inflammatory disease*
+		- *Endometriosis*
+		- *Fibroid uterus*
 		- Ectopic pregnancy
 		- Hirsutism and acne
 		- Functional ovarian cysts
 		- Benign breast disease
 		- Osteopenia and postmenopausal osteoporotic fractures
 		- Autoimmune disorders of thyroid
-		- Rheumatoid arthrititis
+		- Rheumatoid arthritis
 		- Increase bone mineral density
 	- ## Prevention of malignancies
 		- Endometrial cancer

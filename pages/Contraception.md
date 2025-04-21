@@ -1,13 +1,13 @@
 # Types
 	- [[Oral Contraceptive Pill]]
 	- Barrier Method of Contraception
-	  collapsed:: true
+	  ((67fb4993-051a-4e2e-b58f-323ae15f7142))
 		- Names of Barrier Method of Contraception
 		  #gyn-prof-card
 			- Mechanical
 				- Male - condom
 				- Female
-					- condom
+					- condom (*femidom*)
 					- diaphragm
 					- cervical cap
 			- Chemical 
@@ -18,6 +18,7 @@
 				- Sponge.
 		- ### Non-contraceptive benefits of barrier method #gyn-prof-card
 		  id:: 672601cb-212e-4eac-a6d0-9c2e423e022c
+		  ((67fb50c7-06ec-4eba-a0c5-9f513f91833f))
 			- Protection against sexually transmitted disease, e.g., gonorrhea, chlamydia, HPV and HIV
 			- Protection against pelvic inflammatory diseases
 			- Reduces the incidence of tubal infertility and ectopic pregnancy

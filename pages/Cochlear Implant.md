@@ -1,3 +1,32 @@
+- #definition A cochlear implant is an electronic medial device that provides sound perception to individuals with severe-to-profound sensorineural hearing loss by directly stimulating the auditory nerve
+- # Components
+	- External Part
+		- Microphone (picks up sound)
+		- Speech processor (converts sound to digital signals)
+		- Transmitter coil (sends signal to the internal implant)
+	- Internal Part
+	  *Surgically Implanted*
+		- Receiver-stimulator (decodes signals)
+		- Electrode array (stimulates the cochlear nerve fibers)
+- # Indications
+	- Severe-to-profound bilateral sensorineural hearing loss
+	- Limited benefit from hearing aids (<50% speech discrimination)
+	- Post-lingual deafness (better outcomes)
+	- Pre-lingual deafness (early implantation in children <2 years for best results)
+- # Contraindications
+	- Absence of cochlear nerve or cochlea (e.g., Michel aplasia)
+	- Active middle ear infection
+	- Unrealistic patient expectations
+- # Surgical Procedure
+	- Performed under general anesthesia
+	- Mastoidectomy + facial recess approach to access cochlea
+	- Electrode array inserted into scala tympani of cochlea
+- # Complications
+	- Facial Nerve Injury
+	- Meningitis (risk reduced with vaccination)
+	- Device failure or migration
+	- Tinnitus or vertigo
 - #SN Short Note #ent-prof-written #unanswered #card
-  deck:: #ENT
   id:: 67580122-f481-4e5c-af10-a58169662bac
+  deck:: #ENT
+	-

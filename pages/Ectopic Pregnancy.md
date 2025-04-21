@@ -66,7 +66,7 @@
 - Investigation
   ((67f64862-d00f-4015-b7ba-09a52ad22c03))
 	- Estimation of β-HCG
-	- Blood examination
+	- Blood examination (*CBC with Hemoglobin and ESR*)
 		- Anemia(if ruptured)
 		- Leukocytosis(if infection present)
 		- CRP, ESR raised

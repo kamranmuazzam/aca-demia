@@ -1,1 +1,2 @@
-- [[Bacterial Ulcer]]
+- [[Bacterial Corneal Ulcer]]
+- [[Fungal Corneal Ulcer]]

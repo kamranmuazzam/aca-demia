@@ -1,2 +1,16 @@
-- definition: #eye-prof-written
+- definition Pathological Myopia is a rapidly progressive myopic error that starts in childhood 5-10 years of age & results in high myopia(≤ -6D) during early adult life which is usually associated with degenerative changes in the eye/retina. #eye-prof-written
 - # Features of Pathological Myopia #eye-prof-written
+	- High Refractive Error
+		- Myopia : worse than -6 D
+		- Axial lenfth ≥26 mm
+	- Optic Disc
+		- Large optic disc with mild pallor
+		- Large physiological cup of the disc
+		- Temporal crescent or sometimes annular crescent
+		- Posterior staphyloma
+	- Macula
+		- Dull, Foster-Fuch's fleck
+		- Macular Degeneration
+	- General fundus
+		- Pale & tessellated apperance
+		- Choroidal sclerosis

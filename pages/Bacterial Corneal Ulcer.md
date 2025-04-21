@@ -1,8 +1,3 @@
-alias:: Adenoid
-
-- #definition {{c1 }} #ent-prof-written #unanswered #card
-  deck:: #ENT
-  id:: 67580de0-f75a-494a-9860-2edd42814113
 - alias::
   ICD-11_Code::
   tags:: #Disease
@@ -20,47 +15,64 @@ alias:: Adenoid
   background-color:: blue
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features #ent-prof-written #unanswered #card
+- ## Clinical Features
   background-color:: blue
-  deck:: #ENT
-  id:: ebea0a07-c8e9-495a-bcf6-ed94e5f1e3a8
 	- ### Clinical Presentation
-		- #### Symptoms
-		- #### Signs
+		- #### Symptoms #eye-prof-card #card
+		  deck:: Eye
+		  id:: c3f181b7-5dfb-4fd9-a503-6b6249eca219
+			- Pain
+			- Photophobia
+			- Lacrimation(Watering)
+			- Blepharospasm
+			- Diminished Vision
+		- #### Signs #eye-prof-card #card
+		  deck:: Eye
+		  id:: f8af9f1a-4fe3-48a6-a259-5fd572502c34
+			- Ciliary Congestions (redness around cornea)
+			- [[Hypophon]]
 	- ### Stages or Classification
 	- ### Diagnostic Criteria
-- # Clinical Features of Adenoid Facies #ent-prof-card #ent-prof-written #unanswered #card
-  id:: 6756cf30-0e89-4438-8dbb-5f4e1ed28c63
-  deck:: #ENT
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
 		- #### Classical Presentation
 		- #### Probable Diagnosis
-	- ### Investigations #ent-prof-written #unanswered #card
-	  deck:: #ENT
-	  id:: 67580e87-164e-4437-9d0d-cc738924bf3c
+	- ### Investigations ‬‭ #eye-prof-card #card
+	  deck:: Eye
+	  id:: 6747af2c-41e7-4b9a-85c5-2d982358243b
+		- Corneal Scraping and the
+		  logseq.order-list-type:: number
+			- Gram staining
+			  logseq.order-list-type:: number
+			- Giemsa staining
+			  logseq.order-list-type:: number
+			- KOH preparation
+			  logseq.order-list-type:: number
+			- C/S
+			  logseq.order-list-type:: number
+		- Fluorescein dye test
+		  logseq.order-list-type:: number
 	- ### Differential Diagnosis
 	- ### Confirmation of Diagnosis
-- # Correction/Treatment #ent-prof-card #ent-prof-written #unanswered #card
-  id:: 6756cf30-222b-4dce-8e35-4a8fc615ffe1
-  deck:: #ENT
-	- # Medical Management
-		- Nasal Steroid Sprays
-			- Fluticasone
-			- Mometasone
-		- Antihistamines
-			-
+- ## Management and Treatment
+  background-color:: blue
+	- ### Medical Treatment #eye-prof-card #card
+	  deck:: Eye
+	  id:: 38be0f5c-2a09-4dd4-a846-791180fc9763
+		- Board Spectrum Antibiotic (Topical)
+		- Systemic Antibiotic
+		- [[Atropine 1% Sulphate]]
+	- ### Surgical Options
+	- ### Lifestyle and Dietary Recommendations
+	- ### Follow-up
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
 		- #### With Treatment
-			- ((6756b219-4c90-4cd6-9ad0-94a78e34ae37))
 		- #### Without Treatment
-			- ##### Consequences (in child) #ent-prof-card #unanswered #card
-			  id:: 6756adaf-ec4b-4d1a-bee3-fc2360b0cd27
-			  deck:: #ENT
-			  deck:: #ENT
+			- ##### Possible Complications
+			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment
 		- #### Without Treatment
@@ -84,6 +96,3 @@ alias:: Adenoid
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
-- #SN Short Note #ent-prof-written #unanswered #card
-  deck:: #ENT
-  id:: 67580ebb-8cdb-4b69-b32d-1cc4df492e16

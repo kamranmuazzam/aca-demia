@@ -1,0 +1,28 @@
+- #definition Subfertility is a term used to describe a condition in which a couple has difficulty achieving a natural pregnancy, but conception is still possible, either spontaneously or with medical assistance.
+  ((67f8f702-7deb-4e2e-8e0b-db1bf33a220d))
+- # Common Cause of male subfertility
+  ((67f8f826-2e40-41ad-b134-672187aa31f8))
+	- Sperm Production Issues
+		- Oligospermia
+		- Asthenospermia
+		- Teratospermia
+		- Varicocele
+		- Hormonal imbalances
+	- Obstructive Causes
+		- Congenital absence of vas deference
+		- Post infectious blockages
+		- Previous vasectomy or surgery complications
+	- Ejaculatory Dysfunction
+		- Retrograde ejaculation
+		- Erectile dysfunction
+		- Premature ejaculation
+	- Lifestyle & Environmental Factors
+		- Smoking, alcohol, and drug use
+		- Obesity
+		- Heat exposure
+		- Toxins & radiation
+	- Medical Conditions
+		- Infections (mumps orchitis, prostatitis, epididymitis)
+		- Genetic disorders (Klinefelter syndrome, Y-chromosome microdeletions)
+		- Chronic Illnesses (Diabetes, Kidney Disease)
+	- Unexplained
