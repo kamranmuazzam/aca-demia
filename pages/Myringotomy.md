@@ -4,6 +4,8 @@ tags:: #[[Surgical Procedure]], #ENT
 - # Indications
   #ent-prof-card
 	- [[ASOM]]
+		- Severe pain with bulging TM
+		- No improvement after 58-72 hours of antibiotics
 	- [[Glue Ear]]
 	- Aero-otitis media
 	- Atelectatic Ear

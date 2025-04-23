@@ -16,7 +16,7 @@ tags:: #[[Surgical Procedure]], #ENT
 	  logseq.order-list-type:: number
 	- [[Recurrent Tonsillitis]]
 	  logseq.order-list-type:: number
-	- Quinsy
+	- [[Quinsy]]
 	  logseq.order-list-type:: number
 	- Suspected Malignancy
 	  logseq.order-list-type:: number

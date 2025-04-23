@@ -3,18 +3,7 @@
   tags:: #Disease
 - ## Etiology
   background-color:: blue
-  collapsed:: true
 	- ### Causative Agents
-		- Bacterial
-			- Beta streptococcal hemolyticus
-			- Staphylococcus
-			- Haemophillus influenza beta
-			- Pseudomonas
-		- Virus
-			- Influenza
-			- Parainfluenza
-			- Adenovirus
-			- Rhinovirus
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -30,21 +19,33 @@
   background-color:: blue
 	- ### Clinical Presentation
 		- #### Symptoms
+			- Mild pain/sore throat
+			- Mild fever
+			- Odynophagia
+			- Change of voice
+			- Sleep apnoea
+			- Helitosis
+			- bad taste
+			- Cough
 		- #### Signs
+			- Tonsil enlarged not so congested
+			- Pus/debris/ cheesy material out if anterior pillar is pressed may come tonsillar crypt (Crypt of Magna)
+			- Congestion of anterior pillar
+			- Jugulo-digastric palpable but not tender
 	- ### Stages or Classification
-		- [[Acute Tonsilitis]]
-		- [[Chronic Tonsillitits]]
 	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
 	- ### Clinical Diagnosis
 	- ### Laboratory Tests
+		- CBC: increased lymphocyte count
 	- ### Imaging Studies
 	- ### Differential Diagnosis
 - ## Management and Treatment
   background-color:: blue
-	- ### Medical Treatment
+	- ### Medical Treatment : failure
 	- ### Surgical Options
+		- [[Tonsillectomy]]
 	- ### Lifestyle and Dietary Recommendations
 - ## Prognosis
   background-color:: blue
