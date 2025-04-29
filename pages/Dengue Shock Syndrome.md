@@ -1,9 +1,6 @@
 - alias::
   ICD-11_Code::
-  tags:: #Disease
-- #definition {{c1 }} #ent-prof-written #unanswered #card
-  deck:: #ENT
-  id:: 675810b0-fc80-45f7-806c-f4764d7c82be
+  tags:: disease
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -23,12 +20,7 @@
 	- ### Clinical Presentation
 		- #### Symptoms
 		- #### Signs
-	- ### Stages or Classification #ent-prof-written #unanswered #card
-	  deck:: #ENT
-	  id:: 7f32f9e9-ccda-4242-aad5-0eedb0b3cb43
-		- [[Acute Retropharyngeal Abscess]]
-		- [[Chronic Retropharyngeal Abscess]]
-	-
+	- ### Stages or Classification
 - ## Diagnosis
   background-color:: blue
 	- ### Diagnostic Criteria
@@ -42,9 +34,21 @@
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
-	- ### Surgical Options
+	  *hospitalisation*
+		- ((6810a757-b94b-45b8-87e8-2814b359776b))
+		- Antipyretics : Only Paracetamol
 	- ### Lifestyle and Dietary Recommendations
+		- warm fluids in diet
 	- ### Follow-up
+		- Monitor
+			- Circulatory volume & haemodynamic status
+			- Blood osmolality
+			- Fluid & electrolytes balance
+			- Intake-output chart
+			- Platelet count and haematocrit, twice daily
+		- Prevent or Treat complications
+			- Evidence of bleeding
+			- Evidence of pleural effusion or ascites
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
@@ -75,6 +79,3 @@
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
-- #SN Short Note #ent-prof-written #unanswered #card
-  deck:: #ENT
-  id:: 67581171-79d1-475c-a2f2-827bd0568291

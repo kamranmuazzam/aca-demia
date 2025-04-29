@@ -118,15 +118,16 @@ tags:: disease, inflammatory disease, throat, ent
 		  _Amoxicillin is 1st line_
 			- Macrolides (if penicillin allergy)
 		- Supportive Care
-			- NSAIDs, Analgesics: [[Aspirin]]
+			- NSAIDs, Analgesics: [[Ibuprofen]] 
 			  *NSAIDs are better than paracetamol for pain[[Paracetamol]]*
 			- Antipyretics
 			- Hydration
 			- Warm Saline gargles
 		- Nutrition maintain - liquid and soft solid food should be given
-	- ### Surgical Options
-		- [[Recurrent Tonsillitis]]
-		- Complications (abscess, obstruction)
+	- ### Surgical Options - [[Tonsillectomy]]
+		- if [[Recurrent Tonsillitis]]
+			- {{embed ((67ce2433-f27b-4e87-8394-b338c461ee4a))}}
+		- if Complications (abscess, obstruction)
 	- ### Lifestyle and Dietary Recommendations
 		- Hydration (warm fluids)
 		- Avoid irritants (smoking, cold drink)

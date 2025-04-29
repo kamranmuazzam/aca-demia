@@ -25,10 +25,12 @@ tags:: #[[Surgical Procedure]], #ENT
 - # Contraindication of tonsillectomy #ent-prof-card #unanswered #card
   deck:: #ENT
   id:: 6733ccee-0b37-4719-b633-2a9135cb80fd
-	- Acute upper respiratory infection because bleeding is more in the presence of acute infection (after resolution of infection, wait for 2 weeks)
+	- Chance of Bleeding
 	  logseq.order-list-type:: number
-	- Bleeding disorder like hemophilia, aplastic anemia, ITP, leukemia
-	  logseq.order-list-type:: number
+		- Acute upper respiratory infection because bleeding is more in the presence of acute infection (after resolution of infection, wait for 2 weeks)
+		  logseq.order-list-type:: number
+		- Bleeding disorder like hemophilia, aplastic anemia, ITP, leukemia
+		  logseq.order-list-type:: number
 	- Overt or submucous cleft palate
 	  logseq.order-list-type:: number
 	- Uncontrolled DM
