@@ -27,6 +27,11 @@
 		  CLOCK: [2025-04-21 Mon 19:41:13]
 		  CLOCK: [2025-04-21 Mon 19:41:14]
 		  :END:
+		- NOW [[ASOM]]
+		  :LOGBOOK:
+		  CLOCK: [2025-04-22 Tue 13:12:49]
+		  CLOCK: [2025-04-22 Tue 13:12:52]
+		  :END:
 	- Throat
 		- NOW [[Adenoid Facies]]
 		- NOW [[Enlarged Adenoid]]

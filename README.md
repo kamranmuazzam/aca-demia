@@ -1,8 +1,9 @@
 # Medical School Notes
 
-Version: 0.0.0.2
+Version: 0.0.0.3
 Author: Kamran Muazzam
-© 2024 Kamran Muazzam. All rights reserved.
+© 2024 Kamran Muazzam.
+© 2025 Kamran Muazzam.All rights reserved.
 - ## Introduction
   
   This repository contains comprehensive medical school notes authored by Kamran Muazzam. These notes cover a wide range of topics crucial for medical education and are intended for academic purposes.

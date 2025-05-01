@@ -153,3 +153,24 @@ file-path:: ../assets/Step_on_to_Paediatrics_1731742499843_0.pdf
   hl-page:: 62
   hl-color:: yellow
   id:: 6741bfd1-e2b0-4630-a571-b86248c17294
+- [:span]
+  ls-type:: annotation
+  hl-page:: 119
+  hl-color:: yellow
+  id:: 68107569-ed6a-4b5c-a39e-367235b0ad18
+  hl-type:: area
+  hl-stamp:: 1745909095474
+- [:span]
+  ls-type:: annotation
+  hl-page:: 120
+  hl-color:: yellow
+  id:: 68107577-be5e-4a6b-97d3-ed583e01acca
+  hl-type:: area
+  hl-stamp:: 1745909110738
+- [:span]
+  ls-type:: annotation
+  hl-page:: 161
+  hl-color:: yellow
+  id:: 6810a757-b94b-45b8-87e8-2814b359776b
+  hl-type:: area
+  hl-stamp:: 1745921878621
