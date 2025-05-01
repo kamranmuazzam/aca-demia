@@ -1,0 +1,24 @@
+- ENT
+	- PL Dhingra
+		- Throat
+			- c/ Acute Tonsillitis
+			- c/ Tonsillectomy
+			- c/ Quinsy
+			- c/ DD white patches on the tonsil
+			- c/ Adenoid facies
+			- c/ consequences of enlarged adenoid in child
+			- c/ Adenoidectomy
+			- c/ Acute Retropharyngeal Abscess
+			- c/ Chronic Retropharyngeal Abscess
+			- c/ Acute Epiglottitis
+			- c/ Difference between acute epiglottitis and acute laryngotracheobronchitis
+			- c/ Stridor, causes
+			- c/ FB esophagus
+			- c/ Rigid esophagoscopy, removal of FB esophagus, treatment of a case of esophageal perforation
+			- c/ Ca esophagus
+			- c/ Achalasia cardia
+			- c/ Waldeyer's ring, clinical importance
+			- c/ differential diagnosis of unilateral enlarged tonsil. how will you investigate and treat the case --
+			- c/ causes of dysphagia? How will you diagnose and treat a case of carcinoma esophagus
+			- c/ boundary of parapharyngeal space. clinical importance
+			- c/ differentiate between Ca esophagus and Achalasia Cardia
