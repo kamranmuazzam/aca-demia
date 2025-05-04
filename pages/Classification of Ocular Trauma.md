@@ -1,0 +1,25 @@
+- Etiological Classification
+	- Accidental Trauma
+	- Self Inflicted Trauma
+	- Occupational Trauma
+- Physical Trauma
+	- Open Globe Injury
+		- Penetrating
+		- Perforating
+		- Intraocular Foreign Body
+	- Close Globe Injury
+		- Contusion
+		- Lameral Laceration
+		- Superficial foreign body
+- Chemical Trauma
+	- Acid
+	- Alkali
+	- Dye
+- Thermal Trauma
+	- Heat
+	- Cold
+- Radiation Trauma
+	- Ionizing agents
+	- Ultraviolet rays
+	- Laser burn
+- Miscellaneous

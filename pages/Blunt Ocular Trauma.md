@@ -1,0 +1,32 @@
+- Eyelid
+	- Echymosis
+	- Laceration
+- Anterior Segment Injuries
+	- Conjunctivcal Laceration/Echymosis/ Subconjunctival Hemorrhage
+	- Corneal Abrasion
+	- Corneal Edema
+	- [[Hyphaema]]
+	- Iridodialysis
+	- Traumatic Mydriasis
+	- Traumatic Iritis
+	- Angle Recession
+	- Lens Dislocation (Subluxation/Luxation)
+	- Cataract Formation
+- Posterior Segment Injuries
+	- Vitreous Hemorrhage
+	- Retinal Commotio (Berlin's Edema)
+	- Retinal Hemorrhage
+	- Retinal Detachment
+	- Retinal Tear
+	- Choroidal Rupture
+	- Macular Hole
+	- Optic Nerve Avulsion
+	- Traumatic Optic Neuropathy
+- Orbital and Adnexal Injuries
+	- Orbital Fracture
+	- Globe Rupture
+- Secondary Complications
+	- Secondary Glaucoma
+	- Myopia / Hypermetropia
+	- Phthisis Bulbi
+	- Symphathetic Opthalmia

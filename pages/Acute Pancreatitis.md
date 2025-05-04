@@ -6,11 +6,14 @@ tags:: disease, general surgery, medicine
   background-color:: blue
 	- ### Causative Agents
 		- Idiopathic
+		- Pancreatic Gall Stone
 		- Traumatic
 			- Accident
 			- Instrumentation (MRCP, ERCP, Laparotomy)
-		- Pancreatic Gall Stone
 		- Drugs/Toxins
+			- Corticosteroids
+			- Thiazide
+		- Mumps
 	- ### Risk Factors
 		- Alcoholism
 		- Middle Age
@@ -37,7 +40,7 @@ tags:: disease, general surgery, medicine
 				- Onset: Sudden
 				- Character: Sharp Aching
 				- Radiation: To the back
-				- Associated Symptoms: Nasuea, Vomiting, Reching
+				- Associated Symptoms: Nasuea, Vomiting, Reching, Hiccups, Fever
 				- Time/Duration:
 				- Exacerbating and Relieving Factors:
 					- Relieved : upon leaning forwards
