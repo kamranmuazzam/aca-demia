@@ -34,6 +34,17 @@ tags:: #Disease, #[[Trauma Induced Disease]], #Orthopedics
 		- [[Dislocation]]
 			- Differentiation of Sprain and Dislocation #ent-prof-written
 			  id:: 6763985f-7743-4c32-8054-ee1159774a01
+				- | **Feature** | **Sprain** | **Dislocation** |
+				  | ---- | ---- | ---- |
+				  | **Definition** | Stretching or tearing of **ligaments** (connects bone to bone). | **Complete separation** of bones in a joint. |
+				  | **Cause** | Sudden twisting or overstretching (e.g., ankle roll). | Trauma, impact, or extreme force (e.g., fall, collision). |
+				  | **Affected Tissue** | Ligaments. | Joint structures (bones, ligaments, sometimes tendons/nerves). |
+				  | **Severity** | Grades I (mild) to III (complete tear). | Always severe; requires immediate medical attention. |
+				  | **Symptoms** | Pain, swelling, bruising, **but joint remains intact**. | Intense pain, visible deformity, **loss of joint function**. |
+				  | **Mobility** | Joint may still move (with pain). | Joint is immobile or locked out of place. |
+				  | **Treatment** | RICE (Rest, Ice, Compression, Elevation), bracing, physiotherapy. | **Medical reduction** (realignment), immobilization, sometimes surgery. |
+				  | **Recovery Time** | Weeks to months (depends on severity). | Longer recovery (weeks to months), higher risk of recurrence. |
+				  | **Example** | Ankle sprain from rolling the foot. | Shoulder dislocation after a fall. |
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue

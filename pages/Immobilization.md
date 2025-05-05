@@ -1,5 +1,49 @@
 tags:: #[[Surgical Procedure]], #Orthopedics
 
 - # Methods of Immobilization #ortho-prof-card #ortho-prof-written
-	- [[Plaster of Paris]]
+	- **Casts** – Plaster, Fiberglass
+	- **Splints** – Rigid, Soft, Prefabricated
+	- **Braces/Orthoses** – Functional, Rigid
+	- **Traction** – Skin, Skeletal
+	- **Slings/Straps** – Collar & Cuff, Figure-8
+	- **External Fixation** – Pins, Rods
+	- **Internal Fixation** – Plates, Screws, Rods
+	- **Soft Immobilization** – Bandages, Taping
+	- **Positioning Aids** – Cervical Collars, Abduction Pillows
+	- **Specialized Devices** – Halo Vest, Spica Cast
 - # Complications of Prolong Immobilization #ortho-prof-written
+	- ### **1. Musculoskeletal**
+		- Muscle atrophy
+		- Contractures
+		- Osteoporosis
+		- Heterotopic ossification
+		- Joint stiffness
+	- ### **2. Cardiovascular**
+		- Deep vein thrombosis (DVT)
+		- Pulmonary embolism (PE)
+		- Orthostatic hypotension
+		- Reduced cardiac output
+	- ### **3. Respiratory**
+		- Atelectasis
+		- Hypostatic pneumonia
+		- Decreased lung expansion
+	- ### **4. Integumentary (Skin)**
+		- Pressure ulcers (bedsores)
+		- Skin infections
+	- ### **5. Metabolic & Endocrine**
+		- Hypercalcemia
+		- Negative nitrogen balance
+		- Insulin resistance
+	- ### **6. Gastrointestinal**
+		- Constipation
+		- Fecal impaction
+	- ### **7. Genitourinary**
+		- Urinary tract infections (UTIs)
+		- Renal calculi (kidney stones)
+		- Urinary retention
+	- ### **8. Neurological & Psychological**
+		- Peripheral neuropathy
+		- Depression & anxiety
+		- Cognitive decline
+	- ### **9. Immune System**
+		- Increased infection risk

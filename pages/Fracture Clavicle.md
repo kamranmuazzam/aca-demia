@@ -14,26 +14,42 @@
 - ## Pathophysiology
   background-color:: blue
 	- ### Mechanism of Disease #ortho-prof-written
+		- Fall on outstretched hand
+		- Fall on shoulder
 	- ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
 	- ### Clinical Presentation
 		- #### Symptoms
+			- Pain
+			- Swelling
+			- Drooping of shoulder supported by opposite hand
 		- #### Signs
 	- ### Stages or Classification
-	- ### Diagnostic Criteria
+		- type I : Middle
+		- type II : Lateral
+		- type III : Medial
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
+	- ### Diagnostic Criteria
 	- ### Imaging Studies
+		- X-Ray
+			- AP view
+			- Swimmers view
+		- CT-scanning with 3d reconstruction
 	- ### Differential Diagnosis
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment #ortho-prof-written
   background-color:: blue
 	- 10 years old boy #ortho-prof-written
+	- type I : simple sling with elbow bag for 1-3 weeks
+		- displaced : retention by plate and screw
+		  *special contour locking plates are available for that*
+	- type II : Sling for 2-3 weeks followed by mobilization within the limit of pain
+		- displaced : coracoclavicular scew and plate/ hook plate fixation
+	- type III : Mainly managed non-surgically
+		- displaced : surgical management, suture and graft technique, plate
+		  *mediastinal injuries is possible*
 	- ### Medical Treatment
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations

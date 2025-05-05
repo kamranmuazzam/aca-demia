@@ -1,3 +1,21 @@
 tags:: #Appliance, #Orthopedics
 
 - # Different External and Internal Fixator used in Orthopedics #ortho-prof-written
+	- Externa Fixator
+		- Monolateral Fixator
+			- AO External Fixator
+			- Hoffman Fixator
+		- Circular FIxator (IIizarov Fixator)
+			- Rings and tensioned wires for 3D stability
+		- Hybrid Fixator
+			- Combines wires and half-pins
+		- Dynamic External Fixator
+		- Pin-to-Bar Fixator
+	- Internal Fixator
+		- Plates and Screws
+		- Screws
+		- Cannulated Screws
+		- Intramedullary Nails
+		- K-wires
+		- Tension Band Wiring
+		- Bioabsorbable Implants

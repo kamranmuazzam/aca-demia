@@ -1,64 +1,163 @@
-- Clinical Features and Classification into three parts #eye-prof-card #card
-  deck:: #Eye
-  id:: 67549d5f-7b3f-489e-8666-a825a20a545e
-	- ((67549e0e-7f51-4ea8-8c86-84187af62a00)) 
-	  logseq.order-list-type:: number
-	  id:: 67549d68-5108-44b6-989c-3d8567cbaa35
-	  alias:: background retinopathy, NPDR
-	- ((0b481226-3362-40d8-ae91-413f1e0bd11e))
-	  logseq.order-list-type:: number
-	  id:: 67549d84-4217-460d-a186-f0dc8e1e9187
-	- Diabetic Maculopathy
-	  logseq.order-list-type:: number
-- Types of Diabetic Retinopathy
-	- Non-proliferative Diabetic Retinopathy
-	  logseq.order-list-type:: number
-	  id:: 67549e0e-7f51-4ea8-8c86-84187af62a00
-		- Clinical Features #eye-prof-card #card
-		  logseq.order-list-type:: number
-		  deck:: #Eye
-		  id:: 67549d88-1e02-49c6-ab5d-b9b20e1d3808
-			- Microaneurysm
-			  logseq.order-list-type:: number
-			- Dot & Blot hemorrhage
-			  logseq.order-list-type:: number
-			- Flame shaped hemorrhage
-			  logseq.order-list-type:: number
-			- Hard exudate
-			  logseq.order-list-type:: number
-			- Retinal edema
-			  logseq.order-list-type:: number
-		- Classification #eye-prof-card #card
-		  deck:: #Eye
-		  id:: 67549e83-d2f5-4e10-9962-6d774d3d3d8e
-			- Mild NPDR
-			- Moderate NPDR
-			- Severe NPDR
-			- Very Severe NPDR
-	- Proliferative phase
-	  logseq.order-list-type:: number
-	  id:: 0b481226-3362-40d8-ae91-413f1e0bd11e
-		- Clinical Features #eye-prof-card #card
-		  logseq.order-list-type:: number
-		  deck:: #Eye
-		  id:: 67549dbe-382a-4afa-8452-96d0ac221cdf
-			- Neovascularisation
-			  logseq.order-list-type:: number
-			- Posterior vitreous detachment
-			  logseq.order-list-type:: number
-			- Hemorrhage
-			  logseq.order-list-type:: number
-		- Classification #eye-prof-card #card
-		  deck:: #Eye
-		  id:: 67549ecf-8f2d-4657-9682-b0b6a1c9cdb3
-			- Early PDR
-			- High risk PDR
-			- Advanced Diabetic Eye Disease
-	- Diabetic Maculopathy
-	  logseq.order-list-type:: number
-		- Classification #eye-prof-card #card
-		  deck:: #Eye
-		  id:: 6755e430-78e9-4721-bf8b-b7170517a6bc
-			- Focal
-			- Diffuse
-			- Ischemic
+alias:: DR
+ICD-11_Code:: 9B71
+tags:: disease, diabetes, opthalmology
+
+- #definition Diabetic Retinopathy is a diabetes related eye disease that affects the blood vessels in the retina, leading to vision impairment and potential blindness if untreated
+- ## Etiology
+  background-color:: blue
+	- ### Causative Agents
+		- Chronic Hyperglycemia (high blood sugar)
+		- Insulin Resistance
+	- ### Risk Factors
+		- Long Duration of Diabetes (>10 years)
+		- Poor Glycemic control (high HbA1c)
+		- Hypertension
+		- Pregnancy (gestational diabetes)
+		- Smoking
+		- Genetic Predisposition
+- ## Epidemiology
+  background-color:: blue
+	- ### Incidence
+		- ~30% of diabetics develop DR after 30 years
+		- ~80% after 20 years
+	- ### Prevalence
+		- Leading cause of blindness in working-age adults
+		- ### Demographics
+			- Higher in Type 1 vs. Type 2 diabetes
+			- More severe in younger patients with poor control
+	- ### Geographic Distribution
+		- Higher in low/middle-income countries due to limited screening
+- ## Pathophysiology
+  background-color:: blue
+	- ### Mechanism of Disease
+		- Microvascular damage due to hyperglycemia -> retinal ischemia -> VEGF release -> neovascularization
+		- Breakdown of blood retinal barrier -> edema, hemorrhage
+	- ### Affected Systems/Organs
+		- Retina (especially macula)
+		- Vitreous (in proliferative stage)
+- ## Clinical Features
+  background-color:: blue
+	- ### Clinical Presentation
+		- #### Symptoms
+			- Blurred Vision
+			- Floaters
+			- Sudden vision loss (if vitreous hemorrhage)
+		- #### Signs
+			- Retinal hemorrhages
+			- Cotton wool spots
+			- Macular edema
+	- ### Stages or Classification
+		- Non-proliferative Diabetic Retinopathy
+			- Clinical Features
+				- Microaneurysm
+				- Dot & Blot Hemorrhage
+				- Flame shaped hemorrhage
+				- Hard exudate
+				- Retinal edema
+			- Stages/Classificaition
+				- |stage|S/S|
+				  |--|--|
+				  |Mild NPDR|microaneurysms only|
+				  |Moderate NPDR|more hemorrhages, venous beading|
+				  |Severe NPDR | 4-2-1 rule : hemorrhages in 4 quadrants, venous beading in 2, IRMA in 1|
+				  |Very Severe NPDR| widespread abnormalities|
+		- Proliferative Phase
+			- Clinical Features
+				- Neovascularisation
+				- Vitreous Hemorrhage
+				- Retinal Detachment
+			- Stages/Classification
+				- |stage|S/S|
+				  |--|--|
+				  |Early PDR|Neovascularization without complications|
+				  |High risk PDR|Neovascularization + vitreous hemorrhage|
+				  |Advanced Diabetic Eye Disease|Traction Retinal Detachment|
+		- Diabetic Maculopathy
+			- |stage|S/S|
+			  |--|--|
+			  |Focal| Localized leakage|
+			  |Diffuse|Widespread edema|
+			  |Ischemic| capillary non-perfusion|
+- ## Diagnosis
+  background-color:: blue
+	- ### Diagnostic Criteria
+		- Fundoscopic exam + imaging
+	- ### Investigation
+		- ### Establishing Diagnosis
+			- Dilated fundus exam
+			- Optical Coherence Tomograpy (OCT)
+			- Fluorescein angiography
+		- ### Ruling Out Differential Diagnosis
+			- |DD|Ruling Out|
+			  |--|--|
+			  |Hypertensive Retinopathy|BP history, absence of neovascularization|
+			  |Retinal Vein Occlusion| Unilateral, sectoral hemorrhages|
+			  |Macular Degeneration| Drusen, older age group|
+		- ### General Assessment
+			- HbA1c
+			- Lipid Profile
+			- Renal Function
+- ## Management and Treatment
+  background-color:: blue
+	- ### Medical Treatment
+		- Anti-VEGF Injections (Ranibizumab, Afibercept)
+		- Steroids (Intravitreal implants)
+	- ### Surgical Options
+		- Laser photocoagulation (panretinal or focal)
+		- Vitrectomy (for vitreous hemorrhage/tractional detachment)
+	- ### Lifestyle and Dietary Recommendations
+		- Tight glycemic control (HbA1c <7%)
+		- Blood Pressure Management (<130/80 mmHg)
+		- Smoking cessation
+	- ### Follow-up
+		- Annual screening for diabetics
+		- More frequent if DR present
+- ## Prognosis
+  background-color:: blue
+	- ### Expected Course
+		- #### With Treatment : Stabilization/Improvement in ~90%
+		- #### Without Treatment
+			- ##### Possible Complications
+				- Blindness, Retinal Detachment
+			- ##### Long-Term Effects
+				- Permanent Vision Loss
+	- ### Survival Rates
+		- #### With Treatment
+			- Vision Preservation >80% with early intervention
+			- Poor if untreated (50% severe vision loss in PDR)
+		- #### Without Treatment
+	- ### Quality of Life Considerations
+		- Reduced independence if advanced
+- ## Prevention
+  background-color:: blue
+	- ### Health Education
+		- Diabetes control importance
+	- ### Community Approach
+	- ### Screening Programs
+		- for diabetes
+	- ### Lifestyle Modifications
+		- Diet
+		- Exercise
+		- Smoking cessation
+- ## Patient Education and Support
+  background-color:: blue
+	- ### Educational Resources
+		- ADA, NEI guidelines
+	- ### Support Groups
+		- Diabetes associations
+	- ### Counseling Options
+		- Low-vision rehabilitation
+- ## Recent Research and Developments
+  background-color:: blue
+	- ### Ongoing Clinical Trials
+		- Gene therapy, new anti-VEGF agents
+	- ### Recent Advances
+		- AI based screening tools
+- ## Key Literature
+  background-color:: blue
+	- ETDRS (Early Treatment Diabetic Retinopathy Study)
+	- DRCR.net Protocols
+- ## Guidelines and Protocols
+  background-color:: blue
+	- **ADA Standards of Care (2023)**
+	- **AAO Preferred Practice Patterns**

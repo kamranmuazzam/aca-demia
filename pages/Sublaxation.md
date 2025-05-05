@@ -35,6 +35,15 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 		- [[Dislocation]]
 			- Difference between Dislocation and Sublaxation #ortho-prof-card #Orthopedics
 			  id:: 676337ab-cc4a-4465-a25c-fbff37f3fa8c
+				- | **Feature** | **Dislocation** | **Subluxation** |
+				  | ---- | ---- | ---- |
+				  | **Definition** | Complete separation of joint surfaces. | Partial or incomplete dislocation. |
+				  | **Bone Alignment** | Bones are fully out of place. | Bones are misaligned but still partially in contact. |
+				  | **Severity** | More severe, often disabling. | Less severe, may be temporary. |
+				  | **Pain & Symptoms** | Intense pain, swelling, immobility. | Mild to moderate pain, joint instability. |
+				  | **Recovery** | Usually requires medical reduction (realignment). | May self-correct or need minor treatment. |
+				  | **Complications** | Risk of ligament/tendon damage, nerve injury. | Recurrent instability if untreated. |
+				  | **Example** | Shoulder dislocation (humerus out of socket). | Kneecap (patella) shifting but not fully dislocating. |
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue

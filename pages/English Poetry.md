@@ -35,3 +35,16 @@
 	- Folks know me, they still do
 	  I am going to ask them who I am
 	- For they might know
+- 3 (*Us*)
+	- The space between us, even if I travel fast
+	  it seems it is will take some time
+	- you seem to be 2 light years far away
+	  I want to see u now, I want to hear you now
+	- There is so much I want
+	  the passing of time i can't disdain
+	- Our fates have apparently aligned in the future
+	  a state even relativity cannot explain
+	- I am waiting, I hope I find
+	  I hope I spend time in laughter
+	- with you, my body and mind
+	  In this world and the hereafter

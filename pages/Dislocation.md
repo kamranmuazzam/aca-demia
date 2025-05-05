@@ -2,7 +2,8 @@ alias::
 ICD-11_Code::
 tags:: #Disease, #[[Trauma Induced Disease]], #Orthopedics
 
-- #definition {{c1 }} #ortho-prof-card #ortho-prof-written
+- #definition {{c1 Complete and Permanent disloacement from it's normal position within a joint, resulting in loss of contact between the articulating surfaces}} #ortho-prof-card #ortho-prof-written
+	- Incomplete is known as *Sublaxation*
 - > *All Dislocation are Emergencies*
 	- Articular Cartilage is avascular,
 - ## Etiology

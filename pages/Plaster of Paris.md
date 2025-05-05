@@ -1,6 +1,6 @@
 alias:: Plaster, POP
 
-- Chemical Composition : $$\ce{CaCO3. 1/2 H2O}$$
+- Chemical Composition : $$\ce{CaSO4. 1/2 H2O}$$
 - heat is produced when put in water
 - 3--5 seconds, wait until bubbling ends
 - types
@@ -22,3 +22,4 @@ alias:: Plaster, POP
 - Put plaster as to immobilize
 - full description #ortho-prof-card
 - #SN Short Note #ortho-prof-written
+	-

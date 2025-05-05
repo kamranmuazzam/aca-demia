@@ -2,7 +2,7 @@ alias:: Compound Fracture
 ICD-11_Code::
 tags:: #Disease , #[[Trauma Induced Disease]], #Orthopedics
 
-- #definition {{c1 }} #ortho-prof-written
+	- #definition {{c1 An **open fracture** is a type of bone fracture where the broken bone penetrates through the skin or a body cavity is breached }} #ortho-prof-written
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -46,6 +46,24 @@ tags:: #Disease , #[[Trauma Induced Disease]], #Orthopedics
 		- #### With Treatment
 		- #### Without Treatment
 			- ##### Possible Complications
+				- Immediate Complications
+					- Hemorrhage
+					- Neurovascular Injury
+					- Soft Tissue Damage
+				- Early Compliactions
+					- Infection
+						- Acute Infection (Cellulitis, Abscess, Osteomyelitis)
+						- Necrotizing Fasciitis
+						- Gas gangrene
+						- Tetanus
+						- Sepsis
+					- Compartment Syndrome
+					- Crush Syndrome
+				- Late Complications
+					- Delayed Union/ Non-Union / Malunion
+					- Chronic Osteomyelitis
+					- Post-Traumatic Arthritis
+					- Soft Tissue Contracture & Stiffness / Skin contracture
 			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment

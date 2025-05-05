@@ -1,37 +1,61 @@
-alias::
-ICD-11_Code::
-tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
+alias:: Broken Bone
+ICD-11_Code:: FB
+tags:: disease , trauma induced disease , orthopedics
 
-- #definition {{c1 }} #ortho-prof-written
+- #definition {{c1 Fracture is loss of continuity of bone tissue, caused by mechanical overload or pathological weakening}} #ortho-prof-written
 - > *No Fracture is Emergency*
-  Exception : *Open Fracture with Neovascular Injury is Emergency*
+  Exception
+  *Open Fracture with Neurovascular Injury (Emergent Surgical Intervention needed)*
+  *Compartment Syndrome (Emergency fasciotomy required)*
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
+		- Trauma : Falls, MVCs, Sports injuries, direct blows
+		- Pathological : Bone tumors (metastases, myeloma, osteoporosis, osteomalacia, infection (osteomyelitis)
+		- Stress/Repetitive: March fracture (metatarsais), pars interarticularis fracture (spondylolysis)
 	- ### Risk Factors
+		- Modifiable
+			- Smoking
+			- Alchohol
+			- low MBI
+			- Sedentary lifestyle
+			- Vitamin D/calcium deficiency
+		- Non-modifiable
+			- Age (>65)
+			- Female sex (postmenopausal osteoporosis)
+			- Genetic Disorders (OI, EDS)
 - ## Epidemiology
   background-color:: blue
 	- ### Incidence
+		- ~6.8 million fractures/year in the US
+		- wrist (Colle's), hip, and vertebral fractures most common in elderly
 	- ### Prevalence
 		- ### Demographics
+			- Children : Greenstick/clavicle fractures (high plasticity)
+			- Young adults : Long bones (tibia, femur-high-energy trauma)
+			- Elderly : Hip, vertebral (low-energy falls)
 	- ### Geographic Distribution
 - ## Pathophysiology
   background-color:: blue
 	- ### Mechanism of Disease
 		- Mechanical Failure of bone under Stress
-			- Axial Loading (Compression)
-			- Rotation/Torsion
-			- Bending
+			- Axial Loading (Vertebral Compression fractures)
+			- Rotation/Torsion (spiral fractures - ski injuries)
+			- Bending (transverse fractures - direct trauma)
+			- Tension (avulsion fractures - patella, ASIS)
 			- Missile Injury
 		- [[Fracture Displacement]]
 		- [[Fracture Geometry]]
+		- Bone Healing Phases
+			- Hematoma -> Inflammation -> Soft callus -> Hard callus -> Remodeling
 	- ### Affected Systems/Organs
+		- Musculoskeletal : loss of function, deformity
+		- Vascular/Nerve : Compromise (e.g., brachial artery in supracondylar fracture)
 - ## Clinical Features
   background-color:: blue
 	- ### Clinical Presentation
 		- #### Symptoms
 		  id:: fbf7aec0-e837-41a5-ab98-07614c74239f
-		  collapsed:: true
 			- Frequently Traumatic
 			- Appears deformed
 			- Can be atraumatic (eg. bone tumor)
@@ -39,6 +63,9 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 			- "crack" heard
 			- Immediate Disability
 		- #### Signs
+			- Inspection : Echymosis, shortening, open wound
+			- Palpation : Tenderness, abnormal mobility
+			- Neurovascular : Check pulses (e.g., dorsalis pedis in tibial fractures), sensation (e.g., radial nerve in humeral shaft fractures)
 	- ### Classification #ortho-prof-written
 		- ### Clinical Classification #ortho-prof-card
 			- According to Communication with exterior
@@ -69,18 +96,24 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 			- [[Traumatic Fracture]]
 			- [[Pathological Fracture]]
 			- [[Stress Fracture]]
-	- ### Diagnostic Criteria
+		- | **Type** | **Examples** |
+		  | ---- | ---- | ---- |
+		  | **Clinical** | Open vs. closed; simple vs. complicated (neurovascular injury). |
+		  | **Radiological** | Transverse, oblique, comminuted, greenstick. |
+		  | **Etiological** | Traumatic, pathological, stress. |
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation same as Clinical Presentation
-		- #### Probable Diagnosis
+	- ### Diagnostic Criteria
+		- X-ray (first-line) : AP/lateral views + joints above/below
+		- CT : For intra-articular (e.g., tibial plateau), pelvic, spine fractures
+		- MRI : Occult fractures (e.g., scaphoid), bone marrow edema
 	- ### Evaluation #ortho-prof-written
 		- #### History
 		  *MIST*
 			- Mechanism of Injury
-			- Injury
+			- Injury/Site
 			- {{embed ((fbf7aec0-e837-41a5-ab98-07614c74239f))}}
+			- S/S
 			- Treatment Recieved
 		- #### Physical Examination
 		  *Look Feel Move Neurovasculature*
@@ -103,7 +136,7 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 					- Grade strength 1-5
 		- #### Imaging
 			- Plain radiographs often sufficient
-				- At least orthogonal views (AP, Lateral)
+				- At least 2 orthogonal views (AP, Lateral)
 				- Joint above and joint below (proximal & distal)
 			- CT scan in some instances
 				- For better assessing articular fractures
@@ -114,10 +147,27 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 		- [[Dislocation]]
 			- Comparison of Fracture and Dislocation #ortho-prof-written
 			  id:: 676398f1-aa63-4330-9077-25d9b7cf2964
+				- Similarities
+				  |Feature| Description |
+				  |--|--|
+				  |Cause| Both commonly caused by trauma or falls|
+				  |Swelling| Present in both conditions|
+				  |Pain| Present in both|
+				  |Diagnosis| Both need imaging (X-ray)|
+				  |Treatment| Both require reduction and immobilization|
+				- Differences
+				  |Feature| Fracture | Dislocation |
+				  |--|--|--|
+				  |Definition| Break in bone continuity| Displacement of bone form joint|
+				  |Involvement| Bone | Joint |
+				  |Emergency| No | Yes|
+				  |Deformity| May or may not be present | Usually marked |
+				  |Movement | Painful, limited due to bone damage| Limited due to joint misalignment|
+				  | Complications | Non-union, malunion, infection | Recurrent dislocation, joint instability |
+		- Soft Tissue Injury
+			- [[Sprain]] (ligament) vs. Strain (muscle)
 		- [[Infection]]
-		- [[Sprain]]
 		- [[Bone Tumors]]
-	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
 	- Bone Heals itself by *regenerating* new bone tissue rather than healing with scar tissue
@@ -134,17 +184,22 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 		- Intramedullary nailing/rodding
 		- Arthroplasty (replacement)
 	- ### Principle of Management of Long Bone Fracture #ortho-prof-written
-		- Reduce
+		- Resuscitate (ATLS protocol if polytrauma)
 		- Rest and Recognition
 			- RICE therapy
 		- Reduction
 			- [[Open Reduction]]
 			- [[Closed Reduction]]
 		- Retention
-			- [[Plaster]]
+			- Cast - [[Plaster]]
+			- Continuous Traction
+			- Mechanical(Functional) Braces (Plates/Screw)
+			- *internal/external fixation*
 		- Rehabilitate
-	- ### Medical Treatment
-	- ### Surgical Options
+		- Review (follow-up imaging)
+	- ### Treatment Options
+		- **Non-operative**: Casting (Colles’), traction (pediatric femur fractures).
+		- **Operative**: ORIF (displaced fractures), IM nailing (femur/tibia), arthroplasty (femoral neck in elderly).
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis
@@ -161,19 +216,26 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 				  logseq.order-list-type:: number
 				- [[Compartment Syndrome]]
 				  logseq.order-list-type:: number
+				- Soft Tissue Injury (muscle, tendons)
+				  logseq.order-list-type:: number
 			- ### Delayed Complications #ortho-prof-card
 				- #### General Complication
 					- Pulmonary Embolism
+					- DVT
 					- Fat Embolism
 					- Acute Respiratory Distress Syndrome
 					- [[Tetanus]]
 					- [[Gas Gangrene]]
+					- Sepsis
 				- #### Local Complication
-					- [[Malunion]]
-					- [[Non-Union]]
-					- [[Delayed Union]]
-					- [[Avascular Necrosis]]
+					- [[Malunion]] / [[Non-Union]] / [[Delayed Union]]
+					- [[Avascular Necrosis]] (femoral head)
+					- Infection (Osteomyelitis)
+					- Joint Stiffness/Contractures
+					- Myositis Ossificans
+					- Complex Regional Pain Syndrome (CPRS)
 		- ### Prevention of Immediate Complications of Fracture #ortho-prof-written
+			-
 		- ### Management of Immediate Complications of Fracture #ortho-prof-card
 			- ((7208f015-bf3e-4261-9c90-536e561b1d4d)) of  [[Compartment Syndrome]]
 		- #### With Treatment

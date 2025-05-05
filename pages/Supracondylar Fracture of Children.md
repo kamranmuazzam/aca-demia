@@ -15,6 +15,7 @@ tags:: #Disease, #[[Trauma Induced Disease]], #Orthopedics
 - ## Pathophysiology
   background-color:: blue
 	- ### Mechanism of Disease #ortho-prof-card
+		- A fall onto an **outstretched hand (FOOSH)** with the elbow in full extension.
 	- ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
@@ -43,6 +44,15 @@ tags:: #Disease, #[[Trauma Induced Disease]], #Orthopedics
 	- ### Expected Course
 		- #### Possible Complications #ortho-prof-card
 		  Supracondylar Fracture of Humerus #ortho-prof-written
+			- Early
+				- Vascular injury : Brachial artery damage
+				- Nerve Palsies -> Radial
+				- Compartment Syndrome
+			- Late
+				- Malunion
+				- [[Volkmann's ischemic contracture]]
+				- Stiffness & Myositis ossificans
+				- Tardy Ulnar Nerve Palsy
 		- #### With Treatment
 		- #### Without Treatment
 			- ##### Possible Complications

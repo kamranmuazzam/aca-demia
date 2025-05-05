@@ -45,6 +45,35 @@ high-yeild:: true
 		- #### With Treatment
 		- #### Without Treatment
 			- ##### Possible Complications
+				- Ocular Complications of the Diabetes Mellitus
+					- Diabetic Retinopathy
+					  logseq.order-list-type:: number
+						- Non-proliferative (NPDR)
+						  logseq.order-list-type:: number
+						- Proliferative (PDR)
+						  logseq.order-list-type:: number
+					- Diabetic Macular Edema (DME)
+					  logseq.order-list-type:: number
+					- Cataract (early onset or "snowflake")
+					  logseq.order-list-type:: number
+					- Glaucoma
+					  logseq.order-list-type:: number
+						- Neovascular glaucoma
+						  logseq.order-list-type:: number
+						- Open angle glaucoma
+						  logseq.order-list-type:: number
+					- Ocular Surface Disease (dry eye, corneal erosions)
+					  logseq.order-list-type:: number
+					- Cranial nerve palsies (III, IV, VI)
+					  logseq.order-list-type:: number
+					- Refractive Changes (transient vision blurring)
+					  logseq.order-list-type:: number
+					- Ischemic Optic Neuropathy
+					  logseq.order-list-type:: number
+					- Retinal Vascular Occlusions (CRVO, BRVO, CRAO)
+					  logseq.order-list-type:: number
+					- Endopthalmitis (post surgical risk)
+					  logseq.order-list-type:: number
 			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment

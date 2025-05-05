@@ -22,11 +22,14 @@ tags:: #Disease , #[[Trauma Induced Disease]] , #Orthopedics
 		- #### Symptoms
 		- #### Signs
 	- ### Common Fractures in Children #ortho-prof-card #ortho-prof-written
-		- [[Clavicular Fracture]]
-		- [[Supracondylar Fracture of Children]]
-		- [[Fracture of Shaft of Radius]] & [[Fracture of Shaft of Ulna]]
-		- [[Fracture of Shaft of Femur]]
-		- [[Fracture Shaft of Tibia]] & [[Fracture Shaft of Fibula]]
+		- According to type
+			- Green stick, hairline, torrous fracture
+		- According to site
+			- [[Clavicular Fracture]]
+			- [[Supracondylar Fracture of Children]]
+			- [[Fracture of Shaft of Radius]] & [[Fracture of Shaft of Ulna]]
+			- [[Fracture of Shaft of Femur]]
+			- [[Fracture Shaft of Tibia]] & [[Fracture Shaft of Fibula]]
 	- ### Peculiarities of Childhood Fracture #ortho-prof-card
 		- Growth Plate deformity
 		- as thick periosteum, then [[Greenstick Fracture]]

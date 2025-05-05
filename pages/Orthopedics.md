@@ -22,7 +22,11 @@
       (for [page result]
         [:a {:href (str "#/page/" page)} (clojure.string/capitalize page)])])}
   #+END_QUERY
+	-
 	- ## Common congenital anomalies of bone origin #ortho-prof-card #ortho-prof-written
+		- Congenital talipes equino-varus
+		- Osteogenesis imperfecta
+		- Fibrous dysplasia
 	- ## Evaluation of congenital anomalies of bone origin #ortho-prof-written
 - ## Inflammatory Disease
   #+BEGIN_QUERY
