@@ -74,4 +74,24 @@
 	  na dikhta wahan maut ka saya
 	- 30 minute lagte ek lash ko lash karar karne me
 	  mujhse 30 minute raha nahi jata, kash wo jaag uthe
-	-
+- 6 *ruh*
+	- ruh ko tadapte dekha hay kya
+	  maine na dekha
+	  mujhe tadapte to tu ne bhi na dekha
+	  teri ruh khamosh kaise thi us shikas main
+	- fir kya teri ruh bhi tadpi thi
+	  kya main bhi andha hi tha
+	  mumkin yahi ki ham dono ki shikas
+	  ham dono hi na samjhein
+	- samjhane aur samajhane ka silsila
+	  fir kyun wo aaye aise
+	  fir kyun main jaun waise
+- 7 *wahan*
+	- Mashuk ko maine dekha nahi,
+	  Magar chah hai itni be-panah,
+	  us din ke baad jo din aayenge,
+	  Woh rahen hamesha, na ho kabhi fanah.
+	- Jannat ki ne'matein jo hain la-zawal,
+	  Unka shuror bhi na ho akl ka jawal,
+	  Na main keh raha ki tumse shuror hoon,
+	  Bas un beshaur nematein mein,  main tumhe mangoon

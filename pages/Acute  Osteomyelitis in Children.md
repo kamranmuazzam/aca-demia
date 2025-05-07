@@ -1,3 +1,0 @@
-- occurs in [[Metaphysis]] , has arteries and all
-- Growth Plate injury will cause deformity
-- > Emergency because

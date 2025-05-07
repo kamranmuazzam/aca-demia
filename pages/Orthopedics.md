@@ -2,7 +2,7 @@
 - # Orthopedic Emergencies #ortho-prof-card
 	- [[Dislocation]]
 	- [[Compartment Syndrome]]
-	- [[Acute  Osteomyelitis in Children]]
+	- [[Acute Hematogenous Osteomyelitis]]  in Children
 	- [[Corda Equina Syndrome]]
 - [[Cystic Lesions of Bone]]
 - ## Developmental Disease

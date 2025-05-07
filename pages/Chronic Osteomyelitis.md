@@ -1,74 +1,40 @@
-alias::
-ICD-11_Code::
-tags:: #Disease, #[[Inflammatory Disease]], #Orthopedics
-
-- ## Etiology
-  background-color:: blue
-	- ### Causative Agents
-	- ### Risk Factors
-- ## Epidemiology
-  background-color:: blue
-	- ### Incidence
-	- ### Prevalence
-		- ### Demographics
-	- ### Geographic Distribution
-- ## Pathophysiology #ortho-prof-written
-  background-color:: blue
-	- ### Mechanism of Disease
-	- ### Affected Systems/Organs
-- ## Clinical Features
-  background-color:: blue
-	- ### Clinical Presentation
-		- #### Symptoms
-		- #### Signs
-	- ### Stages or Classification
-	- ### Diagnostic Criteria
-- ## Diagnosis
-  background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-		- Common Radiological Findings #ortho-prof-card
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
-- ## Management and Treatment
-  background-color:: blue
-	- ### Principle of Management #ortho-prof-card
-	- ### Medical Treatment
-	- ### Surgical Options
-	- ### Lifestyle and Dietary Recommendations
-	- ### Follow-up
-- ## Prognosis
-  background-color:: blue
-	- ### Expected Course
-		- ### Complication #ortho-prof-card
-		- #### With Treatment
-		- #### Without Treatment
-			- ##### Possible Complications
-			- ##### Long-Term Effects
-	- ### Survival Rates
-		- #### With Treatment
-		- #### Without Treatment
-	- ### Quality of Life Considerations
-- ## Prevention
-  background-color:: blue
-	- ### Health Education
-	- ### Community Approach
-	- ### Screening Programs
-	- ### Lifestyle Modifications
-- ## Patient Education and Support
-  background-color:: blue
-	- ### Educational Resources
-	- ### Support Groups
-	- ### Counseling Options
-- ## Recent Research and Developments
-  background-color:: blue
-	- ### Ongoing Clinical Trials
-	- ### Recent Advances
-- ## Key Literature
-  background-color:: blue
-- ## Guidelines and Protocols
-  background-color:: blue
+#### **ICD-11** : FA60.1
+- #### **Pathophysiology**
+- **Biofilm formation**: Bacteria adhere to dead bone (sequestrum) or implants → antibiotic resistance.
+- **Involucrum**: Periosteal new bone formation around necrotic area.
+- **Sinus tracts**: Chronic draining pus → squamous cell carcinoma (Marjolin’s ulcer).
+- #### **Clinical Presentation**
+- **Symptoms**: Intermittent pain, sinus drainage, low-grade fever.
+- **Signs**: Erythema, warmth, exposed bone (in open wounds).
+- #### **Radiological Findings** #ortho-prof-card
+- **X-ray**:
+	- **Sequestrum** (dense necrotic bone fragment).
+	- **Involucrum** (periosteal reaction).
+	- **Cloaca** (cortical hole draining pus).
+- **MRI**: Bone marrow edema, sinus tracts, soft tissue abscess.
+- **CT**: Best for sequestrum detection (pre-op planning).
+- #### **Management Protocol** #ortho-prof-card
+- **Surgical Debridement**:
+	- Remove all necrotic bone/implants.
+	- Dead space management: Antibiotic beads, muscle flaps.
+- **Culture-directed Antibiotics**:
+	- IV for 4–6 weeks (e.g., vancomycin for MRSA).
+	- Chronic suppression (e.g., oral clindamycin) if unresectable.
+- #### **Complications** #ortho-prof-card
+- **Recurrent infection** (due to biofilm/residual necrotic bone).
+- **Pathologic fracture** (from bone weakening).
+- **Squamous cell carcinoma** (Marjolin’s ulcer in sinus tracts).
+- **Amyloidosis** (chronic inflammation).
+  
+  ---
+- ### **Key Differences: Acute vs. Chronic**
+  
+  | Feature | Acute | Chronic |
+  | ---- | ---- | ---- |
+  | **Onset** | Hours-days | Weeks-months |
+  | **Bone Changes** | Periosteal reaction (late) | Sequestrum/involucrum |
+  | **Surgery** | Rare (abscess only) | Mandatory (debridement) |
+  | **Antibiotics** | 4–6 weeks | 6+ weeks ± suppression |
+  
+  ---
 - #SN Short Note #ortho-prof-written
