@@ -1,0 +1,33 @@
+- #definition ((681eedd5-d355-4d6b-887d-b557b6950c1a)) ((681eede4-b625-4726-bb07-29ab85e9cb40)) #obs-prof-card
+- # Explanation of Mechanism #obs-prof-card
+	- ((681eee6c-a1a3-45d8-a9f4-41c1a1cda505))
+- # Engagement
+	- #definition when the greatest horizontal diameter of head has passed the plane of pelvic brim, the head is said to be engaged #obs-prof-written
+	- ## Time of Engagement #obs-prof-written
+		- in case of primigravida : before onset of labor
+		- in case of multigravida : late 1st stage of labor with rupture of membrane
+	- ## Causes of Non-engagement of fetal head at term in primi #obs-prof-written
+	  id:: 681ef175-dc39-4040-806d-39ebf6ca8052
+		- ### Maternal Causes
+			- Contracted Pelvis
+			- Pelvic Tumors
+			- Full Bladder or Rectum
+			- High Uterine Obliquity
+			- Lax Uterine Walls
+			- Placental Previa
+		- ### Fetal Causes
+			- Macrosomia
+			- Hydrocephalus
+			- Malpositions
+			- Short Umbilical Cord
+			- Congenital Anomalies
+			- Multiple Pregnancy
+		- ### Others
+			- Polyhydramios
+	- ## Complications of Non-engaged head going into labor, primi #obs-prof-written
+		- Prolonged Labor
+		- Obstructed Labor
+		- Cord Prolapse
+		- Premature Rupture of Membranes (PROM)
+		- Fetal Distress & Asphyxia
+		- Postpartum Hemorrhage (PPH)

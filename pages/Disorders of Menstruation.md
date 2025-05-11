@@ -1,0 +1,4 @@
+# [[Dysmenorrhoea]]
+- # [[Menorrhagia]]
+- # [[Metrorrhagia]]
+- # [[Amenorrhoea]]

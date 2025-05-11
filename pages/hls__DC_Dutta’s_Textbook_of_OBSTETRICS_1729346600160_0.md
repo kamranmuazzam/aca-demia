@@ -276,3 +276,427 @@ file-path:: ../assets/DC_Dutta’s_Textbook_of_OBSTETRICS_1729346600160_0.pdf
   id:: 6726a533-7512-4239-adde-5c15456a70a0
   hl-type:: area
   hl-stamp:: 1730585905735
+- [:span]
+  ls-type:: annotation
+  hl-page:: 27
+  hl-color:: yellow
+  id:: 681d8c98-bb65-4978-a87e-18cd8a14b0cf
+  hl-type:: area
+  hl-stamp:: 1746766999138
+- fundus
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8e6d-783d-4c13-b460-ce1c4cf46f5e
+- body proper
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8e72-638a-4a6c-b4bd-5755c8b4906b
+- triangular
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8e74-970a-4661-b292-a9585d206026
+- cornua of the uterus
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8e7d-0666-47f0-8953-441535e01142
+- 0.5 cm
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8e84-14a7-42cf-85c4-265baa1d3733
+- anatomical internal os
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8e8c-c3f9-4a41-bcee-5e9323e74309
+- istological internal os
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8e91-c592-454a-b0e2-3b5ea5c65c87
+- 2.5 cm
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8e99-ed44-4e3a-8a37-e0451d64cbc0
+- isthmus
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8e9d-6c0f-4338-be8a-6f662329d677
+- external os
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8ea2-72bc-4994-a3d6-9ffaa8baf049
+- opens into the vagina after perforating its anterior wall
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8ea6-1011-4200-88cc-f93a85455c5e
+- uterine tube, round ligament and ligament of the ovary are attached to it.
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8eb4-fa96-4455-834f-e7702bc74fda
+- triangular
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8ec1-e023-4025-8330-9456650c9bfb
+- 3.5 cm
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8ed5-8112-48f5-9bd4-0a4fb402998d
+- 2.5 cm
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8edd-eeea-4f33-898c-75a8cc14f28c
+- Thus, the normal length of the uterine cavity is usually 6.5–7 cm.
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8eed-19f3-4246-910a-0e4ed3887890
+- cylindrical
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8ef5-ca67-4045-bbea-97f339043137
+- 8 cm long
+  ls-type:: annotation
+  hl-page:: 27
+  hl-color:: yellow
+  id:: 681d8f0c-f218-40b8-9b36-e949e6bbcf27
+- 5 cm wide
+  ls-type:: annotation
+  hl-page:: 27
+  hl-color:: yellow
+  id:: 681d8f17-72b0-489b-9c6b-30464eaf3994
+- 1.25 cm thick.
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8f1f-f41e-4235-964b-9b46b88b5f3b
+- 50 to 80 g
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8f22-cc40-4d1e-ad15-949ccf0e68a4
+- Body or corpus  Isthmus  Cervix
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8f2f-b31c-481b-9b79-d46601cd9e64
+- supravaginal
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8f5c-9efb-4cf9-b97e-afb45989558c
+- vaginal part
+  ls-type:: annotation
+  hl-page:: 28
+  hl-color:: yellow
+  id:: 681d8f61-8bc0-47d8-9e7c-46e71a9018b6
+- The pyramidal-shaped tissue where the pelvic floor and the perineal muscles and fascia meet in between the vagina and the anal canal is called the obstetrical perineum. 
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 681d909e-47e3-4670-be2f-7df88a5731b5
+- [:span]
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 681d9135-ee3f-4a83-800e-d91a9677c410
+  hl-type:: area
+  hl-stamp:: 1746768180054
+- [:span]
+  ls-type:: annotation
+  hl-page:: 34
+  hl-color:: yellow
+  id:: 681d9228-aca6-4056-af6c-e53163aca8a1
+  hl-type:: area
+  hl-stamp:: 1746768422608
+- diameter of 15–20 cm
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 681d9439-5776-47cb-aa86-829f8b7ea9b8
+- hickness of about 3 cm at its center. 
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 681d9442-e6df-40c0-ae75-46e999460625
+- feels spongy
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 681d944b-ae8d-4181-a5e1-c4674fc14feb
+- weighs about 500 g,
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 681d944f-f8ee-4f44-94d2-60133aecb0e7
+- 1:6 at term
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 681d945e-9e4b-4661-9f6d-be84cc6c5a26
+- 30% of the uterine wall.
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 681d9463-a9e1-4e63-ae30-510e0bd9c256
+- PLACENTA AT TERM
+  ls-type:: annotation
+  hl-page:: 49
+  hl-color:: yellow
+  id:: 681d95d1-e2b2-4b94-9076-c903e45bcd4a
+- DEVELOPMENT
+  ls-type:: annotation
+  hl-page:: 48
+  hl-color:: yellow
+  id:: 681d98de-572d-4e33-b6c8-a6df1f7a75c8
+- PLACENTAL CIRCULATION
+  ls-type:: annotation
+  hl-page:: 51
+  hl-color:: yellow
+  id:: 681da02c-64af-4764-833d-705cab078f56
+- It is a partition between fetal and maternal circulation.
+  ls-type:: annotation
+  hl-page:: 53
+  hl-color:: yellow
+  id:: 681da249-eee0-44e9-9737-5fa69bf87ad3
+- [:span]
+  ls-type:: annotation
+  hl-page:: 55
+  hl-color:: yellow
+  id:: 681da612-7ac3-48f3-9970-8c195a2885c9
+  hl-type:: area
+  hl-stamp:: 1746773521039
+- vasculosyncytial membrane
+  ls-type:: annotation
+  hl-page:: 53
+  hl-color:: yellow
+  id:: 681da63e-7f95-46c3-9813-4311a3213f40
+- alpha zones are for gas exchange
+  ls-type:: annotation
+  hl-page:: 53
+  hl-color:: yellow
+  id:: 681da64e-abed-44a5-b1b9-a854973ab9e9
+- thick ‘beta zones’
+  ls-type:: annotation
+  hl-page:: 53
+  hl-color:: yellow
+  id:: 681da65d-618b-499f-a86d-55f40aa6ab03
+- hormone synthesis
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: yellow
+  id:: 681da688-4e1d-4d8d-a17a-88b1d3218c73
+- [:span]
+  ls-type:: annotation
+  hl-page:: 138
+  hl-color:: yellow
+  id:: 681ee68a-c325-44d3-9740-bd4c3de7c825
+  hl-type:: area
+  hl-stamp:: 1746855560558
+- [:span]
+  ls-type:: annotation
+  hl-page:: 138
+  hl-color:: yellow
+  id:: 681ee698-4f39-49cb-822f-9c42cd264142
+  hl-type:: area
+  hl-stamp:: 1746855574647
+- The series of movements that occur on the head in the process of adaptation during its
+  ls-type:: annotation
+  hl-page:: 140
+  hl-color:: yellow
+  id:: 681eedd5-d355-4d6b-887d-b557b6950c1a
+- jou-rney through the pelvis is called mechanism of labor 
+  ls-type:: annotation
+  hl-page:: 140
+  hl-color:: yellow
+  id:: 681eede4-b625-4726-bb07-29ab85e9cb40
+- [:span]
+  ls-type:: annotation
+  hl-page:: 141
+  hl-color:: yellow
+  id:: 681eee6c-a1a3-45d8-a9f4-41c1a1cda505
+  hl-type:: area
+  hl-stamp:: 1746857578657
+- [:span]
+  ls-type:: annotation
+  hl-page:: 155
+  hl-color:: yellow
+  id:: 681f014d-7c5c-467e-8ad3-c12e06e9bf83
+  hl-type:: area
+  hl-stamp:: 1746862412822
+- [:span]
+  ls-type:: annotation
+  hl-page:: 155
+  hl-color:: yellow
+  id:: 681f038f-de0e-4d11-b4b7-1d76d7fac169
+  hl-type:: area
+  hl-stamp:: 1746862990113
+- Partograph is a composite graphical record of cervical dilatation and descent of head against duration of labor in hours. It also gives information about fetal and maternal condition, which are all recorded on a single sheet of paper 
+  ls-type:: annotation
+  hl-page:: 145
+  hl-color:: yellow
+  id:: 681f245a-f97a-4848-8d24-1f3fcc4d24e9
+- [:span]
+  ls-type:: annotation
+  hl-page:: 516
+  hl-color:: yellow
+  id:: 681f2520-20a9-47b9-9353-8cafb0f8c92c
+  hl-type:: area
+  hl-stamp:: 1746871583288
+- [:span]
+  ls-type:: annotation
+  hl-page:: 516
+  hl-color:: yellow
+  id:: 681f252d-9678-4344-9f87-eca25adc0d4b
+  hl-type:: area
+  hl-stamp:: 1746871596738
+- [:span]
+  ls-type:: annotation
+  hl-page:: 516
+  hl-color:: yellow
+  id:: 681f25f1-18f9-4b46-b157-fae669f37240
+  hl-type:: area
+  hl-stamp:: 1746871791999
+- Induction of labor (IOL) means initiation of uterine contractions (after the period of viability) by any method(medical, surgical or combined) for the purpose of vaginal delivery.
+  ls-type:: annotation
+  hl-page:: 507
+  hl-color:: yellow
+  id:: 681f2c15-bbc6-4218-8ec8-8f2cb7c74014
+- [:span]
+  ls-type:: annotation
+  hl-page:: 507
+  hl-color:: yellow
+  id:: 681f2c6a-ded9-4a75-ba3e-1b016c304ff3
+  hl-type:: area
+  hl-stamp:: 1746873449175
+- [:span]
+  ls-type:: annotation
+  hl-page:: 511
+  hl-color:: yellow
+  id:: 681f2eb0-c795-41b3-80f6-01b61fae32f7
+  hl-type:: area
+  hl-stamp:: 1746874031705
+- [:span]
+  ls-type:: annotation
+  hl-page:: 507
+  hl-color:: yellow
+  id:: 681f2ee1-3bdf-482c-81cb-7087b66e2734
+  hl-type:: area
+  hl-stamp:: 1746874080074
+- [:span]
+  ls-type:: annotation
+  hl-page:: 508
+  hl-color:: yellow
+  id:: 681f32f5-e2e3-4ef0-b56c-9d4a2c4e1e85
+  hl-type:: area
+  hl-stamp:: 1746875123972
+- [:span]
+  ls-type:: annotation
+  hl-page:: 509
+  hl-color:: yellow
+  id:: 681f3566-6b9c-4628-a2a7-a9fe75b2d3a3
+  hl-type:: area
+  hl-stamp:: 1746875741042
+- [:span]
+  ls-type:: annotation
+  hl-page:: 509
+  hl-color:: yellow
+  id:: 681f36b5-1838-42ee-8900-e4049dfa7701
+  hl-type:: area
+  hl-stamp:: 1746876084610
+- [:span]
+  ls-type:: annotation
+  hl-page:: 487
+  hl-color:: yellow
+  id:: 681f3b2d-a8ee-43f7-b23c-6e065e84919a
+  hl-type:: area
+  hl-stamp:: 1746877227650
+- [:span]
+  ls-type:: annotation
+  hl-page:: 488
+  hl-color:: yellow
+  id:: 681f3b55-f4d6-41c3-bad7-5d59f8e4476c
+  hl-type:: area
+  hl-stamp:: 1746877268366
+- [:span]
+  ls-type:: annotation
+  hl-page:: 488
+  hl-color:: yellow
+  id:: 681f3eae-02cb-4cde-b44b-71361b8c132b
+  hl-type:: area
+  hl-stamp:: 1746878124763
+- [:span]
+  ls-type:: annotation
+  hl-page:: 488
+  hl-color:: yellow
+  id:: 681f3ee5-8e35-4823-8361-d3aeac426163
+  hl-type:: area
+  hl-stamp:: 1746878180688
+- [:span]
+  ls-type:: annotation
+  hl-page:: 509
+  hl-color:: yellow
+  id:: 681f400e-dbac-4b24-9ae5-b1a86c4ab891
+  hl-type:: area
+  hl-stamp:: 1746878477123
+- Intrauterine fetal death
+  ls-type:: annotation
+  hl-page:: 510
+  hl-color:: yellow
+  id:: 681f40b8-a73e-4fe3-945e-b0f81e8ca88e
+- maternal AIDS
+  ls-type:: annotation
+  hl-page:: 510
+  hl-color:: yellow
+  id:: 681f40c8-9922-48eb-91f4-b3561338135b
+- , genital active herpes infection
+  ls-type:: annotation
+  hl-page:: 510
+  hl-color:: yellow
+  id:: 681f40d5-dc8e-40ca-ad9c-ada00585c95b
+- It is a severe type of vomiting of pregnancy which has got deleterious effect on the health of mother and/or incapacitates her in day-to-day activities.
+  ls-type:: annotation
+  hl-page:: 170
+  hl-color:: yellow
+  id:: 681f4481-05b5-4e2e-a067-2914004c75c7
+- [:span]
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 681f451f-10b7-45fb-90bd-e065f6cdcf51
+  hl-type:: area
+  hl-stamp:: 1746879774411
+- [:span]
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 681f454b-af16-4c9b-882d-64dd4505cd2c
+  hl-type:: area
+  hl-stamp:: 1746879818230
+- [:span]
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 681f458b-b6aa-4253-bcd3-9ed775193c05
+  hl-type:: area
+  hl-stamp:: 1746879881087
+- [:span]
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 681f461d-0638-433b-808f-3a70eed17b18
+  hl-type:: area
+  hl-stamp:: 1746880028616

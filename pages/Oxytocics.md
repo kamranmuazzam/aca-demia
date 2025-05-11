@@ -1,0 +1,11 @@
+- #definition Drug of varying chemical nature that have the power to contract the uterine muscles.
+- ### Oxytocic/Ecbolic Drugs in Obstetrics Practice
+  #obs-prof-written #obs-prof-card
+	- [[Oxytocin]]
+	- Prostaglandins
+		- PGE2 - Dinoprostone
+		- PGE1 - Misoprostol
+		- PGF2-alpha - Dinoprost
+	- Ergometrine
+		- Not used in induction of labor but control of PPH
+- # [[Oxytocin]]

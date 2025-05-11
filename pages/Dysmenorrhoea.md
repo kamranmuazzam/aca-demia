@@ -1,0 +1,50 @@
+- #definition ((681f6fdd-74ba-4136-956a-4532cac6ca64)) #gyn-prof-card #gyn-prof-written
+- # Classification
+  #gyn-prof-card #gyn-prof-written
+	- Primary Dysmenorrhea (Spasmodic)
+	  alias:: True Dysmenorrhea, Essential Dysmenorrhea, Spasmodic Dysmenorrhea, Intrinsic Dysmenorrhea, Functional Dysmenorrhea
+		- ((681f7114-2034-480d-a62d-fd8c9a64dec1))
+	- Secondary Dysmenorrhoea (Congestive)
+		- ((681f70f5-71e6-4812-b6eb-c8349672b844))
+- # Causes
+  #gyn-prof-card #gyn-prof-written
+	- Primary Dysmenorrhea causes
+		- Dysrhythmic Uterine Contractions and Uterine Contractions
+			- Psychosomatic factors
+			- Abnormal anatomical and functional aspect of myometrium
+			- Uterine myometrial hyperactivity
+			- Imbalance in the autonomic nervous control of uterine muscle
+			- Prostaglandins
+			- Vasopressin
+		- Secondary Dysmenorrhea causes
+			- ((681f7099-fe12-438b-a511-25dcc8ff0dc3))
+- # Management
+	- ## Patient Profile
+		- Adolescent girls usually pain appears within 2 years of menarche
+		- belonging to affluent society
+	- ## CF
+		- Pain
+			- Pain
+				- Site: Lower Abdomen, Hypogastrium
+				- Onset: Few hours or just with onset of menstruation
+				- Character: Spasmodic
+				- Radioation: Back and medial aspect of thing
+				- Associated Symptoms: Nausea, Vomiting, Fatigue, Diarrhoea, Headache and Tachycardia, Pallor, Cold sweats, occasational fainting
+				- Time/Duration: few hours, may extend to 24 hours, sheldom persists beyond 48 hours
+				- Exacerbating and Relieving Factors:
+				- Severity: Severe, rarely syncope/collapse
+		- Diagnosis
+			- Ultrasound
+			- high risk PID needs to be tested for C. trachomatis and Gonorrhoea
+		- Treatment
+			- Assurance
+			- To keep bowels empty
+			- Weight reduction
+			- Encourage activities
+			- Drugs (if above management failed)
+				- Prostaglandin synthetase inhibitors
+				- Oral contraceptives
+			- Surgery
+				- Laparoscopic uterine nerve ablation (LUNA)
+				- Laparoscopic presacral neurectomy (LPSN)
+	-

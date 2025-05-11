@@ -6,7 +6,6 @@ tags:: disease, obstetrics
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents #obs-prof-card
-	  collapsed:: true
 		- Fault in the passage
 			- Bony : Cephalopelvic disproportion
 			- Soft tissue obstructions
@@ -16,7 +15,7 @@ tags:: disease, obstetrics
 		- Fault in the passanger
 			- Transverse lie
 			- Brow presentation
-			- Congenital malformations of hte fetus-hydrocephalus(commonest), fetal ascites, double monsters
+			- Congenital malformations of the fetus-hydrocephalus(commonest), fetal ascites, double monsters
 			- Big baby, occipitoposterior position
 			- Compound presentation
 			- Locked twins

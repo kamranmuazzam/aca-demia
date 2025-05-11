@@ -1,0 +1,4 @@
+- #definition Absence of Menstruation #gyn-prof-written
+- # [[Primary Amenorrhoea]]
+- # [[Secondary Amenorrhoea]]
+- # [[Cryptomenorrhoea]]

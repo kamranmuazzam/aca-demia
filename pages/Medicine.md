@@ -13,7 +13,7 @@
 	- [[Snake Bite]] #fahim
 - Psychiatry
   collapsed:: true
-	- [[Delusions]] #fahim
+	- [[Delusion]] #fahim
 	- [[Hallucinations]] #fahim
 	- [[Illusion]] #fahim
 	- [[Schizophrenia]] #fahim

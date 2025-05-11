@@ -15,7 +15,8 @@ tags:: #obs-prof-written #obs-prof-card
   duration-multigravida:: 6 hours
   start-event:: onset of true labor pain
   end-event:: ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
-	- #definition Closed to ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
+  collapsed:: true
+	-
 	- ((6711eafd-a950-4149-8d0b-d4c8828ef836)) and ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
 	- ### Latent Stage One of Labor
 	  id:: 67120253-4848-4e62-bb98-e1c7f8f23d75
@@ -25,16 +26,13 @@ tags:: #obs-prof-written #obs-prof-card
 		- Cardinal movements begin to occur
 	- ## Management #obs-prof-written
 		- ### Principles
-		  collapsed:: true
 			- ((6713de39-95ed-4e4b-97d4-1e5ca784dce1))
 			  logseq.order-list-type:: number
 			- ((6713de1f-8999-42fd-bf0d-035f4ebbb9a7))
 			  logseq.order-list-type:: number
 		- ## Priliminaries
-		  collapsed:: true
 			- ((6713de64-6f54-4aed-b7c9-46c3ff060cb1))
 		- ### Actual Management
-		  collapsed:: true
 			- #### General
 				- ((6713e12f-04cb-46e8-849d-4dc91520fc9e))
 				  logseq.order-list-type:: number
@@ -67,7 +65,10 @@ tags:: #obs-prof-written #obs-prof-card
 			- #### Bladder care
 				- Frequent urination advice as there is active fluid intake... ((6713e57d-a213-4da1-915c-c7168aabf1f8))
 				- if bed-ridden, bed-pan
-				- if late-first stage then, urinary catheterization
+				- if cannot pass urine, then only if late-first stage then, urinary catheterization
+			- #### Bowel care
+				- *enema is contraindicated*
+				- Glycerin suppository to empty rectum (colon)
 			- #### Relief of pain
 				- [[Pethidine]], 50-100 mg IM ([[Metoclopramide]] 10 mg IM is for combating vomiting)
 				- ((6713e6ae-53ff-4394-8f5d-b4b76c3f364b))
@@ -82,7 +83,7 @@ tags:: #obs-prof-written #obs-prof-card
 				  every:: 2 hours
 				- Urine Output
 					- Volume
-					- Protien
+					- Protein
 					- Acetone
 				- Drug
 				- Abdominal palpation
@@ -109,18 +110,21 @@ tags:: #obs-prof-written #obs-prof-card
   duration-multiparae:: 30 minutes
   start-event:: ((6711ec53-8dd0-47dc-811d-012d2c2ec744))
   end-event:: expulsion of the fetus from the birth canal
-	- #definition Full dilation to delivery of fetus
-	- ## Events #obs-prof-written #unanswered
-	- ## Causes of Delay #obs-prof-written #unanswered
+	-
+	- ## Events #obs-prof-written
+	  collapsed:: true
+		- ((681ee68a-c325-44d3-9740-bd4c3de7c825))
+		  ((681ee698-4f39-49cb-822f-9c42cd264142))
+	- ## Causes of Delay #obs-prof-written
+	  collapsed:: true
+		- {{embed ((681ef175-dc39-4040-806d-39ebf6ca8052))}}
 	- ## Management #obs-prof-written
 		- ### Principle
-		  collapsed:: true
 			- ((671499fd-6751-4332-9b99-3ef50bc95c2b))
 			  logseq.order-list-type:: number
 			- ((67149a0f-a783-42e2-8a3d-26a9562389be))
 			  logseq.order-list-type:: number
 		- General Measures
-		  collapsed:: true
 			- in bed
 			- constant supervision and the FHR recorded every 5 minutes
 			- inhalational analgesics, $$\ce{N2O}$$ and $$\ce{O2}$$ to relive pain during contractions
@@ -136,8 +140,8 @@ tags:: #obs-prof-written #obs-prof-card
   duration:: 15 minutes
   start-event:: expulsion of the fetus from the birth canal
   end-event:: expulsion of the placenta and membranes (afterbirths)
-	- #definition Delivery of fetus to delivery of placenta
-	- ### Complications #obs-prof-written #obs-prof-card
+	-
+	- ### Complications #obs-prof-written
 		- Postpartum hemorrhage
 		  logseq.order-list-type:: number
 		- Retention of placenta
@@ -149,7 +153,11 @@ tags:: #obs-prof-written #obs-prof-card
 		- Uterine inversion
 		  logseq.order-list-type:: number
 		  rare:: rare
-	- ## Management #obs-prof-written #unanswered
+	- ## Management #obs-prof-written
+		- ### Principles
+			- ((681f014d-7c5c-467e-8ad3-c12e06e9bf83))
+		- ### Management
+			- ((681f038f-de0e-4d11-b4b7-1d76d7fac169))
 - # Stage Four of Labor
   id:: 67120339-884f-4956-b117-a92e2dcdbc38
   duration:: 1 hour

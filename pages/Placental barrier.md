@@ -1,2 +1,6 @@
-- #definition #obs-prof-written #unanswered
-- # Structure of placental barrier at term #obs-prof-written #unanswered
+- #definition ((681da249-eee0-44e9-9737-5fa69bf87ad3)) that prevent it from mixing into one another in-spite of it's close proximity #obs-prof-written
+- # Function #obs-prof-written #unanswered
+	- ((681da63e-7f95-46c3-9813-4311a3213f40))
+		- ((681da64e-abed-44a5-b1b9-a854973ab9e9))
+		- ((681da65d-618b-499f-a86d-55f40aa6ab03)) -> ((681da688-4e1d-4d8d-a17a-88b1d3218c73))
+	- ((681da612-7ac3-48f3-9970-8c195a2885c9))

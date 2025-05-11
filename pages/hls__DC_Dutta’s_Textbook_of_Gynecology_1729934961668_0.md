@@ -15,3 +15,192 @@ file-path:: ../assets/DC_Dutta’s_Textbook_of_Gynecology_1729934961668_0.pdf
   id:: 6725f97a-f3a5-43ac-8a08-471319cd14c4
   hl-type:: area
   hl-stamp:: 1730541945425
+- painful menstruation of sufficient magnitude so as to incapacitate day to day activities
+  ls-type:: annotation
+  hl-page:: 165
+  hl-color:: yellow
+  id:: 681f6fdd-74ba-4136-956a-4532cac6ca64
+- [:span]
+  ls-type:: annotation
+  hl-page:: 167
+  hl-color:: yellow
+  id:: 681f7099-fe12-438b-a511-25dcc8ff0dc3
+  hl-type:: area
+  hl-stamp:: 1746890903965
+- menstruation—associated pain occurring in the presence of pelvic pathology.
+  ls-type:: annotation
+  hl-page:: 167
+  hl-color:: yellow
+  id:: 681f70f5-71e6-4812-b6eb-c8349672b844
+- no identifiable pelvic pathology
+  ls-type:: annotation
+  hl-page:: 165
+  hl-color:: yellow
+  id:: 681f7114-2034-480d-a62d-fd8c9a64dec1
+- Menorrhagia is defined as cyclic bleeding at normal intervals; the bleeding is either excessive in amount(> 80 mL) or duration (>7 days) or both.
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 681f7aae-a003-4348-90d0-42de5db18d33
+- [:span]
+  ls-type:: annotation
+  hl-page:: 172
+  hl-color:: yellow
+  id:: 681f7af4-e11f-4c30-8b4a-a968ca408ad9
+  hl-type:: area
+  hl-stamp:: 1746893555563
+- [:span]
+  ls-type:: annotation
+  hl-page:: 173
+  hl-color:: yellow
+  id:: 681f7b06-a19f-446e-8cf4-14ddaacf6665
+  hl-type:: area
+  hl-stamp:: 1746893572733
+- [:span]
+  ls-type:: annotation
+  hl-page:: 173
+  hl-color:: yellow
+  id:: 681f7b4e-de67-4fef-bc69-f8a9887c6caf
+  hl-type:: area
+  hl-stamp:: 1746893645787
+- [:span]
+  ls-type:: annotation
+  hl-page:: 62
+  hl-color:: yellow
+  id:: 681f7f94-9fa1-4f4d-8bb2-06ffd89d058e
+  hl-type:: area
+  hl-stamp:: 1746894739716
+- Metrorrhagia is defined as irregular, acyclic bleeding from the uterus.
+  ls-type:: annotation
+  hl-page:: 173
+  hl-color:: yellow
+  id:: 681f857e-f963-4ca9-905d-c05de40dcd3a
+- [:span]
+  ls-type:: annotation
+  hl-page:: 173
+  hl-color:: yellow
+  id:: 681f85db-44a2-4508-a39f-83bef5cdc072
+  hl-type:: area
+  hl-stamp:: 1746896345959
+- [:span]
+  ls-type:: annotation
+  hl-page:: 395
+  hl-color:: yellow
+  id:: 681f89f5-891b-4684-9f11-22a2c015d382
+  hl-type:: area
+  hl-stamp:: 1746897396886
+- [:span]
+  ls-type:: annotation
+  hl-page:: 396
+  hl-color:: yellow
+  id:: 681f8a31-badc-45b7-95f8-ba566b60bffa
+  hl-type:: area
+  hl-stamp:: 1746897456313
+- [:span]
+  ls-type:: annotation
+  hl-page:: 396
+  hl-color:: yellow
+  id:: 681f8a41-2763-4bbd-b52c-ab3444b85a92
+  hl-type:: area
+  hl-stamp:: 1746897472578
+- [:span]
+  ls-type:: annotation
+  hl-page:: 394
+  hl-color:: yellow
+  id:: 681f8aa4-d54e-45ed-821b-39b62e0c8d5d
+  hl-type:: area
+  hl-stamp:: 1746897571875
+- It is the absence of menstruation for 6 months or more in a woman in whom normal menstruation has been established.
+  ls-type:: annotation
+  hl-page:: 401
+  hl-color:: yellow
+  id:: 681f9140-6a0f-4466-af9f-b172e9227d69
+- [:span]
+  ls-type:: annotation
+  hl-page:: 401
+  hl-color:: yellow
+  id:: 681f9208-56e8-4032-984d-ab27f0c2c2a8
+  hl-type:: area
+  hl-stamp:: 1746899463173
+- [:span]
+  ls-type:: annotation
+  hl-page:: 402
+  hl-color:: yellow
+  id:: 681f921e-093a-4e14-a4ed-7d544e4c18ab
+  hl-type:: area
+  hl-stamp:: 1746899485607
+- In cryptomenorrhea, there is periodic shedding of the endometrium and bleeding but the menstrual blood fails to come out from the genital tract due to obstruction in the passage
+  ls-type:: annotation
+  hl-page:: 395
+  hl-color:: yellow
+  id:: 681f9554-0795-4f01-ab39-f04db6805133
+- Dysfunctional uterine bleeding (DUB) is defined as a state of abnormal uterine bleeding without any clinically detectable organic, systemic, and iatrogenic cause
+  ls-type:: annotation
+  hl-page:: 174
+  hl-color:: yellow
+  id:: 681fb4b1-8d2e-45eb-b371-956bce20f11a
+- [:span]
+  ls-type:: annotation
+  hl-page:: 66
+  hl-color:: yellow
+  id:: 681fb804-3793-4d21-abd9-715b4707b200
+  hl-type:: area
+  hl-stamp:: 1746909187105
+- thinning, loss of elasticity and wrinkling of the skin.
+  ls-type:: annotation
+  hl-page:: 66
+  hl-color:: yellow
+  id:: 681fb87f-87a3-4317-ae89-a2a0fe3fcd7f
+- Osteoporosis
+  ls-type:: annotation
+  hl-page:: 67
+  hl-color:: yellow
+  id:: 681fb89e-68a5-42b4-9834-84183c22918a
+- Risks of ischemic heart disease, coronary artery disease and strokes
+  ls-type:: annotation
+  hl-page:: 67
+  hl-color:: yellow
+  id:: 681fb8b3-915d-4ead-8cc3-fdbb9da72a3d
+- [:span]
+  ls-type:: annotation
+  hl-page:: 68
+  hl-color:: yellow
+  id:: 681fb9f9-50d6-49bb-82dc-bb0e2807696f
+  hl-type:: area
+  hl-stamp:: 1746909688450
+- [:span]
+  ls-type:: annotation
+  hl-page:: 68
+  hl-color:: yellow
+  id:: 681fba08-3d48-44d8-8b60-6860b64af70f
+  hl-type:: area
+  hl-stamp:: 1746909703230
+- [:span]
+  ls-type:: annotation
+  hl-page:: 68
+  hl-color:: yellow
+  id:: 681fba70-a4c6-456f-9bcb-f4409ae60e5b
+  hl-type:: area
+  hl-stamp:: 1746909806830
+- Bleeding per vagina following established menopause is called postmenopausal bleeding
+  ls-type:: annotation
+  hl-page:: 487
+  hl-color:: yellow
+  id:: 681fbe8d-9c0d-457c-b85f-a6071794da4a
+- [:span]
+  ls-type:: annotation
+  hl-page:: 487
+  hl-color:: yellow
+  id:: 681fbfa6-d59f-4e36-bf6f-c63ddf9e4bad
+  hl-type:: area
+  hl-stamp:: 1746911141570
+- INVEStIGAtIONS
+  ls-type:: annotation
+  hl-page:: 488
+  hl-color:: yellow
+  id:: 681fc1eb-989a-4dbf-a94f-d38d2e35ff7b
+- treatment
+  ls-type:: annotation
+  hl-page:: 488
+  hl-color:: yellow
+  id:: 681fc240-db55-41e5-ba0f-016c02545b83

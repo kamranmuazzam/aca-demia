@@ -95,3 +95,14 @@
 	  Unka shuror bhi na ho akl ka jawal,
 	  Na main keh raha ki tumse shuror hoon,
 	  Bas un beshaur nematein mein,  main tumhe mangoon
+- 8 *zamana*
+	- is zamane me
+	  maine zawani khawar kyun karna
+	- zameen k in rhishtaon se upor
+	  jannat me bhi ek rishta chahta hun
+	- arzish ye kya galat hay?
+	  tumne mana to ye sach bhi ho
+	- ameen kahdo is par tum
+	  inshallah to farishte kahrahe
+	- aisi chahat zayaz hay shayad
+	  uski rahmat chahta hun

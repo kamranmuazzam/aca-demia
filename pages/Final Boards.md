@@ -1,0 +1,41 @@
+- Surgery
+	- Written
+		- Paper 1 : General Principles
+		- Paper 1 : General Surgery
+		- Paper 1 : Urology
+		- Paper 1 : Orthopedics & Trauma
+		- Paper 2 : Eye
+		- Paper 2 : ENT
+	- Surgery OSPE
+	- Clinical
+		- Short Case
+		- Long Case
+		- Board Surgeon 1
+		- Board Surgeon 2
+		- Board Surgeon 3
+		- Board Surgeon 4
+- Medicine
+	- Written
+		- Internal Medicine
+		- Pediatrics
+	- Medicine OSPE
+	- Clinical
+		- Short Case
+		- Long Case
+		- Pediatrics Short Case
+		- Pediatrics Short Case
+		- Board Physician 1
+		- Board Physician 2
+		- Board Physician 3
+		- Board Physician 4
+- obGyn
+	- Written
+		- Paper 1
+		- Paper 2
+	- obGyn OSPE
+	- Clinical
+		- obs case
+		- long case
+		- obs board viva
+		- gyne board viva
+	-

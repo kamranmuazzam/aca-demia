@@ -1,6 +1,18 @@
 alias:: obs
 
 - book : [[b-Obstetrics]]
+- schedule prof
+	- placenta and foetal membranes
+	- physiology of pregnancy
+	- diagnosis of pregnancy
+	- lie presentation position
+	- foetal skull and maternal pelvis
+	- malpresentation, malposition, cord prolapse
+	- gyne
+		- anatomy
+		- physiology
+		- gyne symptoms
+		- examination of gyne patient
 - Presentations
 	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'presentation']).get(), ['page', 'knowledge', 'high-yeild'])"}}
 - Diseases

@@ -2,6 +2,8 @@ tags:: #prof-ospe-specimen
 source:: Chapter ((6720959b-f113-421a-ad2f-53a16ee2ada1)) [[Dutta Obs]]
 
 - normal location : Usually attached to the upper part of the body of the uterus #obGyn-prof-OSPE
+- # Placenta at term #obs-prof-written
+	- ((681d95d1-e2b2-4b94-9076-c903e45bcd4a))
 - # Components #obs-prof-written #18obGyn
 	- Fetal Surface of Placenta
 	  alias:: Chorionic Plate
@@ -48,7 +50,9 @@ source:: Chapter ((6720959b-f113-421a-ad2f-53a16ee2ada1)) [[Dutta Obs]]
 		- Peripherally, the ((6720956a-88ee-4065-9540-d90dd70e07bb)) and ((67209f3f-5fdf-4fa5-ae57-3d0ad54b82f9)) fuse together
 	- Attachment
 		- attached to the upper part of the body of the uterus
-- # Functions #obs-prof-written #18obGyn #unanswered
+- # Development #obs-prof-written
+	- ((681d98de-572d-4e33-b6c8-a6df1f7a75c8))
+- # Functions #obs-prof-written #18obGyn
 	- Respiratory Function
 	- Excretory Function
 	- Nutritive Function
@@ -56,11 +60,10 @@ source:: Chapter ((6720959b-f113-421a-ad2f-53a16ee2ada1)) [[Dutta Obs]]
 	- Enzymatic Function
 	- Barrier Function
 	- Immunological
-- # Development #obs-prof-written #unanswered
-- # Placenta at term #obs-prof-written #unanswered
-- # Placental Hormones #obs-prof-written #unanswered
+- # Placental Hormones #obs-prof-written
 	- ((6720c328-91c5-4081-97ca-65e646bd2f9a))
-- # Placental Circulation #obs-prof-written #unanswered
+- # Placental Circulation #obs-prof-written
+	- ((681da02c-64af-4764-833d-705cab078f56))
 	-
 - [[Placental barrier]]
 - Importance of examination of it after delivery #obGyn-prof-OSPE

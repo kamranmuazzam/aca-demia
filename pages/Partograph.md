@@ -1,0 +1,12 @@
+- #definition ((681f245a-f97a-4848-8d24-1f3fcc4d24e9)) #obs-prof-card #obs-prof-written
+- # Components #obs-prof-card #obs-prof-written
+	- ((681f2520-20a9-47b9-9353-8cafb0f8c92c))
+	  ((681f252d-9678-4344-9f87-eca25adc0d4b))
+- # Advantages #obs-prof-card #obs-prof-written
+	- ((681f25f1-18f9-4b46-b157-fae669f37240))
+- action you will take if action line is crossed and fetal head is 5/5 #obs-prof-card
+	- assess
+		- if indications of cesarian section -> cesarian, otherwise normal vaginal delivery
+		- if uterine contractions adequate -> wait for 1-2 hours
+		- if uterine contractions inadequate or waited 1-2 hours -> augmentation by oxytocin and wait for delivery
+		- if fails -> cesarian section

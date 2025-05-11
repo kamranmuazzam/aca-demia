@@ -1,0 +1,1 @@
+- #definition When pregnancy continues upto 37 completed weeks counting from the first day of last menstrual period.
