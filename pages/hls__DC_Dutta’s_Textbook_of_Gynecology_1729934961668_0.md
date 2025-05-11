@@ -204,3 +204,15 @@ file-path:: ../assets/DC_Dutta’s_Textbook_of_Gynecology_1729934961668_0.pdf
   hl-page:: 488
   hl-color:: yellow
   id:: 681fc240-db55-41e5-ba0f-016c02545b83
+- Cervical ectopy is a condition where the squamous epithelium of the ectocervix is replaced by columnar epithelium, which is continuous with the endocervix
+  ls-type:: annotation
+  hl-page:: 238
+  hl-color:: yellow
+  id:: 68202650-6bd9-4c7e-8587-31ebe3c28dd8
+- [:span]
+  ls-type:: annotation
+  hl-page:: 239
+  hl-color:: yellow
+  id:: 682026c8-6286-410d-8b6a-2910cefc6ada
+  hl-type:: area
+  hl-stamp:: 1746937542580
