@@ -1,2 +1,4 @@
 - Tuberculoma #benign_but_eroding
 - tags:: #Paediatrics
+- [[Pulmonary Tuberculosis]]
+- [[Renal Tuberculosis]]

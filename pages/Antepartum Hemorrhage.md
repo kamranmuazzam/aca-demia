@@ -7,6 +7,7 @@ knowledge:: 3/10
 - # Etiology #obs-prof-written
   alias:: Classification of Antepartum hemorrhage
 	- ((6719b208-4fdb-4f2d-8820-cc6beb8e32ed))
+	- ((68219405-8fc8-4615-8dec-ea85874ee121))
 - # Diagnosis #obs-prof-written
   similar-to:: ((6718edc1-f69a-40e0-9826-ec8d0995a444))
 	- Nature of Bleeding

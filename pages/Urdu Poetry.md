@@ -90,7 +90,7 @@
 	- Mashuk ko maine dekha nahi,
 	  Magar chah hai itni be-panah,
 	  us din ke baad jo din aayenge,
-	  Woh rahen hamesha, na ho kabhi fanah.
+	  Woh rahen har-hamesha, na ho kabhi fanah.
 	- Jannat ki ne'matein jo hain la-zawal,
 	  Unka shuror bhi na ho akl ka jawal,
 	  Na main keh raha ki tumse shuror hoon,
@@ -99,10 +99,10 @@
 	- is zamane me
 	  maine zawani khawar kyun karna
 	- zameen k in rhishtaon se upor
-	  jannat me bhi ek rishta chahta hun
+	  jannat me bhi ek rishta sawarna
 	- arzish ye kya galat hay?
 	  tumne mana to ye sach bhi ho
 	- ameen kahdo is par tum
-	  inshallah to farishte kahrahe
+	  inshallah to farishte kahrahe ho
 	- aisi chahat zayaz hay shayad
 	  uski rahmat chahta hun

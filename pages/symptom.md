@@ -1,6 +1,7 @@
 - Symptom-Template  
-  template:: Symptom  
+  template:: Symptom
   template-including-parent:: false
+  title:: Symptom
 	- alias::  
 	  ICD-11_Code::  
 	  tags:: symptom

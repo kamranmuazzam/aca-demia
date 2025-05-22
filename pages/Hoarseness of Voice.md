@@ -1,4 +1,4 @@
-tags:: #Signs, #[[Clinical Presentation]], #ENT
+tags:: #Sign, #[[Clinical Presentation]], #ENT
 
 - #definition {{c1 }} #ent-prof-card #unanswered #card
   deck:: #ENT

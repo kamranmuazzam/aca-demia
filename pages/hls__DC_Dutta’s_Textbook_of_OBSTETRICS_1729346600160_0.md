@@ -700,3 +700,15 @@ file-path:: ../assets/DC_Dutta’s_Textbook_of_OBSTETRICS_1729346600160_0.pdf
   id:: 681f461d-0638-433b-808f-3a70eed17b18
   hl-type:: area
   hl-stamp:: 1746880028616
+- [:span]
+  ls-type:: annotation
+  hl-page:: 255
+  hl-color:: yellow
+  id:: 68219405-8fc8-4615-8dec-ea85874ee121
+  hl-type:: area
+  hl-stamp:: 1747031044435
+- PRACTICAL GUIDE FOR CESAREAN DELIVERY
+  ls-type:: annotation
+  hl-page:: 258
+  hl-color:: yellow
+  id:: 68219cbb-3fd3-40c3-a2e0-d03a01586454

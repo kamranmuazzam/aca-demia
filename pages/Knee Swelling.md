@@ -1,4 +1,4 @@
-tags:: #Signs, #[[Clinical Presentation]], #Orthopedics
+tags:: #Sign, #[[Clinical Presentation]], #Orthopedics
 
 - # Common Causes #ortho-prof-written
 	-

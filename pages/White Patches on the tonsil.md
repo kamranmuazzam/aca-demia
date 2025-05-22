@@ -1,4 +1,4 @@
-tags:: #Signs, #[[Clinical Presentation]], #ENT
+tags:: #Sign, #[[Clinical Presentation]], #ENT
 
 - # Differential Diagnosis #ent-prof-card #unanswered #ent-prof-written #card
   id:: 6756b1ae-51e0-4ba9-9220-dc162ef3b54e

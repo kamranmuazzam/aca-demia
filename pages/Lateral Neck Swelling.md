@@ -1,4 +1,4 @@
-tags:: #Signs, #[[Clinical Presentation]], #ENT
+tags:: #Sign, #[[Clinical Presentation]], #ENT
 contrast:: [[Midline Neck Swelling]]
 
 - # Differential Diagnosis #ent-prof-card #ent-prof-written #unanswered #card

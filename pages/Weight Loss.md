@@ -1,3 +1,5 @@
+tags:: sign, symptom
+
 - Clinically significant wight loss - Loss of ≥ 5-10% over preceding 6-12 months
 - The probability of uncovering an identifiable cause requiring treatment increases with the quantity and speed of weight loss
 - In the absence of clear, objective lifestyle modifications, it is more prudent to assume a person's "clinically significant" weight loss is unintentional until proven otherwise

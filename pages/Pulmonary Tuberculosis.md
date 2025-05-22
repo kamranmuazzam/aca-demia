@@ -30,6 +30,8 @@ high-yeild:: true
 		- #### Classical Presentation
 		- #### Probable Diagnosis
 	- ### Investigations #shaheen
+		- X-Ray Chest P/A view
+			- multiple patchy opacity in (right/left/both) lung fields more marked in the upper part
 		- Sputum for AFB
 		- Sputum for C/S
 		- Sputum for Gene Xpert

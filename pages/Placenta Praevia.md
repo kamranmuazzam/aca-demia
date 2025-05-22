@@ -87,6 +87,7 @@ tags:: disease, obstetrics
   background-color:: blue
 	- ### Medical Treatment
 	- ### Surgical Options
+		- if cesarian, special ((68219cbb-3fd3-40c3-a2e0-d03a01586454))
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 		-

@@ -1,0 +1,9 @@
+- Guten Morgen
+- Guten Tag
+- Guten Abend
+- Gute Nacht / Schalf  schön
+- Hallo
+- Auf Wiedersehen
+- Tschüss
+- Bis später
+- Ich hei

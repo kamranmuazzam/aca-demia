@@ -1,4 +1,4 @@
-tags:: #Signs, #[[Clinical Presentation]], #ENT
+tags:: #Sign, #[[Clinical Presentation]], #ENT
 
 - #definition {{c1 }} #ent-prof-card #ent-prof-written #unanswered #card
   id:: 6756b3b2-dc1f-4fe6-8ec0-16f71c98fa2a
