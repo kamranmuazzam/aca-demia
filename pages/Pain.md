@@ -1,4 +1,4 @@
-tags:: symptom
+tags:: symptom, clinical presentation
 
 - SOCRATES
   template:: SOCRATES Pain Abbreviation History

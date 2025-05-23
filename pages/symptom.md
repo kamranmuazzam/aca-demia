@@ -1,3 +1,5 @@
+# Symptoms
+{{renderer :view, "query.table(query.pages().tags([c.page.name]).get(),['page','knowledge','highYeild'])"}}
 - Symptom-Template  
   template:: Symptom
   template-including-parent:: false
@@ -11,6 +13,10 @@
 		- ## Severity Scales
 		- ## Timing
 	- # Epidemiology (Optional)
+	- # Differential Diagnosis
+		- | **Category**       | **Acute (Hours-Days)**      | **Subacute (Days-Weeks)**    | **Chronic (Months-Years)**  |  
+		  |--------------------|----------------------------|----------------------------|---------------------------|  
+		  |---|---|---|---|
 	- # Associations
 		- ## Associated Symptoms  
 		  | **Symptom** | **Sensitivity (%)** | **Specificity (%)** | **PPV/NPV** | **Notes** |  
@@ -31,3 +37,4 @@
 	- # Complications
 		- **Acute**:
 		- **Chronic**:
+-

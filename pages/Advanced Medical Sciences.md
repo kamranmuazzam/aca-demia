@@ -3,4 +3,6 @@
 - [[Gynaecology & Obsetrics]]
 - [[Disease]]
 - [[Signs & Symptoms]]
--
+- [[Surgical Procedure]]
+- [[History]]
+- [[Examination]]

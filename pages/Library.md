@@ -8,7 +8,6 @@
 		- [[Paediatrics]]
 			- [[Step on to Paediatrics]]
 			- [[Nelson Textbook of Pediatrics]]
-			- [[APGAR@Apgar | 1953]]
 	- [[Surgery]]
 		- [[General Surgery]]
 			- [[Bailey & Love's Short Practice of Surgery]]
@@ -36,3 +35,4 @@
 - Protocols
 	- [[ASCCP Management Guidelines]]
 	- [[IMCI]]
+- [[Papers]]

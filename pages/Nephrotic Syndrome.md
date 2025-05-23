@@ -100,6 +100,8 @@ Here by Nephrotic Syndrome, [[Minimal Change Nephrotic Syndrome]] is meant for m
 		- ↑↑passage of albumin across GFB into the urinary space
 		- This massive albumin loss in urine(Albuminuria) gives rise to hypoalbuminemia with fall of plasma Colloidal osmotic pressure. As a result, fluid shifts from plasma to interstitial space, resulting in
 			- [[Generalized Edema]]
+				- first appears as periorbital edema
+				  *because periorbital skin is too thin to support any venous return on its own*
 			- [[Haemoconcentration]] as reduced blood colloidal osmotic pressure
 		- Further retaining of fluid leading to Edema
 			- The Haemoconcentration in turn activates the renin angiotensin aldosterone system and promotes release of ADH

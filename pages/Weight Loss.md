@@ -1,4 +1,4 @@
-tags:: sign, symptom
+tags:: sign, symptom, clinical presentation
 
 - Clinically significant wight loss - Loss of ≥ 5-10% over preceding 6-12 months
 - The probability of uncovering an identifiable cause requiring treatment increases with the quantity and speed of weight loss

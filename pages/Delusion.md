@@ -1,13 +1,13 @@
 alias::  
 ICD-11_Code::  
-tags:: symptom, medicine, psychiatry
+tags:: symptom, clinical presentation, medicine, psychiatry
 high-yeild:: true
 
 - #definition A delusion is a fixed, false belief that is firmly held despite incontrovertible evidence to the contrary, not culturally sanctioned, and not attributable to another medical/psychiatric condition.
 - # Presentation
 	- ## Quality
 		- **Fixed belief** : Resistant to rational argument or counterevidence
-		- **Bizzare vs. Non-bizarre**
+		- **Bizzare vs Non-bizarre**
 			- *Bizzare* : Impalusibel (e.g., *"Aliens control my thoughts"*)
 			- **Non-bizarre** : Theoretically possible but false (e.g., *"My spouse is poisoning me"*)
 		- **Themes** : Persecutory, grandiose, referential, somatic, nihilistic
