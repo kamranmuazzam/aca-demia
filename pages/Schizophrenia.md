@@ -56,9 +56,9 @@ high-yield:: true
 		- **DSM-5**: ≥2 symptoms (delusions, hallucinations, disorganized speech, grossly disorganized behavior, negative symptoms) for ≥6 months with functional impairment
 - ## **Diagnosis**  
   background-color:: blue
-	- ### **Clinical Diagnosis**
-		- #### **Classical Presentation**
-			- Persistent hallucinations + delusions with functional decline
+	- ### **Diagnostic Criteria**
+		- #### **Clinical Diagnosis**
+			- Persistent hallucinations + delusions with functional decline ;for 6 months
 		- #### **Probable Diagnosis**
 			- Rule out substance-induced psychosis, mood disorders with psychotic features
 	- ### **Laboratory Tests**

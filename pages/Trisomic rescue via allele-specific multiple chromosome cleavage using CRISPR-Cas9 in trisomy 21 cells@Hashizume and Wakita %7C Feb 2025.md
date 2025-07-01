@@ -1,0 +1,1 @@
+- ![Trisomic rescue via allele-specific multiple chromosome cleavage using CRISPR-Cas9 in trisomy 21 cells@Hashizume and Wakita | Feb 2025.pdf](../assets/Trisomic_rescue_via_allele-specific_multiple_chromosome_cleavage_using_CRISPR-Cas9_in_trisomy_21_cells@Hashizume_and_Wakita_|_Feb_2025_1748061590167_0.pdf)

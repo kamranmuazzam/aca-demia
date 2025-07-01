@@ -20,7 +20,7 @@
 	  |1st Post operative Day|Dextrose in Aqua|Only Nutrition and Water[:br][:br]No need for electrolytes as it is released in during surgery|
 	  |2nd Post operative Day|Dextrose Normal Saline|Nutrition, water and Electrolytes|
 	  |3rd Post operative Day|Dextrose Normal Saline with K+ (60 mmol/30 ml)|Nutrition, water and Electroltes with Potassium if hypokalemia|
-	- ## If Hypokalemia develops
+	- ## If Hypokalemia develops, Correction & Monitoring
 		- |Hypokalemia|Correction|
 		  |--|--|
 		  |Mild Hypokalemia(3-3.5 mmol/L)|Oral correction by green cocnut water, fruit juice, banana, tomato orange etc|

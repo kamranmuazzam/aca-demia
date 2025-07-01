@@ -4,7 +4,6 @@
   collapsed:: true
 	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'disease']).get(), ['page', 'knowledge', 'high-yeild'])"}}
 - # Clinical Presentation
-  collapsed:: true
 	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'clinical presentation']).get(), ['page', 'knowledge', 'high-yeild'])"}}
 - Fluid
 - Toxicology

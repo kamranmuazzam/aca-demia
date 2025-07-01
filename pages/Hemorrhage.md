@@ -1,4 +1,6 @@
-# Classify #gs-prof-card
+alias:: Haemorrhage
+
+- # Classify #gs-prof-card
 	- ## Primary Hemorrhage
 		- Hemorrhage during surgery/ trauma, time in between 24 hours to 7th postoperative day
 	- ## Reactionary Hemorrhage

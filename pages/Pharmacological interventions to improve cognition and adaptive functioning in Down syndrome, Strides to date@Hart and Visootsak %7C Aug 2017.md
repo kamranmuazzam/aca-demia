@@ -1,0 +1,13 @@
+- ![Pharmacological interventions to improve cognition and adaptive functioning in Down syndrome, Strides to date@Hart and Visootsak | Aug 2017.pdf](../assets/Pharmacological_interventions_to_improve_cognition_and_adaptive_functioning_in_Down_syndrome,_Strides_to_date@Hart_and_Visootsak_|_Aug_2017_1748061841325_0.pdf)
+- **Limited or No Significant Cognitive Benefit:**
+	- **Donepezil and Rivastigmine:** Showed limited or no significant cognitive benefits in clinical trials.
+	- **Piracetam:** Did not significantly improve cognitive performance.
+	- **Basmisanil:** Did not show significant impact on cognition or adaptive behavior.
+	- **ELND005:** Showed an acceptable safety profile but no significant cognitive or behavioral improvements.
+- **Some Positive Effects/Mixed Results:**
+	- **Folinic Acid:** Showed some improvement in developmental age in young children.
+	- **Memantine:** Had mixed results in trials.
+	- **EGCG (Epigallocatechin Gallate):** Particularly with cognitive training, showed some positive effects on memory and adaptive behavior.
+- **Preclinical Findings (Mouse Models):**
+	- Studies in mouse models (Ts65Dn) explored targeting various systems like Aβ protein, serotonin, GABA, DYRK1a protein, and NMDA receptors, with some promising results, especially with early interventions.
+- *The outcomes are based on human trials.*

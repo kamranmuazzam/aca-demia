@@ -13,10 +13,10 @@
 		- Acute Hemolytic Reaction
 		- Febrile Non-Hemolytic Reaction
 		- Allergic Reactions
-		- Transfusion Related Acute Lung Injury
 		- Bacterial Contamination
 		- Circulatory Overload
 		- Air Embolism
+		- Transfusion Related Acute Lung Injury
 	- ## Delayed Complications
 		- Delayed Hemolytic Reaction
 		- Transfusion-Transmitted Infections

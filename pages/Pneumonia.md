@@ -42,7 +42,7 @@ high-yeild:: true
 	- ### Clinical Presentation
 		- #### Symptoms
 			- Fever
-			- Cough
+			- [[Cough]]
 			- Rusty Sputum
 			- Haemoptysis
 			- Chest Pain

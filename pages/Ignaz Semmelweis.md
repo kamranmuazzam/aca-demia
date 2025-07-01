@@ -1,0 +1,4 @@
+- `The battle against childbed fever... has cost me the best years of my life... But despite all the opposition, I will not give up the struggle... for I believe with unshakeable conviction that the truth will finally triumph`
+	- Hungarian Academy of Sciences (1865)
+-
+- Semmelweis reflex

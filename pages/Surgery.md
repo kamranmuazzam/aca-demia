@@ -5,6 +5,7 @@
 	- bowel
 	- bladder
 	- walking
+- [[General Principles of Surgery]]
 - [[General Surgery]]
 - [[ENT]]
 - [[Opthalmology]]

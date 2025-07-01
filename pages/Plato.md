@@ -1,0 +1,2 @@
+- `Ἐν μὲν οὖν τῇ διαλεκτικῇ οὐ τὸ σκότος οὐδὲ τὸ φῶς ζητεῖ ὁ φιλόσοφος γνῶναι, ἀλλὰ τὸ αὐτὸ τἀγαθόν`
+	- In the dialectic, the philosopher does not seek knowledge of darkness or light, but rather the knowledge of the Good itself.

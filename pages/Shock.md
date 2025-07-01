@@ -11,7 +11,7 @@
 		- Blood Pressure
 		- Urine Output
 	- Additional
-		- Central venous pressure
+		- [[Central Venous Pressure]]
 		- Invasive Blood Pressure
 		- Cardiac Output
 		- Base deficit and serum lactate

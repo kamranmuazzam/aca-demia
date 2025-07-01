@@ -1,0 +1,1 @@
+- `Experience favors the mind prepared`

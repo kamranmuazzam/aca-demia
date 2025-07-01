@@ -1,0 +1,1 @@
+- `Autoimmunity is the cause while Hypersensitivity is the effect` (Autoimmunity ⇒ Hypersensitivity)

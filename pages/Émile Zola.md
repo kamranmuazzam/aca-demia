@@ -1,0 +1,2 @@
+- French novelist
+- `We are like books. Most people only see our cover, the minority read only the introduction, many people believe the critics. Few will know our content.`

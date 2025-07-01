@@ -1,0 +1,3 @@
+- `Manush bodlayena`
+- `Dudh vaat kahini`
+- `Jeita bhabhbo ashbena, oitai ashbe`

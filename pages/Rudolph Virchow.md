@@ -1,0 +1,5 @@
+- Father of Pathology
+- All diseases are alterations of normal Histology
+- omnis cellula e cellula
+	- every cell stems from another cell
+	- modification of cell theory in [[01-06-1858]]

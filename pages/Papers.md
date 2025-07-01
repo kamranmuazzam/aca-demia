@@ -1,2 +1,4 @@
 - [[APGAR@Apgar | 1953]]
 - [[Muscle Weakness in Adults, Evaluation and Differential Diagnosis@Larson and Wilbur | 2020]]
+- [[Trisomic rescue via allele-specific multiple chromosome cleavage using CRISPR-Cas9 in trisomy 21 cells@Hashizume and Wakita | Feb 2025]]
+- [[Pharmacological interventions to improve cognition and adaptive functioning in Down syndrome, Strides to date@Hart and Visootsak | Aug 2017]]

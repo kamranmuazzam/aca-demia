@@ -28,6 +28,10 @@
 - # Classification of General Anesthesia
 	- [[Inhaled General Anesthetics]]
 	- [[IV General Anesthetics]]
+- Preoperative/ Operative/ Post-operative Period in General Anaesthesia
+	- [[Preoperative Period]]
+	- [[Operative Period]]
+	- [[Postoperative Period]]
 - # Securing Airway During General Anaesthesia #gs-prof-card
 	- **Basic Techniques**:
 		- Mask ventilation with 100% oxygen.

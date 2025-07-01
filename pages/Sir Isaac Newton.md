@@ -1,0 +1,7 @@
+- If I have seen further it is by standing on the shoulders of Giants.
+- `Corpus omne perseverare in statu suo quiescendi vel movendi uniformiter in directum, nisi quatenus a viribus impressis cogitur statum illum mutare.`
+	- Every body perseveres in its state of rest, or of uniform motion in a right line, unless it is compelled to change that state by forces impressed thereon.
+- `Mutationem motus proportionalem esse vi motrici impressae, et fieri secundum  lineam rectam qua vis illa imprimitur`
+	- The alteration of motion is ever proportional to the unbalanced force impressed; and is made in the direction of the right line in which that force is impressed.
+- `Actioni contrariam semper et æqualem esse reactionem: sive corporum duorum actiones in se mutuo semper esse æquales et in partes contrarias dirigi.`
+	- To every action there is always opposed an equal reaction; or the mutual actions of two bodies upon each other are always equal, and directed to contrary parts.

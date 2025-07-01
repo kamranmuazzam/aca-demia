@@ -101,6 +101,21 @@ tags:: disease , trauma induced disease , orthopedics
 		  | **Clinical** | Open vs. closed; simple vs. complicated (neurovascular injury). |
 		  | **Radiological** | Transverse, oblique, comminuted, greenstick. |
 		  | **Etiological** | Traumatic, pathological, stress. |
+		- ### Common Fractures
+			- [[Clavicular Fracture]]
+			- [[Colle's Fracture]]
+			- [[Hip Fracture]]
+			- [[Ankle Fracture]]
+			- [[Proximal Humerus Fracture]]
+			- [[Fracture Shaft of Tibia]] / [[Open Fracture of Tibia]]
+			- [[Fracture Shaft of Fibula]]
+			- [[Metacarpel Fracture]]
+			- [[Fracture of Shaft of Femur]] / [[Fracture Neck of Femur]]
+			- [[Vertebral Compression Fracture]]
+			- [[Nasal Fracture]]
+			- [[Rib Fracture]]
+			- [[Scaphoid Fracture]]
+			- [[Patella Fracture]]
 - ## Diagnosis
   background-color:: blue
 	- ### Diagnostic Criteria
@@ -187,6 +202,10 @@ tags:: disease , trauma induced disease , orthopedics
 		- Resuscitate (ATLS protocol if polytrauma)
 		- Rest and Recognition
 			- RICE therapy
+				- Rest
+				- Ice
+				- Compression
+				- Elevation
 		- Reduction
 			- [[Open Reduction]]
 			- [[Closed Reduction]]

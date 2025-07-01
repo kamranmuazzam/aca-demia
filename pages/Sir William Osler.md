@@ -1,0 +1,1 @@
+- `Ask not what disease the person has, but rather what person the disease has.`

@@ -3,6 +3,7 @@
 		- approx 12k euros in block account
 		- approx 5k euros extra
 		- B2 level german language proficiency
+			- [[Learn German]]
 		- Choose a state
 	- Apply for Documentation
 		- takes, 6 months to 1 year
@@ -30,9 +31,11 @@
   logseq.order-list-type:: number
 - Enter Germany
   logseq.order-list-type:: number
+	- Hospitation
+	  logseq.order-list-type:: number
 	- Job Seeker Visa
 	  logseq.order-list-type:: number
-	- Study Visa
+	- Study Visa (this expires quick, and renewal isn't easy)
 	  logseq.order-list-type:: number
 - TODO Submit Documents to Ärztekammer
   logseq.order-list-type:: number

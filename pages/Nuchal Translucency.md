@@ -1,0 +1,1 @@
+- Increased Nuchal Translucency in 1st Trimester USG denotes fetal edema and is suggestive of chromosomal abnormalities.

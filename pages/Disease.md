@@ -30,9 +30,9 @@
 		- ### Investigation
 			- ### Establishing Diagnosis
 			- ### Ruling Out Differential Diagnosis
-				- |DD|Ruling Out|
-				  |--|--|
-				  |d_d|r_o|
+				- | **Differential Diagnosis** | **Shared Features** | **Clinical Exclusion** | **Baseline Workup** (Perform even if no suspicion) | **Direct Testing** (Perform if suspicion) |
+				  |--|--|--|--|--|
+				  |-|-|-|-|-|
 			- ### General Assessment
 	- ## Management and Treatment
 	  background-color:: blue

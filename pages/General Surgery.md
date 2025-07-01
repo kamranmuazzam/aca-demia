@@ -48,7 +48,12 @@
 		- Acute Retention of Urine
 		- Hematuria
 		- Vasectomy
-	- GIT
+	- Alimentary System
+		- Esophagus
+			- Dysphagia
+			- Barret's Esophagus
+			  Achalasia Cardia
+			- Ca Esophagus
 		- Intestinal Obstruction
 		- Intussuseption
 		- Appendix

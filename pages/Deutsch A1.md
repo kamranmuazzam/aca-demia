@@ -3,7 +3,29 @@
 - Guten Abend
 - Gute Nacht / Schalf  schön
 - Hallo
+  *ist informell; formell ist Guten Tag*
 - Auf Wiedersehen
+  *informell*
 - Tschüss
+  *informell*
 - Bis später
 - Ich hei
+- Ich bin
+	- Ich bin
+	- du bist
+	- er ist
+	- sie ist
+	- es ist
+	- wir sind
+	- ihr seid
+	- Sie sind
+	- sie sind
+- Wei shreibt mein Alex
+	- Das shreibt mein A-L-E-X
+- Wie geht's?
+	- informell : Wie ghet es dir?
+	- formell : We geht es Ihnen?
+	- Mir geht's gut.
+	- Mir geht's super.
+	- Mir geht's nicht gut.
+		- Mir geht's schlecht.
