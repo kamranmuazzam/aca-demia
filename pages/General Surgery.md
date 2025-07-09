@@ -3,13 +3,13 @@
 		- [[General Anesthesia]]
 	- Sterilization
 - Operative
-	- Incision
+	- [[Incision]]
 	- Complications
 		- Hemorrhage
 	- Circumcision
 	- Laproscopic Surgery
 	- Appendidectomy
-	- Hernia Surgery
+	- [[Hernia Surgery]]
 	- T-tube
 - Postoperative
 	- Monitoring
@@ -35,7 +35,7 @@
 	- Urology
 		- Testes
 			- Undecendent Testes
-			- Testicular torsion
+			- [[Testicular Torsion]]
 		- Kidney
 			- Renal Cell Carcinoma
 		- Prostate
@@ -89,6 +89,9 @@
 		- Ca Breast
 		- Reconstructive Breast Surgery
 		- Acute Bacterial Mastitis
+	- Pediatric Surgery
+		- [[Circumcision]]
+		- [[Undescendent Testes]]
 - Imaging
 	- Pneumoperitoneum
 	- Acute calculus cholecystitis

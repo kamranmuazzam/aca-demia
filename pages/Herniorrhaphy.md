@@ -1,0 +1,1 @@
+- #definition Strengthening of posterior wall of the inguinal canal & stretched deep inguinal ring by approximation of conjoint tendon with inguinal ligament by non-absorbable suture material.

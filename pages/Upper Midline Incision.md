@@ -1,0 +1,22 @@
+# Operations Performed
+	- Repair of perforation of gastric & duodenal ulcer
+	- Vagotomy with pyloroplasty
+	- Gastrojejunostomy
+	- Left hepatic lobectomy
+	- Splenectomy
+	- Operation on the transverse colon, abdominal aorta, or inferior vena cava
+- # Advantages
+	- Less bleeding due to less vascularity
+	- Rapid access
+	- Good exposure
+	- Easily extend to down
+	- Less nerve injury
+- # Diasadvantages
+	- Increases chance of incisional hernia
+	- Wound dehiscence
+	- Delayed healing
+	- Poor scar (poor cosmetic outcome)
+- # Closure Technique
+	- peritoneum and linea alba is apposed in single layer running 0 or 1 polypropylene suture.
+		- The bites should be taken at 1 cm interval and 1 cm from the edge of the margin
+	- Skin is closed with interrupted monofilament polyamide suture or silk sutures

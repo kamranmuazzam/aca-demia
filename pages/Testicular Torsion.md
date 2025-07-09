@@ -1,0 +1,17 @@
+- #definition Twisting of testes upon its mesentery/ twisting of spermatic cord
+- Mesentery of testis -> Meso-orchium (between testis and epididymis)
+- # Differential Diagnosis
+	- Acute Epididymorchidis
+	- Testicular Trauma
+	- Infantile hydrocele
+	- Strangulated Inguinal Hernia
+- # Investigation
+	- USG of both testes
+	- Duplex imaging of bosth testes
+	- Red cell tagged Tech99 scan (Technithium)
+- # Treatment
+	- within 6 hours : Under GA untwist the testes, Then do routine orchidopexy of both testes
+	- if after 6 hours : Under GA, untwist the testes, and orchidopexy of the oppsosite testes
+	- If not viable
+		- Orchidectomy of affected testes
+		- and Orchidopexy of opposite testes
