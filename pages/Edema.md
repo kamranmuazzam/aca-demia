@@ -92,5 +92,16 @@ high-yeild:: true
 	- Chronic Kidney Disease that doesn't cause edema : Polycystic Kidney Disease
 	- Chronic Heart Disease that doesn't cause edema : Stable ischemic heart disease
 - Chart of ((66e1764a-6e38-4bd6-bc5b-323fd98ee0ea))
-	-
-	-
+-
+- Cause of Unilateral and Bilateral Leg Swelling #shaheen
+	- Unilateral Leg Swelling
+		- DVT
+		- Cellulitis
+		- Filariasis
+		- Trauma
+	- Bilateral Leg Swelling
+		- CLD
+		- CKD
+		- CCF
+		- NS
+		- Malabsorption

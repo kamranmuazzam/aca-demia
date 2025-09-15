@@ -7,6 +7,8 @@
 	  logseq.order-list-type:: number
 	- [[Phacoanaphylactic Glaucoma]]
 	  logseq.order-list-type:: number
-- Treatment -> Control IOP by {{c1 Anti-glaucoma drug}} and {{c1 Cataract Surgery}}] #eye-prof-card #card
-  deck:: #Eye
+- Treatment -> Control IOP by Anti-glaucoma drug and  Cataract Surgery] #eye-prof-card #card
   id:: 6755effc-d6af-44a2-9c6f-f1e5267b11e6
+	- Management of IOP + atropine
+	  *opposite of pilocarpine*
+	- Definitive Treatment is Cataract Surgery

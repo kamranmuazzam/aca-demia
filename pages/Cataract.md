@@ -2,9 +2,8 @@ alias::
 ICD-11_Code::
 tags:: #Disease
 
-- #definition {{c1 Any opacity in human crystalline lens}} #eye-prof-written #card
+- #definition Any opacity in human crystalline lens #eye-prof-written #card
   id:: 67542d36-5b17-40ac-b386-e03ef8bd4a2b
-  deck:: [[Eye]]
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -99,6 +98,10 @@ tags:: #Disease
 		  _If the fundus cannot be seen, 5 tests are of value_
 			- Detection of the projection of light
 			- Macular function
+				- visual acuity
+				- color vision (blue/yellow)
+				- madox --- 
+				  *2 point discrimination test*
 			- Entopic view of the retina
 			- Ultrasonic investigation
 			- foveal electroretinogram
@@ -113,7 +116,7 @@ tags:: #Disease
 		- #### Ocular Investigation
 			- [[Biometry]]
 			- [[Keratometry]]
-			- [[B scan]]
+			- [[B scan]] in hypermature cataract
 	- ### Laboratory Tests
 	  collapsed:: true
 		- For ((674f6390-1845-4e57-b843-880c24c49545))
@@ -186,6 +189,7 @@ tags:: #Disease
 			  id:: 674acec8-b302-423c-a9be-3c186e75f46c
 				- [[Corneal edema]]
 				- Uveitis
+				- Endophthalmitis
 			- Late Post Operative Complication
 			  id:: 674acf3c-c9f9-4d95-a09d-584c445d228d
 				- Macular Edema
@@ -195,6 +199,7 @@ tags:: #Disease
 				- Retinal Detachment
 				- Dislocation, Sublaxation
 				- Astigmatism
+				- Endophthalmitis
 		- #### Without Treatment
 			- ##### Possible Complications
 				- Progression of Immature to Mature and Mature to Hypermature Cataract

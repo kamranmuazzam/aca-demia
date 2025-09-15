@@ -1,0 +1,4 @@
+- name off DMARD #shaheen
+	- [[Methotrexate]]
+	- Sulfasalazine
+	- Hydroxychloroquine

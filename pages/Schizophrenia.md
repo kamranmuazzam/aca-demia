@@ -3,6 +3,7 @@ ICD-11_Code:: 6A20
 tags:: disease, medicine, psychiatry  
 high-yield:: true
 
+- #definition #shaheen
 - ## **Etiology**  
   background-color:: blue
 	- ### **Causative Agents**

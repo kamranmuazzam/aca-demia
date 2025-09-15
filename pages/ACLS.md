@@ -1,0 +1,50 @@
+- Cardiac Arrest Algorithm
+	- Begin CPR
+		- chest compressions
+		- oxygen/ventilation
+		- connect ECG the Defibrillator
+	- check for Shockable Rhythm
+		- shock if VF/pVT
+			- 120-200 Joules then 2 minutes of Chest Compressions(1st round)
+				- ensure IV/IO access
+			- if rhythm is shockable, then shock by keep on stepping up to maximum then 2 minutes of Chest Compression(2nd round)
+				- after CPR for 2 minutes, deliver first dose of Epinephrine; 1 mg IVP q3-5 min followed by 10-20 ml of flush
+				- if good IV/IO access was established during 1st round of chest compression, give epinephrine at that time, don't wait until after 2nd round of compression
+				- ensure
+					- Advanced Airway
+					- ETCO2
+			- if rhythm is shockable, then shock by keep on stepping up to maximum then 2 minutes of Chest Compression(3rd round)
+				- Amiodorone 300 mg IVP
+					- give in 2nd round if possible...if given before, then +150 IVP
+			- if rhythm is shockable, shock and repeat Chest Compression
+			- after shocking, and repeating chest compressions, if rhythm is not shockable, then check for Signs of ROSC
+				- if Signs of ROSC, then Post Cardiac Arrest Algorithm
+		- if not shockable, PEA/Asystole
+			- Chest compressions for 2 minutes
+				- establish IV/IO
+					- Epinephrine 1 mg IVPq3-5 min followed by 10-20 ml of flush
+				- ensure
+					- advanced Airway
+					- ETCO2
+			- chest if rhythm is shockable, then go as per shockable part of algorithm
+				- if not, check if ROSC
+					- if not, repeat all over, Chest Compression for 2 minutes
+						- also, check and treat for any reversible causes of cardiac arrest
+- Post Cardiac Arrest Algorithm
+	- after ROCS
+	- Optimize Ventilation/Oxygenation
+		- Good airway/ Support Breathing (Advanced Airway)
+		- Titrate Oxygen for sat ≥94% after the 100%
+		- Waveform capnography / Avoid hyperventiation -> EtCO2 35-40
+	- Treat Hypotension
+		- if SBB <90 or MAP < 65
+		- Ensure, IV/IO Access (patent/functional)
+		- Fluids (1-2 L NS/LR)
+		- Vasopressors (Norepi, Epi, Dopamine) -> Titrate to achieve pressure SBB > 90 and MAP > 65
+		  *bare minimum is also, okay*
+	- Identify & Treat Underlying Causes
+	- 12 Lead ECG to acess of (STEMI/AMI)
+		- if yes, then PCI
+		- if no, then check following of verbal commands
+			- if no, [[Targeted Temperature Management]]
+	- After everything, transfer the patient to ICU

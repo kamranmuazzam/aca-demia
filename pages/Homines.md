@@ -15,6 +15,7 @@
 - [[Ferdinand Cohn]]
 - [[Friedrich August von Hayek]]
 - [[George M. Sternberg]]
+- [[Giacomo Casanova]]
 - [[Ignaz Semmelweis]]
 - [[John Tyndall]]
 - [[Joseph Lister]]

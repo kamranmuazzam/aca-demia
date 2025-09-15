@@ -1,0 +1,71 @@
+# Eponym
+	- erythro is for red
+	- called cell because
+		- has a definite life span which is about 120 days
+		- It is the mostly highly adapted cell
+		- It can perform all the metabolic activities of its own with the help of enzymes
+- # Concentration of RBC
+	- men―5,200,000 (±300,000) /cm³
+	- women―4,700,000 (±300,000) /cm³
+	- ganong
+		- adult male : 5-5.5 million / cu mm of blood
+		- adult female : 4.5-5 million / cu mm of blood
+		- infant : 6-7 million / cu mm of blood
+			- because of high bone marrow content
+		- fetus : 7.8 million / cu mm of blood
+- # Morphology
+	- circular, non-nucleated, bi-concave disc
+	- shape : biconcave, circular discs
+		- importance (bi-concave)
+			- large surface area
+				- can accomodate excess/much fluid in hypotonic solution and resist osmotic fragility
+				- large surface area for storage of large amount  of hemoglobin
+			- can be deformed into any shape
+			- great excess of cell membrane, deformation does not cause hemolysis
+	- diameter―7.8 µm (6.5-8.8 µm)
+	- thickness
+		- maximum―2.5 µm
+			- at the periphery
+		- minimum―1 µm
+			- in the center
+	- volume
+		- 90-95 µm³
+		- 80‒94 µm³
+	- surface area : 140 µm²
+	- life span : 120 days
+	- nucleus : non nucleated
+		- importance
+			- provide extra space for storage of large amount of hemoglobin
+			- provide special ability to change its shape  while passing through capillaries
+			- prevent hemolysis by maintaining the strength of membrane
+				- while changing shape while passing through capillaries
+				- upto a certain limit in hypotonic solution
+- # Functions
+	- ...
+		- the major function of RBC is to contain Hb which in turn carries $\ce{O2}$  from lung to the tissues and $\ce{CO2}$  from tissue to lung
+		- It has buffering power and regulates the acid-base balance. RBC is responsible for as much as 50% of all the buffering reaction of the whole blood
+		- RBC helps to maintain the viscosity of the blood
+		- By special permeability of cell membrane, RBC helps to maintain the balance between positive & negative ions in the blood
+		- RBC cell membrane contain specific substance or antigen which determine blood group of an individual
+		- RBC contain hemoglobin. Thus they act as a store house of 2/3 of total blood protein
+		- Various pigments are derived from Hb after the breakdown of RBC. eg. Bilirubin, Biliverdin
+	- transport of  Oxygen and Carbon dioxide to and from the lungs
+	- It regulates acid-base balance
+		- Haemoglobin in the cells are responsible for most of the acid-base buffer in the blood
+	- RBC helps to maintain the viscosity of blood
+	- RBC membrane contain group specific antigens which determine blood group
+	- By special permeability of cell membrane, RBC help to maintain the balance between positive and negative ions in the blood
+	- carbonic anhydrase catalyse the formation of carbonic acid
+		- Contain large quantities of *carbonic anhydrase*
+		- catalyses the reversible reaction increasing the rate of this reaction several thousand fold
+			- [\ce{CO2 + H2O ->[Carbonic anhydrase] H2CO3}](https://www.remnote.com/doc/TiMcE88CihkRaJMNi?isPin=false)
+			- making it possible for transport of large amounts of $\ce{CO2}$ in the form of $\ce{HCO3-}$
+- [[Erythropoiesis]]
+- fate of RBC | Normal Red Cell Destruction and Haemoglobin Breakdown (write all the reactions in chemical form)
+	- RBC after 120 days
+	- become fragile
+	- release hemoglobin
+	- hemoglobin engulf by macrophages of reticuloendothelial system (tissue macrophage system)
+	- inside macrophages Hb ring opens. The substance(opened Hb ring)  is known as choleglobin
+	- Haptogobin
+		- Haptoglobins are proteins present in normal plasma capable of binding haemoglobin. The haemoglobin haptoglobin complex is removed from plasma by the RE system.

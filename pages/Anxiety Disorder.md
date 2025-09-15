@@ -1,0 +1,2 @@
+- what kind of disorder -> Somatoform disorder #shaheen
+- which disorder occurs during exam -> Anxiety Disorder #shaheen

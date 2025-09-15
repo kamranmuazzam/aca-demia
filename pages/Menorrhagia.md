@@ -1,3 +1,5 @@
+tags:: gynecology, presentation
+
 - #definition ((681f7aae-a003-4348-90d0-42de5db18d33)) #gyn-prof-card #gyn-prof-written
 - # Puberty Menorrhagia
 	- #definition Excessive menstrual bleeding occuring after menarche and age of  20 years

@@ -20,6 +20,9 @@ tags:: disease, toxicity,poisoning, emergency
 		- Household : Improper storage of pesticides
 		- Behavioral : Suicidal intent (common in developing nations in rural areas)
 		- Age : Children (accidental ingestion)
+	- Reason for Intake #shaheen
+		- Suicidal Attempt due to depression
+		- Accidental in Children
 - ## Epidemiology
   background-color:: blue
 	- ### Incidence
@@ -76,7 +79,17 @@ tags:: disease, toxicity,poisoning, emergency
 			- ECG (QT prolongation, arrhythmias)
 - ## Management and Treatment
   background-color:: blue
-	- ### Medical Treatment
+	- ### Medical Treatment #shaheen
+		- Further Exposure should be prevented
+		  logseq.order-list-type:: number
+		- Gastric Lavage
+		  logseq.order-list-type:: number
+		- Antidote : Atropine(muscarinic antagonist), Pralidoxime(specific)
+		  logseq.order-list-type:: number
+		- Ventilatory Support
+		  logseq.order-list-type:: number
+		-
+		-
 		- Decontamination (remove clothing, wash skin)
 		- Atropine (titrate to drying secretions)
 		- Pralidoxime (regenerates AChE if given early)

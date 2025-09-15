@@ -1,0 +1,9 @@
+- $$x^2 \frac {d sinx} {dx}$$
+- $$x^2 \times \frac {d} {dx} (sinx)$$
+- $$\frac {d} {}$$
+-
+- $$sin^{-1}(x)$$
+- $$sin(x)^{-1}$$
+- $$(sin x)^{'}$$
+- $$(sin x)^1$$
+- $$\frac {(1+x^2)^{'}} {{\sqrt{x}} \space ^{'}}$$

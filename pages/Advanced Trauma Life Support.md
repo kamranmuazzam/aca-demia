@@ -1,9 +1,10 @@
 alias:: ATLS
 
+- #definition The ATLS(Advanced Trauma Life Support) system delineates an order of priorities set by ABCD; that is, airway, breathing, circulation and disability (neurology). This hierarchy of priorities is instituted upon the 'time dependence' principle.
 - # Components
 	- ((67b8c588-ea1c-47d5-a414-872b2c4e58cd))
 	  logseq.order-list-type:: number
-	- ((67b8c58d-c415-433f-8c7b-b8d54ca976f5))
+	- [[Triage]]
 	  logseq.order-list-type:: number
 	- ((67b8b05c-7af5-4ec6-a617-26765a80635b))
 	  logseq.order-list-type:: number
@@ -19,7 +20,7 @@ alias:: ATLS
 	  logseq.order-list-type:: number
 - # Preparation
   id:: 67b8c588-ea1c-47d5-a414-872b2c4e58cd
-- # Triage
+- # [[Triage]]
   id:: 67b8c58d-c415-433f-8c7b-b8d54ca976f5
 - # Primary Survey and Resuscitation
   id:: 67b8b05c-7af5-4ec6-a617-26765a80635b
@@ -32,12 +33,19 @@ alias:: ATLS
 	- Exposure
 - # Adjunts to Primary Survery and Resuscitation
   id:: 67b8b26a-85ce-4085-bdc0-ae984fd63cef
+	- Opening of IV channel by 2 wide bore cannula
+	- Send blood for grouping and cross matching, toxicological report, hematocrit level
+	- Emergency Measures if Needed
+		- Chest Drain
+		- Endotracheal Intubation
+		- Electrolyte Infusion
+		- Pericardiocentesis (in cardiac tamponade)
 	- ## History
 	  MIST
 		- Mechanism of Injury
 		- Injuries
 		- Signs/Symptoms
-		- Treatment Recieved
+		- Treatment Received
 	- ECG
 	- Urinary Catheter
 	- Gastric Catheter
@@ -46,10 +54,14 @@ alias:: ATLS
 		- Pulse oximeter
 		- Blood Pressure
 	- X-Rays
+	  *Truma Series X-Rays*
+		- Cervical-Spine
+		  logseq.order-list-type:: number
 		- AP CXR
+		  logseq.order-list-type:: number
 		  note: `The Survery Department in BIRDEM has a misconception that CXR are always PA`
 		- AP Pelvis
-		- C-spine
+		  logseq.order-list-type:: number
 	- Diagnostic Peritoneal Lavage
 	- Abdominal Ultrasonography(FAST)
 	  in presence of FAST, Diagnostic Peritoneal Lavage is obsolete

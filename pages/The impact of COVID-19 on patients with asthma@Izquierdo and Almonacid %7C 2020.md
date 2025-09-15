@@ -1,0 +1,1 @@
+- ![The impact of COVID-19 on patients with asthma@Izquierdo and Almonacid | 2020.pdf](../assets/The_impact_of_COVID-19_on_patients_with_asthma@Izquierdo_and_Almonacid_|_2020_1753357694274_0.pdf)

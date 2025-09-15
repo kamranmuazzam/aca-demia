@@ -61,14 +61,17 @@ high-yeild:: true
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
-	- ### Medical Treatment
-		- Immediate hospitalization
-		  logseq.order-list-type:: number
-		- High flow oxygen
-		  logseq.order-list-type:: number
-	- ### Surgical Options
-	- ### Lifestyle and Dietary Recommendations
-	- ### Follow-up
+	- Upon Diagnosis of Acute Coronary Syndrome administer IV [[Morphine]] with antiemetics
+	- Establish Timeline, confirm by ECG and send sample for Troponin even ECG is negative
+	- if within 120 minutes & angiogram available -> PCI
+	- if after 120 minutes and within 12 hours -> [[Alteplase]]
+	- if after 12 hours / non-ST elevated MI -> Anoxaparin (Low Molecular Weight Heparin)
+	- After Management
+		- Beta Blocker -> Control Arrythmia
+		- ACE Inhibitor/ ARB -> prevent remodelling
+		- Statin -> lower the colesterol
+		- If Chest pain -> Nitrate
+		- if Breathing Difficulty -> Management of [[Acute Left Ventricular Failure]]
 - ## Prognosis
   background-color:: blue
 	- ### Expected Course
@@ -99,3 +102,4 @@ high-yeild:: true
   background-color:: blue
 - ## Guidelines and Protocols
   background-color:: blue
+	-

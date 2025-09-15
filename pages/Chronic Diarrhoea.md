@@ -1,0 +1,15 @@
+# Causes #shaheen
+	- Intestinal Tuberculosis
+	- Intra-abdominal Malignancy
+	- HIV
+	- IBD
+	- IBS
+	- chronic pancreatitis
+		- Bulky (Voluminous)
+		- Frothy
+		- Foul smelling
+		- Floats on water
+		- Difficult to Flush
+	- Tropical Sprue
+	- Celiac Disease
+- what causes chronic diarrhoea but there are no organic findings -> IBS #shaheen

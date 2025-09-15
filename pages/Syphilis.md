@@ -23,16 +23,28 @@ high-yeild:: true
 		- #### Symptoms
 		- #### Signs
 	- ### Stages or Classification
-	- ### Diagnostic Criteria
+	- 3 signs of secondary syphilis #shaheen
+		- Condylomata lata
+		- Generalized Lymphadenopathy
+		- Ulcers in the oropharynx & genitalia
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- | **Differential Diagnosis** | **Shared Features** | **Clinical Exclusion** | **Baseline Workup** (Perform even if no suspicion) | **Direct Testing** (Perform if suspicion) |
+			  |--|--|--|--|--|
+			  |-|-|-|-|-|
+			- |Traits|Chancre|Chancroid|
+			  |--|--|--|
+			  |Organism|T. Pallidum|H. ducreyi|
+			  |Pain|Painless|Painful|
+			  |Lymphadenopathy|Bilateral Painless Lymphadenopathy|Unilateral Painful Lymphadenopathy|
+			  |Number|Usually Single|Multiple|
+			  |VDRL|+|-|
+			  |Penicillin effectiveness|Yes, drug of choice|Not so(ceftriaxone)|
+		- ### General Assessment
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment

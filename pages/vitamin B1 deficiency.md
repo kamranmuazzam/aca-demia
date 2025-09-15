@@ -1,0 +1,8 @@
+- Vitamin B1 deficiency #shaheen
+	- name of Vitamin B1 -> Thiamin
+	- What occurs in here -> Beriberi
+	- Where does dry Beriberi occur -> Neurological (Peripheral Neuropathy)
+	- Where does wet Beriberi occur -> CVS
+	- Problems occuring in Head
+		- Wernicks encehpalopathy
+		- Korsakoff psychosis

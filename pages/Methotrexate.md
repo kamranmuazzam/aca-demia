@@ -1,0 +1,11 @@
+- How is Methotrexate administered as DMARDs #shaheen
+	- Orally, once weekly with folic acid as well
+- What happens when Methotrexate is given daily #shaheen
+	- Bone marrow suppression (pancytopenia)
+	- Nausea
+	- Vomiting
+	- Diarrhoea
+	- Hepatotoxicity
+- Why Methotrexate causes Immunosuppression #shaheen
+	- Methotrexate is antifolinic, as Folic acid's function is synthesos of nucleotide and DNA  and RNA and helps in cells division
+	- this is the reason for Haematological defect by Bone marrow suppression

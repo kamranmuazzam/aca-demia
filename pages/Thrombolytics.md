@@ -1,0 +1,12 @@
+- Kinase
+	- Streptokinase
+	- Urokinase
+- Synthetic
+	- Alteplase
+	- Reteplase
+	- Tenecteplase
+- Contraindications
+	- Peptic Ulcer Disease
+	- Untrontrolled HTN
+	- Pregnancy
+	- Bleeding Disorder

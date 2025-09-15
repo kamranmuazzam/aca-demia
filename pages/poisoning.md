@@ -1,0 +1,2 @@
+- Types of poisoning #shaheen
+- Apart form Poisoning, what are other methods of suicide #shaheen

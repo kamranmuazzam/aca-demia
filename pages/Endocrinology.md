@@ -1,0 +1,4 @@
+- Names of Abdominal Endocrine Glands #shaheen
+	- Pancreas
+	- [[Adrenal Gland]]
+	- Ovary

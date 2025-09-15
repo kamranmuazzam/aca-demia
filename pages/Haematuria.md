@@ -48,7 +48,7 @@ tags:: clinical presentation, urology
 	- Urine RME
 	- Urine for C/S
 	- Urine cytology for malignant cells
-	- Coagulation profile
+	- [[Coagulation Profile]]
 	- Renal function test
 	- USG : stone, tumor
 	- IVU : to see kidney function and anatomy

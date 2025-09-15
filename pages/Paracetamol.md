@@ -1,0 +1,2 @@
+- Antidote of Paracetamol #shaheen
+	- N-Acetylcystine

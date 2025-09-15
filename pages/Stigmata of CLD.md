@@ -1,0 +1,25 @@
+- Skin
+	- Spider Nevi
+	- Palmar Erythema
+	- Leukonychia
+	- Terry's nails (half white, half pink)
+	- Jaundice
+- Endocrine
+	- Gynecomastia
+	- Testicular atrophy
+	- Loss of secondary sexual hair
+- General
+	- Muscle wasting/cachexia
+	- Parotid enlargement (in alcohol liver disease)
+- Portal Hypertension Sequelae
+	- Splenomegaly
+	- Ascites
+	- Caput medusae
+- Following are the Hepatic Facies
+  *not in practice now*
+	- Sunken cheeks
+	- Pinched nose
+	- Hollow orbits
+	- Temporal wasting
+	- Sallow complexion, icterus
+	- Sometimes parotid enlargement (in alcoholic disease)

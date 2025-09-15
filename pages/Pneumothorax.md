@@ -1,0 +1,31 @@
+- #definition It is the presence of air between the layers of pleura
+- # Diagnostic Criteria
+	- Usually Clinically diagnosed
+	- Chest X-ray P/A view
+	- CT scan of chest
+- # Symptoms
+	- Sudden onset of severe chest pain which is pleuritic in nature
+	- Severe progressive breathlessness
+	- Features of shock may be present
+	- May be cyanosed
+- # Signs
+	- ## General Examination
+		- Marked Tachycardia
+		- Hypotension
+		- Cyanosis may be present
+	- Local examination
+		- **Inspection** : Restricted chest movement in affected side
+		- **Palpation** : Trachea & apex beat are shifted in opposite side, vocal fremitus is reduced in affected side
+		- **Percussion** : Percussion note Hyper-resonant on affected side
+		- **Auscultation**
+			- Breath sound diminised in affected side
+			- Vocal resonance diminished in affected side
+	- ## Physical Signs
+	  #im-prof-written
+- # Types
+	- Open Pneumothorax
+	- Close pneumothorax
+	- [[Tension Pneumothorax]]
+- > Always do two chest X-Ray in case of pneumothorax
+  1. Before insertion of tube
+  2. During removal of the drain

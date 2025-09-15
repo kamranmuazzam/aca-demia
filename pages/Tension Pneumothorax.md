@@ -1,0 +1,15 @@
+- Presentation similar to [[Pneumothorax]], with following mnemonic 5T
+	- Tachypnea
+	- Tachycardia
+	- Tympanic note on percussion
+	- Total absence of breath sounds
+	- Tracheal shift
+- One marked feature to distinguish Tension Pneumothorax -> *Total absence of breath sounds*
+- # Complication
+	- Inflammatory Complications like mediastinitis, pneumonia, pericarditis
+	- Bleeding complications (bleeding into the lumen of the bronchial tree or mediastinum)
+	- Mediastinal emphysema
+- # Management (In Medicine Ward)
+  #im-prof-written
+	- Oxygen
+	-

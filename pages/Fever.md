@@ -1,6 +1,56 @@
 alias:: hyperthermia, pyrexia
+tags:: sign, symptom
 
 - #definition A body temperature of 38 ºC (100.4 ºF) or higher is considered a fever
+- Approach
+	- Duration
+	- Onset : Morning, Evening, Night
+	- Persistence : Few Hours or Throughout Day or Night
+	- Highest Recorded Temperature
+	- Association with Chills and Rigor
+	- Subsiding after sweating
+	- Spontaneous subsiding or subsiding with antipyretic
+		- if spontaneous remission, period of intervening afebrile period
+		- if no spontaneous remission, does it fluctuate more than 2ºC or not more than 1ºC
+		- This is to classify fever into continuous, remittent or intermittent
+	- If fever is punctuated by apyrexial period : Undulant or Pel-Ebstein
+	- Association with rash or purpura
+	- Any other associated symptom : urinary complain, cough, chest pain, pain abdomen, headache, impaired or loss of consciousness, weight loss, polyarthritis
+	- History of sexual exposure : Homosexuality, travel abroad
+	- Drug History : To exclude any drug fever
+- Etiology
+	- most-likely : viral fever which is self limiting, spontaneous resolution in 7 days
+	- Low grade fever with evening rise - tuberculosis
+	- Fever with chill and rigor
+		- acute pyelonephritis
+		- acute cholangitis
+		- subacute bacterial endocarditis
+		- subphrenic abscess
+		- pyogenic lung abscess
+		- septicemia
+		- lobar pneumonia
+		- pyrogenic reaction after infusion or transfusion
+		- Fever with chill and rigor that subsides with sweating - malaria
+		- Fever with unconsciousness
+			- cerebral malaria
+			- meningitis
+			- encephalitis
+			- pontine hemorrhage
+		- Fever with neck rigidity
+			- meningitis
+			- encephalitis
+		- Fever with drenching night sweat
+			- lymphoma
+			- tuberculosis
+		- Patient feeling feverish with excessive sweating - thyrotoxicosis
+		- Pel-Ebstein fever (undulant fever ) - Hodgkin's lymphoma
+		- Fever with double rise (or triple rise) - Kala-azar
+		- Step Ladder patten of fever - enteric fever
+		- Relapsing fever
+			- malaria
+			- borreliosis
+			- ocassionally lymphoma (HD)
+		-
 - ## Associations
 	- Associated Clinical Presentation
 		- | **Symptom**            | **Sensitivity (%)** | **Specificity (%)** |

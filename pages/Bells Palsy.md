@@ -1,0 +1,3 @@
+- [[Facial Nerve Palsy]]
+- Cause #shaheen
+- which type of motor neuron lesion -> upper motor neuron lesion #shaheen

@@ -8,8 +8,25 @@ high-yeild:: true
 	- Apex Beat
 		- location
 		- nature
-	- Parasternal Heap
+	- Parasternal Heave
+	- Thrills over each valve (Z line)
+		- Aortic Valve : 2nd intercostal space at right sternal edge
+		- Pulmonary Valve : 2nd intercostal space at left sternal edge
+		- Tricuspid Valve : 4th intercostal space at left sternal edge
+		- Mitral Valve : 5th intercostal space at left midclavicular line
 	-
 - # Percussion
 	-
 - # Auscultation
+	- while feeling carotid pulse
+		- Auscultate along Z line using diaphragm
+		- Auscultate along Z line using bell
+	- Accentuation Manoeuvre (auscultate during, Instruct patient to take a deep breath, and exhale all the way out)
+		- Tricuspid Valve using diaphragm
+			- Position : Sitting Upright
+			- Auscultate Carotid Artery as well
+		- Mitral Valve using diaphragm
+			- Position : Leaning Left
+			- Auscultate Axilla on the side as well
+			- Auscultate the mitral area again using bell
+		-

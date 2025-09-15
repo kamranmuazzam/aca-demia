@@ -1,2 +1,3 @@
 - [[Rate Change]]
 - [[Euler's Formula]]
+- [[Derivatives for Aamna]]

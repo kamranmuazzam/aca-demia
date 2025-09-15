@@ -1,0 +1,5 @@
+- Types #shaheen
+	- SCC
+	- Small Cell
+	- Adeno
+	- Large Cell

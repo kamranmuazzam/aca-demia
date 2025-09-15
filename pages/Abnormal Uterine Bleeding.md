@@ -1,4 +1,5 @@
 alias:: AUB
+tags:: gynecology, presentation
 
 - #definition Any uterine bleeding that occurs outside the normal volume, duration, regularity or frequency is considered abnormal uterine bleeding.
 - # Etiology
@@ -11,7 +12,7 @@ alias:: AUB
 		  alias:: A
 		- [[Leiomyoma of Uterus]]
 		  alias:: L
-			- Sbmucosal myoma
+			- Submucosal myoma
 			- Other myoma
 		- Malignancy and Hyperplasia
 		  alias:: M

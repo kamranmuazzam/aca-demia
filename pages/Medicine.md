@@ -1,7 +1,6 @@
 - High Yeilds : {{renderer :view, "query.pages().tags([c.page.name,'medicine']).property('high-yeild').value('true').get().length"}}
   title:: Medicine
 - # Disease
-  collapsed:: true
 	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'disease']).get(), ['page', 'knowledge', 'high-yeild'])"}}
 - # Clinical Presentation
 	- {{renderer :view, "query.table(query.pages().tags([c.page.name, 'clinical presentation']).get(), ['page', 'knowledge', 'high-yeild'])"}}

@@ -1,0 +1,61 @@
+# Management
+	- ## Management of MI
+		- At home #shaheen
+			- Aspirin - 300 mg (loading dose)
+			- Clopidogrel - 300 mg (loading dose)
+		- At Hospital #shaheen
+			- Ensure, Aspirin + Clopidogrel
+				- Aspirin :  75 mg  q24 hour lifelong
+				- Clopidogrel : 75 mg q24 hour 1 year
+			- ECG and Troponin I to confirm MI
+			- Admit to CCU
+		- At CCU #shaheen
+			- Morphine with anti-emetics
+			  *Metoprolol 25-50 mg*
+			- if within 2 hours -> [[PCI]] (Stenting)
+			  *in anterior MI, PCI even after 6 hours* #shaheen
+				- what intervention is done without drugs -> PCI #shaheen
+			- if within 12 hours -> [[Thrombolytics]]
+			  *do-not administer if contraindicated*
+			- if after 12 hours
+				- anoxaparin
+				- low molecular weight heparin
+	- If non-ST elevated MI #shaheen
+		- LMWH
+	- ## Management of Complications
+	  prophylactic
+		- Beta Blocker -> control arrythmia
+		- ACE inhibitor/ ARB -> prevent remodelling
+		- Statin -> prevent further atherosclerosis
+		- if chest pain -> Nitrate
+		- if breathing difficulty -> it means Acute Left Ventricular Failure (Pulmonary Edema)
+			- Presentation
+			- Breathing Difficulty
+				- Orthopnea
+				- Pulsus alternans
+				- Gallop Rythm
+				- Bilateral Fine Basal Crepitation
+			- Treatment
+				- Serum Pro-BNP
+				- IV loop diuretics (Furosemide)
+		- Grave Complication -> Cardiac Arrest
+- # Complications
+	- Why sudden Death Occurs #shaheen
+		- Ventricular Fibrillation
+		- Cardiac Arrest
+- Why sudden cardiac death occurs #shaheen
+- In what disease does Bell's Palsy and Anterior MI occur together -> DM #shaheen
+- Causes of MI #shaheen
+	- Non Modifiable cause of MI
+		- Age
+		- Sex
+		- Family History
+		- Type-I personality
+	- Modifiable cause of MI
+		- Contorl of Hypertention
+		- Contorl of DM
+		- Cessation of Smoking
+		- Cessation of Alcohol
+		- Control of Obesity
+		- Modification of Dietary Habit
+-

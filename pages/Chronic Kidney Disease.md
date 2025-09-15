@@ -3,6 +3,9 @@ ICD-11_Code::
 tags:: disease, medicine, nephrology
 high-yeild:: true
 
+- alias::
+  ICD-11_Code::
+  tags:: disease
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -23,16 +26,16 @@ high-yeild:: true
 		- #### Symptoms
 		- #### Signs
 	- ### Stages or Classification
-	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- | **Differential Diagnosis** | **Shared Features** | **Clinical Exclusion** | **Baseline Workup** (Perform even if no suspicion) | **Direct Testing** (Perform if suspicion) |
+			  |--|--|--|--|--|
+			  |-|-|-|-|-|
+		- ### General Assessment
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
@@ -45,6 +48,9 @@ high-yeild:: true
 		- #### With Treatment
 		- #### Without Treatment
 			- ##### Possible Complications
+				- DVT
+					- why DVT occurs in CKD #shaheen
+						- Loss of antithrombin III
 			- ##### Long-Term Effects
 	- ### Survival Rates
 		- #### With Treatment

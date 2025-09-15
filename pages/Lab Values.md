@@ -1,0 +1,151 @@
+- Hematology
+	- Hemoglobin
+		- Male : 13.5-17.5 g/dL
+		- Female : 12.0-16.0 g/dL
+	- Hematocrit
+		- Male : 41-53%
+		- Female : 36-46%
+	- RBC count
+		- Male : 4.7-6.1 ×10⁶/µL
+		- Female : 4.2-5.4 × 10⁶/µL
+	- ESR
+		- Male : <15 mm/hr
+		- Female : <20 mm/hr
+	- WBC count : 4-11 ×10³/µL
+	- Platelets : 150-400 ×10³/µL
+	- MCV : 80-100 fL
+	- MCH : 27-33 pg
+	- MCHC : 32-36 g/dL
+	- Reticulocyte Count : 0.5-1.5%
+	- Coagulation Profile
+		- PT : 11-14 seconds
+		- INR : 0.8-1.2
+		- aPTT : 25-35 seconds
+		- BT : 2-7 min
+		- CT : 8-15 min
+		- Fibrinogen : 200-400 mg/dL
+		- D-Dimer : <0.5 µg/dL
+- Electrolyte and Renal
+	- Na+ : 135-145 mmol/L
+	- K+ : 3.5-5 mmol/L
+	- Cl : 98-107 mmol/L
+	- Calcium(total): 8.5-10.5 mg/dL
+	- Ionized Calcium : 1.1-1.3 mmol/L
+	- Phosphate : 2.5-4.5 mg/dL
+	- Mg : 1.7-2.2 mg/dL (0.7-0.9 mmol/L)
+	- Bicarbonate : 22-28 mmol/L
+	- BUN : 7-20 mg/dL (2.5-7.1 mmol/L)
+	- Serum Creatinine
+		- Male : 0.6-1.2 mg/dL
+		- Female : 0.5-1.0 mg/dL
+	- eGFR >90 mL/min/1.73 m²
+	- Uric Acid
+		- Male : 3.4-7.0 mg/dL
+		- Female : 2.4-6.0 mg/dL
+	- Anion gap : 8-16 mEq/L
+	- Osmolality(serum) : 275-295 mOsm/kg
+- LFT
+	- AST(SGOT) : 10-40 U/L
+	- ALT(SGPT) : 7-56 U/L
+	- ALP : 44-47 U/L
+	- GGT : 9-48 U/L
+	- LDH : 140-280 U/L
+	- Total Bilirubin : 0.3-1.2 mg/dL
+	- Direct Bilirubin : <0.3 mg/dL
+	- Albumin : 3.5-5 g/dL
+	- Globulin : 2-3.5 g/dL
+	- A/G ratio : >1
+	- Total Protein : 6-8.3 g/dL
+	- Ammonia : 15-45 µg/dL
+- Endocrine
+	- Glucose
+		- Fasting Glucose : 90-99 mg/dL (3.9-5.5 mmol/L)
+		- 2h OGTT : <140 mg/dL (<7.7 mmol/L)
+	- HbA1c : <5.7%(normal), 5.7-6.4%(prediabetes), ≥6.5%(diabetes)
+	- Insulin (fasting) : 2-20 µU/mL
+	- C-peptide : 0.8-3.5 ng/mL
+	- Total Cholesterol : <200 mg/dL
+	- LDL cholesterol : <100 mg/dL
+	- HDL cholesterol
+		- Male : >40 mg/dL
+		- Female : >50 mg/dL
+	- Non-HDL cholesterol : <130 mg/dL
+	- TAG : <150 mg/dL
+	- TSH : 0.4-4.0 mIU/L
+	- fT4 : 0.8-1.8 ng/dL
+	- fT3 : 2.3-4.2 pg/mL
+	- Cortisol (8 AM) : 5-25 µg/dL
+	- Cortisol (midnight) : <5 µg/dL
+	- ACTH : 10-60 pg/ml
+	- Prolactin : M <20 ng/mL | F <25 ng/mL
+	- GH (fasting) : <5 ng/mL
+	- IGF-1 (age-dependent) : ~100-300 ng/mL
+	- PTH : 10-65 pg/mL
+	- Vitamin D (25-OH): 20-50 ng/mL (sufficient)
+	- Aldosterone (supine) : 3-16 ng/dL
+	- Renin (plasma activity) : 0.5-4 ng/mL/hr
+- ABGA
+	- pH : 7.35-7.45
+	- pCO₂ : 35-45 mmHg
+	- pO₂ : 80-100 mmHg
+	- HCO₃⁻ : 22-28 mmol/L
+	- O₂ Saturation : 95-100%
+	- Base Excess : -2 to +2 mEq/L
+	- Lactate : 0.5-2.2 mmol/L
+- Pancreatic/GI
+	- Amylase : 23-85 U/L
+	- Lipase : <160 U/L
+	- Gastrin : <100 pg/mL
+	- Fecal calprotectin : <50 µg/g stool
+- Iron
+	- Serum Iron : 50-150 µg/dL
+	- TIBC : 250-400 µg/dL
+	- Transferrin Saturation : 20-50%
+	- Ferritin : M 20-250 | F 10-120 ng/mL
+- Reproductive Hormones
+	- LH : Men 1.5-9.3 IU/L | Women (variable by cycle phase)
+	- FSH : Men 1.5-12.4 IU/L | Women variable
+	- Estradiol : M 10-50 pg/mL | F 30-400 pg/mL (cycle/menopause)
+	- Progesterone (luteal phase) : 2-25 ng/mL
+	- Testosterone : M 300-1000 ng/dL | F 15-70 ng/dL
+	- β-hCG: <5 mIU/mL (non-pregnant)
+	- AMH : Age dependent (used in fertility)
+- Cardiac Markers
+	- Troponin I : <0.04 ng/mL
+	- Troponin T (hs) : <14 ng/L
+	- CK-MB : <5% of total CK
+	- BNP : <100 pg/mL
+	- NT-proBNP : <125 pg/mL (age/heart failure-dependent)
+- CSF
+	- Opening pressure : 70-180 mm H₂O
+	- Appearance : clear, colorless
+	- WBC : <5 µL (all lymphocytes)
+	- RBC : none
+	- Protein : 15-45 mg/dL
+	- Glucose : 50-75 mg/dL (~2/3 serum)
+	- Chloride : 118-132 mmol/L
+- Urinalysis
+	- pH : 4.6-8.0
+	- Specific gravity : 1.005-1.030
+	- Protein : negative/trace <150 mg/day
+	- Glucose : negative
+	- Ketones : negative
+	- RBC : 0-2 /HPF
+	- WBC : 0-5 /HPF
+	- Casts: occasional hyaline
+- Tumor & Special Markers
+	- PSA : <4 ng/mL
+	- AFP : <10 ng/mL
+	- CEA : <3 ng/mL(nonsmoker, <5 (smoker)
+	- CA-125 : <35 U/mL
+	- CA 19-9: <37 U/mL
+	- β2-microglobulin: 0.7–1.8 mg/L
+- Immunology/Rheumatology
+	- CRP: <3 mg/L
+	- Rheumatoid factor: <20 IU/mL
+	- ANA: negative
+	- Complement C3: 90–180 mg/dL
+	- Complement C4: 10–40 mg/dL
+	- ESR
+		- Male : <15 mm/hr
+		- Female : <20 mm/hr

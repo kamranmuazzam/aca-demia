@@ -60,9 +60,21 @@
 			- Step Up if Not Resolving and Increasing in Severity
 			- Step Down if Resolving
 				- [[NSAIDS]] (as it is a chronic chase) #shaheen
-		- Treat the Addiction -> Alcoholism
-		- Treat the Malnutrition -> Pancreatic Enzymes
-		- Treat the Diabetes -> Insulin
+		- Multidisciplinary care (GI, pain, nutrition, behavioral health)
+			- Treat the Addiction -> Alcoholism/Smoking Cessation
+			- Treat the Malnutrition -> Pancreatic Enzymes, Fat Soluble Vitamins
+			- Treat the Diabetes -> [[Insulin]]
+	- ### Pain Management in Chronic Pancreatitis
+		- Analgesic Ladder
+			- First line : scheduled [[Paracetamol]] ± [[NSAIDS]] if safe
+			- Add neuropathic/central modulators (often needed)
+				- [[Pregabalin]] 25-75 mg qHS, titrate to 150-300 mg BID(renal adjust), or
+				- [[Gabapentin]] 100-300 mg TID, titrate to effect (renal adjust)
+				- Consider a TCA ([[Amitriptyline]]/ [[Nortriptyline]] 10-25 mg qHS) or an SNRI ([[Duloxetine]] 30-60 mg daily) if tolerated. [[SSRIs]] are less effective for analgesia
+			- [[Tramadol]] can be used for moderate pain or as a bridge
+			- Reserve stronger opiods for refractory cases at the lowest effective dose, with clear goals and reassessment; avoid long-term high-dose therapy
+			- If any opiods are still needed, give only a very short course with clear stop date and a laxative
+		- Refractory pain despite meds: discuss endoscopic/surgical options for structural disease and consider EUS-guided celiac plexus block/neurolysis; involve [[Anæsthesia]]
 	- ### Surgery
 		- #### Indications of Surgery
 			- Failure of Medical Treatment

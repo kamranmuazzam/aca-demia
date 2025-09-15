@@ -1,0 +1,1 @@
+- Is drug given in every disorder -> No (CBT + Explanation & reassurance) #shaheen

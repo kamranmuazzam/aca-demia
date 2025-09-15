@@ -1,0 +1,76 @@
+alias:: Therapeutic Hypothermia, Hypothermia Protocol
+
+- when neurologic response is less after Cardiac Arrest we actively cool the patient to preserve neurologic function to increase outcomes
+- Believed to decrease cerebral metabolic demand leading to decreased oxygen consumption leading to decreased ATP demand.
+- Believed that this leads to decreased excitatory neurotransmitters to prevent neuronal cell death
+- Believed to decrease cerebral edema to decrease permeability of BB and decrease CBF leading to decrease in ICP
+- # Indication
+	- Post Cardiac Arrest
+	  *works best in patients with non-schockable rythms but general rule is to apply to all post cardiac arrests, shockable and non-shockable alike*
+		- Within 6 hours of arrest
+	- Comatose, GCS < 8
+- # Contraindication
+	- don't cool below 35 ºC for patients having bleeding disorders
+- # Stages
+	- ## Cooling/Induction
+	  logseq.order-list-type:: number
+		- Achieve Target Temperature, as quickly as possible
+		- ### Techniques
+			- #### External
+				- Icepacks, cool/wet towels, **cooling devices**
+				- wraps, pads, mattress
+			- #### Internal
+				- Intravascular/Endovascular
+				- Cold IVF, ice water lavage
+				- **Intravascular catheter**
+				- Extracorporeal (ECMO/CRRT)
+			- Both require core temperature feedback (foley, rectal, esophageal, PA cath)
+		- The targeted temperature is not concluded yet, but 36ºC is supported by evidence and further to 33ºC doesn't show any benefits
+		- The duration is 24 hours
+	- ## Rewarming
+	  logseq.order-list-type:: number
+		- Current recommendations to increase 0.2-0.5 ºC /hr
+		- During rewarming patient is at risk for
+			- Hypotension
+			- Hyperkalemia
+			- Hypoglycemia
+		- Once rewarmed, maintain 37 ºC using cooling devices for 48 hours
+- # Complications
+	- Regaining Consciousness
+		- before completion of Treatment patient might regain Consciousness, in this case we end the treatment
+	- Shivering
+		- Body's natural response to stay warm
+		- Slow rate, harder to maintina
+		- Typically occurs w/changing temps
+		- Treatment
+			- Cutaneous warming (face, hands/feet)
+			- 4g MgSO4 (this increases shivering threshold)
+			- Analgesic/Sedation (bolus vs infusion)
+			- Paralytics (bolus vs infusion)
+	- Diuresis
+		- Mild cold diuresis w/ electrolyte wasting
+		- Hypovolemia
+		- Electrolyte imbalances
+			- decreased K, decreased Mg, decreased Ca
+			- frequent check labs -> replace
+			- Rewarming reverse K flux, hence we will hold replacement 4 hours prior to rewarming
+	- Insulin
+		- decreased secretion and sensitivity leading to Hyperglycemia
+	- Fever
+		- Rebound fever with rewarming
+	- Bleeding
+		- Temperature impact clotting
+			- 35 ºC+ : no impact
+			- 33-35 ºC : mild impair platelet
+			- < 33 ºC : platelets clot cascades
+			- < 30 ºC : Significant effect with risk for bleeding
+	- Compromised Immune System
+		- leading to risk of infection esp. VAP
+		  *to combat this 2 day prophylaxis with ampicillin and salbactum*
+	- Arrhythmias
+		- Bradycardia is common and not treated unless hemodynamic comes into effect
+		- Afib/ Vtach, treat as per protocol
+	- Skin Compromise
+		- decrease blood flow to skin can lead to skin breakdown and increase external cooling
+		- use moisturizers
+	-

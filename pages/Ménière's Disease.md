@@ -2,7 +2,7 @@ alias:: Endolymphatic hydrops, Meniere's Disease
 ICD-11_Code:: AB30.1
 tags:: disease, ent
 
-- #definition Ménière's Disease is a chronic disorder of inner ear where the endolymphatic system is distended with endolymph & characterized by episodic vertigo, sensorineural hearing loss, tinnitus & a sense of aural fullness.  #ent-prof-card #ent-prof-written #unanswered #card
+- #definition Ménière's Disease is a chronic disorder of inner ear where the endolymphatic system is distended with endolymph & characterized by episodic vertigo, sensorineural hearing loss, tinnitus & a sense of aural fullness.  #ent-prof-card #ent-prof-written #card
   id:: 6756c23f-2e59-47e9-b177-c10af5c95e12
   deck:: #ENT
 - ## Etiology
@@ -80,7 +80,7 @@ tags:: disease, ent
 			  |Acoustic neuroma | imbalance but no vertigo, MRI with contrast |
 			  |Otosyphilis| Bilateral SNHL + systemic signs, RPR|
 	- ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #ent-prof-written #unanswered #card
+- ## Management and Treatment #ent-prof-card #ent-prof-written  #card
   background-color:: blue
   id:: 3abf9902-4436-4be6-ad4c-1ad09cab3a65
   deck:: #ENT

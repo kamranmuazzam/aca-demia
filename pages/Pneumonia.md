@@ -10,16 +10,16 @@ high-yeild:: true
 		- In children
 			- MC cause in neonates? GBS, E. coli, Lysteria
 			- MC cause 1 mo-3 mo? C. trachomatis, RSV, parainfluenza, strep pneumoniae
-			- MC cause in kids 4 mo- 5 y/o? VIRAL! (RSV) then s. pneumoniae
-			- MC cause in kids > 5 y/o ? Mycoplasma, s. pneumoniae
+			- MC cause in kids 4 mo- 5 y/o? VIRAL! (RSV) then *S. Pneumoniae*
+			- MC cause in kids > 5 y/o ? *Mycoplasma*, *S. pneumoniae*
 		- Bacteria
 			- *Streptococcus pneumoniae* (most common)
 			- *Mycoplasma pneumoniae*
 			- *Legionella peumoniae*
 			- *Clamydia pneumoniae*
 			- *Haemophillus influenzae*
-			- *Staphylococcus pneumoniae*
-			- *Klebsiella pneumoniae*
+			- MC if Multiple lesions -> *Staphylococcus pneumoniae* , *Mycobacterium tuberculosis*, Fungal
+			- MC in Diabetis -> *Klebsiella pneumoniae*, *Pseudomonas*
 		- Virus
 			- Influenza
 			- Parainfluenza

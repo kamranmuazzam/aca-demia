@@ -95,8 +95,12 @@ tags:: disease, paediatrics, neonatology
   background-color:: blue
 	- ### Medical Treatment
 		- Phototherapy
+			- Term: ≥15 mg/dL (first 48 hrs), ≥18 mg/dL (>72 hrs).
+			- Preterm: Lower thresholds (e.g., ≥10–14 mg/dL).
 		- Intravenous immunoglobulin (for isoimmune hemolysis)
+		  *If hemolytic disease*
 		- Exchange transfusion (severe cases)
+			- **If**: ≥20–25 mg/dL (risk of **kernicterus**).
 	- ### Surgical Options
 		- None typically
 	- ### Lifestyle and Dietary Recommendations

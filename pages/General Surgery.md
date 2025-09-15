@@ -128,4 +128,13 @@
 		- Thyroid Gland
 		- Hernia
 			- Inguinal Hernia
+		- Hydrocele
 	- Ulcer
+	- Abdominal Examination
+- Trauma
+	- [[ATLS]]
+	- [[Triage]]
+	- [[Pneumothorax]] & [[Tension Pneumothorax]]
+	- [[Flail Chest]]
+	- [[Head Injury]] & [[Intracranial Hemorrhage]], [[Lucid Interval]]
+	- [[Abdominal Trauma]]

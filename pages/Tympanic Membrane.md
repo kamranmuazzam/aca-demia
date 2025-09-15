@@ -12,6 +12,10 @@ alias:: Ear Drum
 - #Drawing and Labelling Tympanic Membrane showing Marginal Perforation #ent-prof-written #unanswered #card
   deck:: #ENT
   id:: 6757f984-43fa-49e8-b8ef-42052d8276cf
-- # 5 causes of traumatic Injury to the Tympanic Memrbane #ent-prof-written #unanswered #card
-  deck:: #ENT
+- # 5 causes of traumatic Injury to the Tympanic Memrbane #ent-prof-written
   id:: 6757f9c7-f5b3-46d3-af0b-ee3f47381dda
+	- Direct Trauma : Instrumentation, cotton earbuds, hairpins, sticks
+	- Slap or blow to ear
+	- Barotrauma : Diving, Explosion
+	- Iatrogenic : ear syringing, suctioning, instrumentation
+	- Acoustic Trauma : very sudden sounds or blasts

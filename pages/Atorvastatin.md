@@ -1,0 +1,1 @@
+- 80 mg once daily

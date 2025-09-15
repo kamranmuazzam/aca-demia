@@ -87,13 +87,45 @@ tags:: disease, general surgery, medicine
 			- [[Blood Urea Nitrogen]]
 - ## Management and Treatment
   background-color:: blue
-	- ### Medical Treatment In [[ICU]] / [[DCU]]
+	- Treatment Plan
+		- Access Severity and First admit to [[ICU]] / [[DCU]]
+			- Establish IV channels
+			- Address Hemodynamic instability
+				- if blood is required, blood grouping, Rh typing, cross matching and blood transfusion
+				- if fluid electrolyte correction is required, agressive fluid electrolyte correction
+			- Resuscitation by NPO
+			- IV Analgesics as mentioned in ((68ad924f-6324-4ba8-9d86-1b06b2afd9c6)) below
+			- NG suction
+			- IV PPI
+			- IV broad spectrum antibiotics
+	- ### Medical Treatment In
 		- Agressive fluid electrolyte correction
 		- Resuscitation by NPO
 		- NG suction
 		- IV opiod/synthetic opiod analgesics
 		- IV PPI
 		- IV broad spectrum antibiotic
+	- ### Pain Management for Pancreatitis
+	  id:: 68ad924f-6324-4ba8-9d86-1b06b2afd9c6
+		- For Severe Pain
+			- Start with [[Fentanyl]] IV 25–50 mcg q10–15 min PRN or PCA (10–25 mcg demand, 6–10 min lockout) ; good in renal impairment/ hemodynamic instability
+				- Check Renal Function before advancing to [[Morphine]] or [[Hydromorphone]]
+					- [[Hydromorphone]] IV 0.2–0.5 mg q2–3h PRN or PCA (e.g., 0.1–0.2 mg demand, 6–10 min lockout, no basal initially).
+					- [[Morphine]] IV 2–4 mg q2–4h PRN or PCA (1 mg demand, 6–10 min lockout); avoid/limit in severe renal impairment due to active metabolites.
+					- [[Ondansetron]] PRN; start senna ± [[polyethylene glycol]] to prevent opioid-induced constipation
+			- [[Paracetamol]] IV or PO 650–1000 mg q6–8h (max 3 g/day in most inpatients; lower in liver disease/low body weight).
+			- [[NSAIDS]]: [[Ketorolac]] 15–30 mg IV q6h, max 5 days. Alternatively, [[Ibuprofen]] PO when tolerated.
+		- during moderate pain, step down from opiods
+			- [[Paracetamol]] IV or PO 650–1000 mg q6–8h (max 3 g/day in most inpatients; lower in liver disease/low body weight).
+			- [[NSAIDS]] if safe: e.g., [[Ibuprofen]] 400–600 mg q6–8h, [[Naproxen]] 250–500 mg BID, or [[celecoxib]] 100–200 mg BID (lower GI risk).
+			- Add one PRN breakthrough option:
+				- [[Tramadol]] 50–100 mg q6h PRN (max 400 mg/day; watch for serotonergic drugs/seizure risk; renal/hepatic dose adjust), or
+				- Short-acting opioid PRN (e.g., [[oxycodone]] 5 mg q4–6h or [[Hydromorphone]] 2 mg q4–6h). Prescribe the minimum necessary and plan to taper quickly.
+			- Mild/resolving pain (pre-discharge and outpatient)
+			- Aim to be opioid-free
+				- [[Acetaminophen]] ± [[NSAIDS]] as above.
+				- Non-pharmacologic: early enteral feeding as tolerated, hydration, treat nausea with Methoclopremide
+				- If any opioids are still needed, give only a very short course with clear stop date and a laxative.
 	- ### Surgical Options
 		- Only in complications as
 			- [[Pancreatic Pseudocyst]]

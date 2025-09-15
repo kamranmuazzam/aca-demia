@@ -1,1 +1,74 @@
 tags:: #Paediatrics
+
+- # Differentials
+	- ## 1. Hematologic / Malignancy
+		- Children (esp. toddlers, preschoolers, school-age)
+			- [[Acute Lymphoblastic Leukemia]] (peak: 2-5 years)
+			- [[Juvenile Myelomonocytic Leukemia]] (<4 years)
+			- Lymphomas (usually older children/adolescents)
+		- Adults
+			- Chronic Leukemias ([[Chronic Myelocytic Leukemia]], [[Chronic Lymphocytic Leukemia]])
+			- [[Myeloproliferative Disorders]]
+	- ## 2. Hemolytic Anemias
+		- Children
+			- [[Thalassemia major]] (presents in infancy/toddler age once HbF falls, typically <2-3 years)
+			- Hereditary spherocytosis (any age, often diagnosed in childhood)
+			- Sickle cell disease (manifests after infancy, around 6 months onward)
+		- Adults
+			- Autoimmune hemolytic anemia (more common in adults)
+	- ## 3. Infections
+		- Children
+			- Malaria (tropical/endemic areas, any age, preschool often severely affected)
+			- VIsceral leishmaniasis (Kala-azar) (toddlers + school-age children in endemic areas)
+			- EBV / CMV infectious mononucleosis (school-age + adolescents, but can occur earlier)
+			- Congenital infections (TORCH), although usually evident <1 year
+		- Adults
+			- Chronic hepatitis B/C, HIV, EBV, malaria reinfections
+	- ## 4. Storage / Inborn Errors of Metabolism
+		- Children
+			- Gaucher disease (most common lysosomal storage disease; typically presents 2-10 years)
+			- Niemann-Pick Disease (type A: infancy; type B: later childhood, ~2-6 years)
+			- Mucopolysaccharidoses (MPS) (variable onset; usually toddlers/preschoolers)
+		- Adults: (rare to present primarily in adulthood, though Type 1 Gaucher can be adult-onset)
+	- ## 5. Congestive/ Circulatory
+		- Children
+			- Congestive heart failure (any age, esp. congenital heart disease)
+			- Portal hypertension from chronic liver disease (biliary atresia sequelae, cirrhosis in older children)
+		- Adults
+			- Cirrhosis (alcoholic liver disease, viral hepatitis)
+			- Right-sided heart failure
+	- ## 6. Others
+		- Children
+			- Langerhans cell histiocytosis
+			- Immunodeficiency syndromes with recurrent infections (e.g., chronic granulomatous disease)
+		- Adults
+			- Amyloidosis
+			- Lymphoproliferative disorders
+- Top Differentials for 3 year old
+	- Differentials
+		- Leukemia (ALL/JMML)
+		- Thalassemia major
+		- Sickle Cell Anemia
+		- Gaucher Disease
+		- Malaria/Kala-azar
+		- EBV/CMV
+	- Investigations
+		- Complete Blood Count (CBC) with Peripheral Smear
+		- Reticulocyte count
+		- Hemoglobin electrophoresis / HPLC
+		- Bone marrow aspiration & biopsy
+		- Malaria smear and Rapid diagnostic test (antigen)
+		- rK39 test (Kala-azar serology)
+		- EBV and CMV serology (IgM, IgG, PCR if indicated)
+		- Liver Function Tests (LFTs)
+		- LDH, uric acid
+		- Enzyme assay for β-glucocerebrosidase (for Gaucher)
+		- Genetic testing (if Gaucher / hemoglobinopathies suspected)
+		- Abdominal Ultrasound
+	- Expected Findings
+		- **Leukemia (ALL/JMML):** CBC: anemia, thrombocytopenia, leukocytosis/penia, blasts on smear. Bone marrow >25% blasts (ALL). JMML: Monocytosis, abnormal myeloid precursors.
+		- **Thalassemia major:** Severe anemia, microcytic hypochromic RBCs, high reticulocyte count, low MCV, Hb electrophoresis with ↑HbF/↑HbA2.
+		- **Sickle cell disease:** Anemia, sickled cells, HbS on electrophoresis, vaso-occlusive history.
+		- **Gaucher Disease:** Pancytopenia, splenomegaly out of proportion, Gaucher cells on marrow, enzyme assay with low β-glucocerebrosidase.
+		- **Malaria/Kala azar:** Malarial parasite in smear or Antigen +; Kala azar with pancytopenia, amastigotes in marrow/spleen; positive rK39 serology.
+		- **EBV/CMV infection:** Lymphocytosis with atypical lymphocytes, positive IgM serology.

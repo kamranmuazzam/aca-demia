@@ -5,7 +5,11 @@ high-yeild:: true
 
 - ## Etiology
   background-color:: blue
-	- ### Causative Agents
+	- ### Causative Agents (Types) #shaheen
+		- Bacteria
+		- Virus
+		- Protozoa & fungi
+		- Parasite
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -36,6 +40,8 @@ high-yeild:: true
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
+		- #### For Tubercular Meningitis #shaheen
+			- what is the extra drug given here ->
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
@@ -81,3 +87,17 @@ high-yeild:: true
 	- + Gram stain, >1000 WBC is diagnostic. High protein and low glucose support bacterial
 - Roommate of the kid in the dorms who has bacterial meningitis and petechial rash?
 	- Rifampin!!
+- A patient comes with Headache, fever, what is the Dx -> Meningitis #shaheen
+- What is meningitis & meningism #shaheen
+	- Meningism -> Symptoms of meningitis present but inflammation of Leptomeninges is absent
+	- Symptom
+		- Headache
+		- Vomiting
+		- Photophobia
+		- Neck Stiffness
+	- Meningitis is actual inflammation of meninges
+- Bacterial vs Tubercular vs Viral : what is the cell count #shaheen
+	- Normal : 0-5 lymphocyte /mm3
+	- Pyogenic : Neutrophil
+	- Tubercular : Lymphocyte
+	- Viral : Lymphocyte

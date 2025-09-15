@@ -1,0 +1,5 @@
+- Prothombin Time
+- Activated Partial Thromboplastin Time
+- Platelet Count
+- Fibrinogen Level
+- D-dimer

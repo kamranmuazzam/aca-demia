@@ -1,3 +1,5 @@
+tags:: gynecology, presentation
+
 - #definition ((681fbe8d-9c0d-457c-b85f-a6071794da4a))
 - # Causes
 	- ((681fbfa6-d59f-4e36-bf6f-c63ddf9e4bad))

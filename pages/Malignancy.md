@@ -1,0 +1,1 @@
+- Malignancy might be present as unresolving pneumonia

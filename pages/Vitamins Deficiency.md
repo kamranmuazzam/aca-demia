@@ -20,7 +20,7 @@ high-yeild:: true
 		- Feet #shaheen
 			- [[Vitamin D Deficiency]] -> [[Osteomalacia]]
 			- [[Cobalamine Deficiency]] -> [[Peripheral Neuropathy]]
-			- [[Thiamine Deficiency]] -> [[Dry Beriberi]] (edema)
+			- [[Thiamine Deficiency]] -> [[Dry Beriberi]]
 - ## Clinical Features
   background-color:: blue
 	- ### Clinical Presentation

@@ -1,10 +1,8 @@
 - alias::
   ICD-11_Code::
-- #definition {{c1 }} #ear-prof-card #card
-  deck:: #ENT
-- ## Etiology #ear-prof-card #card
+  tags:: disease
+- ## Etiology
   background-color:: blue
-  deck:: #ENT
 	- ### Causative Agents
 	- ### Risk Factors
 - ## Epidemiology
@@ -13,31 +11,28 @@
 	- ### Prevalence
 		- ### Demographics
 	- ### Geographic Distribution
-- ## Pathophysiology #ear-prof-card #card
+- ## Pathophysiology
   background-color:: blue
-  deck:: #ENT
 	- ### Mechanism of Disease
 	- ### Affected Systems/Organs
-- ## Clinical Features #ear-prof-card #card
+- ## Clinical Features
   background-color:: blue
-  deck:: #ENT
-	- ### Signs and Symptoms
+	- ### Clinical Presentation
 		- #### Symptoms
 		- #### Signs
 	- ### Stages or Classification
-	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
-- ## Management and Treatment #ear-prof-card #card
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- | **Differential Diagnosis** | **Shared Features** | **Clinical Exclusion** | **Baseline Workup** (Perform even if no suspicion) | **Direct Testing** (Perform if suspicion) |
+			  |--|--|--|--|--|
+			  |-|-|-|-|-|
+		- ### General Assessment
+- ## Management and Treatment
   background-color:: blue
-  deck:: #ENT
 	- ### Medical Treatment
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations

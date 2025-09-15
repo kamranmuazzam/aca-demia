@@ -1,0 +1,13 @@
+- Cause of Pulmonary Edema
+	- Mainly due to Left Heart Failure due to any cause
+	- Myocardium
+		- MI
+		- Myocarditis
+		- Cardiomyopathy
+	- Endocardium
+		- Valvular Heart Disease due to any cause
+			- Rheumatic Valvular Heart Disease
+			- Mitral Regurgitation due to complication of MI (rupture of papillary muscle) -> Left Atria
+		- Infective Endocarditis (Mitral Valve Dysfunction)
+	- Pericardium
+		- Pericardial Effusion

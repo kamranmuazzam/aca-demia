@@ -3,72 +3,73 @@ ICD-11_Code::
 tags:: #Disease, #[[Inflammatory Disease]], #[[Head & Neck]] , #ENT
 
 - #definition {{c1 }} #ent-prof-card #unanswered #card
-  deck:: #ENT
   id:: 6756b8b1-7ab0-4520-b4a3-4cda026d234c
+  deck:: #ENT
+- alias::
+  ICD-11_Code::
+  tags:: disease
 - ## Etiology
   background-color:: blue
-  - ### Causative Agents
-  - ### Risk Factors
+	- ### Causative Agents
+	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
-  - ### Incidence
-  - ### Prevalence
-    - ### Demographics
-  - ### Geographic Distribution
+	- ### Incidence
+	- ### Prevalence
+		- ### Demographics
+	- ### Geographic Distribution
 - ## Pathophysiology
   background-color:: blue
-  - ### Mechanism of Disease
-  - ### Affected Systems/Organs
+	- ### Mechanism of Disease
+	- ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue
-  - ### Clinical Presentation
-    - #### Symptoms
-    - #### Signs
-  - ### Stages or Classification
-  - ### Diagnostic Criteria
+	- ### Clinical Presentation
+		- #### Symptoms
+		- #### Signs
+	- ### Stages or Classification
 - ## Diagnosis
   background-color:: blue
-  - ### Clinical Diagnosis
-    - #### Classical Presentation
-    - #### Probable Diagnosis
-  - ### Laboratory Tests
-  - ### Imaging Studies
-  - ### Differential Diagnosis
-  - ### Confirmation of Diagnosis
-- ## Management and Treatment #ent-prof-card #unanswered #card
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- | **Differential Diagnosis** | **Shared Features** | **Clinical Exclusion** | **Baseline Workup** (Perform even if no suspicion) | **Direct Testing** (Perform if suspicion) |
+			  |--|--|--|--|--|
+			  |-|-|-|-|-|
+		- ### General Assessment
+- ## Management and Treatment #ent-prof-card
   background-color:: blue
-  deck:: #ENT
-  id:: bde4b4a6-a339-4cd2-8e9a-5718408a868d
-  - ### Medical Treatment
-  - ### Surgical Options
-  - ### Lifestyle and Dietary Recommendations
-  - ### Follow-up
+	- ### Medical Treatment
+	- ### Surgical Options
+	- ### Lifestyle and Dietary Recommendations
+	- ### Follow-up
 - ## Prognosis
   background-color:: blue
-  - ### Expected Course
-    - #### With Treatment
-    - #### Without Treatment
-      - ##### Possible Complications
-      - ##### Long-Term Effects
-  - ### Survival Rates
-    - #### With Treatment
-    - #### Without Treatment
-  - ### Quality of Life Considerations
+	- ### Expected Course
+		- #### With Treatment
+		- #### Without Treatment
+			- ##### Possible Complications
+			- ##### Long-Term Effects
+	- ### Survival Rates
+		- #### With Treatment
+		- #### Without Treatment
+	- ### Quality of Life Considerations
 - ## Prevention
   background-color:: blue
-  - ### Health Education
-  - ### Community Approach
-  - ### Screening Programs
-  - ### Lifestyle Modifications
+	- ### Health Education
+	- ### Community Approach
+	- ### Screening Programs
+	- ### Lifestyle Modifications
 - ## Patient Education and Support
   background-color:: blue
-  - ### Educational Resources
-  - ### Support Groups
-  - ### Counseling Options
+	- ### Educational Resources
+	- ### Support Groups
+	- ### Counseling Options
 - ## Recent Research and Developments
   background-color:: blue
-  - ### Ongoing Clinical Trials
-  - ### Recent Advances
+	- ### Ongoing Clinical Trials
+	- ### Recent Advances
 - ## Key Literature
   background-color:: blue
 - ## Guidelines and Protocols

@@ -21,17 +21,27 @@ tags:: #Disease, #Neoplasia, #Orthopedics
 	- ### Clinical Presentation
 		- #### Symptoms
 		- #### Signs
-	- ### Classification #ortho-prof-written
-	- ### Diagnostic Criteria
+	- ### Stages or Classification #ortho-prof-written
+		- Metastatic #shaheen
+			- Breast
+			- Prostate
+			- Lung
+			- Colon
+			- Thyroid
+			- Bronchus
+			- Kidney
+			- Uterus
+			- Ovary
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- | **Differential Diagnosis** | **Shared Features** | **Clinical Exclusion** | **Baseline Workup** (Perform even if no suspicion) | **Direct Testing** (Perform if suspicion) |
+			  |--|--|--|--|--|
+			  |-|-|-|-|-|
+		- ### General Assessment
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment

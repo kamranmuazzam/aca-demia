@@ -1,5 +1,24 @@
-# Complications
-#gs-prof-card
+# Indication
+	- [[Tension Pneumothorax]]
+	- Massive Haemothorax
+	- Pyothorax
+	- Chylothhorax
+	- Haemopneumothorax
+	- Hydrothorax
+- # Indications of Chest Drain Insertion
+	- Haemothorax, Hydrothorax, Chylothorax
+	- Pneumothorax
+	- haemopneumothorax
+	- Empyema thoracis
+	- Traumatic lung contusion
+	- After thoracotomy, to drain pleural cavity
+- # Indication of Removal of Chest Drain
+	- Patient clinically or symptomatically improve like reduced chest pain, decreased breathlessness, decreased tachycardia
+	- patient radiologically improve like in chest X-Ray lung is adequately expanded
+	- Absence of bumping of air bubble in the column of chest drain
+	- *All criteria should be fulfilled to remove the chest drain*
+- # Complications
+  #gs-prof-card
 	- During Insertion
 		- Injury to intercostal nerve, vessels, diaphragm, liver, spleen, aorta and heart can occur
 		- Improper placement of the tube

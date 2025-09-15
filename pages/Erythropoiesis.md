@@ -1,0 +1,113 @@
+- #definition It is the  process by which formation and maturation of erythrocytes in the Red bone marrow from pluripotent hematopoietic stem cell under normal physiological condition
+- # Site of development
+	- Intrauterine life
+		- mesoblastic
+			- 1st trimester
+			- mesoderm in yolk sac
+			- primitive nucleated RBC
+		- hepatic
+			- 2nd trimester
+			- liver, spleen
+		- myeloid
+			- 3rd trimester
+			- bone marrow
+	- after birth : all bone marrow
+	- after 20 years
+		- vertebra
+		- sternum
+		- ribs, and other flat bone
+- # Stages of Differentiation of RBC
+	- proerythroblast
+	- basophil erythroblast
+	- polychromatic erythroblast
+	- orthochromatic erythroblast
+	- reticulocyte
+	- erythrocytes
+- changes occurring
+	- reduction of size and changes in shape
+	- disappearance of nucleus
+	- appearance of hemoglobin
+	- a change in staining of cytoplasm from basophilic to eosinophilic
+- site of erythropoiesis
+	- 1st trimester(1-3 months)
+		- Mesoderm of yolk sac (mesoblastic erythropoiesis)
+	- 2nd trimester(4-6 months)
+		- Liver (Hepatic erythropoiesis)
+		- Spleen
+		- Lymph nodes
+	- 3rd trimester(7-9 months)
+		- Red bone marrow of all bones (Myeloid erythropoiesis)
+	- After birth
+		- upto 5 years
+			- Red bone marrow of all bones
+		- After the age of 20
+			- In the marrow of membranous bone or flat bone such as ribs, sternum, vertebrae and pelvis (hip bone)
+- important landmarks
+	- Hb appearance begins at basophil erythroblast stage and complete at polychromatophilic erythroblast
+		- production of hemoglobin(Hb) continues from the [proerythroblast](https://www.remnote.com/doc/pkhtnXhSGYsKkg8WN?isPin=false) to [reticulocyte](https://www.remnote.com/doc/eDCYcJjiAdrYiyebB?isPin=false) in the bone marrow
+	- Nucleus dissapearance
+		- beings at basophil erythroblast stage
+		- completes at orthochromatic erythroblast
+- Regulation
+	- Stimulating factors
+		- erythropoietin
+			- synthesis
+				- site
+					- kidney ({{6076984020602674::90}}% of total)
+						- cortex : fibroblast like interstitial cells in the  peritubular capillary bed
+					- liver ({{23573351424565447::10}}% of total)
+						- absence of kidney causes anemia
+							- because: liver is not capable of compensating for lack of erythropoietin and only is sufficient for 1/3—1/2 RBC formation needed by the body
+				- mechanism of stimulation
+					- hypoxia-inducible factor-1
+					- transcription factor for a large number of hypoxia inducible genes
+						- erythropoietin gene
+							- hypoxia response element
+								- [HIF-1](https://www.remnote.com/doc/aKypuYXXbuXMMKG9R?aliasId=fuuJfK6EmE8YjabgG?isPin=false)  binds here
+								- transcription of mRNA
+								- increased erythropoietin synthesis
+				- paraneoplastic syndrome
+					- abnormal production of erythropoietin
+					- in
+						- renal cell carcinoma
+						- hepatocellular carcinoma
+			- mechanism of action
+				- production of proerythroblast from hematopoietic stem cell
+				- increase the speed of hematopoiesis
+			- regulation within narrow limits, because
+				- lower RBC count cannot fulfill transport of adequate oxygen
+				- more RBC count impedes blood flow
+			- Stimulus
+				- Physiological/Pathological Hypoxia
+				- Androgen
+				- Estrogen
+				- Alkalosis
+				- Adenosine
+			- Epoetin
+				- artificial erythropoietin
+		- hypoxia
+			- increases the release of erythropoietin
+			- renal tissue hypoxia
+			- hypoxia in other tissues
+				- signaling to kidney by release of
+					- norepinephrine and epinephrine
+					- prostaglandins
+				- directly produced by liver - 10%
+		- other hormones
+			- growth hormone
+			- ACTH
+			- testosterone
+				- it is the reason males have more RBC count
+	- maturation factors
+		- they are
+			- vitamin B12
+			- folic acid
+			- intrinsic factor of castle
+		- deficiency will cause megaloblastic anaemia
+	- general factors
+		- food - 1st class protein
+		- growth inducers - interleukin - 3
+		- differentiation inducers - IL-1, IL-3, IL-6
+		- vitamin : vitamin B12, folic acid, vitamin C
+		- metal : Iron, Cu, Ca++, Co
+		- Intrinsic factor of castle

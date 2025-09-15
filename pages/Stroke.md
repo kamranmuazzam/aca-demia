@@ -1,0 +1,21 @@
+- Types of Stroke #shaheen
+	- Pathological
+		- Haemorrhagic
+		- Ischemic
+	- Clinical
+		- TIA
+		- Stroke
+		- Progressing
+		- Completed
+- History and Clinical Examination for understanding Haemorrhagic and Ischemic #shaheen
+- Haemorrhagic Stroke is an emergency situation. It occurs due to an emergency situation. It occurs due to emotion, excitement & it is aggressive #shaheen
+- Can Ischaemia be seen by naked eye #shaheen
+- which is more dangerous -> Haemorrhagic #shaheen
+- Management of Stroke #shaheen
+- which side stroke in right side paralysis -> left sided internal capsule #shaheen
+- Modifiable and Non modifiable causes of Stroke #shaheen
+- another which organ has stroke -> Heart (AF, IE, CCF) #shaheen
+- single investigation -> CT scan #shaheen
+- is physiotherapy administered in stroke -> Yes #shaheen
+- which drugs are contraindicated in Haemorrhagic Stroke -> Anticoagulant, Antiplatelet #shaheen
+-

@@ -1,0 +1,4 @@
+- ceftriaxone 2g IV q24h and metronidazole 500 mg IV q24hr for 3 weeks and Ciprofloxacin 400 mg q12h and metronidazole 400 mg q8h for 3 weeks
+- continue antibiotics until radiological resolution
+- we will aspirate if not responded to treatment within a week or size is greater than 10 cm
+- also we will continue treatment until radiological resolutio

@@ -13,3 +13,4 @@
 		- Tachycardia
 		- Atrial fibrillation
 		- SVT
+- Diarrhoea is present #shaheen

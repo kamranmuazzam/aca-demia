@@ -1,0 +1,4 @@
+- Features of Malabsorption #shaheen
+- Can a patient with CKD and Malabsorption develop Glomerular Disease -> Yes #shaheen
+	- why -> Glomerular Disease
+-

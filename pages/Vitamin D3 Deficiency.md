@@ -1,0 +1,5 @@
+- name of condition -> Pellagra #shaheen
+- Features of Pellagra #shaheen
+	- Diarrhoea
+	- Dementia
+	- Dermatitis

@@ -1,0 +1,5 @@
+- conditions due to Vitamin B12 deficiency #shaheen
+	- Megaloblastic anaemia
+	- Peripheral neuropathy
+	- Subacute combined degeneration of spinal cord
+-

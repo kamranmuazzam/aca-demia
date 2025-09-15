@@ -3,9 +3,13 @@ ICD-11_Code::
 tags:: disease, medicine, endocrinology
 high-yeild:: true
 
+- alias::
+  ICD-11_Code::
+  tags:: disease
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
+		- Iatrogenic : Cushing Syndrome
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -21,18 +25,30 @@ high-yeild:: true
   background-color:: blue
 	- ### Clinical Presentation
 		- #### Symptoms
-		- #### Signs
+		- #### Signs (Features) #shaheen
+			- Moon Facies
+			- Buffalo Hump
+			- Thinning of Hair
+			- Hirustism
+			- ⬇️ Visual Acuity
+			- Obesity
+			- Osteoporosis
+			- Pendulous Abdomen
+			- Abdominal Striae
+			- Poor wound healing
+			- Bruising
+			- Skin Thinning
 	- ### Stages or Classification
-	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- | **Differential Diagnosis** | **Shared Features** | **Clinical Exclusion** | **Baseline Workup** (Perform even if no suspicion) | **Direct Testing** (Perform if suspicion) |
+			  |--|--|--|--|--|
+			  |-|-|-|-|-|
+		- ### General Assessment
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment

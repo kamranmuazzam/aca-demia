@@ -2,6 +2,7 @@ alias:: obs
 
 - book : [[b-Obstetrics]]
 - schedule prof
+  collapsed:: true
 	- placenta and foetal membranes
 	- physiology of pregnancy
 	- diagnosis of pregnancy

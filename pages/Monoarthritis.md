@@ -4,4 +4,5 @@
 	- [[Pseudogout]]
 	- [[Haemarthrosis]]
 	- [[Trauma]]
-	- Monoarticular presentation of [[Oligoarthritis]] & [[Polyarthritis]]
+	- Monoarticular presentation of oligoarticular or polyarticular disease [[Oligoarthritis]] & [[Polyarthritis]]
+-

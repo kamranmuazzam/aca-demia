@@ -1,0 +1,1 @@
+- what is affected -> Broaca's & Wernick's area #shaheen

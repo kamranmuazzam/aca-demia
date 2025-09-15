@@ -1,6 +1,9 @@
-- [[Mentruation]]
-- [[Fibroid Uterus]]
-- [[Abnormal Uterine Bleeding]]
+# Presentations
+{{renderer :view, "query.table(query.pages().tags([c.page.name, 'presentation']).get(), ['page', 'knowledge', 'high-yeild'])"}}
+-
+- # Disease
+  {{renderer :view, "query.table(query.pages().tags([c.page.name, 'disease']).get(), ['page', 'knowledge', 'high-yeild'])"}}
+	-
 - [[Cancers in Gynaecology]]
 - [[Vaccinations in Gyanaecology]]
 - Topics

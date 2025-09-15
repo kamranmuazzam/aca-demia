@@ -1,0 +1,14 @@
+- Hormones of Adrenal Gland #shaheen
+	- Adrenal Cortex
+		- Mineralocorticoids
+		- Glucocorticoids
+		- Androgen
+	- Adrenal Medulla
+		- Adrenaline
+		- Nor adrenaline
+- if hormones of Adrenal Gland Increase #shaheen
+	- [[Cushing Syndrome]] (⬆️ Glucocorticoid)
+	- Pheochromocytoma (⬆️ Catecholamine)
+	- Hyperaldosteronism (⬆️ Mineralocorticoids)
+- if hormones of Adrenal Gland Decrease #shaheen
+	- Addison's Disease (⬆️ Glucocorticoids, Mineralocorticoids)

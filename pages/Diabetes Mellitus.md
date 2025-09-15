@@ -16,6 +16,9 @@ high-yeild:: true
 - ## Pathophysiology
   background-color:: blue
 	- ### Mechanism of Disease
+		- if due to Chronic Pancreatitis #shaheen
+			- Inflammation in exocrine portion spread and destruction of islet cell
+			- occurs in which type of DM -> In Other specific Type
 	- ### Affected Systems/Organs
 - ## Clinical Features
   background-color:: blue

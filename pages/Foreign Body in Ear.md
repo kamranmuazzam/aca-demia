@@ -33,7 +33,8 @@ tags:: #[[Trauma Induced Disease]] #ENT
 	- Removed by
 	  logseq.order-list-type:: number
 		- Forceps removal
-		- Syrining
+		  *ball brearing shouldn't be removed with forceps, ringed instrument Jobson Horne probe, hook for rubber*
+		- Syringing
 		- Suction
 		- Microscopic removal with special instruments
 		- Postaural approach

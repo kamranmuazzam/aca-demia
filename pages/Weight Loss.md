@@ -8,20 +8,35 @@ tags:: sign, symptom, clinical presentation
 	- Syndrome of weight loss accompanied by loss of muscle mass, fatigue, generalized weakness, and abnormal labs (e.g. anemia, ↓ albumin, ↑ inflammatory markers)
 	- Chachexia can occur simultaneously with fluid retention (e.g. leg edema, ascites), obscuring the weight loss.
 - Association #shaheen
-	- Chronic Infection
-		- [[Tuberculosis]]
-		- [[HIV Infection]]
 	- Endocrine
 		- Uncontrolled diabtetes
 		- Hyperthyroidism
 		- Addison's Disease
-	- Malignancy
+	- Chronic Infection
+		- [[Tuberculosis]]
+		- [[HIV Infection]]
+	- [[Malignancy]]
 	- Malabsorption
 	- Malnutrition
+	- Iatrogenic/Drugs
+		- GLP-1 : Simaglutide, Linaglutide
+		- GLP-1 & GIP-1 :
+		- Methamphetamine
+	- Psychiatric
+		- Anorexia Nervosa
+		- Depression
+		- Dementia
+- Approach
+	- Appetite
+		- TB, bad appetite
+		- DM, good appetite
+		- loss of appetite, Addison
+	- Fever
 - History
 	- Quantify weight loss (how much and over what duration)
 	- Previous weight fluctuations and trends
 	- Oral intake and appetite
+	- Intentional/ Unintentional
 	- Social considerations
 	- Associated Symptoms
 	- Complete PMH/PSH/psych history

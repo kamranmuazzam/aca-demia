@@ -19,3 +19,4 @@
 	  logseq.order-list-type:: number
 	- [[Malignancy]]
 	  logseq.order-list-type:: number
+- which peripheral neropathy can lead to ICU admission -> [[Gullian Barrie Syndrome]] #shaheen

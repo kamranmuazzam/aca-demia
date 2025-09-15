@@ -100,7 +100,7 @@ tags:: disease, diabetes, opthalmology
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
-		- Anti-VEGF Injections (Ranibizumab, Afibercept)
+		- Intraocular Anti-VEGF Injections (Ranibizumab, Afibercept)
 		- Steroids (Intravitreal implants)
 	- ### Surgical Options
 		- Laser photocoagulation (panretinal or focal)

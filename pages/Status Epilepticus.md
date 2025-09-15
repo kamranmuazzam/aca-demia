@@ -1,0 +1,3 @@
+- #definition It is defined as continuous seizure activity or recurrent seizure activity without gaining of consciousness lasting for >30 mins #shaheen
+- what is name if Medical emergency arise in Epilepsy -> Status Epilepticus #shaheen
+- # Management #shaheen

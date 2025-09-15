@@ -3,6 +3,7 @@ ICD-11_Code::
 tags:: disease, medicine, neurology
 high-yeild:: true
 
+- #definition It is a tendency ot have recurrent seizures #shaheen
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -23,16 +24,16 @@ high-yeild:: true
 		- #### Symptoms
 		- #### Signs
 	- ### Stages or Classification
-	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- | **Differential Diagnosis** | **Shared Features** | **Clinical Exclusion** | **Baseline Workup** (Perform even if no suspicion) | **Direct Testing** (Perform if suspicion) |
+			  |--|--|--|--|--|
+			  |-|-|-|-|-|
+		- ### General Assessment
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment

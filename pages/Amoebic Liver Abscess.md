@@ -1,0 +1,14 @@
+- Metronidazole 750 mg PO/IV q8h × 10 days
+- Then luminal agent (e.g. Diloxanide furoate ) × 7–10 days
+	- Diloxanide furoate 500 mg orally every 8 hours for 10 days
+	- for Pediatric patient : 20 mg/kg/day orally, divided every 8 hours, for 10 days (maximum 1500 mg/day)
+	- Alternative
+		- Paromomycin   (preferred alternative in many guidelines)
+			- **Adult dose:** 25–35 mg/kg/day PO in 3 divided doses × 7 days
+			- **Pediatric dose:** same (25–35 mg/kg/day divided TID × 7 days)
+			- **Notes:** Non-absorbed aminoglycoside, well tolerated; sometimes causes GI upset.
+		- Iodoquinol
+			- **Adult dose:** 650 mg PO every 8 hours × 20 days
+			- **Pediatric dose:** 30–40 mg/kg/day PO divided TID (max 2 g/day) × 20 days
+			- **Notes:** Limited availability; can cause GI upset, rash, and (rarely) optic neuritis with prolonged use.
+- Drain only if >10 cm, left lobe, impending rupture, or no improvement >7 days

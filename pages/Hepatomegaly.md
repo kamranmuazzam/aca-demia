@@ -1,0 +1,6 @@
+- Causes of Tender Hepatomegaly #shaheen
+	- Viral Hepatitis
+	- Right Heart Failure
+	- Liver Abscess
+- Cause of Hard Tender Hepatomegaly -> Hepatocellular Carcinoma #shaheen
+-

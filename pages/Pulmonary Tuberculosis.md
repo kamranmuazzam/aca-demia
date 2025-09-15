@@ -32,15 +32,20 @@ high-yeild:: true
 	- ### Investigations #shaheen
 		- X-Ray Chest P/A view
 			- multiple patchy opacity in (right/left/both) lung fields more marked in the upper part
+			- which pleural effusion occur in TB -> Exudative #shaheen
 		- Sputum for AFB
 		- Sputum for C/S
 		- Sputum for Gene Xpert
+		- MT test & ADA
+		- Pleural Fluid Aspiration (Biochemical, Physical, C/S)
 	- ### Imaging Studies
 	- ### Differential Diagnosis
 	- ### Confirmation of Diagnosis
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
+		- which additional drug is given -> Pyridxine (B6) #shaheen
+		  *to prevent peripheral neuropathy caused by Isoniazid*
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up

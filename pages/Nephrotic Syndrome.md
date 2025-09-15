@@ -7,55 +7,15 @@ Here by Nephrotic Syndrome, [[Minimal Change Nephrotic Syndrome]] is meant for m
 
 - ## Etiology
   background-color:: blue
-	- ## Idiopathic Nephrotic Syndrome
+	- Idiopathic
 		- Minimal Change Disease
 		- Mesangial Proliferation
-		- Focal Segmental glomerulosclerosis
-		- Membranous nephropathy
-		- Glomerulonephritis associated with nephrotic syndrome membranoproliferative glomerulonephritis, crescentic glomerulonephritis, immunoglobulin A nephropathy
-	- ## Secondary causes
-		- ### Infections
-			- Endocarditis
-			- Post- streptococcal
-			- Hepatitides B, C
-			- HIV- 1
-			- Infectious mononucleosis
-			- Cytomegalovirus
-			- Malaria
-			- Syphilis (congenital and secondary)
-			- Toxoplasmosis
-			- Tuberculosis
-			- Schistosomiasis
-			- Filariasis
-		- ### Drugs
-			- [[Captopril]]
-			- [[Penicillamine]]
-			- [[Gold]]
-			- [[NSAIDS]]
-			- [[Pamidronate]], other bisphosphates
-			- [[Interferon]]
-			- [[Mercury]]
-			- [[Heroin]]
-			- [[Lithium]]
-			- [[Rifampicin]]
-			- [[Sulfasalazine]]
-		- ### Immunological or Allergic Disorders
-			- [[Vasculitis Syndromes]]
-			- [[Castleman Disease]]
-			- [[Kimura Disease]]
-			- [[Bee Sting]]
-			- [[Snake Venom]]
-			- Food Allergens
-			- [[Serum Sickness]]
-			- Poison ivy
-			- Poison oak
-		- ### Associated with Malignant Disease
-			- _[[Wilms Tumor]]_
-			- [[Lymphoma]]
-			- [[Pheochromocytoma]]
-			- [[Leukemia]]
-			- [[Thymoma]]
-			- Solid Tumors
+		- Focal segmental Glomerulosecrosis
+	- Secondary
+		- Infection: HBV, HCV, HIV, malaria, syphilis, toxoplasma
+		- Drugs : Penicillamine, Gold, NSAIDs
+		- SLE
+		- Malignancy: Leukaemia, Lymphoma
 - ## Epidemiology
   background-color:: blue
 	- ### Incidence

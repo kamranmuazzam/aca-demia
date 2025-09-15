@@ -3,6 +3,7 @@ ICD-11_Code::
 tags:: #Disease
 
 - #definition Myopia is a type of refractive error in which parallel rays of light coming from infinity focus infront of the retina, when accomodation appratus is at rest  #eye-prof-written
+	- That means distant objects look blurry, but near vision is usually clear.
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
@@ -25,9 +26,9 @@ tags:: #Disease
 		- #### Signs
 	- ### Stages or Classification #eye-prof-written
 		- Clinical
+			- Congenital Myopia
 			- Simple Myopia
 			- [[Pathological Myopia]]
-			- Congenital Myopia
 		- Etiological
 			- Axial Myopia
 			- Curvature Myopia

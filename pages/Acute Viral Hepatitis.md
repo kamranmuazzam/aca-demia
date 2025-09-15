@@ -6,6 +6,14 @@ high-yeild:: true
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents
+	  Names of Hepatorophic virus #shaheen
+		- Faeco-oral route
+			- Hepatitis A Virus
+			- Hepatitis E Virus
+		- Parenteral Route
+			- Hepatitis B Virus
+			- Hepatitis C Virus
+			- Hepatitis D Virus
 	- ### Risk Factors
 - ## Epidemiology
   background-color:: blue
@@ -23,24 +31,33 @@ high-yeild:: true
 		- #### Symptoms
 		- #### Signs
 	- ### Stages or Classification
-	- ### Diagnostic Criteria
 - ## Diagnosis
   background-color:: blue
-	- ### Clinical Diagnosis
-		- #### Classical Presentation
-		- #### Probable Diagnosis
-	- ### Laboratory Tests
-	- ### Imaging Studies
-	- ### Differential Diagnosis
-	- ### Confirmation of Diagnosis
+	- ### Diagnostic Criteria
+	- ### Investigation
+		- ### Establishing Diagnosis
+		- ### Ruling Out Differential Diagnosis
+			- | **Differential Diagnosis** | **Shared Features** | **Clinical Exclusion** | **Baseline Workup** (Perform even if no suspicion) | **Direct Testing** (Perform if suspicion) |
+			  |--|--|--|--|--|
+			  |-|-|-|-|-|
+		- ### General Assessment
 - ## Management and Treatment
   background-color:: blue
 	- ### Medical Treatment
+		- If presents with jaundice and eats food outside -> Acute Viral Hepatitis (A&E) #shaheen
+			- Usually self limiting
+			- Supportive & Symptomatic Management
+		- if presents with Chronic Jaundice -> Oral Antiviral & Interferon #shaheen
 	- ### Surgical Options
 	- ### Lifestyle and Dietary Recommendations
 	- ### Follow-up
 - ## Prognosis
   background-color:: blue
+	- For chronic Hepatitis #shaheen
+		- Full Recovery
+		- Acute Liver Failure
+		- Chronic - Cirrhosis
+		- Rarely HCC
 	- ### Expected Course
 		- #### With Treatment
 		- #### Without Treatment
